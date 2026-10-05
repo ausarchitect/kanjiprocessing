@@ -145062,7 +145062,7 @@
     ],
     "grammar_function": "Time, Aspect & State (〜ている / 〜てある)",
     "sequence_key": "Noun → Topic Marker → Noun → Subject Marker → Verb → Verb → Particle",
-    "location": "massage parlor",
+    "location": "massage shop",
     "raw_grammar_pattern": "〜ていますか",
     "functional_tag": "Continuous State / Ongoing (\"-ing / state\")"
   },
@@ -145121,7 +145121,7 @@
     ],
     "grammar_function": "Particles & Structural Markers (を / に / で / と)",
     "sequence_key": "Noun → Conjunction → Noun → Subject Marker → Adverb → Verb → Verb",
-    "location": "massage parlor",
+    "location": "massage shop",
     "raw_grammar_pattern": "Noun + と + Noun",
     "functional_tag": "Connection / Together With (〜と)"
   },
@@ -145180,7 +145180,7 @@
     ],
     "grammar_function": "Conjecture & Opinion (〜と思う / かもしれない)",
     "sequence_key": "Noun → Particle → Noun → Topic Marker → Question Word → Copula → Particle",
-    "location": "massage parlor",
+    "location": "massage shop",
     "raw_grammar_pattern": "Noun + はどうですか",
     "functional_tag": "Opinion & Hearsay"
   },
@@ -145239,7 +145239,7 @@
     ],
     "grammar_function": "Requests & Favors (〜て / ください)",
     "sequence_key": "Adverb → Adjective → Conjunction → Adverb → Adverb → Verb → Particle",
-    "location": "massage parlor",
+    "location": "massage shop",
     "raw_grammar_pattern": "〜てください",
     "functional_tag": "Polite Request (\"Please do\")"
   },
