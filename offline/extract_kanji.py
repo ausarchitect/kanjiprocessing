@@ -1,4 +1,5 @@
 import json
+import os
 import re
 
 def extract_kanji(text):
@@ -13,9 +14,10 @@ def extract_kanji(text):
     return kanji_pattern.findall(text)
 
 def main():
-    kanji_words_path = '../data/kanji_words.json'
-    kanjiapi_full_path = '../data/kanjiapi_full.json'
-    output_path = '../data/kanjiapi_words.json'
+    data_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'data')
+    kanji_words_path = os.path.join(data_dir, 'kanji_words.json')
+    kanjiapi_full_path = os.path.join(data_dir, 'kanjiapi_full.json')
+    output_path = os.path.join(data_dir, 'kanjiapi_words.json')
 
     print(f"Loading {kanji_words_path}...")
     try:
