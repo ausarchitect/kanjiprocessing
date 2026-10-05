@@ -1,0 +1,5083 @@
+[
+  {
+    "word": "ガス",
+    "reading": "ガス",
+    "meaning": "Noun (Gas)",
+    "frequency": 18,
+    "examples": [
+      {
+        "japanese": "電気とガスの契約をしたいです。",
+        "hiragana": "でんき と ガス の けいやく を したい です。",
+        "english": "I would like to make contracts for electricity and gas."
+      },
+      {
+        "japanese": "電気とガスの手続きは終わった？",
+        "hiragana": "でんき と ガス の てつづき は おわった？",
+        "english": "Did you finish the procedures for electricity and gas?"
+      },
+      {
+        "japanese": "ガスもネットで手続きできますか？",
+        "hiragana": "がす も ねっと で てつづき できます か？",
+        "english": "Can I also do the gas procedure online?"
+      }
+    ]
+  },
+  {
+    "word": "メール",
+    "reading": "メール",
+    "meaning": "noun (object)",
+    "frequency": 16,
+    "examples": [
+      {
+        "japanese": "スマートフォンでメールを送信しました。",
+        "hiragana": "すまーとふぉん で めーる を そうしん しました。",
+        "english": "I sent an email using a smartphone."
+      },
+      {
+        "japanese": "メール、送ったけど見た？",
+        "hiragana": "めーる 、 おくった けど みた ？",
+        "english": "I sent an email, did you see it?"
+      },
+      {
+        "japanese": "田中さん、A社へのメールの下書きを確認していただけますか？",
+        "hiragana": "たなかさん、えーしゃ への めーる の したがき を かくにん して いただけますか？",
+        "english": "Mr. Tanaka, could you please check the draft of the email to Company A?"
+      }
+    ]
+  },
+  {
+    "word": "パスポート",
+    "reading": "パスポート",
+    "meaning": "Noun (Object)",
+    "frequency": 16,
+    "examples": [
+      {
+        "japanese": "パスポートを提示してください。",
+        "hiragana": "ぱすぽーと を ていじ して ください。",
+        "english": "Please present your passport."
+      },
+      {
+        "japanese": "はい、公的な翻訳文とパスポートを持ってきてください。",
+        "hiragana": "はい、 こうてき な ほんやくぶん と ぱすぽーと を もって きて ください。",
+        "english": "Yes, please bring an official translation and your passport."
+      },
+      {
+        "japanese": "パスポートと在留カードをご用意ください。",
+        "hiragana": "パスポート と ざいりゅう カード を ごようい ください。",
+        "english": "Please prepare your passport and residence card."
+      }
+    ]
+  },
+  {
+    "word": "ゴミ",
+    "reading": "ゴミ",
+    "meaning": "noun (trash)",
+    "frequency": 12,
+    "examples": [
+      {
+        "japanese": "この地域のゴミ収集カレンダーを確認してください。",
+        "hiragana": "この ちいき の ごみ しゅうしゅう かれんだー を かくにん して ください。",
+        "english": "Please check the garbage collection calendar for this area."
+      },
+      {
+        "japanese": "日本では、ゴミの分別を徹底することが大切です。",
+        "hiragana": "にほん では、 ごみ の ぶんべつ を てってい する こと が たいせつ です。",
+        "english": "In Japan, it is important to thoroughly separate trash."
+      },
+      {
+        "japanese": "ありがとうございます。あと、ゴミの収集日について教えてください。",
+        "hiragana": "ありがとう ございます。 あと、 ごみ の しゅうしゅうび に ついて おしえて ください。",
+        "english": "Thank you. Also, please tell me about the waste collection dates."
+      }
+    ]
+  },
+  {
+    "word": "在留カード",
+    "reading": "在留カード",
+    "meaning": "Noun (Residence card)",
+    "frequency": 12,
+    "examples": [
+      {
+        "japanese": "パスポートと在留カードをご用意ください。",
+        "hiragana": "パスポート と ざいりゅう カード を ごようい ください。",
+        "english": "Please prepare your passport and residence card."
+      },
+      {
+        "japanese": "在留カードかパスポートをご提示ください。",
+        "hiragana": "ざいりゅう かーど か ぱすぽーと を ごていじ ください。",
+        "english": "Please present your residence card or passport."
+      },
+      {
+        "japanese": "パスポートと在留カード、それに免許証の翻訳文が必要です。",
+        "hiragana": "パスポート と ざいりゅう カード、それに めんきょしょう の ほんやくぶん が ひつよう です。",
+        "english": "You will need your passport, residence card, and a translation of your license."
+      }
+    ]
+  },
+  {
+    "word": "アメリカ",
+    "reading": "アメリカ",
+    "meaning": "Noun (Place)",
+    "frequency": 11,
+    "examples": [
+      {
+        "japanese": "スミスさんはアメリカから来ましたか。",
+        "hiragana": "すみす さん は あめりか から きました か。",
+        "english": "Are you from America, Mr. Smith?"
+      },
+      {
+        "japanese": "はい、アメリカから来ました。",
+        "hiragana": "はい、 あめりか から きました。",
+        "english": "Yes, I came from America."
+      },
+      {
+        "japanese": "この荷物をアメリカに送りたいです。",
+        "hiragana": "この にもつを あめりかに おくりたいです。",
+        "english": "I would like to send this package to America."
+      }
+    ]
+  },
+  {
+    "word": "ドコモ",
+    "reading": "ドコモ",
+    "meaning": "Proper noun (Docomo)",
+    "frequency": 11,
+    "examples": [
+      {
+        "japanese": "キャリアはドコモ、au、ソフトバンクのどこがいいですか？",
+        "hiragana": "きゃりあ は どこも、えーゆー、そふとばんく の どこ が いい です か",
+        "english": "Which carrier would you prefer: Docomo, au, or SoftBank?"
+      },
+      {
+        "japanese": "電波が強いので、ドコモにしようと思います。",
+        "hiragana": "でんぱ が つよい ので、どこも に しよう と おもいます",
+        "english": "Since the signal is strong, I think I'll go with Docomo."
+      },
+      {
+        "japanese": "ドコモにしたいです。",
+        "hiragana": "どこも に したい です。",
+        "english": "I want to go with Docomo."
+      }
+    ]
+  },
+  {
+    "word": "スタイル",
+    "reading": "スタイル",
+    "meaning": "Noun (Object)",
+    "frequency": 11,
+    "examples": [
+      {
+        "japanese": "今日はスタイルを変えたいです。",
+        "hiragana": "きょう は すたいる を かえたい です",
+        "english": "I want to change my style today."
+      },
+      {
+        "japanese": "それなら、あなたのスタイルにぴったりだよ！",
+        "hiragana": "それなら、あなた　の　すたいる　に　ぴったり　だ　よ！",
+        "english": "In that case, it's perfect for your style!"
+      },
+      {
+        "japanese": "わかりました。似合うスタイルを提案しますね。",
+        "hiragana": "わかりました。 にあう すたいる を ていあん します ね。",
+        "english": "Understood. I will suggest a style that suits you."
+      }
+    ]
+  },
+  {
+    "word": "SIMカード",
+    "reading": "SIMカード",
+    "meaning": "Noun",
+    "frequency": 10,
+    "examples": [
+      {
+        "japanese": "SIMカードの契約をお願いします。",
+        "hiragana": "しむ かーど の けいやく を おねがい します",
+        "english": "I would like to sign up for a SIM card."
+      },
+      {
+        "japanese": "SIMカードの設定は、自分ですればいいですか？",
+        "hiragana": "しむかーど の せってい は、 じぶん で すれば いい です か？",
+        "english": "Should I do the SIM card setup myself?"
+      },
+      {
+        "japanese": "かしこまりました。では、データプランとSIMカードの有効化について説明しますね。",
+        "hiragana": "かしこまりました。では、でーたぷらん と しむかーど の ゆうこうか に ついて せつめい します ね",
+        "english": "Understood. Then, I will explain the data plans and SIM card activation."
+      }
+    ]
+  },
+  {
+    "word": "アプリ",
+    "reading": "アプリ",
+    "meaning": "noun",
+    "frequency": 10,
+    "examples": [
+      {
+        "japanese": "この新しいアプリを使っていますか？",
+        "hiragana": "この あたらしい あぷりを つかっていますか？",
+        "english": "Do you use this new app?"
+      },
+      {
+        "japanese": "例の新しいアプリのことです。",
+        "hiragana": "れいの あたらしい あぷり の こと です 。",
+        "english": "It's about that new app."
+      },
+      {
+        "japanese": "ねえ、このアプリ使ってる？",
+        "hiragana": "ねえ、 この あぷり つかってる？",
+        "english": "Hey, are you using this app?"
+      }
+    ]
+  },
+  {
+    "word": "プラン",
+    "reading": "プラン",
+    "meaning": "noun",
+    "frequency": 10,
+    "examples": [
+      {
+        "japanese": "すみません、一番安いプランを教えてください。",
+        "hiragana": "すみません、 いちばん やすい ぷらん を おしえて ください。",
+        "english": "Excuse me, please tell me the cheapest plan."
+      },
+      {
+        "japanese": "こちらのプランが一番人気で、おすすめです。",
+        "hiragana": "こちら の ぷらん が いちばん にんき で、 おすすめ です。",
+        "english": "This plan is the most popular and recommended."
+      },
+      {
+        "japanese": "新しいスマホのプランに申し込みたいです。",
+        "hiragana": "あたらしい すまほ の ぷらん に もうしこみたい です",
+        "english": "I would like to sign up for a new smartphone plan."
+      }
+    ]
+  },
+  {
+    "word": "タオル",
+    "reading": "タオル",
+    "meaning": "Noun (towel)",
+    "frequency": 9,
+    "examples": [
+      {
+        "japanese": "タオルをもう少しいただけますか？",
+        "hiragana": "たおる を もう すこし いただけます か？",
+        "english": "Could I have a few more towels, please?"
+      },
+      {
+        "japanese": "タオルをもう一枚と、浴衣を追加でいただけますか。",
+        "hiragana": "たおる を もう いちまい と、ゆかた を ついか で いただけます か",
+        "english": "Could I have one more towel and an additional yukata?"
+      },
+      {
+        "japanese": "はい、大丈夫です。あと、タオルを多めにいただけますか？",
+        "hiragana": "はい、だいじょうぶです。あと、タオルを　おおめに　いただけますか？",
+        "english": "Yes, that's fine. Also, could I have some extra towels?"
+      }
+    ]
+  },
+  {
+    "word": "スミス",
+    "reading": "スミス",
+    "meaning": "Noun (Name)",
+    "frequency": 9,
+    "examples": [
+      {
+        "japanese": "初めまして。スミスです。",
+        "hiragana": "はじめまして。 すみす です。",
+        "english": "Nice to meet you too. I am Smith."
+      },
+      {
+        "japanese": "スミスさんはアメリカから来ましたか。",
+        "hiragana": "すみす さん は あめりか から きました か。",
+        "english": "Are you from America, Mr. Smith?"
+      },
+      {
+        "japanese": "はじめまして。スミスです。",
+        "hiragana": "はじめまして。すみす です。",
+        "english": "Nice to meet you. I am Smith."
+      }
+    ]
+  },
+  {
+    "word": "インターネット",
+    "reading": "インターネット",
+    "meaning": "noun (internet)",
+    "frequency": 9,
+    "examples": [
+      {
+        "japanese": "うん、でもインターネットの開通には時間がかかるみたい。",
+        "hiragana": "うん、 でも インターネット の かいつう に は じかん が かかる みたい。",
+        "english": "Yeah, but it seems like the internet activation will take some time."
+      },
+      {
+        "japanese": "インターネットか電話で申し込みができますよ。",
+        "hiragana": "いんたーねっと か でんわ で もうしこみ が できます よ。",
+        "english": "You can apply via the internet or by phone."
+      },
+      {
+        "japanese": "インターネットで簡単に申し込めますよ。",
+        "hiragana": "インターネット で かんたん に もうしこめます よ。",
+        "english": "You can apply easily on the internet."
+      }
+    ]
+  },
+  {
+    "word": "バス",
+    "reading": "バス",
+    "meaning": "Noun",
+    "frequency": 9,
+    "examples": [
+      {
+        "japanese": "すみません、このバスの支払いはどうすればいいですか？",
+        "hiragana": "すみません、 この ばす の しはらい は どう すれば いい です か？",
+        "english": "Excuse me, how should I pay for this bus?"
+      },
+      {
+        "japanese": "バスの中に忘れたと思います。",
+        "hiragana": "ばす の なか に わすれた と おもいます。",
+        "english": "I think I left it inside the bus."
+      },
+      {
+        "japanese": "ありがとうございます。バスで行けますか？",
+        "hiragana": "ありがとう ございます。 ばす で いけます か？",
+        "english": "Thank you. Can I go by bus?"
+      }
+    ]
+  },
+  {
+    "word": "ICカード",
+    "reading": "ICカード",
+    "meaning": "Noun",
+    "frequency": 9,
+    "examples": [
+      {
+        "japanese": "ICカードを使うか、現金で払えますよ。",
+        "hiragana": "あいしー かーど を つかう か、 げんきん で はらえます よ。",
+        "english": "You can use an IC card, or pay with cash."
+      },
+      {
+        "japanese": "ICカードを持っていないのですが、現金で払えますか？",
+        "hiragana": "あいしー かーど を もっていない の です が、 げんきん で はらえます か？",
+        "english": "I don't have an IC card, so can I pay with cash?"
+      },
+      {
+        "japanese": "ICカードを使うか、降りる時に現金で払えます。",
+        "hiragana": "あいしーかーど を つかう か、 おりる とき に げんきん で はらえます。",
+        "english": "You can use an IC card, or pay with cash when you get off."
+      }
+    ]
+  },
+  {
+    "word": "キャリア",
+    "reading": "キャリア",
+    "meaning": "Noun (Carrier)",
+    "frequency": 9,
+    "examples": [
+      {
+        "japanese": "キャリアはドコモ、au、ソフトバンクのどこがいいですか？",
+        "hiragana": "きゃりあ は どこも、えーゆー、そふとばんく の どこ が いい です か",
+        "english": "Which carrier would you prefer: Docomo, au, or SoftBank?"
+      },
+      {
+        "japanese": "ご希望のキャリアはありますか？",
+        "hiragana": "ごきぼう の きゃりあ は あります か？",
+        "english": "Is there a carrier that you prefer?"
+      },
+      {
+        "japanese": "今はどのキャリアをお使いですか？",
+        "hiragana": "いま は どの きゃりあ を おつかい です か",
+        "english": "Which carrier are you currently using?"
+      }
+    ]
+  },
+  {
+    "word": "アレルギー",
+    "reading": "アレルギー",
+    "meaning": "allergy (noun)",
+    "frequency": 8,
+    "examples": [
+      {
+        "japanese": "エビのアレルギーがあるので、抜いてください。",
+        "hiragana": "えび の あれるぎー が ある ので、ぬいて ください。",
+        "english": "I have a shrimp allergy, so please remove them."
+      },
+      {
+        "japanese": "すみません、私はえびのアレルギーがあります。",
+        "hiragana": "すみません、わたし は えび の あれるぎー が あります。",
+        "english": "Excuse me, I have a shrimp allergy."
+      },
+      {
+        "japanese": "お薬のアレルギーはありますか？",
+        "hiragana": "おくすり の アレルギー は あります か？",
+        "english": "Do you have any allergies to medication?"
+      }
+    ]
+  },
+  {
+    "word": "コーヒー",
+    "reading": "コーヒー",
+    "meaning": "Direct object (coffee)",
+    "frequency": 7,
+    "examples": [
+      {
+        "japanese": "毎朝、コーヒーを飲みます。",
+        "hiragana": "まいあさ、 こーひー を のみます。",
+        "english": "I drink coffee every morning."
+      },
+      {
+        "japanese": "お茶かコーヒー、どちらがいいですか？",
+        "hiragana": "おちゃ か こーひー、どちら が いい です か？",
+        "english": "Tea or coffee, which would you prefer?"
+      },
+      {
+        "japanese": "コーヒーを飲んで、本を読みます。",
+        "hiragana": "こーひー を のんで、 ほん を よみます。",
+        "english": "I drink coffee and read a book."
+      }
+    ]
+  },
+  {
+    "word": "ワンピース",
+    "reading": "ワンピース",
+    "meaning": "dress",
+    "frequency": 7,
+    "examples": [
+      {
+        "japanese": "このワンピースはとても可愛いので、買いたいです。",
+        "hiragana": "この わんぴーす は とても かわいい ので、かいたい です。",
+        "english": "This dress is very cute, so I want to buy it."
+      },
+      {
+        "japanese": "このワンピース、可愛いですね。",
+        "hiragana": "この わんぴーす、かわいい です ね。",
+        "english": "This dress is cute, isn't it?"
+      },
+      {
+        "japanese": "このワンピース、すごくかわいいね！",
+        "hiragana": "この　わんぴーす、すごく　かわいい　ね！",
+        "english": "This dress is really cute, isn't it?"
+      }
+    ]
+  },
+  {
+    "word": "テニス",
+    "reading": "テニス",
+    "meaning": "Noun (Object)",
+    "frequency": 7,
+    "examples": [
+      {
+        "japanese": "テニスをすることが好きです。",
+        "hiragana": "てにす を する こと が すき です。",
+        "english": "I like playing tennis."
+      },
+      {
+        "japanese": "最近は、テニスにハマっています。",
+        "hiragana": "さいきん は てにす に はまって います",
+        "english": "Recently, I've been into tennis."
+      },
+      {
+        "japanese": "テニスが上手ですか？",
+        "hiragana": "てにす が じょうず です か？",
+        "english": "Are you good at tennis?"
+      }
+    ]
+  },
+  {
+    "word": "プロジェクト",
+    "reading": "プロジェクト",
+    "meaning": "Noun (Project)",
+    "frequency": 7,
+    "examples": [
+      {
+        "japanese": "プロジェクトの進捗について、ご報告いたします。",
+        "hiragana": "ぷろじぇくと の しんちょく に ついて、ごほうこく いたします。",
+        "english": "I would like to report on the progress of the project."
+      },
+      {
+        "japanese": "佐藤課長、プロジェクトの件ですが、現在８割ほど完了しております。",
+        "hiragana": "さとう かちょう、ぷろじぇくと の けん です が、げんざい はちわり ほど かんりょう して おります。",
+        "english": "Manager Sato, regarding the project, I have completed about 80% of it."
+      },
+      {
+        "japanese": "田中さん、プロジェクトの件ですが、現在80％ほど完了しています。",
+        "hiragana": "たなかさん、ぷろじぇくと の けん です が、げんざい はちじゅっぱーせんと ほど かんりょう して います。",
+        "english": "Mr. Tanaka, regarding the project, it is currently about 80% complete."
+      }
+    ]
+  },
+  {
+    "word": "メンタルヘルス休暇",
+    "reading": "メンタルヘルス休暇",
+    "meaning": "Noun (mental health leave)",
+    "frequency": 7,
+    "examples": [
+      {
+        "japanese": "限界に近いので、メンタルヘルス休暇を取りたいです。",
+        "hiragana": "げんかい に ちかい ので、 めんたる へるす きゅうか を とりたい です。",
+        "english": "I feel like I'm reaching my limit, so I want to take a mental health day."
+      },
+      {
+        "japanese": "無理しないで。明日、メンタルヘルス休暇を取ったらどうかな？",
+        "hiragana": "むり しない で。 あした、 めんたる へるす きゅうか を とったら どう か な？",
+        "english": "Don't push yourself. How about taking a mental health day tomorrow?"
+      },
+      {
+        "japanese": "大丈夫ですか？一度、メンタルヘルス休暇を取りませんか。",
+        "hiragana": "だいじょうぶ です か？ いちど、 めんたる へるす きゅうか を とりませんか。",
+        "english": "Are you okay? Why don't you take a mental health day for once?"
+      }
+    ]
+  },
+  {
+    "word": "スマホ",
+    "reading": "スマホ",
+    "meaning": "Noun (Smartphone)",
+    "frequency": 7,
+    "examples": [
+      {
+        "japanese": "わかった。今スマホで確認するね。",
+        "hiragana": "わかった 。 いま すまほ で かくにん する ね",
+        "english": "Got it. I'll check it now with my smartphone."
+      },
+      {
+        "japanese": "新しいスマホのプランに申し込みたいです。",
+        "hiragana": "あたらしい すまほ の ぷらん に もうしこみたい です",
+        "english": "I would like to sign up for a new smartphone plan."
+      },
+      {
+        "japanese": "買いたいけど、今のスマホはまだ使えるし。",
+        "hiragana": "かいたい けど、いま の スマホ は まだ つかえる し。",
+        "english": "I want to buy it, but my current phone is still usable."
+      }
+    ]
+  },
+  {
+    "word": "ペット",
+    "reading": "ペット",
+    "meaning": "Noun (Pet)",
+    "frequency": 7,
+    "examples": [
+      {
+        "japanese": "ペットを飼っていますか？",
+        "hiragana": "ぺっと を かって います か？",
+        "english": "Do you have a pet?"
+      },
+      {
+        "japanese": "ペットを飼っていますか？",
+        "hiragana": "ぺっと を かって います か？",
+        "english": "Do you have a pet?"
+      },
+      {
+        "japanese": "私もペットを飼いたいです！",
+        "hiragana": "わたし も ぺっと を かいたい です！",
+        "english": "I want to have a pet too!"
+      }
+    ]
+  },
+  {
+    "word": "カード",
+    "reading": "カード",
+    "meaning": "noun (card)",
+    "frequency": 7,
+    "examples": [
+      {
+        "japanese": "すみません、図書館のカードを作りたいです。",
+        "hiragana": "すみません 、 としょかん の かーど を つくりたい です",
+        "english": "Excuse me, I would like to make a library card."
+      },
+      {
+        "japanese": "かしこまりました。通帳かカードをお出しください。",
+        "hiragana": "かしこまりました。 つうちょう か かーど を おだし ください。",
+        "english": "Certainly. Please present your bankbook or card."
+      },
+      {
+        "japanese": "はい、こちらがカードです。",
+        "hiragana": "はい、 こちら が かーど です。",
+        "english": "Yes, here is my card."
+      }
+    ]
+  },
+  {
+    "word": "パソコン",
+    "reading": "パソコン",
+    "meaning": "Noun meaning 'computer'",
+    "frequency": 6,
+    "examples": [
+      {
+        "japanese": "すみません、こちらのパソコンを使ってもいいですか。",
+        "hiragana": "すみません、こちら　の　ぱそこん　を　つかっても　いい　です　か。",
+        "english": "Excuse me, may I use this computer?"
+      },
+      {
+        "japanese": "はい、持っています。あわせてパソコンも使いたいのですが。",
+        "hiragana": "はい、 もっています。 あわせて ぱそこんも つかいたい のです が。",
+        "english": "Yes, I do. I would also like to use a computer."
+      },
+      {
+        "japanese": "パソコンのご利用は、あちらの受付で手続きをお願いします。",
+        "hiragana": "ぱそこんの ごりようは、 あちらの うけつけで てつづきを おねがいします。",
+        "english": "To use the computer, please complete the procedure at that reception desk."
+      }
+    ]
+  },
+  {
+    "word": "Jアラート",
+    "reading": "Jアラート",
+    "meaning": "Noun (J-Alert system)",
+    "frequency": 6,
+    "examples": [
+      {
+        "japanese": "Jアラートが鳴ったら、どうすればいいですか？",
+        "hiragana": "じぇいあらーと が なったら、 どう すれば いい です か？",
+        "english": "What should I do if the J-Alert sounds?"
+      },
+      {
+        "japanese": "Jアラートが鳴った時はどうすればいいですか。",
+        "hiragana": "じぇい あらーと が なった とき は どう すれば いい です か",
+        "english": "What should I do when the J-Alert sounds?"
+      },
+      {
+        "japanese": "Jアラートが鳴った時はどうすればいいですか。",
+        "hiragana": "ジェイ アラート が なった とき は どう すれば いい です か",
+        "english": "What should I do when the J-Alert sounds?"
+      }
+    ]
+  },
+  {
+    "word": "ゴミ出し",
+    "reading": "ゴミ出し",
+    "meaning": "noun (trash disposal)",
+    "frequency": 5,
+    "examples": [
+      {
+        "japanese": "この地域のゴミ出しのルールについて、教えていただけますか？",
+        "hiragana": "この ちいき の ごみだし の るーる に ついて、 おしえて いただけますか？",
+        "english": "Could you please tell me about the trash collection rules for this area?"
+      },
+      {
+        "japanese": "すみません、ゴミ出しの日を教えていただけますか？",
+        "hiragana": "すみません、 ごみだし の ひ を おしえて いただけますか？",
+        "english": "Excuse me, could you tell me the garbage collection day?"
+      },
+      {
+        "japanese": "じゃあ、私はゴミ出しと洗濯をしますね。",
+        "hiragana": "じゃあ、わたし は ごみだし と せんたく を します ね",
+        "english": "Then, I'll take out the trash and do the laundry."
+      }
+    ]
+  },
+  {
+    "word": "ルール",
+    "reading": "ルール",
+    "meaning": "noun (rule)",
+    "frequency": 5,
+    "examples": [
+      {
+        "japanese": "この地域のゴミ出しのルールについて、教えていただけますか？",
+        "hiragana": "この ちいき の ごみだし の るーる に ついて、 おしえて いただけますか？",
+        "english": "Could you please tell me about the trash collection rules for this area?"
+      },
+      {
+        "japanese": "日本のごみ分別のルールは、とても複雑ですね。",
+        "hiragana": "にほん の ごみ ぶんべつ の るーる は、とても ふくざつ です ね。",
+        "english": "Japan's garbage sorting rules are very complex, aren't they?"
+      },
+      {
+        "japanese": "すみません、最近ここに越してきたのですが、ゴミ出しのルールを教えていただけますか？",
+        "hiragana": "すみません、さいきん ここに こしてきた の です が、ごみだし の ルール を おしえて いただけます か？",
+        "english": "Excuse me, I've recently moved here; could you tell me the rules for taking out the trash?"
+      }
+    ]
+  },
+  {
+    "word": "ソフトバンク",
+    "reading": "ソフトバンク",
+    "meaning": "Proper noun (SoftBank)",
+    "frequency": 5,
+    "examples": [
+      {
+        "japanese": "キャリアはドコモ、au、ソフトバンクのどこがいいですか？",
+        "hiragana": "きゃりあ は どこも、えーゆー、そふとばんく の どこ が いい です か",
+        "english": "Which carrier would you prefer: Docomo, au, or SoftBank?"
+      },
+      {
+        "japanese": "ドコモとソフトバンク、どちらがいいですか？",
+        "hiragana": "ドコモ と ソフトバンク、 どちら が いい です か？",
+        "english": "Between Docomo and SoftBank, which one would you prefer?"
+      },
+      {
+        "japanese": "データ通信が安いので、ソフトバンクにします。",
+        "hiragana": "データ つうしん が やすい ので、 ソフトバンク に します。",
+        "english": "Since the data communication is cheap, I'll go with SoftBank."
+      }
+    ]
+  },
+  {
+    "word": "プラスチック",
+    "reading": "プラスチック",
+    "meaning": "Noun",
+    "frequency": 5,
+    "examples": [
+      {
+        "japanese": "私はプラスチックを減らすために、マイボトルを使っています。",
+        "hiragana": "わたしは ぷらすちっくを へらす ために、まいぼとるを つかっています。",
+        "english": "I use my own bottle in order to reduce plastic."
+      },
+      {
+        "japanese": "私も意識して、プラスチックのゴミを減らしたいです。",
+        "hiragana": "わたし も いしき して、ぷらすちっく の ごみ を へらしたい です。",
+        "english": "I also want to be mindful and reduce plastic waste."
+      },
+      {
+        "japanese": "そうですね。でも、プラスチックと缶を分けることは、環境にいいですよ。",
+        "hiragana": "そう です ね。でも、ぷらすちっく と かん を わける こと は、かんきょう に いい です よ。",
+        "english": "That's true. But separating plastic and cans is good for the environment."
+      }
+    ]
+  },
+  {
+    "word": "スケジュール",
+    "reading": "スケジュール",
+    "meaning": "Schedule",
+    "frequency": 5,
+    "examples": [
+      {
+        "japanese": "はい、たった今読みました。スケジュールの件で問い合わせが来ています。",
+        "hiragana": "はい、たったいま　よみました。すけじゅーるの　けんで　といあわせが　きています。",
+        "english": "Yes, I just read it. There is an inquiry regarding the schedule."
+      },
+      {
+        "japanese": "明日のオンライン会議のスケジュールを確認していただけますか？",
+        "hiragana": "あした の おんらいん かいぎ の すけじゅーる を かくにん して いただけますか？",
+        "english": "Could you please check the schedule for tomorrow's online meeting?"
+      },
+      {
+        "japanese": "こちらがスケジュールです。燃えるゴミは月曜日と木曜日です。",
+        "hiragana": "こちら が すけじゅーる です。 もえる ごみ は げつようび と もくようび です。",
+        "english": "Here is the schedule. Burnable trash is on Mondays and Thursdays."
+      }
+    ]
+  },
+  {
+    "word": "ペットボトル",
+    "reading": "ペットボトル",
+    "meaning": "Noun (plastic bottle)",
+    "frequency": 5,
+    "examples": [
+      {
+        "japanese": "そうなんですね。ペットボトルはどこに出せばいいですか？",
+        "hiragana": "そう なんです ね 。 ぺっとぼとる は どこ に だせば いい です か？",
+        "english": "I see. Where should I put the plastic bottles?"
+      },
+      {
+        "japanese": "すみません、ペットボトルはどこに捨てればいいですか？",
+        "hiragana": "すみません、ぺっとぼとる は どこ に すてれば いい です か？",
+        "english": "Excuse me, where should I throw away the plastic bottles?"
+      },
+      {
+        "japanese": "そうなんですね。ペットボトルはどこに出せばいいですか？",
+        "hiragana": "そうなん です ね。ぺっとぼとる は どこ に だせば いい です か？",
+        "english": "I see. Where should I put the plastic bottles?"
+      }
+    ]
+  },
+  {
+    "word": "利用カード",
+    "reading": "利用カード",
+    "meaning": "Noun (Membership card)",
+    "frequency": 4,
+    "examples": [
+      {
+        "japanese": "図書館で本を借りるには、利用カードが必要です。",
+        "hiragana": "としょかん で ほん を かりる には、 りよう かーど が ひつよう です。",
+        "english": "To borrow books at the library, a membership card is required."
+      },
+      {
+        "japanese": "はい、利用カードがあれば使えます。お持ちですか。",
+        "hiragana": "はい、りよう　かーど　が　あれば　つかえます。おもち　です　か。",
+        "english": "Yes, you can use it if you have a library card. Do you have one?"
+      },
+      {
+        "japanese": "はい。利用カードはお持ちですか？",
+        "hiragana": "はい。 りよう かーどは おもち です か？",
+        "english": "Yes. Do you have a library card?"
+      }
+    ]
+  },
+  {
+    "word": "データプラン",
+    "reading": "データプラン",
+    "meaning": "Noun meaning 'data plan'",
+    "frequency": 4,
+    "examples": [
+      {
+        "japanese": "安いデータプランに申し込みたいです。",
+        "hiragana": "やすい でーたぷらん に もうしこみたい です。",
+        "english": "I want to sign up for a cheap data plan."
+      },
+      {
+        "japanese": "かしこまりました。では、データプランとSIMカードの有効化について説明しますね。",
+        "hiragana": "かしこまりました。では、でーたぷらん と しむかーど の ゆうこうか に ついて せつめい します ね",
+        "english": "Understood. Then, I will explain the data plans and SIM card activation."
+      },
+      {
+        "japanese": "安いデータプランを探しています。",
+        "hiragana": "やすい でーたぷらん を さがして います。",
+        "english": "I am looking for a cheap data plan."
+      }
+    ]
+  },
+  {
+    "word": "イベント",
+    "reading": "イベント",
+    "meaning": "Noun (Event)",
+    "frequency": 4,
+    "examples": [
+      {
+        "japanese": "地域のゴミ拾いイベントに参加したいです。",
+        "hiragana": "ちいき の ごみひろい いべんと に さんか したい です",
+        "english": "I want to participate in the local community cleanup event."
+      },
+      {
+        "japanese": "今週末の公園の掃除イベントについて聞きましたか？",
+        "hiragana": "こんしゅうまつの こうえんの そうじ いべんと に ついて ききました か？",
+        "english": "Did you hear about the park cleanup event this weekend?"
+      },
+      {
+        "japanese": "近所のゴミ拾いイベントに参加しようと思っています。",
+        "hiragana": "きんじょ の ごみひろい いべんと に さんか しよう と おもって います",
+        "english": "I'm thinking of participating in a local cleanup event."
+      }
+    ]
+  },
+  {
+    "word": "メニュー",
+    "reading": "メニュー",
+    "meaning": "Noun (Menu)",
+    "frequency": 4,
+    "examples": [
+      {
+        "japanese": "すみません、メニューをください。",
+        "hiragana": "すみません、 めにゅー を ください。",
+        "english": "Excuse me, please give me the menu."
+      },
+      {
+        "japanese": "すみません！メニューをください。",
+        "hiragana": "すみません！ めにゅー を ください。",
+        "english": "Excuse me! Please give me the menu."
+      },
+      {
+        "japanese": "いいですね。おすすめのメニューはありますか？",
+        "hiragana": "いいですね。 おすすめの めにゅーは ありますか？",
+        "english": "That sounds good. Is there a recommended menu item?"
+      }
+    ]
+  },
+  {
+    "word": "シャツ",
+    "reading": "シャツ",
+    "meaning": "Noun referring to a shirt",
+    "frequency": 4,
+    "examples": [
+      {
+        "japanese": "すみません、このシャツはいくらですか。",
+        "hiragana": "すみません、 この しゃつ は いくら です か。",
+        "english": "Excuse me, how much is this shirt?"
+      },
+      {
+        "japanese": "すみません、このシャツはいくらですか。",
+        "hiragana": "すみません、 この しゃつ は いくら です か。",
+        "english": "Excuse me, how much is this shirt?"
+      },
+      {
+        "japanese": "すみません、このシャツはいくらですか？",
+        "hiragana": "すみません、 この しゃつ は いくら です か？",
+        "english": "Excuse me, how much is this shirt?"
+      }
+    ]
+  },
+  {
+    "word": "レポート",
+    "reading": "レポート",
+    "meaning": "Noun (Report)",
+    "frequency": 4,
+    "examples": [
+      {
+        "japanese": "このレポートの締め切りはいつですか。",
+        "hiragana": "この れぽーと の しめきり は いつ です か。",
+        "english": "When is the deadline for this report?"
+      },
+      {
+        "japanese": "このレポートのチェックをお願いしたいのですが…。",
+        "hiragana": "この れぽーと の ちぇっく を おねがい したい の です が…。",
+        "english": "I would like to ask you to check this report..."
+      },
+      {
+        "japanese": "すみません、レポートを送り忘れてしまいました。",
+        "hiragana": "すみません 、 れぽーと を おくりわすれて しまいました 。",
+        "english": "I am sorry, I forgot to send the report."
+      }
+    ]
+  },
+  {
+    "word": "メッセージ",
+    "reading": "メッセージ",
+    "meaning": "noun",
+    "frequency": 4,
+    "examples": [
+      {
+        "japanese": "でも、夜遅くにメッセージを送ってもいいですか？",
+        "hiragana": "でも、よる おそくに めっせーじを おくっても いいですか？",
+        "english": "But, is it okay to send messages late at night?"
+      },
+      {
+        "japanese": "うん、でも夜遅くにメッセージを送るのは控えたほうがいいと思う。",
+        "hiragana": "うん、 でも よる おそくに めっせーじを おくるのは ひかえた ほうが いいと おもう。",
+        "english": "Yeah, but I think it's better to refrain from sending messages late at night."
+      },
+      {
+        "japanese": "はい、でもメッセージの送り方がよくわかりません。",
+        "hiragana": "はい、 でも めっせーじ の おくりかた が よくわかりません。",
+        "english": "Yes, but I'm not sure how to send a message."
+      }
+    ]
+  },
+  {
+    "word": "オンライン",
+    "reading": "オンライン",
+    "meaning": "noun",
+    "frequency": 4,
+    "examples": [
+      {
+        "japanese": "e-Taxを使って、オンラインでやってみようと思います。",
+        "hiragana": "いたいーたっくを つかって、おんらいんで やってみようと おもいます。",
+        "english": "I think I'll try doing it online using e-Tax."
+      },
+      {
+        "japanese": "ええ、税務署に持っていくか、オンラインで申請してください。",
+        "hiragana": "ええ　ぜいむしょ　に　もっていく　か　おんらいん　で　しんせい　して　ください",
+        "english": "Yes, please take it to the tax office or file online."
+      },
+      {
+        "japanese": "スマートフォンでオンラインから申し込めますよ。",
+        "hiragana": "すまーとふぉん で おんらいん から もうしこめます よ。",
+        "english": "You can apply online using your smartphone."
+      }
+    ]
+  },
+  {
+    "word": "ネット",
+    "reading": "ネット",
+    "meaning": "Noun (Internet/Online)",
+    "frequency": 4,
+    "examples": [
+      {
+        "japanese": "ガスもネットで手続きできますか？",
+        "hiragana": "がす も ねっと で てつづき できます か？",
+        "english": "Can I also do the gas procedure online?"
+      },
+      {
+        "japanese": "ごめん、まだ見てない。ネットの接続が不安定なんだ。",
+        "hiragana": "ごめん、まだ みてない。ねっとの せつぞくが ふあんてい なんだ。",
+        "english": "Sorry, I haven't seen it yet. My internet connection is unstable."
+      },
+      {
+        "japanese": "配送状況をネットで確認できますか。",
+        "hiragana": "はいそうじょうきょうを ねっとで かくにん できますか。",
+        "english": "Can I check the delivery status online?"
+      }
+    ]
+  },
+  {
+    "word": "キャッシュカード",
+    "reading": "キャッシュカード",
+    "meaning": "noun (cash card)",
+    "frequency": 4,
+    "examples": [
+      {
+        "japanese": "はい。キャッシュカードか通帳をご提示ください。",
+        "hiragana": "はい。 きゃっしゅかーど か つうちょう を ごていじ ください。",
+        "english": "Yes. Please present your cash card or passbook."
+      },
+      {
+        "japanese": "かしこまりました。キャッシュカードと通帳をいただけますか？",
+        "hiragana": "かしこまりました。きゃっしゅかーどと　つうちょうを　いただけますか？",
+        "english": "Certainly. May I have your cash card and bankbook, please?"
+      },
+      {
+        "japanese": "では、キャッシュカードと身分証明書をご提示ください。",
+        "hiragana": "では、 きゃっしゅかーど と しんぶんしょうめいしょ を ごていじ ください。",
+        "english": "In that case, please present your cash card and identification."
+      }
+    ]
+  },
+  {
+    "word": "クリニック",
+    "reading": "クリニック",
+    "meaning": "Noun",
+    "frequency": 4,
+    "examples": [
+      {
+        "japanese": "はい、駅の近くのクリニックはとても親切で安心ですよ。",
+        "hiragana": "はい、えき の ちかく の くりにっく は とても しんせつ で あんしん です よ。",
+        "english": "Yes, the clinic near the station is very kind and reliable."
+      },
+      {
+        "japanese": "はい、駅の近くに親切なクリニックがありますよ。",
+        "hiragana": "はい、えき の ちかく に しんせつ な くりにっく が あります よ。",
+        "english": "Yes, there is a friendly clinic near the station."
+      },
+      {
+        "japanese": "はい、駅の近くのクリニックはとても親切で安心ですよ。",
+        "hiragana": "はい、えき の ちかく の くりにっく は とても しんせつ で あんしん です よ。",
+        "english": "Yes, the clinic near the station is very kind and reassuring."
+      }
+    ]
+  },
+  {
+    "word": "コンビニ",
+    "reading": "コンビニ",
+    "meaning": "noun (convenience store)",
+    "frequency": 4,
+    "examples": [
+      {
+        "japanese": "まっすぐ行って、コンビニの角を右に曲がってください。",
+        "hiragana": "まっすぐ いって 、 こんびに の かど を みぎ に まがって ください 。",
+        "english": "Go straight and please turn right at the corner of the convenience store."
+      },
+      {
+        "japanese": "まっすぐ行って、コンビニの角を右に曲がってください。",
+        "hiragana": "まっすぐ いって、こんびに の かど を みぎ に まがって ください。",
+        "english": "Go straight and please turn right at the corner of the convenience store."
+      },
+      {
+        "japanese": "いいえ、駅かコンビニで買ってください。",
+        "hiragana": "いいえ、 えき か こんびに で かってください。",
+        "english": "No, please buy it at the station or a convenience store."
+      }
+    ]
+  },
+  {
+    "word": "新プロジェクト",
+    "reading": "新プロジェクト",
+    "meaning": "noun meaning 'new project'",
+    "frequency": 4,
+    "examples": [
+      {
+        "japanese": "まずは、新プロジェクトの企画案についてご説明いたします。",
+        "hiragana": "まずは、しんぷろじぇくとの　きかくあんについて　ごせつめいいたします。",
+        "english": "First, I will explain the proposal for the new project."
+      },
+      {
+        "japanese": "それでは、新プロジェクトに関する会議を始めさせていただきます。",
+        "hiragana": "それでは、しん ぷろじぇくと に かんする かいぎ を はじめさせて いただきます。",
+        "english": "Well then, I will now begin the meeting regarding the new project."
+      },
+      {
+        "japanese": "まずは、新プロジェクトの企画案についてご説明いたします。",
+        "hiragana": "まずは、 しんぷろじぇくとの きかくあんについて ごせつめい いたします。",
+        "english": "First, I will explain the proposal for the new project."
+      }
+    ]
+  },
+  {
+    "word": "コピー",
+    "reading": "コピー",
+    "meaning": "noun (copy)",
+    "frequency": 4,
+    "examples": [
+      {
+        "japanese": "在留カードのコピーを添付する必要がありますか。",
+        "hiragana": "ざいりゅう かーど の こぴー を てんぷ する ひつよう が あります か 。",
+        "english": "Is it necessary to attach a copy of my residence card?"
+      },
+      {
+        "japanese": "わかりました。パスポートのコピーを添付する必要がありますか。",
+        "hiragana": "わかりました。 ぱすぽーとの こぴーを てんぷ する ひつようが ありますか。",
+        "english": "I see. Is it necessary to attach a copy of my passport?"
+      },
+      {
+        "japanese": "パスポートのコピーを添付する必要がありますか？",
+        "hiragana": "ぱすぽーと の こぴー を てんぷ する ひつよう が あり ます か？",
+        "english": "Do I need to attach a copy of my passport?"
+      }
+    ]
+  },
+  {
+    "word": "ラーメン",
+    "reading": "ラーメン",
+    "meaning": "Noun (food item)",
+    "frequency": 3,
+    "examples": [
+      {
+        "japanese": "ラーメンを一つください。",
+        "hiragana": "らーめん を ひとつ ください。",
+        "english": "Please give me one ramen."
+      },
+      {
+        "japanese": "ラーメンをください。",
+        "hiragana": "らーめん を ください。",
+        "english": "I'll have the ramen, please."
+      },
+      {
+        "japanese": "ラーメンをお願いします。",
+        "hiragana": "らーめん を おねがい します。",
+        "english": "I'll have the ramen, please."
+      }
+    ]
+  },
+  {
+    "word": "スマートフォン",
+    "reading": "スマートフォン",
+    "meaning": "noun (tool)",
+    "frequency": 3,
+    "examples": [
+      {
+        "japanese": "スマートフォンでメールを送信しました。",
+        "hiragana": "すまーとふぉん で めーる を そうしん しました。",
+        "english": "I sent an email using a smartphone."
+      },
+      {
+        "japanese": "映画館では、スマートフォンをマナーモードにしてください。",
+        "hiragana": "えいがかん で は 、 すまーとふぉん を まなーもーど に してください 。",
+        "english": "Please put your smartphone on silent mode in the movie theater."
+      },
+      {
+        "japanese": "スマートフォンでオンラインから申し込めますよ。",
+        "hiragana": "すまーとふぉん で おんらいん から もうしこめます よ。",
+        "english": "You can apply online using your smartphone."
+      }
+    ]
+  },
+  {
+    "word": "ハイキング",
+    "reading": "ハイキング",
+    "meaning": "Noun (Hiking)",
+    "frequency": 3,
+    "examples": [
+      {
+        "japanese": "ハイキングの前に、天気をチェックすることが大切です。",
+        "hiragana": "はいきんぐ の まえ に 、 てんき を ちぇっく する こと が たいせつ です 。",
+        "english": "It is important to check the weather before hiking."
+      },
+      {
+        "japanese": "今週末、ハイキングに行きませんか？",
+        "hiragana": "こんしゅうまつ、 はいきんぐ に いきませんか？",
+        "english": "Would you like to go hiking this weekend?"
+      },
+      {
+        "japanese": "今週末、ハイキングに行きませんか。",
+        "hiragana": "こんしゅうまつ 、 はいきんぐ に いきませんか 。",
+        "english": "Would you like to go hiking this weekend?"
+      }
+    ]
+  },
+  {
+    "word": "カフェ",
+    "reading": "カフェ",
+    "meaning": "Noun",
+    "frequency": 3,
+    "examples": [
+      {
+        "japanese": "よくカフェで本を読みます。",
+        "hiragana": "よく かふぇ で ほん を よみます",
+        "english": "I often read books at a cafe."
+      },
+      {
+        "japanese": "一緒に新しいカフェに行きたいです。",
+        "hiragana": "いっしょ に あたらしい かふぇ に いきたい です。",
+        "english": "I want to go to a new cafe together."
+      },
+      {
+        "japanese": "よくカフェで本を読みます。",
+        "hiragana": "よく かふぇ で ほん を よみます。",
+        "english": "I often read books at a cafe."
+      }
+    ]
+  },
+  {
+    "word": "パーティー",
+    "reading": "パーティー",
+    "meaning": "Noun (Party)",
+    "frequency": 3,
+    "examples": [
+      {
+        "japanese": "家で友達とちょっとしたパーティーをしようと思って。",
+        "hiragana": "いえ で ともだち と ちょっと した ぱーてぃー を しよう と おもって。",
+        "english": "I'm thinking of having a small party at my house with some friends."
+      },
+      {
+        "japanese": "今週末、家でパーティーをします。",
+        "hiragana": "こんしゅうまつ、いえ で ぱーてぃー を します。",
+        "english": "I'm having a party at home this weekend."
+      },
+      {
+        "japanese": "今度の日曜日、家族でパーティーをします。",
+        "hiragana": "こんどの　にちようび、かぞくで　パーティーを　します。",
+        "english": "Next Sunday, my family is having a party."
+      }
+    ]
+  },
+  {
+    "word": "テーブル",
+    "reading": "テーブル",
+    "meaning": "Noun (table)",
+    "frequency": 3,
+    "examples": [
+      {
+        "japanese": "わかった。私が掃除機をかけるから、テーブルを拭いてくれる？",
+        "hiragana": "わかった。 わたし が そうじき を かける から、 てーぶる を ふいて くれる？",
+        "english": "Got it. I'll do the vacuuming, so could you wipe the tables?"
+      },
+      {
+        "japanese": "いい考えだね。私は掃除機をかけるから、テーブルを拭いてくれる？",
+        "hiragana": "いい かんがえ だ ね。 わたし は そうじき を かける から、 てーぶる を ふいて くれる？",
+        "english": "Good idea. I'll do the vacuuming, so could you wipe the tables?"
+      },
+      {
+        "japanese": "急いでテーブルの下に隠れよう。",
+        "hiragana": "いそいで てーぶる の した に かくれよう。",
+        "english": "Quickly, let's hide under the table."
+      }
+    ]
+  },
+  {
+    "word": "コイン",
+    "reading": "コイン",
+    "meaning": "noun",
+    "frequency": 3,
+    "examples": [
+      {
+        "japanese": "まず、お賽銭箱にコインを入れてください。",
+        "hiragana": "まず、 おさいせんばこ に こいん を いれて ください。",
+        "english": "First, please put a coin into the offering box."
+      },
+      {
+        "japanese": "箱にコインを入れて、二礼してください。",
+        "hiragana": "はこ に こいん を いれて、 にれい して ください。",
+        "english": "Please put a coin in the box and bow twice."
+      },
+      {
+        "japanese": "ここにコインを静かに置いてください。",
+        "hiragana": "ここ に こいん を しずかに おいて ください。",
+        "english": "Please place a coin here quietly."
+      }
+    ]
+  },
+  {
+    "word": "パック",
+    "reading": "パック",
+    "meaning": "noun",
+    "frequency": 3,
+    "examples": [
+      {
+        "japanese": "かしこまりました。パックに入れますか？",
+        "hiragana": "かしこまりました。ぱっく に いれます か？",
+        "english": "Certainly. Shall I put them in a pack?"
+      },
+      {
+        "japanese": "かしこまりました。パックに入れますか。",
+        "hiragana": "かしこまりました 。 ぱっく に いれます か",
+        "english": "Certainly. Shall I put them in a pack?"
+      },
+      {
+        "japanese": "かしこまりました。パックと袋、どちらがいいですか？",
+        "hiragana": "かしこまりました。 ぱっく と ふくろ、 どちら が いい です か？",
+        "english": "Certainly. Which would you prefer, a tray or a bag?"
+      }
+    ]
+  },
+  {
+    "word": "クラス",
+    "reading": "クラス",
+    "meaning": "Class (location)",
+    "frequency": 3,
+    "examples": [
+      {
+        "japanese": "先生、すみません。太郎くんはクラスでどうしていますか？",
+        "hiragana": "せんせい、すみません。たろうくん は くらす で どう しています か？",
+        "english": "Excuse me, teacher. How is Taro doing in class?"
+      },
+      {
+        "japanese": "先生、最近太郎くんはクラスでどうですか？",
+        "hiragana": "せんせい 、 さいきん たろうくん は くらす で どう です か？",
+        "english": "Teacher, how has Taro been doing in class lately?"
+      },
+      {
+        "japanese": "先生、すみません。太郎くんはクラスでどうですか？",
+        "hiragana": "せんせい、すみません。たろうくん は くらす で どう です か？",
+        "english": "Excuse me, teacher. How is Taro doing in class?"
+      }
+    ]
+  },
+  {
+    "word": "テント",
+    "reading": "テント",
+    "meaning": "noun",
+    "frequency": 3,
+    "examples": [
+      {
+        "japanese": "テントを持っていないので、レンタルしましょう。",
+        "hiragana": "てんと を もって いない ので、 れんたる しましょう。",
+        "english": "Since I don't have a tent, let's rent one."
+      },
+      {
+        "japanese": "いいですね！でも、テントを持っていません。",
+        "hiragana": "いい です ね！ でも、 てんと を もって いません。",
+        "english": "That sounds great! But I don't have a tent."
+      },
+      {
+        "japanese": "いいですね。でも、テントを持っていません。",
+        "hiragana": "いい です ね 。 でも 、 てんと を もって いません。",
+        "english": "That sounds good. But, I don't have a tent."
+      }
+    ]
+  },
+  {
+    "word": "レンタル",
+    "reading": "レンタル",
+    "meaning": "noun",
+    "frequency": 3,
+    "examples": [
+      {
+        "japanese": "テントを持っていないので、レンタルしましょう。",
+        "hiragana": "てんと を もって いない ので、 れんたる しましょう。",
+        "english": "Since I don't have a tent, let's rent one."
+      },
+      {
+        "japanese": "アウトドアショップでレンタルできますよ。",
+        "hiragana": "あうとどあしょっぷ で れんたる できます よ 。",
+        "english": "You can rent them at the outdoor shop."
+      },
+      {
+        "japanese": "すみません、スノーボードのレンタルとリフト券の購入をお願いします。",
+        "hiragana": "すみません、すのーぼーど の れんたる と りふとけん の こうにゅう を おねがいします。",
+        "english": "Excuse me, I'd like to rent a snowboard and purchase a lift pass."
+      }
+    ]
+  },
+  {
+    "word": "マイボトル",
+    "reading": "マイボトル",
+    "meaning": "Noun",
+    "frequency": 3,
+    "examples": [
+      {
+        "japanese": "私はプラスチックを減らすために、マイボトルを使っています。",
+        "hiragana": "わたしは ぷらすちっくを へらす ために、まいぼとるを つかっています。",
+        "english": "I use my own bottle in order to reduce plastic."
+      },
+      {
+        "japanese": "最近は、マイボトルを持ち歩く人が増えています。",
+        "hiragana": "さいきん は、まいぼとる を もちあるく ひと が ふえて います。",
+        "english": "Recently, the number of people carrying their own bottles is increasing."
+      },
+      {
+        "japanese": "私はマイボトルを使って、プラスチックごみを減らそうとしています。",
+        "hiragana": "わたし は まいぼとる を つかって、ぷらすちっく ごみ を へらそう と して います。",
+        "english": "I'm using my own bottle and trying to reduce plastic waste."
+      }
+    ]
+  },
+  {
+    "word": "ジョギング",
+    "reading": "ジョギング",
+    "meaning": "Noun (jogging)",
+    "frequency": 3,
+    "examples": [
+      {
+        "japanese": "はい、夜にジョギングをすることが好きです。",
+        "hiragana": "はい、 よる に じょぎんぐ を する こと が すき です。",
+        "english": "Yes, I like jogging in the evening."
+      },
+      {
+        "japanese": "少しのどが痛いですが、健康のためにジョギングを始めたいです。",
+        "hiragana": "すこし のど が いたい です が、 けんこう の ため に ジョギング を はじめたい です。",
+        "english": "My throat hurts a bit, but I want to start jogging for my health."
+      },
+      {
+        "japanese": "いいですね！私はいつもジョギングをします。",
+        "hiragana": "いい です ね！ わたし は いつも じょぎんぐ を します。",
+        "english": "That's nice! I always go jogging."
+      }
+    ]
+  },
+  {
+    "word": "アパート",
+    "reading": "アパート",
+    "meaning": "Noun",
+    "frequency": 3,
+    "examples": [
+      {
+        "japanese": "駅の近くにいいアパートがありますよ。",
+        "hiragana": "えき の ちかく に いい あぱーと が あります よ。",
+        "english": "There is a nice apartment near the station, you know."
+      },
+      {
+        "japanese": "新しいアパートを探しています。",
+        "hiragana": "あたらしい あぱーと を さがして います",
+        "english": "I am looking for a new apartment."
+      },
+      {
+        "japanese": "新しいアパートを探しています。",
+        "hiragana": "あたらしい　あぱーとを　さがして　います。",
+        "english": "I am looking for a new apartment."
+      }
+    ]
+  },
+  {
+    "word": "パンフレット",
+    "reading": "パンフレット",
+    "meaning": "Noun (Pamphlet)",
+    "frequency": 3,
+    "examples": [
+      {
+        "japanese": "はい。こちらのパンフレットに、燃やせるゴミと燃やせないゴミの予定が書いてあります。",
+        "hiragana": "はい。 こちら の パンフレット に、 もやせる ごみ と もやせない ごみ の よてい が かいて あります。",
+        "english": "Yes. The schedule for burnable and non-burnable waste is written in this pamphlet."
+      },
+      {
+        "japanese": "はい、こちらのパンフレットでご確認ください。",
+        "hiragana": "はい、こちら の パンフレット で ごかくにん ください。",
+        "english": "Yes, please check this pamphlet."
+      },
+      {
+        "japanese": "はい、こちらのパンフレットに地域ごとの詳細が載っています。",
+        "hiragana": "はい、 こちら の パンフレット に ちいき ごと の しょうさい が のって います。",
+        "english": "Yes, the details for each area are listed in this pamphlet."
+      }
+    ]
+  },
+  {
+    "word": "システム",
+    "reading": "システム",
+    "meaning": "Noun (System)",
+    "frequency": 3,
+    "examples": [
+      {
+        "japanese": "前職では、早くシステムに慣れるよう努力しました。",
+        "hiragana": "ぜんしょく で は 、はやく しすてむ に なれる よう どりょく しました",
+        "english": "In my previous job, I made an effort to get used to the system quickly."
+      },
+      {
+        "japanese": "前職では、新しいシステムを導入して効率を上げました。",
+        "hiragana": "ぜんしょく で は、 あたらしい しすてむ を どうにゅう して こうりつ を あげました。",
+        "english": "In my previous job, I improved efficiency by introducing a new system."
+      },
+      {
+        "japanese": "要項にはオンライン申請とありますが、システムに不具合があるようです。",
+        "hiragana": "ようこう に は おんらいん しんせい と あり ます が、 しすてむ に ふぐあい が ある よう です。",
+        "english": "The guidelines say online application is required, but there seems to be a system error."
+      }
+    ]
+  },
+  {
+    "word": "携帯プラン",
+    "reading": "携帯プラン",
+    "meaning": "Noun meaning 'mobile plan'",
+    "frequency": 3,
+    "examples": [
+      {
+        "japanese": "新しい携帯プランを契約したいです。",
+        "hiragana": "あたらしい けいたい ぷらん を けいやく したい です。",
+        "english": "I would like to contract a new mobile plan."
+      },
+      {
+        "japanese": "新しい携帯プランに申し込みたいです。",
+        "hiragana": "あたらしい けいたい ぷらん に もうしこみたい です。",
+        "english": "I would like to sign up for a new phone plan."
+      },
+      {
+        "japanese": "新しい携帯プランに申し込みたいです。",
+        "hiragana": "あたらしい けいたい ぷらん に もうしこみたい です。",
+        "english": "I would like to sign up for a new mobile plan."
+      }
+    ]
+  },
+  {
+    "word": "アマゾン",
+    "reading": "アマゾン",
+    "meaning": "Company name",
+    "frequency": 3,
+    "examples": [
+      {
+        "japanese": "こんにちは、アマゾンからのお荷物です。",
+        "hiragana": "こんにちは、あまぞん から の おにもつ です。",
+        "english": "Hello, I have a delivery from Amazon."
+      },
+      {
+        "japanese": "こんにちは。アマゾンからのお荷物です。",
+        "hiragana": "こんにちわ。あまぞん から の おにもつ です。",
+        "english": "Hello. I have a package from Amazon."
+      },
+      {
+        "japanese": "こんにちは。アマゾンからのお荷物です。",
+        "hiragana": "こんにちは。あまぞん から の おにもつ です。",
+        "english": "Hello. I have a package from Amazon."
+      }
+    ]
+  },
+  {
+    "word": "キャンプ",
+    "reading": "キャンプ",
+    "meaning": "noun",
+    "frequency": 3,
+    "examples": [
+      {
+        "japanese": "今週末、キャンプに行きませんか。",
+        "hiragana": "こんしゅうまつ、きゃんぷ に いきませんか。",
+        "english": "Would you like to go camping this weekend?"
+      },
+      {
+        "japanese": "今週末のキャンプのために、道具をレンタルしましょう。",
+        "hiragana": "こんしゅうまつの きゃんぷの ために、 どうぐを れんたる しましょう。",
+        "english": "Let's rent some equipment for this weekend's camping trip."
+      },
+      {
+        "japanese": "今週末、キャンプに行きませんか。",
+        "hiragana": "こんしゅうまつ 、 きゃんぷ に いきませんか。",
+        "english": "Would you like to go camping this weekend?"
+      }
+    ]
+  },
+  {
+    "word": "ニュース",
+    "reading": "ニュース",
+    "meaning": "Noun",
+    "frequency": 3,
+    "examples": [
+      {
+        "japanese": "新しいiPhoneのニュース、見た？",
+        "hiragana": "あたらしい iPhone の ニュース、 みた？",
+        "english": "Did you see the news about the new iPhone?"
+      },
+      {
+        "japanese": "ニュースで台風の警報が出ていますよ。",
+        "hiragana": "にゅーす で たいふう の けいほう が でて います よ",
+        "english": "Look, there is a typhoon warning on the news."
+      },
+      {
+        "japanese": "最近、男性の育休取得が増えているというニュースをよく見ますね。",
+        "hiragana": "さいきん、だんせい の いくきゅう しゅとく が ふえている という にゅーす を よく みます ね。",
+        "english": "Recently, I often see news that the number of men taking paternity leave is increasing, don't I?"
+      }
+    ]
+  },
+  {
+    "word": "スタッフ",
+    "reading": "スタッフ",
+    "meaning": "Noun meaning 'staff'",
+    "frequency": 3,
+    "examples": [
+      {
+        "japanese": "スタッフの指示に従って、落ち着いて移動してください。",
+        "hiragana": "スタッフ の しじ に したがって、 おちついて いどう して ください",
+        "english": "Please follow the staff's instructions and move calmly."
+      },
+      {
+        "japanese": "大丈夫です、スタッフがお手伝いします。",
+        "hiragana": "だいじょうぶ です、すたっふ が おてつだい します。",
+        "english": "It is okay, our staff will help you."
+      },
+      {
+        "japanese": "いいえ、ガスはスタッフが家に来る必要があります。",
+        "hiragana": "いいえ、がす は すたっふ が いえ に くる ひつよう が あります。",
+        "english": "No, for gas, a staff member needs to visit your home."
+      }
+    ]
+  },
+  {
+    "word": "生ビール",
+    "reading": "生ビール",
+    "meaning": "Noun meaning draft beer",
+    "frequency": 3,
+    "examples": [
+      {
+        "japanese": "まずは生ビールを二つください。",
+        "hiragana": "まずは なまびーるを ふたつ ください。",
+        "english": "To start, two draft beers, please."
+      },
+      {
+        "japanese": "まずは生ビールを二人分ください。",
+        "hiragana": "まずは なまびーるを ふたりぶん ください。",
+        "english": "First, two draft beers please."
+      },
+      {
+        "japanese": "まずは生ビールを二つください。",
+        "hiragana": "まず は なまびーる を ふたつ ください。",
+        "english": "First, two draft beers please."
+      }
+    ]
+  },
+  {
+    "word": "無制限プラン",
+    "reading": "無制限プラン",
+    "meaning": "noun meaning unlimited plan",
+    "frequency": 3,
+    "examples": [
+      {
+        "japanese": "それなら、この無制限プランがおすすめです。",
+        "hiragana": "それ なら、 この むせいげん ぷらん が おすすめ です",
+        "english": "In that case, I recommend this unlimited plan."
+      },
+      {
+        "japanese": "それなら、人気の無制限プランがおすすめですよ。",
+        "hiragana": "それ なら、 にんき の むせいげん ぷらん が おすすめ です よ。",
+        "english": "In that case, I recommend the popular unlimited plan."
+      },
+      {
+        "japanese": "新規契約なら、安い無制限プランもありますよ。",
+        "hiragana": "しんき けいやく なら、 やすい むせいげん ぷらん も あります よ。",
+        "english": "If it's a new contract, there is also a cheap unlimited plan."
+      }
+    ]
+  },
+  {
+    "word": "資源回収センター",
+    "reading": "資源回収センター",
+    "meaning": "noun meaning resource collection center",
+    "frequency": 3,
+    "examples": [
+      {
+        "japanese": "あそこにある資源回収センターに出してください。",
+        "hiragana": "あそこ に ある しげん かいしゅう せんたー に だして ください。",
+        "english": "Please put them in the resource collection center over there."
+      },
+      {
+        "japanese": "あそこにある資源回収センターに持って行ってください。",
+        "hiragana": "あそこ に ある しげん かいしゅう せんたー に もって いって ください 。",
+        "english": "Please take them to the recycling center over there."
+      },
+      {
+        "japanese": "あそこにある資源回収センターに持って行ってください。",
+        "hiragana": "あそこ に ある しげん かいしゅう せんたー に もって いって ください。",
+        "english": "Please take them to the recycling center over there."
+      }
+    ]
+  },
+  {
+    "word": "サイズ",
+    "reading": "サイズ",
+    "meaning": "Noun",
+    "frequency": 3,
+    "examples": [
+      {
+        "japanese": "そうですね。でも、サイズは大丈夫ですか？",
+        "hiragana": "そう ですね。でも、さいず は だいじょうぶ です か？",
+        "english": "I agree. But is the size okay?"
+      },
+      {
+        "japanese": "少しきついので、もう一つのサイズを試してみます。",
+        "hiragana": "すこし きつい ので、もう ひとつ の さいず を ためして みます。",
+        "english": "It's a bit tight, so I'll try another size."
+      },
+      {
+        "japanese": "かしこまりました。サイズはいかがなさいますか？",
+        "hiragana": "かしこまりました。さいずは　いかがなさいますか？",
+        "english": "Certainly. Which size would you like?"
+      }
+    ]
+  },
+  {
+    "word": "モデル",
+    "reading": "モデル",
+    "meaning": "Noun",
+    "frequency": 3,
+    "examples": [
+      {
+        "japanese": "いいな。どのモデルにしたの？",
+        "hiragana": "いい な。どの もでる に した の？",
+        "english": "I'm jealous. Which model did you go with?"
+      },
+      {
+        "japanese": "こちらのモデルです。在庫はございますか。",
+        "hiragana": "こちら の モデル です。 ざいこ は ございます か。",
+        "english": "It is this model. Do you have it in stock?"
+      },
+      {
+        "japanese": "それでしたら、こちらのモデルは最新のCPUを搭載しており、非常に高速です。",
+        "hiragana": "それ でしたら、 こちら の もでる は さいしん の CPU を とうさい しており、 ひじょう に こうそく です。",
+        "english": "In that case, this model is equipped with the latest CPU and is extremely fast."
+      }
+    ]
+  },
+  {
+    "word": "トマト",
+    "reading": "トマト",
+    "meaning": "Noun (Tomato)",
+    "frequency": 3,
+    "examples": [
+      {
+        "japanese": "こんにちは！今日のトマト、いい色してますね。",
+        "hiragana": "こんにちわ！ きょう の とまと、 いい いろ してます ね。",
+        "english": "Hello! Today's tomatoes have a lovely color, don't they?"
+      },
+      {
+        "japanese": "ベランダのトマトはどうですか？",
+        "hiragana": "べらんだ の とまと は どう です か？",
+        "english": "How are the tomatoes on the balcony?"
+      },
+      {
+        "japanese": "わあ、このトマトすごくおいしそう！いくらですか？",
+        "hiragana": "わあ、 この とまと すごく おいしそう！ いくら ですか？",
+        "english": "Wow, these tomatoes look delicious! How much are they?"
+      }
+    ]
+  },
+  {
+    "word": "カレンダー",
+    "reading": "カレンダー",
+    "meaning": "noun (calendar)",
+    "frequency": 2,
+    "examples": [
+      {
+        "japanese": "この地域のゴミ収集カレンダーを確認してください。",
+        "hiragana": "この ちいき の ごみ しゅうしゅう かれんだー を かくにん して ください。",
+        "english": "Please check the garbage collection calendar for this area."
+      },
+      {
+        "japanese": "はい、大丈夫です。カレンダーを更新しておきますね。",
+        "hiragana": "はい、だいじょうぶ です。かれんだー を こうしん して おきます ね。",
+        "english": "Yes, that's fine. I'll update the calendar in advance."
+      }
+    ]
+  },
+  {
+    "word": "ゴミ拾い",
+    "reading": "ゴミ拾い",
+    "meaning": "Noun (Trash picking)",
+    "frequency": 2,
+    "examples": [
+      {
+        "japanese": "地域のゴミ拾いイベントに参加したいです。",
+        "hiragana": "ちいき の ごみひろい いべんと に さんか したい です",
+        "english": "I want to participate in the local community cleanup event."
+      },
+      {
+        "japanese": "近所のゴミ拾いイベントに参加しようと思っています。",
+        "hiragana": "きんじょ の ごみひろい いべんと に さんか しよう と おもって います",
+        "english": "I'm thinking of participating in a local cleanup event."
+      }
+    ]
+  },
+  {
+    "word": "グラム",
+    "reading": "グラム",
+    "meaning": "unit of weight",
+    "frequency": 2,
+    "examples": [
+      {
+        "japanese": "じゃあ、二百グラムください。",
+        "hiragana": "じゃあ、にひゃく ぐらむ ください。",
+        "english": "Then, please give me 200 grams."
+      },
+      {
+        "japanese": "200グラムくらいお願いします。",
+        "hiragana": "にひゃく ぐらむ くらい おねがいします。",
+        "english": "About 200 grams, please."
+      }
+    ]
+  },
+  {
+    "word": "Zoomミーティング",
+    "reading": "Zoomミーティング",
+    "meaning": "noun (Zoom meeting)",
+    "frequency": 2,
+    "examples": [
+      {
+        "japanese": "今からZoomミーティングを始めましょう。",
+        "hiragana": "いま から ズーム ミーティング を はじめましょう",
+        "english": "Let's start the Zoom meeting now."
+      },
+      {
+        "japanese": "佐藤さん、Zoomミーティングを開始していただけますか？",
+        "hiragana": "さとう さん 、 ズーム ミーティング を かいし して いただけ ます か ？",
+        "english": "Sato-san, could you please start the Zoom meeting?"
+      }
+    ]
+  },
+  {
+    "word": "タスク",
+    "reading": "タスク",
+    "meaning": "noun (task)",
+    "frequency": 2,
+    "examples": [
+      {
+        "japanese": "わかりました。会議の後にタスクの状態を更新します。",
+        "hiragana": "わかりました かいぎ の あとに タスク の じょうたい を こうしん します",
+        "english": "Understood. I will update the task status after the meeting."
+      },
+      {
+        "japanese": "見えました。タスクの進捗を確認しましょう。",
+        "hiragana": "みえました。たすく の しんちょく を かくにん しましょう。",
+        "english": "It's visible now. Let's check the task progress."
+      }
+    ]
+  },
+  {
+    "word": "ビール",
+    "reading": "ビール",
+    "meaning": "Noun (beer)",
+    "frequency": 2,
+    "examples": [
+      {
+        "japanese": "いいですね。私はビールにします。",
+        "hiragana": "いい です ね。わたし は びーる に します。",
+        "english": "That sounds good. I'll go with a beer."
+      },
+      {
+        "japanese": "すみません！とりあえず、ビールを二人分お願いします。",
+        "hiragana": "すみません！ とりあえず、びーるを ふたりぶん おねがいします。",
+        "english": "Excuse me! To start, two beers please."
+      }
+    ]
+  },
+  {
+    "word": "ページ",
+    "reading": "ページ",
+    "meaning": "noun",
+    "frequency": 2,
+    "examples": [
+      {
+        "japanese": "すみません、このページについて質問があります。",
+        "hiragana": "すみません、 この ぺーじ に ついて しつもん が あります。",
+        "english": "Excuse me, I have a question about this page."
+      },
+      {
+        "japanese": "少々お待ちください。ページを更新してみます。",
+        "hiragana": "しょうしょう おまち ください。ぺーじ を こうしん して みます。",
+        "english": "Please wait a moment. I'll try refreshing the page."
+      }
+    ]
+  },
+  {
+    "word": "忘れ物センター",
+    "reading": "忘れ物センター",
+    "meaning": "Noun (Destination)",
+    "frequency": 2,
+    "examples": [
+      {
+        "japanese": "一緒に忘れ物センターへ確認しましょう。",
+        "hiragana": "いっしょ に わすれもの せんたー へ かくにん しましょう。",
+        "english": "Let's check the lost and found center together."
+      },
+      {
+        "japanese": "忘れ物センターに確認しますね。",
+        "hiragana": "わすれもの せんたー に かくにん します ね。",
+        "english": "I will check with the lost and found center."
+      }
+    ]
+  },
+  {
+    "word": "エラー",
+    "reading": "エラー",
+    "meaning": "noun (error)",
+    "frequency": 2,
+    "examples": [
+      {
+        "japanese": "はい、こちらです。ATMでエラーが出たので、確認をお願いします。",
+        "hiragana": "はい、 こちら です。 えーてぃーえむ で えらー が でた ので、 かくにん を おねがい します。",
+        "english": "Yes, here they are. An error occurred at the ATM, so please check it."
+      },
+      {
+        "japanese": "使ってみましたが、エラーが出てしまいました。",
+        "hiragana": "つかって みました が、 えらー が でて しまいました。",
+        "english": "I tried using it, but an error occurred."
+      }
+    ]
+  },
+  {
+    "word": "イタリアン",
+    "reading": "イタリアン",
+    "meaning": "noun meaning 'Italian style'",
+    "frequency": 2,
+    "examples": [
+      {
+        "japanese": "新しくできたイタリアンのお店はどうですか？",
+        "hiragana": "あたらしく できた イタリアン の おみせ は どう です か？",
+        "english": "How about the new Italian restaurant that just opened?"
+      },
+      {
+        "japanese": "よかった。映画のあとに、美味しいイタリアンのお店に行きませんか？",
+        "hiragana": "よかった。 えいがの あとに、 おいしい いたりあんの おみせに いきませんか？",
+        "english": "Great. After the movie, shall we go to a delicious Italian restaurant?"
+      }
+    ]
+  },
+  {
+    "word": "200グラム",
+    "reading": "200グラム",
+    "meaning": "quantity/noun",
+    "frequency": 2,
+    "examples": [
+      {
+        "japanese": "美味しそうですね。200グラムください。",
+        "hiragana": "おいし そう です ね。 にひゃく ぐらむ ください。",
+        "english": "They look delicious. Please give me 200 grams."
+      },
+      {
+        "japanese": "おいしそうですね。200グラムください。",
+        "hiragana": "おいしそう です ね 。 にひゃく ぐらむ ください",
+        "english": "They look delicious. Please give me 200 grams."
+      }
+    ]
+  },
+  {
+    "word": "シェフ",
+    "reading": "シェフ",
+    "meaning": "Noun meaning 'chef'",
+    "frequency": 2,
+    "examples": [
+      {
+        "japanese": "承知いたしました。シェフに確認しますね。",
+        "hiragana": "しょうち いたしました。 しぇふ に かくにん します ね。",
+        "english": "Certainly. I will check with the chef."
+      },
+      {
+        "japanese": "承知いたしました。シェフに確認します。",
+        "hiragana": "しょうち いたしました。 しぇふ に かくにん します。",
+        "english": "Understood. I will check with the chef."
+      }
+    ]
+  },
+  {
+    "word": "ミス",
+    "reading": "ミス",
+    "meaning": "noun (mistake)",
+    "frequency": 2,
+    "examples": [
+      {
+        "japanese": "報告書のミスについて、大変申し訳ございませんでした。",
+        "hiragana": "ほうこくしょ の みす に ついて、 たいへん もうしわけ ございませんでした。",
+        "english": "I am deeply sorry for the mistake in the report."
+      },
+      {
+        "japanese": "報告書のミスについて、大変申し訳ございません。",
+        "hiragana": "ほうこくしょ の みす に ついて、 たいへん もうしわけ ございません。",
+        "english": "I am very sorry about the mistake in the report."
+      }
+    ]
+  },
+  {
+    "word": "プロジェクト報告書",
+    "reading": "プロジェクト報告書",
+    "meaning": "Noun meaning project report",
+    "frequency": 2,
+    "examples": [
+      {
+        "japanese": "佐藤課長、プロジェクト報告書の草案ができました。",
+        "hiragana": "さとう かちょう 、 ぷろじぇくと ほうこくしょ の そうあん が できました 。",
+        "english": "Manager Sato, I have finished the draft of the project report."
+      },
+      {
+        "japanese": "佐藤課長、プロジェクト報告書のドラフトができました。",
+        "hiragana": "さとう かちょう、ぷろじぇくと ほうこくしょ の どらふと が できました。",
+        "english": "Manager Sato, I have completed the draft of the project report."
+      }
+    ]
+  },
+  {
+    "word": "宅配ボックス",
+    "reading": "宅配ボックス",
+    "meaning": "Delivery box",
+    "frequency": 2,
+    "examples": [
+      {
+        "japanese": "あ、はい。宅配ボックスに入れてください。",
+        "hiragana": "あ、はい。たくはい ぼっくす に いれて ください。",
+        "english": "Ah, yes. Please put it in the delivery box."
+      },
+      {
+        "japanese": "あ、はい。宅配ボックスに入れてください。",
+        "hiragana": "あ、はい。たくはいぼっくすに　いれてください。",
+        "english": "Ah, yes. Please put it in the delivery box."
+      }
+    ]
+  },
+  {
+    "word": "キャンプ場",
+    "reading": "キャンプ場",
+    "meaning": "noun",
+    "frequency": 2,
+    "examples": [
+      {
+        "japanese": "キャンプ場で道具をレンタルできますよ。",
+        "hiragana": "きゃんぷじょう で どうぐ を れんたる できます よ。",
+        "english": "You can rent equipment at the campsite."
+      },
+      {
+        "japanese": "キャンプ場で道具をレンタルできますよ。",
+        "hiragana": "きゃんぷじょう で どうぐ を れんたる できます よ。",
+        "english": "You can rent equipment at the campsite, you know."
+      }
+    ]
+  },
+  {
+    "word": "レンタルできます",
+    "reading": "レンタルできます",
+    "meaning": "potential verb",
+    "frequency": 2,
+    "examples": [
+      {
+        "japanese": "キャンプ場で道具をレンタルできますよ。",
+        "hiragana": "きゃんぷじょう で どうぐ を れんたる できます よ。",
+        "english": "You can rent equipment at the campsite."
+      },
+      {
+        "japanese": "キャンプ場で道具をレンタルできますよ。",
+        "hiragana": "きゃんぷじょう で どうぐ を れんたる できます よ。",
+        "english": "You can rent equipment at the campsite, you know."
+      }
+    ]
+  },
+  {
+    "word": "安全ルール",
+    "reading": "安全ルール",
+    "meaning": "noun",
+    "frequency": 2,
+    "examples": [
+      {
+        "japanese": "それは助かります。登山道の安全ルールも確認しましょう。",
+        "hiragana": "それ は たすかります。 とざんどう の あんぜん るーる も かくにん しましょう。",
+        "english": "That's a help. Let's also check the safety rules for the hiking trail."
+      },
+      {
+        "japanese": "それは助かります。安全ルールも確認しましょう。",
+        "hiragana": "それ は たすかります 。 あんぜん るーる も かくにん しましょう 。",
+        "english": "That helps a lot. Let's check the safety rules too."
+      }
+    ]
+  },
+  {
+    "word": "リサイクル",
+    "reading": "リサイクル",
+    "meaning": "Noun",
+    "frequency": 2,
+    "examples": [
+      {
+        "japanese": "そうですね。でも、リサイクルを増やすために大切だと思います。",
+        "hiragana": "そう です ね。でも、りさいくる を ふやす ため に たいせつ だ と おもいます。",
+        "english": "That's true. But I think it's important in order to increase recycling."
+      },
+      {
+        "japanese": "はい、でもリサイクルを増やすために大切です。",
+        "hiragana": "はい 、 でも りさいくる を ふやす ため に たいせつ です。",
+        "english": "Yes, but it's important in order to increase recycling."
+      }
+    ]
+  },
+  {
+    "word": "チェック",
+    "reading": "チェック",
+    "meaning": "Noun meaning 'check'",
+    "frequency": 2,
+    "examples": [
+      {
+        "japanese": "このレポートのチェックをお願いしたいのですが…。",
+        "hiragana": "この れぽーと の ちぇっく を おねがい したい の です が…。",
+        "english": "I would like to ask you to check this report..."
+      },
+      {
+        "japanese": "恐れ入りますが、こちらの資料のチェックをお願いできないでしょうか。",
+        "hiragana": "おそれいります が、こちら の しりょう の チェック を おねがい できない でしょうか。",
+        "english": "I'm very sorry, but would it be possible for you to check these documents?"
+      }
+    ]
+  },
+  {
+    "word": "オンライン会議",
+    "reading": "オンライン会議",
+    "meaning": "Noun (online meeting)",
+    "frequency": 2,
+    "examples": [
+      {
+        "japanese": "今からオンライン会議を始めましょう。",
+        "hiragana": "いまから おんらいん かいぎ を はじめましょう",
+        "english": "Let's start the online meeting now."
+      },
+      {
+        "japanese": "明日のオンライン会議のスケジュールを確認していただけますか？",
+        "hiragana": "あした の おんらいん かいぎ の すけじゅーる を かくにん して いただけますか？",
+        "english": "Could you please check the schedule for tomorrow's online meeting?"
+      }
+    ]
+  },
+  {
+    "word": "タスクボード",
+    "reading": "タスクボード",
+    "meaning": "Noun (task board)",
+    "frequency": 2,
+    "examples": [
+      {
+        "japanese": "わかりました。では、私の画面を共有して、タスクボードを見せますね。",
+        "hiragana": "わかりました。 では、 わたし の がめん を きょうゆう して、 たすくぼーど を みせます ね",
+        "english": "I understand. Well then, I'll share my screen and show you the task board."
+      },
+      {
+        "japanese": "はい、確認します。ところで、タスクボードは更新しましたか？",
+        "hiragana": "はい、 かくにん します。 ところで、 たすくぼーど は こうしん しましたか？",
+        "english": "Yes, I will check it. By the way, did you update the task board?"
+      }
+    ]
+  },
+  {
+    "word": "チェックイン",
+    "reading": "チェックイン",
+    "meaning": "noun - check-in",
+    "frequency": 2,
+    "examples": [
+      {
+        "japanese": "予約していた田中です。チェックインをお願いします。",
+        "hiragana": "よやく して いた たなか です。 ちぇっくいん を おねがい します。",
+        "english": "I am Tanaka, I have a reservation. Check-in, please."
+      },
+      {
+        "japanese": "田中で予約している者です。チェックインをお願いします。",
+        "hiragana": "たなか で よやく している もの です。ちぇっくいん を おねがい します。",
+        "english": "I have a reservation under Tanaka. I'd like to check in, please."
+      }
+    ]
+  },
+  {
+    "word": "ドア",
+    "reading": "ドア",
+    "meaning": "Door",
+    "frequency": 2,
+    "examples": [
+      {
+        "japanese": "あ、ありがとうございます！ドアの前に置いてください。",
+        "hiragana": "あ、ありがとう ございます！どあ の まえ に おいて ください。",
+        "english": "Oh, thank you! Please leave it in front of the door."
+      },
+      {
+        "japanese": "あ、はい。ドアの前に置いてください。",
+        "hiragana": "あ、 はい。 どあ の まえ に おいて ください。",
+        "english": "Oh, yes. Please leave it in front of the door."
+      }
+    ]
+  },
+  {
+    "word": "遺失物センター",
+    "reading": "遺失物センター",
+    "meaning": "Noun (Lost and Found center)",
+    "frequency": 2,
+    "examples": [
+      {
+        "japanese": "遺失物センターに確認しますので、少々お待ちください。",
+        "hiragana": "いしつぶつせんたーに かくにん しますので、 しょうしょう おまち ください。",
+        "english": "I will check with the lost and found, so please wait a moment."
+      },
+      {
+        "japanese": "遺失物センターで確認しますね。",
+        "hiragana": "いしつぶつ せんたー で かくにん します ね。",
+        "english": "I will check at the lost and found center."
+      }
+    ]
+  },
+  {
+    "word": "ボランティア",
+    "reading": "ボランティア",
+    "meaning": "noun (volunteer)",
+    "frequency": 2,
+    "examples": [
+      {
+        "japanese": "いいですね！私も最近、NPOでボランティアをしています。",
+        "hiragana": "いい です ね！ わたし も さいきん、えぬぴーおー で ぼらんてぃあ を して います",
+        "english": "That's nice! I've also been volunteering at an NPO recently."
+      },
+      {
+        "japanese": "すみません、文化祭のボランティアについてですが、予定表をご確認いただけますか？",
+        "hiragana": "すみません、ぶんかさい の ぼらんてぃあ に ついて です が、よていひょう を ごかくにん いただけます か？",
+        "english": "Excuse me, regarding the school festival volunteers, could you please check the schedule?"
+      }
+    ]
+  },
+  {
+    "word": "エリア",
+    "reading": "エリア",
+    "meaning": "Noun meaning area",
+    "frequency": 2,
+    "examples": [
+      {
+        "japanese": "どのあたりのエリアで探しているんですか？",
+        "hiragana": "どの あたり の えりあ で さがして いる ん です か",
+        "english": "Which area are you looking in?"
+      },
+      {
+        "japanese": "はい、緑のエリアが初心者向けです。安全標識に注意してくださいね。",
+        "hiragana": "はい、みどり の えりあ が しょしんしゃむけ です。あんぜんひょうしき に ちゅうい してください ね。",
+        "english": "Yes, the green area is for beginners. Please be careful of the safety signs."
+      }
+    ]
+  },
+  {
+    "word": "オンライン申請",
+    "reading": "オンライン申請",
+    "meaning": "Noun (Online application)",
+    "frequency": 2,
+    "examples": [
+      {
+        "japanese": "いいえ、e-Taxでオンライン申請します。",
+        "hiragana": "いいえ、いーたくす で おんらいん しんせい します。",
+        "english": "No, I will apply online using e-Tax."
+      },
+      {
+        "japanese": "要項にはオンライン申請とありますが、システムに不具合があるようです。",
+        "hiragana": "ようこう に は おんらいん しんせい と あり ます が、 しすてむ に ふぐあい が ある よう です。",
+        "english": "The guidelines say online application is required, but there seems to be a system error."
+      }
+    ]
+  },
+  {
+    "word": "タッチして",
+    "reading": "タッチして",
+    "meaning": "verb (te-form of touch)",
+    "frequency": 2,
+    "examples": [
+      {
+        "japanese": "はい、使えます。読み取り機にタッチしてください。",
+        "hiragana": "はい、 つかえます。 よみとりき に タッチ して ください。",
+        "english": "Yes, you can. Please touch it on the reader."
+      },
+      {
+        "japanese": "はい、使えますよ。降りる時にリーダーにタッチしてください。",
+        "hiragana": "はい、 つかえます よ。 おりる とき に リーダー に タッチ して ください。",
+        "english": "Yes, you can. Please tap it on the reader when you get off."
+      }
+    ]
+  },
+  {
+    "word": "サイン",
+    "reading": "サイン",
+    "meaning": "Noun meaning signature",
+    "frequency": 2,
+    "examples": [
+      {
+        "japanese": "かしこまりました。こちらにサインをお願いします。",
+        "hiragana": "かしこまりました。こちら に さいん を おねがい します。",
+        "english": "Understood. Please sign here."
+      },
+      {
+        "japanese": "こちらで書類を準備しますので、サインをお願いします。",
+        "hiragana": "こちら で しょるい を じゅんび します ので、サイン を おねがい します。",
+        "english": "I will prepare the documents, so please sign them."
+      }
+    ]
+  },
+  {
+    "word": "レイヤー",
+    "reading": "レイヤー",
+    "meaning": "noun (layers)",
+    "frequency": 2,
+    "examples": [
+      {
+        "japanese": "少し短くして、レイヤーを入れてください。",
+        "hiragana": "すこし みじかく して、レイヤー を いれて ください。",
+        "english": "Please make it a bit shorter and add some layers."
+      },
+      {
+        "japanese": "少し短くして、レイヤーを入れてください。",
+        "hiragana": "すこし みじかく して、れいやー を いれて ください。",
+        "english": "Please make it a bit shorter and add some layers."
+      }
+    ]
+  },
+  {
+    "word": "プロジェクトボード",
+    "reading": "プロジェクトボード",
+    "meaning": "noun (project board)",
+    "frequency": 2,
+    "examples": [
+      {
+        "japanese": "はい、今共有しますね。プロジェクトボードは見えていますか？",
+        "hiragana": "はい、いま きょうゆう します ね。ぷろじぇくと ぼーど は みえて いますか？",
+        "english": "Yes, I'll share it now. Can you see the project board?"
+      },
+      {
+        "japanese": "わかりました。今共有しています。プロジェクトボードは見えますか？",
+        "hiragana": "わかりました 。 いま きょうゆう して います 。 プロジェクト ボード は みえ ます か ？",
+        "english": "Got it. I'm sharing it now. Can you see the project board?"
+      }
+    ]
+  },
+  {
+    "word": "コミュニケーション",
+    "reading": "コミュニケーション",
+    "meaning": "Noun (Communication)",
+    "frequency": 2,
+    "examples": [
+      {
+        "japanese": "私の強みは、周囲の人と円滑にコミュニケーションが取れることです。",
+        "hiragana": "わたしの つよみは しゅういのひとと えんかつに こみゅにけーしょんが とれる ことです",
+        "english": "My strength is that I can communicate smoothly with the people around me."
+      },
+      {
+        "japanese": "私の強みは、人と円滑にコミュニケーションが取れることです。",
+        "hiragana": "わたし の つよみ は、ひと と えんかつ に こみゅにけーしょん が とれる こと です",
+        "english": "My strength is that I can communicate smoothly with people."
+      }
+    ]
+  },
+  {
+    "word": "図書館カード",
+    "reading": "図書館カード",
+    "meaning": "Noun (library card)",
+    "frequency": 2,
+    "examples": [
+      {
+        "japanese": "はい、ですが図書館カードが必要です。",
+        "hiragana": "はい 、 です が としょかん かーど が ひつよう です 。",
+        "english": "Yes, but you will need a library card."
+      },
+      {
+        "japanese": "図書館カードはお持ちですか。",
+        "hiragana": "としょかん　かーど　は　おもち　です　か 。",
+        "english": "Do you have a library card?"
+      }
+    ]
+  },
+  {
+    "word": "避難ルート",
+    "reading": "避難ルート",
+    "meaning": "Noun",
+    "frequency": 2,
+    "examples": [
+      {
+        "japanese": "はい、避難ルートを確認しておきましょう。",
+        "hiragana": "はい 、 ひなん るーと を かくにん して おきましょう",
+        "english": "Yes, let's check the evacuation route in advance."
+      },
+      {
+        "japanese": "避難ルートはどこか分かりますか。",
+        "hiragana": "ひなん るーと は どこ か わかります か。",
+        "english": "Do you know where the evacuation route is?"
+      }
+    ]
+  },
+  {
+    "word": "コピー機",
+    "reading": "コピー機",
+    "meaning": "noun",
+    "frequency": 2,
+    "examples": [
+      {
+        "japanese": "はい、お願いします。あと、コピー機はどうやって使いますか？",
+        "hiragana": "はい、おねがいします。あと、こぴーき は どうやって つかい ます か？",
+        "english": "Yes, please. Also, how do I use the copy machine?"
+      },
+      {
+        "japanese": "ありがとうございます。コピー機はどこですか？",
+        "hiragana": "ありがとう ございます。 こぴーき は どこ です か？",
+        "english": "Thank you. Where is the copy machine?"
+      }
+    ]
+  },
+  {
+    "word": "サポートします",
+    "reading": "サポートします",
+    "meaning": "will support",
+    "frequency": 2,
+    "examples": [
+      {
+        "japanese": "そうでしたか。学校でもしっかりサポートしますね。",
+        "hiragana": "そう でした か。がっこう でも しっかり さぽーと します ね。",
+        "english": "I see. We will provide strong support at school as well."
+      },
+      {
+        "japanese": "そうなんですね。家でもっとサポートします。",
+        "hiragana": "そう なん です ね。いえ で もっと さぽーと します。",
+        "english": "I see. I will support him more at home."
+      }
+    ]
+  },
+  {
+    "word": "カメラ",
+    "reading": "カメラ",
+    "meaning": "Noun",
+    "frequency": 2,
+    "examples": [
+      {
+        "japanese": "うん、買ったよ。カメラがすごく綺麗なんだ。",
+        "hiragana": "うん、かった よ。かめら が すごく きれい なんだ。",
+        "english": "Yeah, I did. The camera is really beautiful."
+      },
+      {
+        "japanese": "すみません、このカメラの状態はどうですか？",
+        "hiragana": "すみませ ん 、 この かめら の じょうたい は どう です か ？",
+        "english": "Excuse me, how is the condition of this camera?"
+      }
+    ]
+  },
+  {
+    "word": "グループライン",
+    "reading": "グループライン",
+    "meaning": "Group LINE (messaging app)",
+    "frequency": 2,
+    "examples": [
+      {
+        "japanese": "はい、お願いします。グループラインに書いておいてください。",
+        "hiragana": "はい、おねがいします。ぐるーぷらいんに かいて おいてください。",
+        "english": "Yes, please. Please write it in the group LINE chat."
+      },
+      {
+        "japanese": "了解です。すぐにグループラインで連絡しますね。",
+        "hiragana": "りょうかい です。すぐに ぐるーぷらいん で れんらく します ね。",
+        "english": "Got it. I'll message them on the group chat right away."
+      }
+    ]
+  },
+  {
+    "word": "レシート",
+    "reading": "レシート",
+    "meaning": "noun (receipt)",
+    "frequency": 2,
+    "examples": [
+      {
+        "japanese": "誠に申し訳ございません。レシートをご提示いただければ、すぐに交換いたします。",
+        "hiragana": "まことに　もうしわけ ございません。れしーと を　ごていじ いただければ、すぐに　こうかん いたします。",
+        "english": "I am sincerely sorry. If you could provide the receipt, we will exchange it immediately."
+      },
+      {
+        "japanese": "はい、ございます。パスワードはレシートに書いてあります。",
+        "hiragana": "はい、ございます。ぱすわーどは　れしーとに　かいてあります。",
+        "english": "Yes, we have it. The password is written on the receipt."
+      }
+    ]
+  },
+  {
+    "word": "チラシ",
+    "reading": "チラシ",
+    "meaning": "noun (flyer)",
+    "frequency": 2,
+    "examples": [
+      {
+        "japanese": "来週は新歓の時期だから、チラシを準備しよう。",
+        "hiragana": "らいしゅう は しんかん の じき だから、ちらし を じゅんび しよう。",
+        "english": "Next week is the new student recruitment period, so let's prepare the flyers."
+      },
+      {
+        "japanese": "いいね、まずはチラシを確認しよう。",
+        "hiragana": "いい ね、まず は ちらし を かくにん しよう。",
+        "english": "Good idea, let's check the flyers first."
+      }
+    ]
+  },
+  {
+    "word": "ポイント",
+    "reading": "ポイント",
+    "meaning": "Noun (Points)",
+    "frequency": 2,
+    "examples": [
+      {
+        "japanese": "今日はスーパーのポイント5倍の日だよね？",
+        "hiragana": "きょう は すーぱー の ぽいんと ごばい の ひ だ よ ね？",
+        "english": "Today is the 5x points day at the supermarket, right?"
+      },
+      {
+        "japanese": "うん、アプリを使うとさらにポイントが貯まるよ。",
+        "hiragana": "うん、あぷり を つかう と さらに ぽいんと が たまる よ。",
+        "english": "Yeah, and if you use the app, you earn even more points."
+      }
+    ]
+  },
+  {
+    "word": "ホームパーティー",
+    "reading": "ホームパーティー",
+    "meaning": "Noun (home party)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "今週末、友達とホームパーティーに行きます。",
+        "hiragana": "こんしゅうまつ、ともだち と ホームパーティー に いきます。",
+        "english": "I am going to a home party with my friends this weekend."
+      }
+    ]
+  },
+  {
+    "word": "マナーモード",
+    "reading": "マナーモード",
+    "meaning": "Noun (Silent mode)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "映画館では、スマートフォンをマナーモードにしてください。",
+        "hiragana": "えいがかん で は 、 すまーとふぉん を まなーもーど に してください 。",
+        "english": "Please put your smartphone on silent mode in the movie theater."
+      }
+    ]
+  },
+  {
+    "word": "エビ",
+    "reading": "エビ",
+    "meaning": "shrimp (noun)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "エビのアレルギーがあるので、抜いてください。",
+        "hiragana": "えび の あれるぎー が ある ので、ぬいて ください。",
+        "english": "I have a shrimp allergy, so please remove them."
+      }
+    ]
+  },
+  {
+    "word": "チェックする",
+    "reading": "チェックする",
+    "meaning": "Verb (To check)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "ハイキングの前に、天気をチェックすることが大切です。",
+        "hiragana": "はいきんぐ の まえ に 、 てんき を ちぇっく する こと が たいせつ です 。",
+        "english": "It is important to check the weather before hiking."
+      }
+    ]
+  },
+  {
+    "word": "サーモンセット",
+    "reading": "サーモンセット",
+    "meaning": "Noun (Salmon set)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "私はサーモンセットにします。",
+        "hiragana": "わたし は さーもん せっと に します。",
+        "english": "I will have the salmon set."
+      }
+    ]
+  },
+  {
+    "word": "マグロセット",
+    "reading": "マグロセット",
+    "meaning": "Noun (Tuna set)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "じゃあ、私はマグロセットにします。",
+        "hiragana": "じゃあ、 わたし は まぐろ せっと に します。",
+        "english": "In that case, I'll have the tuna set."
+      }
+    ]
+  },
+  {
+    "word": "ルナ",
+    "reading": "ルナ",
+    "meaning": "Proper noun (Luna)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "名前はルナで、自然の中で遊ぶのが大好きです。",
+        "hiragana": "なまえ は るな で、しぜん の なか で あそぶ の が だいすき です。",
+        "english": "Her name is Luna, and she loves playing in nature."
+      }
+    ]
+  },
+  {
+    "word": "バドミントン",
+    "reading": "バドミントン",
+    "meaning": "Noun (Badminton)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "最近、バドミントンをしています。",
+        "hiragana": "さいきん 、ばどみんとん を して います。",
+        "english": "I've been playing badminton recently."
+      }
+    ]
+  },
+  {
+    "word": "センター",
+    "reading": "センター",
+    "meaning": "Noun (Center)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "いつも地域のセンターでしています。",
+        "hiragana": "いつも ちいき の せんたー で して います。",
+        "english": "I usually play at the local community center."
+      }
+    ]
+  },
+  {
+    "word": "乗り放題パス",
+    "reading": "乗り放題パス",
+    "meaning": "noun (unlimited ride pass)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "そうですか。乗り放題パスは使えますか？",
+        "hiragana": "そう です か。 のりほうだい ぱす は つかえます か？",
+        "english": "I see. Can I use an unlimited ride pass?"
+      }
+    ]
+  },
+  {
+    "word": "パス",
+    "reading": "パス",
+    "meaning": "noun (pass)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "はい、使えます。パスを提示してください。",
+        "hiragana": "はい、 つかえます。 ぱす を ていじ して ください。",
+        "english": "Yes, you can. Please show your pass."
+      }
+    ]
+  },
+  {
+    "word": "リビング",
+    "reading": "リビング",
+    "meaning": "Noun (living room)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "リビングが散らかっているから、一緒に掃除しよう。",
+        "hiragana": "りびんぐ が ちらかって いる から、 いっしょ に そうじ しよう。",
+        "english": "The living room is messy, so let's clean it together."
+      }
+    ]
+  },
+  {
+    "word": "トースター",
+    "reading": "トースター",
+    "meaning": "noun",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "そうなんですね。この古いトースターはどうやって捨てればいいですか？",
+        "hiragana": "そうなん です ね。 この ふるい とーすたー は どうやって すてれば いい です か？",
+        "english": "I see. How should I throw away this old toaster?"
+      }
+    ]
+  },
+  {
+    "word": "グループ活動",
+    "reading": "グループ活動",
+    "meaning": "Group activity (noun)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "元気にしていますが、グループ活動では少し恥ずかしがっているようです。",
+        "hiragana": "げんき に して います が、ぐるーぷ かつどう で は すこし はずかしがって いる よう です。",
+        "english": "He is energetic, but it seems he's a bit shy during group activities."
+      }
+    ]
+  },
+  {
+    "word": "サポートできる",
+    "reading": "サポートできる",
+    "meaning": "Can support (verb phrase)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "そうなんですね。家で何かサポートできることはありますか？",
+        "hiragana": "そう なん です ね。いえ で なにか さぽーと できる こと は あります か？",
+        "english": "I see. Is there anything we can do to support him at home?"
+      }
+    ]
+  },
+  {
+    "word": "リフレッシュ",
+    "reading": "リフレッシュ",
+    "meaning": "noun (refresh)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "そうですね。一度しっかり休んで、リフレッシュしようと思います。",
+        "hiragana": "そう です ね。 いちど しっかり やすんで、 りふれっしゅ しよう と おもいます。",
+        "english": "You're right. I think I'll take a proper rest and refresh myself."
+      }
+    ]
+  },
+  {
+    "word": "ボブスタイル",
+    "reading": "ボブスタイル",
+    "meaning": "Noun",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "自然なボブスタイルにしたいです。",
+        "hiragana": "しぜん な ぼぶすたいる に したい です",
+        "english": "I want to have a natural bob style."
+      }
+    ]
+  },
+  {
+    "word": "安全マップ",
+    "reading": "安全マップ",
+    "meaning": "noun",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "そうしましょう。安全マップも確認してくださいね。",
+        "hiragana": "そう しましょう。 あんぜん まっぷ も かくにん して ください ね。",
+        "english": "Let's do that. Please check the safety map as well."
+      }
+    ]
+  },
+  {
+    "word": "結婚パーティー",
+    "reading": "結婚パーティー",
+    "meaning": "Noun",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "来週末、友達の結婚パーティーがあります。",
+        "hiragana": "らいしゅうまつ、ともだち の けっこん パーティー が あります。",
+        "english": "Next weekend, there is a friend's wedding party."
+      }
+    ]
+  },
+  {
+    "word": "ハマっています",
+    "reading": "ハマっています",
+    "meaning": "Verb (State of being into something)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "最近は、テニスにハマっています。",
+        "hiragana": "さいきん は てにす に はまって います",
+        "english": "Recently, I've been into tennis."
+      }
+    ]
+  },
+  {
+    "word": "デジタルマナー",
+    "reading": "デジタルマナー",
+    "meaning": "Noun meaning 'digital etiquette'",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "その通り。デジタルマナーに気をつけよう。",
+        "hiragana": "その とおり。 でじたる まなーに きを つけよう。",
+        "english": "Exactly. Let's be mindful of digital etiquette."
+      }
+    ]
+  },
+  {
+    "word": "クレジットカード",
+    "reading": "クレジットカード",
+    "meaning": "noun meaning credit card",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "そうなんですね。支払いはクレジットカードでできますか？",
+        "hiragana": "そう なん です ね。しはらい は クレジットカード で できます か？",
+        "english": "I see. Can I pay by credit card?"
+      }
+    ]
+  },
+  {
+    "word": "データ通信",
+    "reading": "データ通信",
+    "meaning": "Noun (Data communication)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "データ通信が安いので、ソフトバンクにします。",
+        "hiragana": "データ つうしん が やすい ので、 ソフトバンク に します。",
+        "english": "Since the data communication is cheap, I'll go with SoftBank."
+      }
+    ]
+  },
+  {
+    "word": "マニュアル",
+    "reading": "マニュアル",
+    "meaning": "Noun (manual)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "今夜、もう一度マニュアルを確認しておきます。",
+        "hiragana": "こんや 、 もう いちど まにゅある を かくにん して おきます",
+        "english": "I will check the manual once more tonight."
+      }
+    ]
+  },
+  {
+    "word": "リサイクルセンター",
+    "reading": "リサイクルセンター",
+    "meaning": "Noun (recycling center)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "あそこのリサイクルセンターに持って行ってください。",
+        "hiragana": "あそこ の りさいくる せんたー に もっていって ください。",
+        "english": "Please take them to the recycling center over there."
+      }
+    ]
+  },
+  {
+    "word": "レジ",
+    "reading": "レジ",
+    "meaning": "Cash register",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "はい、レジでお支払いいただけます。",
+        "hiragana": "はい、 レジ で おしはらい いただけます。",
+        "english": "Yes, you can pay at the register."
+      }
+    ]
+  },
+  {
+    "word": "えびアレルギー",
+    "reading": "えびアレルギー",
+    "meaning": "Noun meaning 'shrimp allergy'",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "すみません、えびアレルギーがあります。",
+        "hiragana": "すみません、 えび あれるぎー が あります。",
+        "english": "Excuse me, I have a shrimp allergy."
+      }
+    ]
+  },
+  {
+    "word": "ボックス",
+    "reading": "ボックス",
+    "meaning": "Box",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "かしこまりました。ボックスの暗証番号はありますか？",
+        "hiragana": "かしこまりました。ぼっくす の あんしょうばんごう は あります か？",
+        "english": "Understood. Is there a password for the box?"
+      }
+    ]
+  },
+  {
+    "word": "アッシュブラウン",
+    "reading": "アッシュブラウン",
+    "meaning": "Noun (Color)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "少し短くして、アッシュブラウンに染めたいです。",
+        "hiragana": "すこし みじかく して、 あっしゅ ぶらうん に そめたい です。",
+        "english": "I want to make it a bit shorter and dye it ash brown."
+      }
+    ]
+  },
+  {
+    "word": "ツール",
+    "reading": "ツール",
+    "meaning": "Noun (tool)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "ありがとうございます。ツールで進捗を確認します。",
+        "hiragana": "ありがとう ございます。 つーる で しんちょく を かくにん します",
+        "english": "Thank you. I will check the progress on the tool."
+      }
+    ]
+  },
+  {
+    "word": "掃除イベント",
+    "reading": "掃除イベント",
+    "meaning": "Noun (cleanup event)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "地域の公園の掃除イベントがあるので、一緒に参加しませんか。",
+        "hiragana": "ちいきの　こうえんの　そうじイベントが　あるので、　いっしょに　さんか　しませんか。",
+        "english": "There is a local park cleanup event, so would you like to join me?"
+      }
+    ]
+  },
+  {
+    "word": "トッピング",
+    "reading": "トッピング",
+    "meaning": "Topping",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "トッピングはいかがですか？",
+        "hiragana": "とっぴんぐ は いかが です か？",
+        "english": "Would you like any toppings?"
+      }
+    ]
+  },
+  {
+    "word": "Tシャツ",
+    "reading": "Tシャツ",
+    "meaning": "Noun (Object)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "すみません、Tシャツはどこにありますか？",
+        "hiragana": "すみません、 てぃーしゃつ は どこ に あります か？",
+        "english": "Excuse me, where are the T-shirts?"
+      }
+    ]
+  },
+  {
+    "word": "セール品",
+    "reading": "セール品",
+    "meaning": "Noun (sale item)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "こちらのセール品が少し安くなっております。",
+        "hiragana": "こちら の せーるひん が すこし やすく なって おります。",
+        "english": "This sale item is a bit cheaper."
+      }
+    ]
+  },
+  {
+    "word": "誕生日パーティー",
+    "reading": "誕生日パーティー",
+    "meaning": "Noun meaning birthday party",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "来週の日曜日は、田中さんの誕生日パーティーです。",
+        "hiragana": "らいしゅうの にちようびは、たなかさんの たんじょうび ぱーてぃーです。",
+        "english": "Next Sunday is Tanaka-san's birthday party."
+      }
+    ]
+  },
+  {
+    "word": "スポーツ",
+    "reading": "スポーツ",
+    "meaning": "noun (sports)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "はい、スポーツが好きです。",
+        "hiragana": "はい、 すぽーつ が すき です。",
+        "english": "Yes, I like sports."
+      }
+    ]
+  },
+  {
+    "word": "デジタルデトックス",
+    "reading": "デジタルデトックス",
+    "meaning": "noun",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "いい考えだね。デジタルデトックスは大切だと思うよ。",
+        "hiragana": "いい かんがえ だ ね。 でじたるでとっくす は たいせつ だ と おもう よ。",
+        "english": "That's a good idea. I think digital detox is important."
+      }
+    ]
+  },
+  {
+    "word": "割引パス",
+    "reading": "割引パス",
+    "meaning": "Noun (Discount pass)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "観光客向けの割引パスはありますか？",
+        "hiragana": "かんこうきゃく むけ の わりびき パス は あります か？",
+        "english": "Is there a discount pass for tourists?"
+      }
+    ]
+  },
+  {
+    "word": "一ヶ月",
+    "reading": "一ヶ月",
+    "meaning": "Noun (one month)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "航空便なら一週間ほどですが、船便だと一ヶ月以上かかります。",
+        "hiragana": "こうくうびんなら いっしゅうかんほど ですが、 ふなびんだと いっかげつ いじょう かかります。",
+        "english": "By air it takes about a week, but by sea it takes more than a month."
+      }
+    ]
+  },
+  {
+    "word": "新システム",
+    "reading": "新システム",
+    "meaning": "Noun (new system)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "前職では、新システムを導入して業務効率を改善しました。",
+        "hiragana": "ぜんしょく では、しん しすてむ を どうにゅう して ぎょうむ こうりつ を かいぜん しました。",
+        "english": "In my previous job, I improved operational efficiency by introducing a new system."
+      }
+    ]
+  },
+  {
+    "word": "料金プラン",
+    "reading": "料金プラン",
+    "meaning": "Noun meaning price plan",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "安い料金プランを契約したいです。",
+        "hiragana": "やすい りょうきん ぷらん を けいやく したい です",
+        "english": "I would like to contract a cheap mobile plan."
+      }
+    ]
+  },
+  {
+    "word": "さくらクリニック",
+    "reading": "さくらクリニック",
+    "meaning": "Proper noun (clinic name)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "はい、「さくらクリニック」がとても親切で、おすすめです。",
+        "hiragana": "はい、「さくらくりにっく」が とても しんせつで、おすすめ です。",
+        "english": "Yes, Sakura Clinic is very kind and highly recommended."
+      }
+    ]
+  },
+  {
+    "word": "カジュアル",
+    "reading": "カジュアル",
+    "meaning": "Adjective (casual)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "言葉遣いがカジュアルすぎないか心配です。",
+        "hiragana": "ことばづかい が かじゅある すぎない か しんぱい です。",
+        "english": "I'm worried if the wording is too casual."
+      }
+    ]
+  },
+  {
+    "word": "粗大ゴミ",
+    "reading": "粗大ゴミ",
+    "meaning": "noun (oversized trash)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "来週の金曜日ですが、粗大ゴミは別途予約が必要です。",
+        "hiragana": "らいしゅう の きんようび です が、そだいごみ は べっと よやく が ひつよう です。",
+        "english": "It is next Friday, but for oversized trash, a separate reservation is necessary."
+      }
+    ]
+  },
+  {
+    "word": "えびあれるぎー",
+    "reading": "えびあれるぎー",
+    "meaning": "noun (shrimp allergy)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "すみません、えびあれるぎーがあります。",
+        "hiragana": "すみません、 えび あれるぎー が あります。",
+        "english": "Excuse me, I have a shrimp allergy."
+      }
+    ]
+  },
+  {
+    "word": "あれるぎー",
+    "reading": "あれるぎー",
+    "meaning": "noun (allergy)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "ひどいあれるぎーなので、えびをぬいてください。",
+        "hiragana": "ひどい あれるぎー なので、 えび を ぬいて ください。",
+        "english": "Since it is a severe allergy, please remove the shrimp."
+      }
+    ]
+  },
+  {
+    "word": "しゅーふ",
+    "reading": "しゅーふ",
+    "meaning": "noun (chef)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "わかりました。しゅーふに かくにんしますね。",
+        "hiragana": "わかりました。 しゅーふ に かくにん します ね。",
+        "english": "I understand. I will check with the chef."
+      }
+    ]
+  },
+  {
+    "word": "レンタルしましょう",
+    "reading": "レンタルしましょう",
+    "meaning": "let's rent",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "今週末のキャンプのために、道具をレンタルしましょう。",
+        "hiragana": "こんしゅうまつの きゃんぷの ために、 どうぐを れんたる しましょう。",
+        "english": "Let's rent some equipment for this weekend's camping trip."
+      }
+    ]
+  },
+  {
+    "word": "レンタルショップ",
+    "reading": "レンタルショップ",
+    "meaning": "rental shop",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "それでは、一緒にレンタルショップへ行きましょう。",
+        "hiragana": "それでは、 いっしょに れんたる しょっぷ へ いきましょう。",
+        "english": "Well then, let's go to the rental shop together."
+      }
+    ]
+  },
+  {
+    "word": "エシカルな",
+    "reading": "エシカルな",
+    "meaning": "Adjective",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "すごいですね！私も最近、エシカルな商品を買うようにしています。",
+        "hiragana": "すごい です ね！わたし も さいきん、えしかる な しょうひん を かう ように して います。",
+        "english": "That's great! I've also been trying to buy ethical products lately."
+      }
+    ]
+  },
+  {
+    "word": "招待メール",
+    "reading": "招待メール",
+    "meaning": "Noun (invitation email)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "承知いたしました。後で招待メールを送りますね。",
+        "hiragana": "しょうち いたしました 。 あと で しょうたい めーる を おくります ね 。",
+        "english": "Understood. I will send the invitation email later."
+      }
+    ]
+  },
+  {
+    "word": "イタリアンレストラン",
+    "reading": "イタリアンレストラン",
+    "meaning": "Noun",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "新しいイタリアンレストランはどうでしたか？",
+        "hiragana": "あたらしい いたりあん れすとらん は どう でした か？",
+        "english": "How was the new Italian restaurant?"
+      }
+    ]
+  },
+  {
+    "word": "ルーター",
+    "reading": "ルーター",
+    "meaning": "noun meaning 'router'",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "そうなんだ。一度ルーターを再起動してみたら？",
+        "hiragana": "そう なんだ。いちど るーたーを さいきどう して みたら？",
+        "english": "I see. Why don't you try restarting the router once?"
+      }
+    ]
+  },
+  {
+    "word": "カレー",
+    "reading": "カレー",
+    "meaning": "noun - curry",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "今日はカレーにするのはどうかな？",
+        "hiragana": "きょう は かれー に する の は どう か な？",
+        "english": "How about making curry today?"
+      }
+    ]
+  },
+  {
+    "word": "燃えるゴミ",
+    "reading": "燃えるゴミ",
+    "meaning": "noun phrase (burnable trash)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "こちらがスケジュールです。燃えるゴミは月曜日と木曜日です。",
+        "hiragana": "こちら が すけじゅーる です。 もえる ごみ は げつようび と もくようび です。",
+        "english": "Here is the schedule. Burnable trash is on Mondays and Thursdays."
+      }
+    ]
+  },
+  {
+    "word": "データ移行",
+    "reading": "データ移行",
+    "meaning": "Noun (data transfer)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "SIMカードの設定とデータ移行をお手伝いしますね。",
+        "hiragana": "しむかーど の せってい と でーた いこう を おてつだい します ね",
+        "english": "I will help you with the SIM card setup and data transfer."
+      }
+    ]
+  },
+  {
+    "word": "運転免許センター",
+    "reading": "運転免許センター",
+    "meaning": "Noun (Driver's License Center)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "運転免許センターに行くといいですよ。",
+        "hiragana": "うんてん めんきょ せんたー に いくと いい です よ。",
+        "english": "It would be good to go to the Driver's License Center."
+      }
+    ]
+  },
+  {
+    "word": "データ",
+    "reading": "データ",
+    "meaning": "noun meaning data",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "ドコモがいいですが、データをたくさん使いたいです。",
+        "hiragana": "どこも が いい です が、 でーた を たくさん つかいたい です",
+        "english": "I prefer Docomo, but I want to use a lot of data."
+      }
+    ]
+  },
+  {
+    "word": "レジ横",
+    "reading": "レジ横",
+    "meaning": "Noun (next to register)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "お支払いは、あちらのレジ横の機械でお願いします。",
+        "hiragana": "おしはらい は、 あちら の れじよこ の きかい で おねがいします。",
+        "english": "For payment, please use the machine next to that register over there."
+      }
+    ]
+  },
+  {
+    "word": "野菜カレー",
+    "reading": "野菜カレー",
+    "meaning": "noun meaning vegetable curry",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "はい、こちらの野菜カレーなら大丈夫です。",
+        "hiragana": "はい、 こちら の やさい かれー なら だいじょうぶ です。",
+        "english": "Yes, this vegetable curry should be fine."
+      }
+    ]
+  },
+  {
+    "word": "バーンアウト",
+    "reading": "バーンアウト",
+    "meaning": "Loanword noun meaning 'burnout'",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "バーンアウト気味じゃない？一度メンタルヘルス休暇を取ったらどうかな。",
+        "hiragana": "ばーんあうと ぎみ じゃない？ いちど めんたるへるす きゅうか を とったら どうかな。",
+        "english": "Aren't you feeling a bit burnt out? How about taking a mental health day once?"
+      }
+    ]
+  },
+  {
+    "word": "シャンプー",
+    "reading": "シャンプー",
+    "meaning": "noun (shampoo)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "かしこまりました。まずはシャンプーから始めますね。",
+        "hiragana": "かしこまりました。 まずは シャンプー から はじめます ね。",
+        "english": "Certainly. Let's start with the shampoo first."
+      }
+    ]
+  },
+  {
+    "word": "アウトドアショップ",
+    "reading": "アウトドアショップ",
+    "meaning": "Noun (outdoor shop)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "アウトドアショップでレンタルできますよ。",
+        "hiragana": "あうとどあしょっぷ で れんたる できます よ 。",
+        "english": "You can rent them at the outdoor shop."
+      }
+    ]
+  },
+  {
+    "word": "エコバッグ",
+    "reading": "エコバッグ",
+    "meaning": "Noun (Eco-bag)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "私はエコバッグを使い、プラスチックを減らしたいです。",
+        "hiragana": "わたし は えこばっぐ を つかい 、 ぷらすちっく を へらしたい です 。",
+        "english": "I want to use eco-bags and reduce plastic."
+      }
+    ]
+  },
+  {
+    "word": "ゴミ拾いイベント",
+    "reading": "ゴミ拾いイベント",
+    "meaning": "noun (cleanup event)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "今週末、地域のゴミ拾いイベントに参加しませんか。",
+        "hiragana": "こんしゅうまつ、 ちいき の ごみひろい いべんと に さんか しませんか。",
+        "english": "Would you like to participate in the local cleanup event this weekend?"
+      }
+    ]
+  },
+  {
+    "word": "ゴミを",
+    "reading": "ゴミを",
+    "meaning": "object marker",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "朝の９時に始まります。みんなで一緒にゴミを集めますよ。",
+        "hiragana": "あさ の くじ に はじまります。 みんな で いっしょ に ごみ を あつめます よ。",
+        "english": "It starts at 9 AM. We will all collect trash together."
+      }
+    ]
+  },
+  {
+    "word": "ゴミ袋を",
+    "reading": "ゴミ袋を",
+    "meaning": "object marker (garbage bags)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "分かりました。私はゴミ袋を持って行きますね。",
+        "hiragana": "わかりました。 わたし は ごみぶくろ を もって いきます ね。",
+        "english": "I understand. I will bring some garbage bags."
+      }
+    ]
+  },
+  {
+    "word": "バルコニー",
+    "reading": "バルコニー",
+    "meaning": "Noun (balcony)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "はい、あとバルコニーがある部屋がいいです。",
+        "hiragana": "はい、 あと ばるこにーが ある へやが いいです。",
+        "english": "Yes, and I'd like a room that has a balcony."
+      }
+    ]
+  },
+  {
+    "word": "ミステリー小説",
+    "reading": "ミステリー小説",
+    "meaning": "noun (mystery novel)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "特にミステリー小説が好きです。",
+        "hiragana": "とくに みすてりー しょうせつ が すき です",
+        "english": "I especially like mystery novels."
+      }
+    ]
+  },
+  {
+    "word": "ボタン",
+    "reading": "ボタン",
+    "meaning": "noun",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "ここにあるこのボタンを押せばいいですよ。",
+        "hiragana": "ここ に ある この ぼたん を おせば いい です よ。",
+        "english": "You just need to press this button right here."
+      }
+    ]
+  },
+  {
+    "word": "ライフライン",
+    "reading": "ライフライン",
+    "meaning": "Noun (utilities/lifelines)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "こちらにお渡しください。ライフラインの手続きはもう済みましたか？",
+        "hiragana": "こちら に おわたし ください。らいふらいん の てつづき は もう すみました か",
+        "english": "Please hand it to me here. Have you already completed the utility procedures?"
+      }
+    ]
+  },
+  {
+    "word": "営業チーム",
+    "reading": "営業チーム",
+    "meaning": "Noun (Sales team)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "営業チームとエンジニアの橋渡し役として取り組みました。",
+        "hiragana": "えいぎょうちーむと えんじにあの はしわたしやくとして とりくみました",
+        "english": "I worked as a bridge between the sales team and engineers."
+      }
+    ]
+  },
+  {
+    "word": "エンジニア",
+    "reading": "エンジニア",
+    "meaning": "Noun (Engineer)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "営業チームとエンジニアの橋渡し役として取り組みました。",
+        "hiragana": "えいぎょうちーむと えんじにあの はしわたしやくとして とりくみました",
+        "english": "I worked as a bridge between the sales team and engineers."
+      }
+    ]
+  },
+  {
+    "word": "データ容量",
+    "reading": "データ容量",
+    "meaning": "Noun",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "ドコモがいいと思いますが、データ容量が心配です。",
+        "hiragana": "どこも が いい と おもいますが、 でーた ようりょう が しんぱい です。",
+        "english": "I think Docomo is good, but I'm worried about the data capacity."
+      }
+    ]
+  },
+  {
+    "word": "500グラム",
+    "reading": "500グラム",
+    "meaning": "noun (weight)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "おいしそうですね！500グラムくらいください。",
+        "hiragana": "おいしそう です ね！ ごひゃく ぐらむ くらい ください。",
+        "english": "They look delicious! Please give me about 500 grams."
+      }
+    ]
+  },
+  {
+    "word": "パクチー",
+    "reading": "パクチー",
+    "meaning": "Noun meaning coriander/cilantro",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "ありがとうございます。あと、パクチーが苦手なので、これも抜いてください。",
+        "hiragana": "ありがとう ございます。 あと、 ぱくちー が にがて なので、 これ も ぬいて ください。",
+        "english": "Thank you. Also, I'm not fond of coriander, so please leave that out too."
+      }
+    ]
+  },
+  {
+    "word": "ゴミ袋",
+    "reading": "ゴミ袋",
+    "meaning": "Noun meaning 'trash bags'",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "ゴミ袋は町内会が用意するので、軍手だけ持ってきてください。",
+        "hiragana": "ごみぶくろ は ちょうないかい が ようい する ので 、 ぐんて だけ もってきて ください 。",
+        "english": "The neighborhood association will provide trash bags, so please just bring work gloves."
+      }
+    ]
+  },
+  {
+    "word": "ドラフト",
+    "reading": "ドラフト",
+    "meaning": "Noun meaning draft",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "佐藤課長、プロジェクト報告書のドラフトができました。",
+        "hiragana": "さとう かちょう、ぷろじぇくと ほうこくしょ の どらふと が できました。",
+        "english": "Manager Sato, I have completed the draft of the project report."
+      }
+    ]
+  },
+  {
+    "word": "リンク",
+    "reading": "リンク",
+    "meaning": "Noun",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "最新のiPhoneだよ。メールでリンクを送るね。",
+        "hiragana": "さいしん の あいふぉん だ よ。めーる で りんく を おくる ね。",
+        "english": "It's the latest iPhone. I'll send you the link by email."
+      }
+    ]
+  },
+  {
+    "word": "ポチ",
+    "reading": "ポチ",
+    "meaning": "Proper Noun",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "ポチです。よく公園に連れて行きます。",
+        "hiragana": "ぽち です 。 よく こうえん に つれて いきます 。",
+        "english": "It's Pochi. I often take him to the park."
+      }
+    ]
+  },
+  {
+    "word": "ファンタジー小説",
+    "reading": "ファンタジー小説",
+    "meaning": "Noun",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "主にファンタジー小説を読みます。",
+        "hiragana": "おもに ふぁんたじー しょうせつ を よみます",
+        "english": "I mainly read fantasy novels."
+      }
+    ]
+  },
+  {
+    "word": "スケジュール管理アプリ",
+    "reading": "スケジュール管理アプリ",
+    "meaning": "noun",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "このスケジュール管理アプリがとても便利ですよ。",
+        "hiragana": "この スケジュール かんり アプリ が とても べんり です よ。",
+        "english": "This schedule management app is very convenient."
+      }
+    ]
+  },
+  {
+    "word": "アカウント",
+    "reading": "アカウント",
+    "meaning": "noun",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "はい。まずはアカウントを作ってください。",
+        "hiragana": "はい。 まずは アカウント を つくって ください。",
+        "english": "Yes. First, please create an account."
+      }
+    ]
+  },
+  {
+    "word": "ダウンロードして",
+    "reading": "ダウンロードして",
+    "meaning": "verb (te-form)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "わかりました。早速ダウンロードしてみます。",
+        "hiragana": "わかりました。 さっそく ダウンロード して みます。",
+        "english": "Understood. I'll try downloading it right away."
+      }
+    ]
+  },
+  {
+    "word": "チームメンバー",
+    "reading": "チームメンバー",
+    "meaning": "noun (team member)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "前職では、チームメンバーと協力して多くの問題を解決しました。",
+        "hiragana": "ぜんしょく で は、ちーむ めんばー と きょうりょく して おおく の もんだい を かいけつ しました",
+        "english": "In my previous job, I solved many problems by cooperating with team members."
+      }
+    ]
+  },
+  {
+    "word": "ガス会社",
+    "reading": "ガス会社",
+    "meaning": "noun",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "まずは、電力会社とガス会社に電話してください。",
+        "hiragana": "まず は、でんりょくがいしゃ と ガスがいしゃ に でんわ して ください。",
+        "english": "First, please call the electric company and the gas company."
+      }
+    ]
+  },
+  {
+    "word": "リーダー",
+    "reading": "リーダー",
+    "meaning": "noun",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "はい、使えますよ。降りる時にリーダーにタッチしてください。",
+        "hiragana": "はい、 つかえます よ。 おりる とき に リーダー に タッチ して ください。",
+        "english": "Yes, you can. Please tap it on the reader when you get off."
+      }
+    ]
+  },
+  {
+    "word": "カジュアルすぎます",
+    "reading": "カジュアルすぎます",
+    "meaning": "Adjective (too casual)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "はい、確認しましたが、二段落目の表現が少しカジュアルすぎます。",
+        "hiragana": "はい、かくにん しましたが、にだんらくめ の ひょうげん が すこし かじゅある すぎます。",
+        "english": "Yes, I checked it, but the wording in the second paragraph is a bit too casual."
+      }
+    ]
+  },
+  {
+    "word": "５００グラム",
+    "reading": "５００グラム",
+    "meaning": "Noun indicating quantity (500 grams)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "じゃあ、５００グラムくらいください。",
+        "hiragana": "じゃあ、 ごひゃく ぐらむ くらい ください。",
+        "english": "Then, please give me about 500 grams."
+      }
+    ]
+  },
+  {
+    "word": "ソース",
+    "reading": "ソース",
+    "meaning": "Noun",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "はい、ソースに入っています。抜くことができますよ。",
+        "hiragana": "はい、そーすに　はいっています。ぬくことが　できますよ。",
+        "english": "Yes, it is in the sauce. I can remove it for you."
+      }
+    ]
+  },
+  {
+    "word": "イメージチェンジ",
+    "reading": "イメージチェンジ",
+    "meaning": "Noun (Image change)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "今日は、イメージチェンジしたいです。",
+        "hiragana": "きょう は 、 いめーじ ちぇんじ したい です 。",
+        "english": "I want to change my look today."
+      }
+    ]
+  },
+  {
+    "word": "ウェーブ",
+    "reading": "ウェーブ",
+    "meaning": "Noun (Wave)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "この写真みたいに、ゆるいウェーブにしたいです。",
+        "hiragana": "この しゃしん みたい に 、 ゆるい うぇーぶ に したい です 。",
+        "english": "I want loose waves, like in this photo."
+      }
+    ]
+  },
+  {
+    "word": "エシカル消費",
+    "reading": "エシカル消費",
+    "meaning": "ethical consumption",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "最近はエシカル消費にも興味があります。",
+        "hiragana": "さいきん は えしかる しょうひ に も きょうみ が あります。",
+        "english": "Recently, I've also become interested in ethical consumption."
+      }
+    ]
+  },
+  {
+    "word": "マイバッグ",
+    "reading": "マイバッグ",
+    "meaning": "reusable shopping bag",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "いいですね。まずはマイバッグを使うことから始めましょう。",
+        "hiragana": "いい です ね 。 まず は まいばっぐ を つかう こと から はじめましょう。",
+        "english": "That's good. Let's start by using my-bags first."
+      }
+    ]
+  },
+  {
+    "word": "シフト",
+    "reading": "シフト",
+    "meaning": "Work shift (loanword)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "佐藤さん、来週の火曜日のシフト、代わってもらえますか？",
+        "hiragana": "さとうさん、らいしゅうの かようびの しふと、かわってもらえますか？",
+        "english": "Sato-san, could you swap next Tuesday's shift with me?"
+      }
+    ]
+  },
+  {
+    "word": "ケアセンター",
+    "reading": "ケアセンター",
+    "meaning": "care center",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "それでしたら、地域のケアセンターのサポートを受けてみてはいかがでしょうか。",
+        "hiragana": "それ でした ら、ちいき の けあ せんたー の さぽーと を うけて みて は いかが でしょう か。",
+        "english": "In that case, why not try receiving support from the local care center?"
+      }
+    ]
+  },
+  {
+    "word": "サポート",
+    "reading": "サポート",
+    "meaning": "support",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "それでしたら、地域のケアセンターのサポートを受けてみてはいかがでしょうか。",
+        "hiragana": "それ でした ら、ちいき の けあ せんたー の さぽーと を うけて みて は いかが でしょう か。",
+        "english": "In that case, why not try receiving support from the local care center?"
+      }
+    ]
+  },
+  {
+    "word": "ポータルサイト",
+    "reading": "ポータルサイト",
+    "meaning": "Noun (Portal site)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "まずは事務局のポータルサイトを確認してください。そこに最新のフォーマットがありますから。",
+        "hiragana": "まず は じむきょく の ぽーたる さいと を かくにん して ください。 そこ に さいしん の ふぉーまっと が あります から。",
+        "english": "First, please check the administration office's portal site. Because the latest format is available there."
+      }
+    ]
+  },
+  {
+    "word": "フォーマット",
+    "reading": "フォーマット",
+    "meaning": "Noun (Format)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "まずは事務局のポータルサイトを確認してください。そこに最新のフォーマットがありますから。",
+        "hiragana": "まず は じむきょく の ぽーたる さいと を かくにん して ください。 そこ に さいしん の ふぉーまっと が あります から。",
+        "english": "First, please check the administration office's portal site. Because the latest format is available there."
+      }
+    ]
+  },
+  {
+    "word": "新グッズ",
+    "reading": "新グッズ",
+    "meaning": "new merchandise",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "今回の新グッズ、アクスタ買えた？",
+        "hiragana": "こんかい の しんぐづ、あくすた かえた？",
+        "english": "Were you able to buy the new merch, like the acrylic stand?"
+      }
+    ]
+  },
+  {
+    "word": "アクスタ",
+    "reading": "アクスタ",
+    "meaning": "acrylic stand (slang)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "今回の新グッズ、アクスタ買えた？",
+        "hiragana": "こんかい の しんぐづ、あくすた かえた？",
+        "english": "Were you able to buy the new merch, like the acrylic stand?"
+      }
+    ]
+  },
+  {
+    "word": "ローストターキー",
+    "reading": "ローストターキー",
+    "meaning": "noun (roast turkey)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "普通はローストターキーとパンプキンパイを食べます。",
+        "hiragana": "ふつう は ろーすと たーきー と ぱんぷきん ぱい を たべます。",
+        "english": "Usually, we eat roast turkey and pumpkin pie."
+      }
+    ]
+  },
+  {
+    "word": "パンプキンパイ",
+    "reading": "パンプキンパイ",
+    "meaning": "noun (pumpkin pie)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "普通はローストターキーとパンプキンパイを食べます。",
+        "hiragana": "ふつう は ろーすと たーきー と ぱんぷきん ぱい を たべます。",
+        "english": "Usually, we eat roast turkey and pumpkin pie."
+      }
+    ]
+  },
+  {
+    "word": "ホーム",
+    "reading": "ホーム",
+    "meaning": "Noun",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "ホームが変更になったと書いてあります。",
+        "hiragana": "ほーむ が へんこう に なった と かいて あります。",
+        "english": "It says that the platform has been changed."
+      }
+    ]
+  },
+  {
+    "word": "QRコード",
+    "reading": "QRコード",
+    "meaning": "noun (QR code)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "はい、こちらのQRコードを読み取ってください。",
+        "hiragana": "はい、 こちら の キューアールコード を よみとって ください。",
+        "english": "Yes, please scan this QR code."
+      }
+    ]
+  },
+  {
+    "word": "アドバイス",
+    "reading": "アドバイス",
+    "meaning": "Noun (advice)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "先輩、私の自己PRの内容について、アドバイスをいただけますか？",
+        "hiragana": "せんぱい、わたし の じこ ぴーあーる の ないよう に ついて、あどばいす を いただけますか？",
+        "english": "Senpai, could you give me some advice regarding the content of my self-promotion?"
+      }
+    ]
+  },
+  {
+    "word": "ドレス",
+    "reading": "ドレス",
+    "meaning": "Noun referring to the garment",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "すみません、このドレスをドライクリーニングお願いします。",
+        "hiragana": "すみません 、 この　どれす　を　どらいくりーにんぐ　おねがいします",
+        "english": "Excuse me, I'd like to have this dress dry cleaned."
+      }
+    ]
+  },
+  {
+    "word": "ドライクリーニング",
+    "reading": "ドライクリーニング",
+    "meaning": "Noun meaning 'dry cleaning'",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "すみません、このドレスをドライクリーニングお願いします。",
+        "hiragana": "すみません 、 この　どれす　を　どらいくりーにんぐ　おねがいします",
+        "english": "Excuse me, I'd like to have this dress dry cleaned."
+      }
+    ]
+  },
+  {
+    "word": "ワイン",
+    "reading": "ワイン",
+    "meaning": "Noun referring to the liquid",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "はい、ここにワインのシミがあるのですが、落とせますか？",
+        "hiragana": "はい 、 ここ　に　わいん　の　しみ　が　ある　のですが 、 おとせますか",
+        "english": "Yes, there is a wine stain here; can you remove it?"
+      }
+    ]
+  },
+  {
+    "word": "シミ",
+    "reading": "シミ",
+    "meaning": "Noun meaning 'stain'",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "はい、ここにワインのシミがあるのですが、落とせますか？",
+        "hiragana": "はい 、 ここ　に　わいん　の　しみ　が　ある　のですが 、 おとせますか",
+        "english": "Yes, there is a wine stain here; can you remove it?"
+      }
+    ]
+  },
+  {
+    "word": "エアコン",
+    "reading": "エアコン",
+    "meaning": "noun (air conditioner)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "もしもし、エアコンが故障して冷えません。",
+        "hiragana": "もしもし、 えあこん が こしょう して ひえません。",
+        "english": "Hello, my air conditioner is broken and not cooling."
+      }
+    ]
+  },
+  {
+    "word": "2センチ",
+    "reading": "2センチ",
+    "meaning": "noun (length)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "毛先を2センチくらい切ってください。",
+        "hiragana": "けさき を にせんち くらい きって ください",
+        "english": "Please cut about 2 centimeters off the ends."
+      }
+    ]
+  },
+  {
+    "word": "ジャンク品",
+    "reading": "ジャンク品",
+    "meaning": "noun meaning 'junk item'",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "これは「ジャンク品」なので、動作確認はしていません。",
+        "hiragana": "これ は 「 じゃんくひん 」 な ので 、 どうさ かくにん は して いませ ん 。",
+        "english": "This is a \"junk item,\" so we haven't confirmed if it works."
+      }
+    ]
+  },
+  {
+    "word": "ヴィンテージ風",
+    "reading": "ヴィンテージ風",
+    "meaning": "noun phrase meaning 'vintage style'",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "動作は保証できませんが、ヴィンテージ風でかっこいいですよ。",
+        "hiragana": "どうさ は ほしょう できません が 、 ヴィンテー ジ ふう で かっこいい です よ 。",
+        "english": "We can't guarantee the operation, but it has a cool vintage look."
+      }
+    ]
+  },
+  {
+    "word": "ダメ",
+    "reading": "ダメ",
+    "meaning": "Adjective (No/Bad)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "「ダメだよ。客引きについていくのは危ないから。」",
+        "hiragana": "だめ だ よ。 きゃくひき に ついていく の は あぶない から。",
+        "english": "\"No way. Following promoters is dangerous.\""
+      }
+    ]
+  },
+  {
+    "word": "ストレス",
+    "reading": "ストレス",
+    "meaning": "noun (stress)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "最近ストレスが多いので、瞑想を始めました。",
+        "hiragana": "さいきん すとれす が おおい ので、 めいそう を はじめました。",
+        "english": "I've been feeling a lot of stress lately, so I started meditating."
+      }
+    ]
+  },
+  {
+    "word": "マシン",
+    "reading": "マシン",
+    "meaning": "Noun",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "すみません、このマシンの使い方を教えていただけますか？",
+        "hiragana": "すみません、 この ましん の つかいかた を おしえて いただけますか？",
+        "english": "Excuse me, could you please teach me how to use this machine?"
+      }
+    ]
+  },
+  {
+    "word": "室内シューズ",
+    "reading": "室内シューズ",
+    "meaning": "Noun",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "わかりました。室内シューズを履いて使ってもいいですか？",
+        "hiragana": "わかりました。 しつない しゅーず を はいて つかっても いい です か？",
+        "english": "I understand. Is it okay to use this while wearing indoor shoes?"
+      }
+    ]
+  },
+  {
+    "word": "チケット",
+    "reading": "チケット",
+    "meaning": "noun",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "すみません、特別展のチケットはいくらですか。",
+        "hiragana": "すみません、 とくべつてん の ちけっと は いくら です か。",
+        "english": "Excuse me, how much is the ticket for the special exhibition?"
+      }
+    ]
+  },
+  {
+    "word": "コイン投入口",
+    "reading": "コイン投入口",
+    "meaning": "Noun (coin slot)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "あ、コイン投入口が詰まってます！",
+        "hiragana": "あ、こいん とうにゅうぐち が つまって ます！",
+        "english": "Oh, the coin slot is jammed!"
+      }
+    ]
+  },
+  {
+    "word": "ギリギリ",
+    "reading": "ギリギリ",
+    "meaning": "Noun/Adverb (on the edge)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "ああ、本当だ。ギリギリですね。お手伝いしますよ。",
+        "hiragana": "ああ、 ほんとう だ。 ぎりぎり です ね。 おてつだい します よ。",
+        "english": "Ah, you're right. It's right on the edge. I'll help you out."
+      }
+    ]
+  },
+  {
+    "word": "ポジション",
+    "reading": "ポジション",
+    "meaning": "Noun meaning job position",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "今回のポジションの想定年収について、お伺いしてもよろしいでしょうか。",
+        "hiragana": "こんかい の ぽじしょん の そうていねんしゅう に ついて、おうかがい しても よろしい でしょうか。",
+        "english": "May I ask about the expected annual salary for this position?"
+      }
+    ]
+  },
+  {
+    "word": "ネジ",
+    "reading": "ネジ",
+    "meaning": "Noun meaning 'screw'",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "次に、このネジを部品Aに取り付けてください。",
+        "hiragana": "つぎ に 、 この ねじ を ぶひん えー に とりつけて ください",
+        "english": "Next, please attach this screw to part A."
+      }
+    ]
+  },
+  {
+    "word": "ステップ",
+    "reading": "ステップ",
+    "meaning": "Noun meaning 'step'",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "わかりました。では、次のステップに進みましょう。",
+        "hiragana": "わかりました 。 では 、 つぎ の すてっぷ に すすみましょう",
+        "english": "I understand. Now, let's move to the next step."
+      }
+    ]
+  },
+  {
+    "word": "リスク",
+    "reading": "リスク",
+    "meaning": "noun meaning 'risk'",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "長期的に運用すれば、リスクを抑えられますよ。",
+        "hiragana": "ちょうきてき に うんよう すれば、りすく を おさえられます よ。",
+        "english": "If you manage it long-term, you can reduce the risk."
+      }
+    ]
+  },
+  {
+    "word": "パワハラ",
+    "reading": "パワハラ",
+    "meaning": "noun (power harassment)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "そうですね。これはパワハラに当たるかもしれません。",
+        "hiragana": "そうですね。 これは ぱわはらに あたるかも しれません。",
+        "english": "I agree. This might be considered power harassment."
+      }
+    ]
+  },
+  {
+    "word": "コンプライアンス窓口",
+    "reading": "コンプライアンス窓口",
+    "meaning": "noun (compliance window/desk)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "コンプライアンス窓口に相談したほうがいいでしょうか。",
+        "hiragana": "こんぷらいあんす まどぐちに そうだんした ほうが いいでしょうか。",
+        "english": "Do you think it would be better to consult the compliance window?"
+      }
+    ]
+  },
+  {
+    "word": "マジで",
+    "reading": "マジで",
+    "meaning": "adverb",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "この動画、マジで草。",
+        "hiragana": "この　どうが、まじで　くさ。",
+        "english": "This video is seriously hilarious."
+      }
+    ]
+  },
+  {
+    "word": "バズり",
+    "reading": "バズり",
+    "meaning": "verb stem",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "知らんけど、バズり散らかしてるな。",
+        "hiragana": "しらんけど、ばずり　ちらかして　るな。",
+        "english": "I don't know, but it's going totally viral."
+      }
+    ]
+  },
+  {
+    "word": "フルーツ",
+    "reading": "フルーツ",
+    "meaning": "Noun",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "すみません、高級なフルーツのギフトセットを探しています。",
+        "hiragana": "すみません、 こうきゅう な ふるーつ の ぎふとせっと を さがして います。",
+        "english": "Excuse me, I am looking for a luxury fruit gift set."
+      }
+    ]
+  },
+  {
+    "word": "ギフトセット",
+    "reading": "ギフトセット",
+    "meaning": "Noun",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "すみません、高級なフルーツのギフトセットを探しています。",
+        "hiragana": "すみません、 こうきゅう な ふるーつ の ぎふとせっと を さがして います。",
+        "english": "Excuse me, I am looking for a luxury fruit gift set."
+      }
+    ]
+  },
+  {
+    "word": "メロンセット",
+    "reading": "メロンセット",
+    "meaning": "Noun",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "こちらの旬のメロンセットが、大変人気がございます。",
+        "hiragana": "こちら の しゅん の めろんせっと が、 たいへん にんき が ございます。",
+        "english": "This seasonal melon set is very popular."
+      }
+    ]
+  },
+  {
+    "word": "ワークショップを",
+    "reading": "ワークショップを",
+    "meaning": "noun + object marker (workshop)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "都市から移住してきた人たちに、ワークショップを企画してもらいませんか。",
+        "hiragana": "とし から いじゅう して きた ひとたち に、わーくしょっぷ を きかく して もらいません か。",
+        "english": "Why don't we have the people who migrated from the city plan a workshop?"
+      }
+    ]
+  },
+  {
+    "word": "カビ",
+    "reading": "カビ",
+    "meaning": "Noun (Mold)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "梅雨に入って、お風呂場にカビが生えてきました。",
+        "hiragana": "つゆ に はいって、 おふろば に かび が はえて きました。",
+        "english": "The rainy season has started, and mold has started growing in the bathroom."
+      }
+    ]
+  },
+  {
+    "word": "キッチン",
+    "reading": "キッチン",
+    "meaning": "Noun (Kitchen)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "それに、昨日キッチンでゴキブリを見ました。",
+        "hiragana": "それに、 きのう きっちん で ごきぶり を みました。",
+        "english": "Also, I saw a cockroach in the kitchen yesterday."
+      }
+    ]
+  },
+  {
+    "word": "ゴキブリ",
+    "reading": "ゴキブリ",
+    "meaning": "Noun (Cockroach)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "それに、昨日キッチンでゴキブリを見ました。",
+        "hiragana": "それに、 きのう きっちん で ごきぶり を みました。",
+        "english": "Also, I saw a cockroach in the kitchen yesterday."
+      }
+    ]
+  },
+  {
+    "word": "ケアプランを",
+    "reading": "ケアプランを",
+    "meaning": "Noun (care plan) + object particle 'o'",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "区分が決まったら、一緒にケアプランを作成しましょう。",
+        "hiragana": "くぶんが きまったら、いっしょに けあぷらんを さくせいしましょう。",
+        "english": "Once the category is decided, let's create a care plan together."
+      }
+    ]
+  },
+  {
+    "word": "ホットラテ",
+    "reading": "ホットラテ",
+    "meaning": "Noun (hot latte)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "すみません、ホットラテを一つお願いします。",
+        "hiragana": "すみません、ほっとらてを　ひとつ　おねがいします。",
+        "english": "Excuse me, one hot latte, please."
+      }
+    ]
+  },
+  {
+    "word": "Mサイズ",
+    "reading": "Mサイズ",
+    "meaning": "Noun (Medium size)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "Mサイズで。あと、Wi-Fiはありますか？",
+        "hiragana": "えむさいずで。あと、わいふぁいは　ありますか？",
+        "english": "Medium, please. Also, is there Wi-Fi?"
+      }
+    ]
+  },
+  {
+    "word": "パスワード",
+    "reading": "パスワード",
+    "meaning": "Noun (password)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "はい、ございます。パスワードはレシートに書いてあります。",
+        "hiragana": "はい、ございます。ぱすわーどは　れしーとに　かいてあります。",
+        "english": "Yes, we have it. The password is written on the receipt."
+      }
+    ]
+  },
+  {
+    "word": "コンセント",
+    "reading": "コンセント",
+    "meaning": "Noun (electrical outlet)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "ありがとうございます。コンセントを使ってもいいですか？",
+        "hiragana": "ありがとうございます。こんせんとを　つかっても　いいですか？",
+        "english": "Thank you. Is it okay to use a power outlet?"
+      }
+    ]
+  },
+  {
+    "word": "バリアフリー",
+    "reading": "バリアフリー",
+    "meaning": "Noun meaning barrier-free",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "はい、バリアフリーのルートを教えていただけますか？",
+        "hiragana": "はい、ばりあふりーの　るーとを　おしえて　いただけますか？",
+        "english": "Yes, could you please show me the barrier-free route?"
+      }
+    ]
+  },
+  {
+    "word": "ルート",
+    "reading": "ルート",
+    "meaning": "Noun meaning route",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "はい、バリアフリーのルートを教えていただけますか？",
+        "hiragana": "はい、ばりあふりーの　るーとを　おしえて　いただけますか？",
+        "english": "Yes, could you please show me the barrier-free route?"
+      }
+    ]
+  },
+  {
+    "word": "エレベーター",
+    "reading": "エレベーター",
+    "meaning": "Noun meaning elevator",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "もちろんです。あちらにエレベーターがございます。",
+        "hiragana": "もちろんです。あちらに　えれべーたーが　ございます。",
+        "english": "Of course. There is an elevator over there."
+      }
+    ]
+  },
+  {
+    "word": "デジタル承認",
+    "reading": "デジタル承認",
+    "meaning": "Noun (Digital approval)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "そうですね。はんこを廃止して、デジタル承認にしたからです。",
+        "hiragana": "そうですね。はんこを はいしして、でじたる しょうにんに した からです。",
+        "english": "That's true. It's because we abolished hanko seals and switched to digital approvals."
+      }
+    ]
+  },
+  {
+    "word": "スタジアム",
+    "reading": "スタジアム",
+    "meaning": "Destination noun",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "明日、スタジアムに行こう！",
+        "hiragana": "あした、すたじあむに　いこう！",
+        "english": "Let's go to the stadium tomorrow!"
+      }
+    ]
+  },
+  {
+    "word": "ユニフォーム",
+    "reading": "ユニフォーム",
+    "meaning": "Object noun",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "いいね！限定のユニフォームが買いたいな。",
+        "hiragana": "いいね！げんていの　ゆにふぉーむが　かいたいな。",
+        "english": "Sounds good! I want to buy the limited edition jersey."
+      }
+    ]
+  },
+  {
+    "word": "ファンクラブ",
+    "reading": "ファンクラブ",
+    "meaning": "Organization noun",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "ファンクラブに入っているの？",
+        "hiragana": "ふぁんくらぶに　はいっているの？",
+        "english": "Are you a member of the fan club?"
+      }
+    ]
+  },
+  {
+    "word": "限定グッズ",
+    "reading": "限定グッズ",
+    "meaning": "Object noun",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "うん、入ってるから限定グッズが買えるよ。",
+        "hiragana": "うん、はいってるから　げんていぐっずが　かえるよ。",
+        "english": "Yeah, I'm a member, so I can buy the limited edition goods."
+      }
+    ]
+  },
+  {
+    "word": "パチンコ屋",
+    "reading": "パチンコ屋",
+    "meaning": "Noun (pachinko parlor)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "今日はパチンコ屋で結構当たった？",
+        "hiragana": "きょう は ぱちんこや で けっこう あたった？",
+        "english": "Did you win a fair amount at the pachinko parlor today?"
+      }
+    ]
+  },
+  {
+    "word": "ベランダ",
+    "reading": "ベランダ",
+    "meaning": "noun (balcony)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "ベランダのトマトはどうですか？",
+        "hiragana": "べらんだ の とまと は どう です か？",
+        "english": "How are the tomatoes on the balcony?"
+      }
+    ]
+  },
+  {
+    "word": "ホームセンター",
+    "reading": "ホームセンター",
+    "meaning": "noun (home center/hardware store)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "いいですね。明日一緒にホームセンターへ行きましょう。",
+        "hiragana": "いい です ね。 あした いっしょ に ほーむせんたー へ いきましょう。",
+        "english": "That sounds good. Let's go to the home center together tomorrow."
+      }
+    ]
+  },
+  {
+    "word": "タウンホールミーティング",
+    "reading": "タウンホールミーティング",
+    "meaning": "noun meaning 'town hall meeting'",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "今週末にタウンホールミーティングがあるそうですが、一緒に行きませんか？",
+        "hiragana": "こんしゅうまつ に たうんほーる みーてぃんぐ が ある そう です が、いっしょ に いきませ ん か？",
+        "english": "I heard there is a town hall meeting this weekend; would you like to go together?"
+      }
+    ]
+  },
+  {
+    "word": "ノンバイナリー",
+    "reading": "ノンバイナリー",
+    "meaning": "Noun (Non-binary)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "私はノンバイナリーなので、「彼」や「彼女」ではなく、名前で呼んでください。",
+        "hiragana": "わたしは のんばいなり なので、「かれ」や「かのじょ」ではなく、なまえで よんで ください。",
+        "english": "I am non-binary, so please call me by my name instead of 'he' or 'she'."
+      }
+    ]
+  },
+  {
+    "word": "マナー本",
+    "reading": "マナー本",
+    "meaning": "Noun (etiquette book)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "分かった。マナー本を確認して準備するね。",
+        "hiragana": "わかった。まなーぼん を かくにん して じゅんび する ね。",
+        "english": "Got it. I'll check an etiquette book and get ready."
+      }
+    ]
+  },
+  {
+    "word": "メンバーリスト",
+    "reading": "メンバーリスト",
+    "meaning": "Noun (Member list)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "メンバーリストの中で、気になっている方がいるのですが。",
+        "hiragana": "めんばーりすと の なか で、き に なって いる かた が いる の です が。",
+        "english": "There is someone on the member list I am interested in..."
+      }
+    ]
+  },
+  {
+    "word": "セッティング",
+    "reading": "セッティング",
+    "meaning": "Noun (Setting/Arrangement)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "お見合いのセッティングをお願いできますでしょうか。",
+        "hiragana": "おみあい の せっていんぐ を おねがい できます でしょう か。",
+        "english": "Could you please arrange an omiai (formal meeting) for me?"
+      }
+    ]
+  },
+  {
+    "word": "レシピ",
+    "reading": "レシピ",
+    "meaning": "noun",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "このレシピの「大さじ１」って、どれくらいですか？",
+        "hiragana": "この れしぴ の 「おおさじ いち」 って、どれくらい ですか？",
+        "english": "How much is \"one tablespoon\" in this recipe?"
+      }
+    ]
+  },
+  {
+    "word": "１５ミリリットル",
+    "reading": "１５ミリリットル",
+    "meaning": "noun (measurement)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "大さじ１杯は、だいたい１５ミリリットルですよ。",
+        "hiragana": "おおさじ いっぱい は、だいたい じゅうご みりりっとる です よ。",
+        "english": "One tablespoon is roughly 15 milliliters."
+      }
+    ]
+  },
+  {
+    "word": "サークル",
+    "reading": "サークル",
+    "meaning": "Noun referring to an independent creator group",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "ほら、あそこが探していたサークルだよ！",
+        "hiragana": "ほら、 あそこ が さがして いた さーくる だ よ！",
+        "english": "Look, that's the circle we were looking for!"
+      }
+    ]
+  },
+  {
+    "word": "ブース",
+    "reading": "ブース",
+    "meaning": "Noun (booth/stall)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "そうだね、行列があるから、ブースに長く居すぎないようにしよう。",
+        "hiragana": "そうだね、 ぎょうれつ が ある から、 ぶーす に ながく いすぎない ように しよう。",
+        "english": "You're right, since there's a line, let's make sure not to stay at the booth too long."
+      }
+    ]
+  },
+  {
+    "word": "マナー",
+    "reading": "マナー",
+    "meaning": "Noun (etiquette/manners)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "分かった。マナーを守って、楽しく買おう！",
+        "hiragana": "わかった。 まなー を まもって、 たのしく かおう！",
+        "english": "Got it. Let's follow the etiquette and enjoy shopping!"
+      }
+    ]
+  },
+  {
+    "word": "プログラムに",
+    "reading": "プログラムに",
+    "meaning": "Noun + Target particle",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "それでは、本日のプログラムに沿って、進行させていただきます。",
+        "hiragana": "それでは、ほんじつの プログラムに そって、しんこう させていただきます。",
+        "english": "Now, I will proceed with the program for today."
+      }
+    ]
+  },
+  {
+    "word": "カウンター席",
+    "reading": "カウンター席",
+    "meaning": "Noun",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "はい、カウンター席がございます。こちらへどうぞ。",
+        "hiragana": "はい、かうんたー せき が ございます。こちら へ どうぞ。",
+        "english": "Yes, we have counter seating. Please come this way."
+      }
+    ]
+  },
+  {
+    "word": "レンタルしたい",
+    "reading": "レンタルしたい",
+    "meaning": "verb (want to rent)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "来週の夏祭りで着たいので、浴衣をレンタルしたいです。",
+        "hiragana": "らいしゅう の なつまつり で きたい ので、ゆかた を れんたる したい です。",
+        "english": "I want to rent a yukata because I want to wear one for next week's summer festival."
+      }
+    ]
+  },
+  {
+    "word": "ハラール対応",
+    "reading": "ハラール対応",
+    "meaning": "Noun meaning halal-compliant",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "すみません、ハラール対応の食事はありますか。",
+        "hiragana": "すみません、 はらーる たいおう の しょくじ は あります か。",
+        "english": "Excuse me, do you have halal-compliant meals?"
+      }
+    ]
+  },
+  {
+    "word": "プレスリリース",
+    "reading": "プレスリリース",
+    "meaning": "Noun (Press release)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "新製品のプレスリリースの原稿は、もう完成しましたか？",
+        "hiragana": "しんせいひん の ぷれすりりーす の げんこう は、もう かんせい しました か？",
+        "english": "Is the draft for the new product press release finished yet?"
+      }
+    ]
+  },
+  {
+    "word": "コンテンツ",
+    "reading": "コンテンツ",
+    "meaning": "Noun (content)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "〇〇さんのコンテンツに非常に興味があり、ぜひスポンサー契約のご提案をさせていただきたいです。",
+        "hiragana": "〇〇さん の こんてんつ に ひじょうに きょうみ が あり、ぜひ すぽんさー けいやく の ごていあん を させて いただきたい です。",
+        "english": "I am very interested in your content and would like to propose a sponsorship agreement."
+      }
+    ]
+  },
+  {
+    "word": "スポンサー契約",
+    "reading": "スポンサー契約",
+    "meaning": "Noun (sponsorship contract)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "〇〇さんのコンテンツに非常に興味があり、ぜひスポンサー契約のご提案をさせていただきたいです。",
+        "hiragana": "〇〇さん の こんてんつ に ひじょうに きょうみ が あり、ぜひ すぽんさー けいやく の ごていあん を させて いただきたい です。",
+        "english": "I am very interested in your content and would like to propose a sponsorship agreement."
+      }
+    ]
+  },
+  {
+    "word": "タイアップ動画",
+    "reading": "タイアップ動画",
+    "meaning": "Noun (tie-up video)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "はい。YouTubeのタイアップ動画1本と、Instagramの投稿2回を想定しております。",
+        "hiragana": "はい。ユーチューブ の たいあっぷ どうが いっぽん と、いんすたぐらむ の とうこう にかい を そうてい して おります。",
+        "english": "Yes. We are envisioning one YouTube tie-up video and two Instagram posts."
+      }
+    ]
+  },
+  {
+    "word": "住宅ローン",
+    "reading": "住宅ローン",
+    "meaning": "noun",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "いいえ、税金は別途になりますが、住宅ローンを組むことができますよ。",
+        "hiragana": "いいえ、ぜいきんは　べっとに　なりますが、じゅうたくろーんを　くむことが　できますよ。",
+        "english": "No, taxes are separate, but you can take out a mortgage."
+      }
+    ]
+  },
+  {
+    "word": "ローン",
+    "reading": "ローン",
+    "meaning": "noun",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "ローンの金利は今、どのくらいになっていますか？",
+        "hiragana": "ろーんの　きんりは　いま、どのくらいに　なっていますか？",
+        "english": "How much are the mortgage interest rates currently?"
+      }
+    ]
+  },
+  {
+    "word": "ソファ",
+    "reading": "ソファ",
+    "meaning": "noun",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "このソファを捨てたいんですが、どうすればいいですか？",
+        "hiragana": "この そふぁを すてたいん ですが、 どうすれば いいですか？",
+        "english": "I want to throw away this sofa, what should I do?"
+      }
+    ]
+  },
+  {
+    "word": "スノーボード",
+    "reading": "スノーボード",
+    "meaning": "Noun",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "すみません、スノーボードのレンタルとリフト券の購入をお願いします。",
+        "hiragana": "すみません、すのーぼーど の れんたる と りふとけん の こうにゅう を おねがいします。",
+        "english": "Excuse me, I'd like to rent a snowboard and purchase a lift pass."
+      }
+    ]
+  },
+  {
+    "word": "リフト券",
+    "reading": "リフト券",
+    "meaning": "Noun",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "すみません、スノーボードのレンタルとリフト券の購入をお願いします。",
+        "hiragana": "すみません、すのーぼーど の れんたる と りふとけん の こうにゅう を おねがいします。",
+        "english": "Excuse me, I'd like to rent a snowboard and purchase a lift pass."
+      }
+    ]
+  },
+  {
+    "word": "ボード選び",
+    "reading": "ボード選び",
+    "meaning": "Noun",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "かしこまりました。ボード選びのために、身長と体重を教えてください。",
+        "hiragana": "かしこまりました。ぼーどえらび の ために、しんちょう と たいじゅう を おしえてください。",
+        "english": "Understood. Please tell me your height and weight to help us choose the board."
+      }
+    ]
+  },
+  {
+    "word": "170センチ",
+    "reading": "170センチ",
+    "meaning": "Noun",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "身長は170センチで、体重は65キロです。初心者コースはありますか？",
+        "hiragana": "しんちょう は ひゃくななじゅう せんち で、たいじゅう は ろくじゅうご きろ です。しょしんしゃ こーす は ありますか？",
+        "english": "I am 170cm tall and weigh 65kg. Is there a beginner course?"
+      }
+    ]
+  },
+  {
+    "word": "65キロ",
+    "reading": "65キロ",
+    "meaning": "Noun",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "身長は170センチで、体重は65キロです。初心者コースはありますか？",
+        "hiragana": "しんちょう は ひゃくななじゅう せんち で、たいじゅう は ろくじゅうご きろ です。しょしんしゃ こーす は ありますか？",
+        "english": "I am 170cm tall and weigh 65kg. Is there a beginner course?"
+      }
+    ]
+  },
+  {
+    "word": "初心者コース",
+    "reading": "初心者コース",
+    "meaning": "Noun",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "身長は170センチで、体重は65キロです。初心者コースはありますか？",
+        "hiragana": "しんちょう は ひゃくななじゅう せんち で、たいじゅう は ろくじゅうご きろ です。しょしんしゃ こーす は ありますか？",
+        "english": "I am 170cm tall and weigh 65kg. Is there a beginner course?"
+      }
+    ]
+  },
+  {
+    "word": "キャッシュ",
+    "reading": "キャッシュ",
+    "meaning": "noun",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "さようでございますか。一度キャッシュをクリアして、再度お試しいただけますでしょうか。",
+        "hiragana": "さよう で ございます か。 いちど きゃっしゅ を くりあ して、 さいど おためし いただけます でしょう か。",
+        "english": "I see. Could you please try clearing your cache and then trying again?"
+      }
+    ]
+  },
+  {
+    "word": "クリアして",
+    "reading": "クリアして",
+    "meaning": "verb (te-form)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "さようでございますか。一度キャッシュをクリアして、再度お試しいただけますでしょうか。",
+        "hiragana": "さよう で ございます か。 いちど きゃっしゅ を くりあ して、 さいど おためし いただけます でしょう か。",
+        "english": "I see. Could you please try clearing your cache and then trying again?"
+      }
+    ]
+  },
+  {
+    "word": "アクションシーン",
+    "reading": "アクションシーン",
+    "meaning": "noun (action scene)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "でしょ？アクションシーン、盛りすぎだったし。",
+        "hiragana": "でしょ？ あくしょん しーん、もりすぎ だった し。",
+        "english": "Right? The action scenes were way over the top."
+      }
+    ]
+  },
+  {
+    "word": "ウェブサイト",
+    "reading": "ウェブサイト",
+    "meaning": "Website",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "はい。ウェブサイトで拝見したバッグを探しているのですが。",
+        "hiragana": "はい。 ウェブサイト で はいけん した バッグ を さがして いる の です が。",
+        "english": "Yes. I am looking for a bag that I saw on your website."
+      }
+    ]
+  },
+  {
+    "word": "バッグ",
+    "reading": "バッグ",
+    "meaning": "Bag",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "はい。ウェブサイトで拝見したバッグを探しているのですが。",
+        "hiragana": "はい。 ウェブサイト で はいけん した バッグ を さがして いる の です が。",
+        "english": "Yes. I am looking for a bag that I saw on your website."
+      }
+    ]
+  },
+  {
+    "word": "クリーニング代",
+    "reading": "クリーニング代",
+    "meaning": "Noun - cleaning fee",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "そうですか。クリーニング代は敷金から差し引かれますか？",
+        "hiragana": "そう です か。 クリーニング だい は しききん から さしひかれます か？",
+        "english": "I see. Will the cleaning fee be deducted from the security deposit?"
+      }
+    ]
+  },
+  {
+    "word": "創立記念パーティー",
+    "reading": "創立記念パーティー",
+    "meaning": "Noun (anniversary party)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "来月、弊社にて創立記念パーティーを執り行いますので、ぜひご出席ください。",
+        "hiragana": "らいげつ、へいしゃ にて そうりつきねん パーティー を とりおこない ます ので、ぜひ ごしゅっせき ください。",
+        "english": "We will be holding an anniversary party at our company next month, so please do attend."
+      }
+    ]
+  },
+  {
+    "word": "スーパー",
+    "reading": "スーパー",
+    "meaning": "Noun (Supermarket)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "今日はスーパーのポイント5倍の日だよね？",
+        "hiragana": "きょう は すーぱー の ぽいんと ごばい の ひ だ よ ね？",
+        "english": "Today is the 5x points day at the supermarket, right?"
+      }
+    ]
+  },
+  {
+    "word": "株式会社タナカ",
+    "reading": "株式会社タナカ",
+    "meaning": "Proper noun (Company name)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "はい、どうぞ。私は株式会社タナカの田中と申します。",
+        "hiragana": "はい、 どうぞ。 わたし は かぶしきがいしゃ タナカ の たなか と もうします。",
+        "english": "Yes, please. I am Tanaka from Tanaka Co., Ltd."
+      }
+    ]
+  },
+  {
+    "word": "スーツ",
+    "reading": "スーツ",
+    "meaning": "Noun (Suit)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "結婚式で着るための、軽くて質の良いスーツをお願いします。",
+        "hiragana": "けっこんしき で きる ため の 、 かるくて しつ の よい すーつ を おねがい します 。",
+        "english": "I'd like a lightweight, high-quality suit to wear for a wedding."
+      }
+    ]
+  },
+  {
+    "word": "ウールシルク混",
+    "reading": "ウールシルク混",
+    "meaning": "Noun (Wool-silk blend)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "それでしたら、こちらのウールシルク混の生地はいかがでしょうか。",
+        "hiragana": "それ でした ら 、 こちら の うーる しるく こん の きじ は いかが でしょう か 。",
+        "english": "In that case, how about this wool-silk blend fabric?"
+      }
+    ]
+  },
+  {
+    "word": "ラペル",
+    "reading": "ラペル",
+    "meaning": "Noun (Lapel)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "素敵ですね。ラペルをもう少し細めにしていただけますか？",
+        "hiragana": "すてき です ね 。 らぺる を もう すこし ほそめ に して いただけます か ？",
+        "english": "That's lovely. Could you make the lapels slightly narrower?"
+      }
+    ]
+  },
+  {
+    "word": "40パーセント",
+    "reading": "40パーセント",
+    "meaning": "number/noun",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "40パーセントまで削っており、非常に贅沢な造りです。",
+        "hiragana": "よんじゅう　ぱーせんと　まで　けぞっており、ひじょうに　ぜいたくな　つくり　です。",
+        "english": "It is polished down to 40 percent, making it a very luxurious brew."
+      }
+    ]
+  },
+  {
+    "word": "メーカー保証",
+    "reading": "メーカー保証",
+    "meaning": "noun",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "はい、一年間のメーカー保証がありますが、有料で延長することも可能です。",
+        "hiragana": "はい、 いちねんかん の めーかー ほしょう が あります が、 ゆうりょう で えんちょう する こと も かのう です。",
+        "english": "Yes, there is a one-year manufacturer's warranty, but it is also possible to extend it for a fee."
+      }
+    ]
+  },
+  {
+    "word": "マンション",
+    "reading": "マンション",
+    "meaning": "noun meaning apartment",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "すみません、このマンションの近くに空いている駐車場はありますか？",
+        "hiragana": "すみません 、 この　まんしょん　の　ちかく　に　あいている　ちゅうしゃじょう　は　あります　か？",
+        "english": "Excuse me, is there an available parking space near this apartment?"
+      }
+    ]
+  },
+  {
+    "word": "共有スペース",
+    "reading": "共有スペース",
+    "meaning": "noun",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "共有スペースの掃除当番を、みんなで決めませんか。",
+        "hiragana": "きょうゆう すぺーす の そうじ とうばん を 、 みんな で きめませんか。",
+        "english": "Shall we all decide on the cleaning duties for the shared space together?"
+      }
+    ]
+  },
+  {
+    "word": "ワクチン",
+    "reading": "ワクチン",
+    "meaning": "Noun (Vaccine)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "すみません、ワクチンの予約はどうすればいいですか？",
+        "hiragana": "すみません、 わくちん の よやく は どう すれば いい です か？",
+        "english": "Excuse me, how should I go about making a vaccination appointment?"
+      }
+    ]
+  },
+  {
+    "word": "公式サイト",
+    "reading": "公式サイト",
+    "meaning": "Noun (Official website)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "市の公式サイトかアプリから申請してください。",
+        "hiragana": "し の こうしき さいと か あぷり から しんせい して ください。",
+        "english": "Please apply through the city's official website or the app."
+      }
+    ]
+  },
+  {
+    "word": "ライセンス契約",
+    "reading": "ライセンス契約",
+    "meaning": "noun",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "このライセンス契約の詳細を確認していただけますか？",
+        "hiragana": "この らいせんす けいやくの しょうさいを かくにんして いただけますか？",
+        "english": "Could you please check the details of this licensing agreement?"
+      }
+    ]
+  },
+  {
+    "word": "ロイヤリティ",
+    "reading": "ロイヤリティ",
+    "meaning": "noun",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "はい、ただロイヤリティの料率が少し気になります。",
+        "hiragana": "はい、ただ ろいやりてぃの りょうりつが すこし きになります。",
+        "english": "Yes, but I am a bit concerned about the royalty rate."
+      }
+    ]
+  },
+  {
+    "word": "シンプルに",
+    "reading": "シンプルに",
+    "meaning": "adjective-like (simple)",
+    "frequency": 1,
+    "examples": [
+      {
+        "japanese": "その考え方、素敵だね。私も生活をシンプルにしたいな。",
+        "hiragana": "その かんがえかた、すてき だ ね。わたし も せいかつ を しんぷる に したい な。",
+        "english": "That way of thinking is wonderful. I want to make my life simpler too."
+      }
+    ]
+  }
+]

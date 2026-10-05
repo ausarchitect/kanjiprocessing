@@ -1,0 +1,4979 @@
+[
+  {
+    "japanese": "先生、宿題について質問があります。",
+    "hiragana": "せんせい、しゅくだい に ついて しつもん が あります。",
+    "english": "Teacher, I have a question about the homework.",
+    "grammar_pattern": "〜について",
+    "grammar_explanation": "Used to indicate the topic or subject that something is about.",
+    "category": "Education and Learning",
+    "theme": "Education, Language, and Academic Life",
+    "components": [
+      {
+        "text": "先生",
+        "role": "Noun (Teacher)",
+        "raw_role": "Noun (Teacher)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "宿題",
+        "role": "Noun (Homework)",
+        "raw_role": "Noun (Homework)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "について",
+        "role": "Compound Particle (About)",
+        "raw_role": "Compound Particle (About)",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "質問",
+        "role": "Noun (Question)",
+        "raw_role": "Noun (Question)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "が",
+        "role": "Subject Marker",
+        "raw_role": "Subject Marker",
+        "normalized_role": "Subject Marker"
+      },
+      {
+        "text": "あります",
+        "role": "Verb (To exist/have)",
+        "raw_role": "Verb (To exist/have)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "conversation_id": "eb1825b9-65ea-4782-adb2-4b90333103b1",
+    "grammar_function": "Copula, Topics & Definitions (です / は / について)",
+    "sequence_key": "Noun → Noun → Particle → Noun → Subject Marker → Verb",
+    "location": "school",
+    "raw_grammar_pattern": "Noun + について",
+    "functional_tag": "Topic / Focus (\"Regarding / About\")"
+  },
+  {
+    "japanese": "何ですか。教えてください。",
+    "hiragana": "なん です か。おしえて ください。",
+    "english": "What is it? Please tell me.",
+    "grammar_pattern": "〜てください",
+    "grammar_explanation": "A polite way to request or ask someone to perform an action.",
+    "category": "Education and Learning",
+    "theme": "Education, Language, and Academic Life",
+    "components": [
+      {
+        "text": "何",
+        "role": "Question Word (What)",
+        "raw_role": "Question Word (What)",
+        "normalized_role": "Question Word"
+      },
+      {
+        "text": "です",
+        "role": "Copula (Is)",
+        "raw_role": "Copula (Is)",
+        "normalized_role": "Copula"
+      },
+      {
+        "text": "か",
+        "role": "Question Particle",
+        "raw_role": "Question Particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "教えて",
+        "role": "Verb-te form (Tell)",
+        "raw_role": "Verb-te form (Tell)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "ください",
+        "role": "Polite Request",
+        "raw_role": "Polite Request",
+        "normalized_role": "Request"
+      }
+    ],
+    "conversation_id": "eb1825b9-65ea-4782-adb2-4b90333103b1",
+    "grammar_function": "Requests & Favors (〜て / ください)",
+    "sequence_key": "Question Word → Copula → Particle → Verb → Request",
+    "location": "school",
+    "raw_grammar_pattern": "Verb-te + ください",
+    "functional_tag": "Polite Request (\"Please do\")"
+  },
+  {
+    "japanese": "このレポートの締め切りはいつですか。",
+    "hiragana": "この れぽーと の しめきり は いつ です か。",
+    "english": "When is the deadline for this report?",
+    "grammar_pattern": "Noun + は + Question Word",
+    "grammar_explanation": "Used to identify the topic and ask for specific information about it.",
+    "category": "Education and Learning",
+    "theme": "Education, Language, and Academic Life",
+    "components": [
+      {
+        "text": "この",
+        "role": "Demonstrative (This)",
+        "raw_role": "Demonstrative (This)",
+        "normalized_role": "Demonstrative"
+      },
+      {
+        "text": "レポート",
+        "role": "Noun (Report)",
+        "raw_role": "Noun (Report)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "の",
+        "role": "Possessive Particle",
+        "raw_role": "Possessive Particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "締め切り",
+        "role": "Noun (Deadline)",
+        "raw_role": "Noun (Deadline)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "は",
+        "role": "Topic Marker",
+        "raw_role": "Topic Marker",
+        "normalized_role": "Topic Marker"
+      },
+      {
+        "text": "いつ",
+        "role": "Question Word (When)",
+        "raw_role": "Question Word (When)",
+        "normalized_role": "Question Word"
+      },
+      {
+        "text": "です",
+        "role": "Copula (Is)",
+        "raw_role": "Copula (Is)",
+        "normalized_role": "Copula"
+      },
+      {
+        "text": "か",
+        "role": "Question Particle",
+        "raw_role": "Question Particle",
+        "normalized_role": "Particle"
+      }
+    ],
+    "conversation_id": "eb1825b9-65ea-4782-adb2-4b90333103b1",
+    "grammar_function": "Questions & Inquiries (〜ですか / どこ / どう)",
+    "sequence_key": "Demonstrative → Noun → Particle → Noun → Topic Marker → Question Word → Copula → Particle",
+    "location": "school",
+    "raw_grammar_pattern": "Noun + は + Question Word",
+    "functional_tag": "Information Query (\"How / What / Where?\")"
+  },
+  {
+    "japanese": "締め切りは来週の金曜日です。",
+    "hiragana": "しめきり は らいしゅう の きんようび です。",
+    "english": "The deadline is next Friday.",
+    "grammar_pattern": "Noun + です",
+    "grammar_explanation": "The basic polite copula used to state that something is a certain way.",
+    "category": "Education and Learning",
+    "theme": "Education, Language, and Academic Life",
+    "components": [
+      {
+        "text": "締め切り",
+        "role": "Noun (Deadline)",
+        "raw_role": "Noun (Deadline)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "は",
+        "role": "Topic Marker",
+        "raw_role": "Topic Marker",
+        "normalized_role": "Topic Marker"
+      },
+      {
+        "text": "来週",
+        "role": "Noun (Next week)",
+        "raw_role": "Noun (Next week)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "の",
+        "role": "Possessive Particle",
+        "raw_role": "Possessive Particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "金曜日",
+        "role": "Noun (Friday)",
+        "raw_role": "Noun (Friday)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "です",
+        "role": "Copula (Is)",
+        "raw_role": "Copula (Is)",
+        "normalized_role": "Copula"
+      }
+    ],
+    "conversation_id": "eb1825b9-65ea-4782-adb2-4b90333103b1",
+    "grammar_function": "Copula, Topics & Definitions (です / は / について)",
+    "sequence_key": "Noun → Topic Marker → Noun → Particle → Noun → Copula",
+    "location": "school",
+    "raw_grammar_pattern": "Noun + です",
+    "functional_tag": "Polite Assertion / Copula (\"It is\")"
+  },
+  {
+    "japanese": "すみません、入学願書を提出しに来ました。",
+    "hiragana": "すみません、 にゅうがく がんしょ を ていしゅつ し に きました。",
+    "english": "Excuse me, I've come to submit the enrollment application.",
+    "grammar_pattern": "〜に来ます",
+    "grammar_explanation": "Used to express the purpose of coming to a specific location.",
+    "category": "School Enrollment and Registration",
+    "theme": "Education, Language, and Academic Life",
+    "components": [
+      {
+        "text": "すみません",
+        "role": "Interjection (Excuse me)",
+        "raw_role": "Interjection (Excuse me)",
+        "normalized_role": "Interjection"
+      },
+      {
+        "text": "入学願書",
+        "role": "Noun (Enrollment application)",
+        "raw_role": "Noun (Enrollment application)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "を",
+        "role": "Object marker particle",
+        "raw_role": "Object marker particle",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "提出し",
+        "role": "Verb stem (To submit)",
+        "raw_role": "Verb stem (To submit)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "に",
+        "role": "Purpose particle",
+        "raw_role": "Purpose particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "来ました",
+        "role": "Verb (Came)",
+        "raw_role": "Verb (Came)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "conversation_id": "aa6d4152-780b-49fb-a5fd-0a2c60f47aa4",
+    "grammar_function": "Grammar & Structural Patterns",
+    "sequence_key": "Interjection → Noun → Direct Object Marker → Verb → Particle → Verb",
+    "location": "school",
+    "raw_grammar_pattern": "Verb stem + に来ます",
+    "functional_tag": "〜に来ます"
+  },
+  {
+    "japanese": "いらっしゃいませ。こちらの書類もご記入ください。",
+    "hiragana": "いらっしゃいませ。 こちら の しょるい も ごきにゅう ください。",
+    "english": "Welcome. Please fill out this document as well.",
+    "grammar_pattern": "〜てください",
+    "grammar_explanation": "A polite way to request or instruct someone to do something.",
+    "category": "School Enrollment and Registration",
+    "theme": "Education, Language, and Academic Life",
+    "components": [
+      {
+        "text": "いらっしゃいませ",
+        "role": "Greeting (Welcome)",
+        "raw_role": "Greeting (Welcome)",
+        "normalized_role": "Interjection"
+      },
+      {
+        "text": "こちら",
+        "role": "Pronoun (This way/this one)",
+        "raw_role": "Pronoun (This way/this one)",
+        "normalized_role": "Pronoun"
+      },
+      {
+        "text": "の",
+        "role": "Possessive/Modifier particle",
+        "raw_role": "Possessive/Modifier particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "書類",
+        "role": "Noun (Document)",
+        "raw_role": "Noun (Document)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "も",
+        "role": "Inclusive particle (also)",
+        "raw_role": "Inclusive particle (also)",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "ご記入ください",
+        "role": "Polite request verb (Please fill in)",
+        "raw_role": "Polite request verb (Please fill in)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "conversation_id": "aa6d4152-780b-49fb-a5fd-0a2c60f47aa4",
+    "grammar_function": "Requests & Favors (〜て / ください)",
+    "sequence_key": "Interjection → Pronoun → Particle → Noun → Particle → Verb",
+    "location": "school",
+    "raw_grammar_pattern": "～てください",
+    "functional_tag": "Polite Request (\"Please do\")"
+  },
+  {
+    "japanese": "わかりました。書き終わったら、どこに提出すればいいですか？",
+    "hiragana": "わかりました。 かき おわったら、 どこ に ていしゅつ すれば いい です か？",
+    "english": "I understand. Once I finish writing, where should I submit it?",
+    "grammar_pattern": "〜ばいいですか",
+    "grammar_explanation": "Used to ask for advice or the correct way to do something.",
+    "category": "School Enrollment and Registration",
+    "theme": "Education, Language, and Academic Life",
+    "components": [
+      {
+        "text": "わかりました",
+        "role": "Verb (Understood)",
+        "raw_role": "Verb (Understood)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "書き終わったら",
+        "role": "Verb (Once finished writing)",
+        "raw_role": "Verb (Once finished writing)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "どこ",
+        "role": "Question word (Where)",
+        "raw_role": "Question word (Where)",
+        "normalized_role": "Question Word"
+      },
+      {
+        "text": "に",
+        "role": "Destination particle",
+        "raw_role": "Destination particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "提出すれば",
+        "role": "Verb conditional (If I submit)",
+        "raw_role": "Verb conditional (If I submit)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "いいですか",
+        "role": "Phrasal expression (Is it good/okay?)",
+        "raw_role": "Phrasal expression (Is it good/okay?)",
+        "normalized_role": "Copula"
+      }
+    ],
+    "conversation_id": "aa6d4152-780b-49fb-a5fd-0a2c60f47aa4",
+    "grammar_function": "Advice & Conditionals (〜ば / 〜たら / ほう)",
+    "sequence_key": "Verb → Verb → Question Word → Particle → Verb → Copula",
+    "location": "school",
+    "raw_grammar_pattern": "～ばいいですか",
+    "functional_tag": "Seeking Guidance (\"What should I do?\")"
+  },
+  {
+    "japanese": "あちらの先生にお渡しください。",
+    "hiragana": "あちら の せんせい に おわたし ください。",
+    "english": "Please hand it to the teacher over there.",
+    "grammar_pattern": "Noun + に",
+    "grammar_explanation": "Indicates the person who is the recipient of an action.",
+    "category": "School Enrollment and Registration",
+    "theme": "Education, Language, and Academic Life",
+    "components": [
+      {
+        "text": "あちら",
+        "role": "Pronoun (Over there)",
+        "raw_role": "Pronoun (Over there)",
+        "normalized_role": "Pronoun"
+      },
+      {
+        "text": "の",
+        "role": "Possessive/Modifier particle",
+        "raw_role": "Possessive/Modifier particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "先生",
+        "role": "Noun (Teacher)",
+        "raw_role": "Noun (Teacher)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "に",
+        "role": "Recipient particle",
+        "raw_role": "Recipient particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "お渡しください",
+        "role": "Polite request verb (Please hand over)",
+        "raw_role": "Polite request verb (Please hand over)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "conversation_id": "aa6d4152-780b-49fb-a5fd-0a2c60f47aa4",
+    "grammar_function": "Particles & Structural Markers (を / に / で / と)",
+    "sequence_key": "Pronoun → Particle → Noun → Particle → Verb",
+    "location": "school",
+    "raw_grammar_pattern": "Noun + に",
+    "functional_tag": "Target / Time / Direction (〜に)"
+  },
+  {
+    "japanese": "先生、これはどうやって読みますか？",
+    "hiragana": "せんせい、 これ は どう やって よみます か？",
+    "english": "Teacher, how do I read this?",
+    "grammar_pattern": "どうやって + Verb",
+    "grammar_explanation": "Used to ask about the method or way of performing an action.",
+    "category": "Phonetic Literacy and Kana Practice",
+    "theme": "Education, Language, and Academic Life",
+    "components": [
+      {
+        "text": "先生",
+        "role": "Noun (Vocative)",
+        "raw_role": "Noun (Vocative)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "これ",
+        "role": "Pronoun",
+        "raw_role": "Pronoun",
+        "normalized_role": "Pronoun"
+      },
+      {
+        "text": "は",
+        "role": "Topic marker",
+        "raw_role": "Topic marker",
+        "normalized_role": "Topic Marker"
+      },
+      {
+        "text": "どうやって",
+        "role": "Question word (how)",
+        "raw_role": "Question word (how)",
+        "normalized_role": "Question Word"
+      },
+      {
+        "text": "読みます",
+        "role": "Verb",
+        "raw_role": "Verb",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "か",
+        "role": "Question particle",
+        "raw_role": "Question particle",
+        "normalized_role": "Particle"
+      }
+    ],
+    "conversation_id": "be5218fd-c819-4cd7-b855-c6e5e736646e",
+    "grammar_function": "Grammar & Structural Patterns",
+    "sequence_key": "Noun → Pronoun → Topic Marker → Question Word → Verb → Particle",
+    "location": "school",
+    "raw_grammar_pattern": "どうやって + Verb",
+    "functional_tag": "どうやって + Verb"
+  },
+  {
+    "japanese": "これは「きって」です。",
+    "hiragana": "これ は 「 きっ て 」 です。",
+    "english": "This is \"kitte\" (stamp).",
+    "grammar_pattern": "Noun + です",
+    "grammar_explanation": "A basic polite sentence structure used to identify or state something.",
+    "category": "Phonetic Literacy and Kana Practice",
+    "theme": "Education, Language, and Academic Life",
+    "components": [
+      {
+        "text": "これ",
+        "role": "Pronoun",
+        "raw_role": "Pronoun",
+        "normalized_role": "Pronoun"
+      },
+      {
+        "text": "は",
+        "role": "Topic marker",
+        "raw_role": "Topic marker",
+        "normalized_role": "Topic Marker"
+      },
+      {
+        "text": "きって",
+        "role": "Noun",
+        "raw_role": "Noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "です",
+        "role": "Copula (polite)",
+        "raw_role": "Copula (polite)",
+        "normalized_role": "Copula"
+      }
+    ],
+    "conversation_id": "be5218fd-c819-4cd7-b855-c6e5e736646e",
+    "grammar_function": "Copula, Topics & Definitions (です / は / について)",
+    "sequence_key": "Pronoun → Topic Marker → Noun → Copula",
+    "location": "school",
+    "raw_grammar_pattern": "Noun + です",
+    "functional_tag": "Polite Assertion / Copula (\"It is\")"
+  },
+  {
+    "japanese": "「きて」とは違いますか？",
+    "hiragana": "「 き て 」 と は ちがい ます か？",
+    "english": "Is it different from \"kite\"?",
+    "grammar_pattern": "Noun + とは違う",
+    "grammar_explanation": "Used to compare two things or ask if they are distinct.",
+    "category": "Phonetic Literacy and Kana Practice",
+    "theme": "Education, Language, and Academic Life",
+    "components": [
+      {
+        "text": "きて",
+        "role": "Noun",
+        "raw_role": "Noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "とは",
+        "role": "Comparison marker",
+        "raw_role": "Comparison marker",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "違います",
+        "role": "Verb",
+        "raw_role": "Verb",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "か",
+        "role": "Question particle",
+        "raw_role": "Question particle",
+        "normalized_role": "Particle"
+      }
+    ],
+    "conversation_id": "be5218fd-c819-4cd7-b855-c6e5e736646e",
+    "grammar_function": "Particles & Structural Markers (を / に / で / と)",
+    "sequence_key": "Noun → Particle → Verb → Particle",
+    "location": "school",
+    "raw_grammar_pattern": "Noun + とは違う",
+    "functional_tag": "Connection / Together With (〜と)"
+  },
+  {
+    "japanese": "はい、小さい「つ」があるので音が変わります。",
+    "hiragana": "はい、 ちいさい 「 つ 」 が ある ので おと が かわり ます。",
+    "english": "Yes, because there is a small \"tsu\", the sound changes.",
+    "grammar_pattern": "〜ので",
+    "grammar_explanation": "Used to express a reason or cause for a result.",
+    "category": "Phonetic Literacy and Kana Practice",
+    "theme": "Education, Language, and Academic Life",
+    "components": [
+      {
+        "text": "はい",
+        "role": "Interjection",
+        "raw_role": "Interjection",
+        "normalized_role": "Interjection"
+      },
+      {
+        "text": "小さい",
+        "role": "Adjective",
+        "raw_role": "Adjective",
+        "normalized_role": "Adjective"
+      },
+      {
+        "text": "つ",
+        "role": "Noun",
+        "raw_role": "Noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "が",
+        "role": "Subject marker",
+        "raw_role": "Subject marker",
+        "normalized_role": "Subject Marker"
+      },
+      {
+        "text": "ある",
+        "role": "Verb",
+        "raw_role": "Verb",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "ので",
+        "role": "Conjunction (because)",
+        "raw_role": "Conjunction (because)",
+        "normalized_role": "Conjunction"
+      },
+      {
+        "text": "音",
+        "role": "Noun",
+        "raw_role": "Noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "が",
+        "role": "Subject marker",
+        "raw_role": "Subject marker",
+        "normalized_role": "Subject Marker"
+      },
+      {
+        "text": "変わります",
+        "role": "Verb",
+        "raw_role": "Verb",
+        "normalized_role": "Verb"
+      }
+    ],
+    "conversation_id": "be5218fd-c819-4cd7-b855-c6e5e736646e",
+    "grammar_function": "Reasons & Causes (〜ので / 〜から)",
+    "sequence_key": "Interjection → Adjective → Noun → Subject Marker → Verb → Conjunction → Noun → Subject Marker → Verb",
+    "location": "school",
+    "raw_grammar_pattern": "Verb (Plain) + ので",
+    "functional_tag": "Objective Cause / Reason (\"Because / Since\")"
+  },
+  {
+    "japanese": "すみません、このページについて質問があります。",
+    "hiragana": "すみません、 この ぺーじ に ついて しつもん が あります。",
+    "english": "Excuse me, I have a question about this page.",
+    "grammar_pattern": "〜について",
+    "grammar_explanation": "Used to indicate the specific topic or subject being discussed.",
+    "category": "Education and Learning",
+    "theme": "Education, Language, and Academic Life",
+    "conversation_id": "7f186b3b-84fd-4780-ae40-1ce926d8abe3",
+    "components": [
+      {
+        "text": "すみません",
+        "role": "greeting",
+        "raw_role": "greeting",
+        "normalized_role": "Interjection"
+      },
+      {
+        "text": "この",
+        "role": "demonstrative",
+        "raw_role": "demonstrative",
+        "normalized_role": "Demonstrative"
+      },
+      {
+        "text": "ページ",
+        "role": "noun",
+        "raw_role": "noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "について",
+        "role": "particle phrase",
+        "raw_role": "particle phrase",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "質問",
+        "role": "noun",
+        "raw_role": "noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "が",
+        "role": "particle",
+        "raw_role": "particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "あります",
+        "role": "verb",
+        "raw_role": "verb",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Copula, Topics & Definitions (です / は / について)",
+    "sequence_key": "Interjection → Demonstrative → Noun → Particle → Noun → Particle → Verb",
+    "location": "school",
+    "raw_grammar_pattern": "Noun + について",
+    "functional_tag": "Topic / Focus (\"Regarding / About\")"
+  },
+  {
+    "japanese": "どうしましたか。",
+    "hiragana": "どう しました か。",
+    "english": "What is the matter?",
+    "grammar_pattern": "Question particle か",
+    "grammar_explanation": "Used at the end of a sentence to turn it into a question.",
+    "category": "Education and Learning",
+    "theme": "Education, Language, and Academic Life",
+    "conversation_id": "7f186b3b-84fd-4780-ae40-1ce926d8abe3",
+    "components": [
+      {
+        "text": "どう",
+        "role": "adverb",
+        "raw_role": "adverb",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "しました",
+        "role": "verb",
+        "raw_role": "verb",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "か",
+        "role": "particle",
+        "raw_role": "particle",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Particles & Structural Markers (を / に / で / と)",
+    "sequence_key": "Adverb → Verb → Particle",
+    "location": "school",
+    "raw_grammar_pattern": "Question particle か",
+    "functional_tag": "Structural Particle Marker"
+  },
+  {
+    "japanese": "この文法のところがよく分かりません。",
+    "hiragana": "この ぶんぽう の ところ が よく わかりません。",
+    "english": "I don't understand this part of the grammar.",
+    "grammar_pattern": "Verb negative",
+    "grammar_explanation": "The polite negative form of a verb, indicating something is not known.",
+    "category": "Education and Learning",
+    "theme": "Education, Language, and Academic Life",
+    "conversation_id": "7f186b3b-84fd-4780-ae40-1ce926d8abe3",
+    "components": [
+      {
+        "text": "この",
+        "role": "demonstrative",
+        "raw_role": "demonstrative",
+        "normalized_role": "Demonstrative"
+      },
+      {
+        "text": "文法",
+        "role": "noun",
+        "raw_role": "noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "の",
+        "role": "particle",
+        "raw_role": "particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "ところ",
+        "role": "noun",
+        "raw_role": "noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "が",
+        "role": "particle",
+        "raw_role": "particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "よく",
+        "role": "adverb",
+        "raw_role": "adverb",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "分かりません",
+        "role": "verb",
+        "raw_role": "verb",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Grammar & Structural Patterns",
+    "sequence_key": "Demonstrative → Noun → Particle → Noun → Particle → Adverb → Verb",
+    "location": "school",
+    "raw_grammar_pattern": "Verb negative (〜ません)",
+    "functional_tag": "Verb negative"
+  },
+  {
+    "japanese": "一緒に見てみましょう。",
+    "hiragana": "いっしょに みて みましょう。",
+    "english": "Let's look at it together.",
+    "grammar_pattern": "〜よう",
+    "grammar_explanation": "Used to make a polite suggestion or invitation to do something together.",
+    "category": "Education and Learning",
+    "theme": "Education, Language, and Academic Life",
+    "conversation_id": "7f186b3b-84fd-4780-ae40-1ce926d8abe3",
+    "components": [
+      {
+        "text": "一緒に",
+        "role": "adverb",
+        "raw_role": "adverb",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "見て",
+        "role": "verb",
+        "raw_role": "verb",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "みましょう",
+        "role": "verb",
+        "raw_role": "verb",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Grammar & Structural Patterns",
+    "sequence_key": "Adverb → Verb → Verb",
+    "location": "school",
+    "raw_grammar_pattern": "Verb volitional (〜ましょう)",
+    "functional_tag": "〜よう"
+  },
+  {
+    "japanese": "すみません、子供の入学手続きに来ました。",
+    "hiragana": "すみません、こども の にゅうがく てつづき に きました。",
+    "english": "Excuse me, I've come to handle my child's enrollment procedures.",
+    "grammar_pattern": "Verb + ました",
+    "grammar_explanation": "Used to express a completed action or state in a polite way.",
+    "category": "School Enrollment and Registration",
+    "theme": "Education, Language, and Academic Life",
+    "conversation_id": "86a4cbe3-5306-4640-860f-bf7a2fb240f1",
+    "components": [
+      {
+        "text": "すみません",
+        "role": "Interjection - Excuse me",
+        "raw_role": "Interjection - Excuse me",
+        "normalized_role": "Interjection"
+      },
+      {
+        "text": "子供",
+        "role": "Noun - Child",
+        "raw_role": "Noun - Child",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "の",
+        "role": "Particle - Possessive marker",
+        "raw_role": "Particle - Possessive marker",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "入学手続き",
+        "role": "Noun - Enrollment procedure",
+        "raw_role": "Noun - Enrollment procedure",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "に",
+        "role": "Particle - Purpose marker",
+        "raw_role": "Particle - Purpose marker",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "来ました",
+        "role": "Verb - Came (polite past)",
+        "raw_role": "Verb - Came (polite past)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Grammar & Structural Patterns",
+    "sequence_key": "Interjection → Noun → Particle → Noun → Particle → Verb",
+    "location": "school",
+    "raw_grammar_pattern": "Verb (Past form) + ました",
+    "functional_tag": "Verb + ました"
+  },
+  {
+    "japanese": "いらっしゃいませ。まずはこちらの申込書にご記入ください。",
+    "hiragana": "いらっしゃいませ。まず は こちら の もうしこみしょ に ごきにゅう ください。",
+    "english": "Welcome. First, please fill out this application form.",
+    "grammar_pattern": "〜てください",
+    "grammar_explanation": "A polite way to request or ask someone to do something.",
+    "category": "School Enrollment and Registration",
+    "theme": "Education, Language, and Academic Life",
+    "conversation_id": "86a4cbe3-5306-4640-860f-bf7a2fb240f1",
+    "components": [
+      {
+        "text": "いらっしゃいませ",
+        "role": "Greeting - Welcome",
+        "raw_role": "Greeting - Welcome",
+        "normalized_role": "Interjection"
+      },
+      {
+        "text": "まず",
+        "role": "Adverb - First",
+        "raw_role": "Adverb - First",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "こちら",
+        "role": "Pronoun - This one",
+        "raw_role": "Pronoun - This one",
+        "normalized_role": "Pronoun"
+      },
+      {
+        "text": "の",
+        "role": "Particle - Modifier marker",
+        "raw_role": "Particle - Modifier marker",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "申込書",
+        "role": "Noun - Application form",
+        "raw_role": "Noun - Application form",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "に",
+        "role": "Particle - Target of action",
+        "raw_role": "Particle - Target of action",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "ご記入",
+        "role": "Honorific Noun - Filling in",
+        "raw_role": "Honorific Noun - Filling in",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "ください",
+        "role": "Auxiliary Verb - Please",
+        "raw_role": "Auxiliary Verb - Please",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Requests & Favors (〜て / ください)",
+    "sequence_key": "Interjection → Adverb → Pronoun → Particle → Noun → Particle → Noun → Verb",
+    "location": "school",
+    "raw_grammar_pattern": "Verb (Te-form) + ください",
+    "functional_tag": "Polite Request (\"Please do\")"
+  },
+  {
+    "japanese": "わかりました。書類はどこに提出すればいいですか。",
+    "hiragana": "わかりました。しょるい は どこ に ていしゅつ すれば いい です か。",
+    "english": "I understand. Where should I submit the documents?",
+    "grammar_pattern": "〜ばいいですか",
+    "grammar_explanation": "Used to ask for advice or instructions on what action to take.",
+    "category": "School Enrollment and Registration",
+    "theme": "Education, Language, and Academic Life",
+    "conversation_id": "86a4cbe3-5306-4640-860f-bf7a2fb240f1",
+    "components": [
+      {
+        "text": "わかりました",
+        "role": "Verb - Understood",
+        "raw_role": "Verb - Understood",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "書類",
+        "role": "Noun - Documents",
+        "raw_role": "Noun - Documents",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "は",
+        "role": "Particle - Topic marker",
+        "raw_role": "Particle - Topic marker",
+        "normalized_role": "Topic Marker"
+      },
+      {
+        "text": "どこ",
+        "role": "Question word - Where",
+        "raw_role": "Question word - Where",
+        "normalized_role": "Question Word"
+      },
+      {
+        "text": "に",
+        "role": "Particle - Destination marker",
+        "raw_role": "Particle - Destination marker",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "提出すれば",
+        "role": "Verb - Submit (conditional form)",
+        "raw_role": "Verb - Submit (conditional form)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "いい",
+        "role": "Adjective - Good/Okay",
+        "raw_role": "Adjective - Good/Okay",
+        "normalized_role": "Adjective"
+      },
+      {
+        "text": "です",
+        "role": "Copula - Polite ending",
+        "raw_role": "Copula - Polite ending",
+        "normalized_role": "Copula"
+      },
+      {
+        "text": "か",
+        "role": "Particle - Question marker",
+        "raw_role": "Particle - Question marker",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Advice & Conditionals (〜ば / 〜たら / ほう)",
+    "sequence_key": "Verb → Noun → Topic Marker → Question Word → Particle → Verb → Adjective → Copula → Particle",
+    "location": "school",
+    "raw_grammar_pattern": "Verb (Ba-form) + いいですか",
+    "functional_tag": "Seeking Guidance (\"What should I do?\")"
+  },
+  {
+    "japanese": "あちらの事務所の先生に渡してください。",
+    "hiragana": "あちら の じむしょ の せんせい に わたして ください。",
+    "english": "Please hand them to the teacher in that office.",
+    "grammar_pattern": "Noun + に",
+    "grammar_explanation": "Indicates the person or thing that receives an action.",
+    "category": "School Enrollment and Registration",
+    "theme": "Education, Language, and Academic Life",
+    "conversation_id": "86a4cbe3-5306-4640-860f-bf7a2fb240f1",
+    "components": [
+      {
+        "text": "あちら",
+        "role": "Pronoun - That way",
+        "raw_role": "Pronoun - That way",
+        "normalized_role": "Pronoun"
+      },
+      {
+        "text": "の",
+        "role": "Particle - Modifier marker",
+        "raw_role": "Particle - Modifier marker",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "事務所",
+        "role": "Noun - Office",
+        "raw_role": "Noun - Office",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "の",
+        "role": "Particle - Modifier marker",
+        "raw_role": "Particle - Modifier marker",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "先生",
+        "role": "Noun - Teacher",
+        "raw_role": "Noun - Teacher",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "に",
+        "role": "Particle - Recipient marker",
+        "raw_role": "Particle - Recipient marker",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "渡して",
+        "role": "Verb - Hand over (te-form)",
+        "raw_role": "Verb - Hand over (te-form)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "ください",
+        "role": "Auxiliary Verb - Please",
+        "raw_role": "Auxiliary Verb - Please",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Particles & Structural Markers (を / に / で / と)",
+    "sequence_key": "Pronoun → Particle → Noun → Particle → Noun → Particle → Verb → Verb",
+    "location": "school",
+    "raw_grammar_pattern": "Noun + に (Target marker)",
+    "functional_tag": "Target / Time / Direction (〜に)"
+  },
+  {
+    "japanese": "今日の読み練習はこちらです。",
+    "hiragana": "きょう の よみ れんしゅう は こちら です。",
+    "english": "Today's reading practice is this way.",
+    "grammar_pattern": "Noun + は + Noun + です",
+    "grammar_explanation": "A basic sentence structure used to identify a topic and state what it is.",
+    "category": "Phonetic Literacy and Kana Practice",
+    "theme": "Education, Language, and Academic Life",
+    "conversation_id": "7d578b1a-94e9-4571-8cfd-c707c6d5143c",
+    "components": [
+      {
+        "text": "今日",
+        "role": "Noun (today)",
+        "raw_role": "Noun (today)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "の",
+        "role": "Possessive particle",
+        "raw_role": "Possessive particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "読み練習",
+        "role": "Noun (reading practice)",
+        "raw_role": "Noun (reading practice)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "は",
+        "role": "Topic marker",
+        "raw_role": "Topic marker",
+        "normalized_role": "Topic Marker"
+      },
+      {
+        "text": "こちら",
+        "role": "Demonstrative pronoun (this way)",
+        "raw_role": "Demonstrative pronoun (this way)",
+        "normalized_role": "Pronoun"
+      },
+      {
+        "text": "です",
+        "role": "Copula (to be)",
+        "raw_role": "Copula (to be)",
+        "normalized_role": "Copula"
+      }
+    ],
+    "grammar_function": "Copula, Topics & Definitions (です / は / について)",
+    "sequence_key": "Noun → Particle → Noun → Topic Marker → Pronoun → Copula",
+    "location": "school",
+    "raw_grammar_pattern": "Noun + は + Noun + です",
+    "functional_tag": "Polite Assertion / Copula (\"It is\")"
+  },
+  {
+    "japanese": "この言葉は「きって」ですか、「きて」ですか。",
+    "hiragana": "この ことば は 「きって」 です か 、「きて」 です か。",
+    "english": "Is this word 'kitte' or is it 'kite'?",
+    "grammar_pattern": "Question with か",
+    "grammar_explanation": "Adding the particle 'ka' at the end of a sentence to form a question.",
+    "category": "Phonetic Literacy and Kana Practice",
+    "theme": "Education, Language, and Academic Life",
+    "conversation_id": "7d578b1a-94e9-4571-8cfd-c707c6d5143c",
+    "components": [
+      {
+        "text": "この",
+        "role": "Adjective (this)",
+        "raw_role": "Adjective (this)",
+        "normalized_role": "Adjective"
+      },
+      {
+        "text": "言葉",
+        "role": "Noun (word)",
+        "raw_role": "Noun (word)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "は",
+        "role": "Topic marker",
+        "raw_role": "Topic marker",
+        "normalized_role": "Topic Marker"
+      },
+      {
+        "text": "きって",
+        "role": "Noun (stamp/word)",
+        "raw_role": "Noun (stamp/word)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "です",
+        "role": "Copula",
+        "raw_role": "Copula",
+        "normalized_role": "Copula"
+      },
+      {
+        "text": "か",
+        "role": "Question particle",
+        "raw_role": "Question particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "きて",
+        "role": "Noun (come/word)",
+        "raw_role": "Noun (come/word)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "です",
+        "role": "Copula",
+        "raw_role": "Copula",
+        "normalized_role": "Copula"
+      },
+      {
+        "text": "か",
+        "role": "Question particle",
+        "raw_role": "Question particle",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Particles & Structural Markers (を / に / で / と)",
+    "sequence_key": "Adjective → Noun → Topic Marker → Noun → Copula → Particle → Noun → Copula → Particle",
+    "location": "school",
+    "raw_grammar_pattern": "Question with か",
+    "functional_tag": "Structural Particle Marker"
+  },
+  {
+    "japanese": "「きって」です。小さい「つ」をはっきり発音してください。",
+    "hiragana": "「きって」 です。ちいさい 「つ」 を はっきり はつおん して ください。",
+    "english": "It's 'kitte'. Please pronounce the small 'tsu' clearly.",
+    "grammar_pattern": "〜てください",
+    "grammar_explanation": "A polite way to request or ask someone to perform an action.",
+    "category": "Phonetic Literacy and Kana Practice",
+    "theme": "Education, Language, and Academic Life",
+    "conversation_id": "7d578b1a-94e9-4571-8cfd-c707c6d5143c",
+    "components": [
+      {
+        "text": "きって",
+        "role": "Noun (word)",
+        "raw_role": "Noun (word)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "です",
+        "role": "Copula",
+        "raw_role": "Copula",
+        "normalized_role": "Copula"
+      },
+      {
+        "text": "小さい",
+        "role": "Adjective (small)",
+        "raw_role": "Adjective (small)",
+        "normalized_role": "Adjective"
+      },
+      {
+        "text": "つ",
+        "role": "Noun (character tsu)",
+        "raw_role": "Noun (character tsu)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "を",
+        "role": "Object marker",
+        "raw_role": "Object marker",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "はっきり",
+        "role": "Adverb (clearly)",
+        "raw_role": "Adverb (clearly)",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "発音して",
+        "role": "Verb in te-form (pronounce)",
+        "raw_role": "Verb in te-form (pronounce)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "ください",
+        "role": "Polite request",
+        "raw_role": "Polite request",
+        "normalized_role": "Request"
+      }
+    ],
+    "grammar_function": "Requests & Favors (〜て / ください)",
+    "sequence_key": "Noun → Copula → Adjective → Noun → Direct Object Marker → Adverb → Verb → Request",
+    "location": "school",
+    "raw_grammar_pattern": "Verb-te form + ください",
+    "functional_tag": "Polite Request (\"Please do\")"
+  },
+  {
+    "japanese": "なるほど。「きて」とは違いますね。",
+    "hiragana": "なるほど。 「きて」 と は ちがいます ね。",
+    "english": "I see. It's different from 'kite', isn't it?",
+    "grammar_pattern": "Noun + とは違う",
+    "grammar_explanation": "A pattern used to contrast two things and state that they are different.",
+    "category": "Phonetic Literacy and Kana Practice",
+    "theme": "Education, Language, and Academic Life",
+    "conversation_id": "7d578b1a-94e9-4571-8cfd-c707c6d5143c",
+    "components": [
+      {
+        "text": "なるほど",
+        "role": "Interjection (I see)",
+        "raw_role": "Interjection (I see)",
+        "normalized_role": "Interjection"
+      },
+      {
+        "text": "きて",
+        "role": "Noun (word)",
+        "raw_role": "Noun (word)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "と",
+        "role": "Comparison particle",
+        "raw_role": "Comparison particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "は",
+        "role": "Emphasis particle",
+        "raw_role": "Emphasis particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "違います",
+        "role": "Verb (to differ)",
+        "raw_role": "Verb (to differ)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "ね",
+        "role": "Confirmation particle",
+        "raw_role": "Confirmation particle",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Particles & Structural Markers (を / に / で / と)",
+    "sequence_key": "Interjection → Noun → Particle → Particle → Verb → Particle",
+    "location": "school",
+    "raw_grammar_pattern": "Noun + とは違う",
+    "functional_tag": "Connection / Together With (〜と)"
+  },
+  {
+    "japanese": "先生、すみません。宿題について質問があります。",
+    "hiragana": "せんせい、 すみません。 しゅくだい に ついて しつもん が あります。",
+    "english": "Teacher, excuse me. I have a question about the homework.",
+    "grammar_pattern": "〜について",
+    "grammar_explanation": "Used to indicate the topic or subject that someone is talking or thinking about.",
+    "category": "Education and Learning",
+    "theme": "Education, Language, and Academic Life",
+    "conversation_id": "f2c62557-0d4b-46f3-8809-a78d8e868c7c",
+    "components": [
+      {
+        "text": "先生",
+        "role": "Noun (Teacher)",
+        "raw_role": "Noun (Teacher)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "すみません",
+        "role": "Polite apology/attention-getter",
+        "raw_role": "Polite apology/attention-getter",
+        "normalized_role": "Interjection"
+      },
+      {
+        "text": "宿題",
+        "role": "Noun (Homework)",
+        "raw_role": "Noun (Homework)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "について",
+        "role": "Particle phrase (About/Regarding)",
+        "raw_role": "Particle phrase (About/Regarding)",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "質問",
+        "role": "Noun (Question)",
+        "raw_role": "Noun (Question)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "が",
+        "role": "Subject marker",
+        "raw_role": "Subject marker",
+        "normalized_role": "Subject Marker"
+      },
+      {
+        "text": "あります",
+        "role": "Verb (To exist/have)",
+        "raw_role": "Verb (To exist/have)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Copula, Topics & Definitions (です / は / について)",
+    "sequence_key": "Noun → Interjection → Noun → Particle → Noun → Subject Marker → Verb",
+    "location": "school",
+    "raw_grammar_pattern": "～について",
+    "functional_tag": "Topic / Focus (\"Regarding / About\")"
+  },
+  {
+    "japanese": "はい、どうしましたか。",
+    "hiragana": "はい、 どう しました か。",
+    "english": "Yes, what's the matter?",
+    "grammar_pattern": "どうしましたか",
+    "grammar_explanation": "A common polite phrase used to ask what is happening or why someone is calling.",
+    "category": "Education and Learning",
+    "theme": "Education, Language, and Academic Life",
+    "conversation_id": "f2c62557-0d4b-46f3-8809-a78d8e868c7c",
+    "components": [
+      {
+        "text": "はい",
+        "role": "Interjection (Yes)",
+        "raw_role": "Interjection (Yes)",
+        "normalized_role": "Interjection"
+      },
+      {
+        "text": "どう",
+        "role": "Adverb (How/What)",
+        "raw_role": "Adverb (How/What)",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "しました",
+        "role": "Verb (Did/Happened)",
+        "raw_role": "Verb (Did/Happened)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "か",
+        "role": "Question particle",
+        "raw_role": "Question particle",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Grammar & Structural Patterns",
+    "sequence_key": "Interjection → Adverb → Verb → Particle",
+    "location": "school",
+    "raw_grammar_pattern": "どうしましたか",
+    "functional_tag": "どうしましたか"
+  },
+  {
+    "japanese": "この数学の問題がよく分かりません。",
+    "hiragana": "この すうがく の もんだい が よく わかりません。",
+    "english": "I don't really understand this math problem.",
+    "grammar_pattern": "〜が分かりません",
+    "grammar_explanation": "Used to express a lack of understanding regarding a specific object or topic.",
+    "category": "Education and Learning",
+    "theme": "Education, Language, and Academic Life",
+    "conversation_id": "f2c62557-0d4b-46f3-8809-a78d8e868c7c",
+    "components": [
+      {
+        "text": "この",
+        "role": "Demonstrative (This)",
+        "raw_role": "Demonstrative (This)",
+        "normalized_role": "Demonstrative"
+      },
+      {
+        "text": "数学",
+        "role": "Noun (Mathematics)",
+        "raw_role": "Noun (Mathematics)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "の",
+        "role": "Possessive particle",
+        "raw_role": "Possessive particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "問題",
+        "role": "Noun (Problem)",
+        "raw_role": "Noun (Problem)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "が",
+        "role": "Object marker for state",
+        "raw_role": "Object marker for state",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "よく",
+        "role": "Adverb (Well/Really)",
+        "raw_role": "Adverb (Well/Really)",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "分かりません",
+        "role": "Verb (Don't understand)",
+        "raw_role": "Verb (Don't understand)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Grammar & Structural Patterns",
+    "sequence_key": "Demonstrative → Noun → Particle → Noun → Direct Object Marker → Adverb → Verb",
+    "location": "school",
+    "raw_grammar_pattern": "～が分かりません",
+    "functional_tag": "〜が分かりません"
+  },
+  {
+    "japanese": "どこが難しいですか。",
+    "hiragana": "どこ が むずかしい です か。",
+    "english": "Which part is difficult?",
+    "grammar_pattern": "〜は/が [Adjective] ですか",
+    "grammar_explanation": "A polite way to ask if something possesses a certain characteristic or quality.",
+    "category": "Education and Learning",
+    "theme": "Education, Language, and Academic Life",
+    "conversation_id": "f2c62557-0d4b-46f3-8809-a78d8e868c7c",
+    "components": [
+      {
+        "text": "どこ",
+        "role": "Question word (Where/Which part)",
+        "raw_role": "Question word (Where/Which part)",
+        "normalized_role": "Question Word"
+      },
+      {
+        "text": "が",
+        "role": "Subject marker",
+        "raw_role": "Subject marker",
+        "normalized_role": "Subject Marker"
+      },
+      {
+        "text": "難しい",
+        "role": "Adjective (Difficult)",
+        "raw_role": "Adjective (Difficult)",
+        "normalized_role": "Adjective"
+      },
+      {
+        "text": "です",
+        "role": "Copula (To be)",
+        "raw_role": "Copula (To be)",
+        "normalized_role": "Copula"
+      },
+      {
+        "text": "か",
+        "role": "Question particle",
+        "raw_role": "Question particle",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Questions & Inquiries (〜ですか / どこ / どう)",
+    "sequence_key": "Question Word → Subject Marker → Adjective → Copula → Particle",
+    "location": "school",
+    "raw_grammar_pattern": "～は/が [Adjective] ですか",
+    "functional_tag": "Polite Question (\"Is it?\")"
+  },
+  {
+    "japanese": "ここから先の計算が難しいです。",
+    "hiragana": "ここ から さき の けいさん が むずかしい です。",
+    "english": "The calculation from here onwards is difficult.",
+    "grammar_pattern": "〜てから",
+    "grammar_explanation": "Indicates the starting point of an action, time, or a specific location.",
+    "category": "Education and Learning",
+    "theme": "Education, Language, and Academic Life",
+    "conversation_id": "f2c62557-0d4b-46f3-8809-a78d8e868c7c",
+    "components": [
+      {
+        "text": "ここ",
+        "role": "Pronoun (Here)",
+        "raw_role": "Pronoun (Here)",
+        "normalized_role": "Pronoun"
+      },
+      {
+        "text": "から",
+        "role": "Starting point particle",
+        "raw_role": "Starting point particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "先",
+        "role": "Noun (Ahead/Onwards)",
+        "raw_role": "Noun (Ahead/Onwards)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "の",
+        "role": "Possessive particle",
+        "raw_role": "Possessive particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "計算",
+        "role": "Noun (Calculation)",
+        "raw_role": "Noun (Calculation)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "が",
+        "role": "Subject marker",
+        "raw_role": "Subject marker",
+        "normalized_role": "Subject Marker"
+      },
+      {
+        "text": "難しい",
+        "role": "Adjective (Difficult)",
+        "raw_role": "Adjective (Difficult)",
+        "normalized_role": "Adjective"
+      },
+      {
+        "text": "です",
+        "role": "Copula (To be)",
+        "raw_role": "Copula (To be)",
+        "normalized_role": "Copula"
+      }
+    ],
+    "grammar_function": "Time, Aspect & State (〜ている / 〜てある)",
+    "sequence_key": "Pronoun → Particle → Noun → Particle → Noun → Subject Marker → Adjective → Copula",
+    "location": "school",
+    "raw_grammar_pattern": "～から",
+    "functional_tag": "Sequential Progression (\"After doing X, then Y\")"
+  },
+  {
+    "japanese": "すみません、子供をこの学校に入学させたいです。",
+    "hiragana": "すみません、 こども を この がっこう に にゅうがく させたい です。",
+    "english": "Excuse me, I would like to enroll my child in this school.",
+    "grammar_pattern": "〜たいです",
+    "grammar_explanation": "Used to express the speaker's own desire or wish to do an action.",
+    "category": "School Enrollment and Registration",
+    "theme": "Education, Language, and Academic Life",
+    "conversation_id": "0d79420e-3fb5-46b6-a952-1eda6f84df61",
+    "components": [
+      {
+        "text": "すみません",
+        "role": "Interjection (Excuse me)",
+        "raw_role": "Interjection (Excuse me)",
+        "normalized_role": "Interjection"
+      },
+      {
+        "text": "子供",
+        "role": "Noun (Child)",
+        "raw_role": "Noun (Child)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "を",
+        "role": "Object marker",
+        "raw_role": "Object marker",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "この",
+        "role": "Demonstrative (This)",
+        "raw_role": "Demonstrative (This)",
+        "normalized_role": "Demonstrative"
+      },
+      {
+        "text": "学校",
+        "role": "Noun (School)",
+        "raw_role": "Noun (School)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "に",
+        "role": "Destination marker",
+        "raw_role": "Destination marker",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "入学させたい",
+        "role": "Verb (Want to enroll)",
+        "raw_role": "Verb (Want to enroll)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "です",
+        "role": "Copula (Polite ending)",
+        "raw_role": "Copula (Polite ending)",
+        "normalized_role": "Copula"
+      }
+    ],
+    "grammar_function": "Desires & Intentions (〜たい / つもり / よう)",
+    "sequence_key": "Interjection → Noun → Direct Object Marker → Demonstrative → Noun → Particle → Verb → Copula",
+    "location": "school",
+    "raw_grammar_pattern": "～たい (Desire)",
+    "functional_tag": "Direct Wish (\"I want to\")"
+  },
+  {
+    "japanese": "いらっしゃいませ。まず、こちらの申込書にご記入ください。",
+    "hiragana": "いらっしゃいませ。 まず、 こちら の もうしこみしょ に ごきにゅう ください。",
+    "english": "Welcome. First, please fill out this application form.",
+    "grammar_pattern": "〜てください",
+    "grammar_explanation": "A polite way to ask or instruct someone to perform a specific action.",
+    "category": "School Enrollment and Registration",
+    "theme": "Education, Language, and Academic Life",
+    "conversation_id": "0d79420e-3fb5-46b6-a952-1eda6f84df61",
+    "components": [
+      {
+        "text": "いらっしゃいませ",
+        "role": "Greeting (Welcome)",
+        "raw_role": "Greeting (Welcome)",
+        "normalized_role": "Interjection"
+      },
+      {
+        "text": "まず",
+        "role": "Adverb (First)",
+        "raw_role": "Adverb (First)",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "こちら",
+        "role": "Pronoun (This way/item)",
+        "raw_role": "Pronoun (This way/item)",
+        "normalized_role": "Pronoun"
+      },
+      {
+        "text": "の",
+        "role": "Possessive marker",
+        "raw_role": "Possessive marker",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "申込書",
+        "role": "Noun (Application form)",
+        "raw_role": "Noun (Application form)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "に",
+        "role": "Target marker",
+        "raw_role": "Target marker",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "ご記入ください",
+        "role": "Polite request (Please fill out)",
+        "raw_role": "Polite request (Please fill out)",
+        "normalized_role": "Request"
+      }
+    ],
+    "grammar_function": "Requests & Favors (〜て / ください)",
+    "sequence_key": "Interjection → Adverb → Pronoun → Particle → Noun → Particle → Request",
+    "location": "school",
+    "raw_grammar_pattern": "～てください (Request)",
+    "functional_tag": "Polite Request (\"Please do\")"
+  },
+  {
+    "japanese": "わかりました。これを先生に提出すればいいですか？",
+    "hiragana": "わかりました。 これ を せんせい に ていしゅつ すれば いい です か？",
+    "english": "I understand. Should I submit this to the teacher?",
+    "grammar_pattern": "〜ばいい",
+    "grammar_explanation": "Used to ask for advice or confirmation on the correct course of action.",
+    "category": "School Enrollment and Registration",
+    "theme": "Education, Language, and Academic Life",
+    "conversation_id": "0d79420e-3fb5-46b6-a952-1eda6f84df61",
+    "components": [
+      {
+        "text": "わかりました",
+        "role": "Verb (Understood)",
+        "raw_role": "Verb (Understood)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "これ",
+        "role": "Pronoun (This)",
+        "raw_role": "Pronoun (This)",
+        "normalized_role": "Pronoun"
+      },
+      {
+        "text": "を",
+        "role": "Object marker",
+        "raw_role": "Object marker",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "先生",
+        "role": "Noun (Teacher)",
+        "raw_role": "Noun (Teacher)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "に",
+        "role": "Recipient marker",
+        "raw_role": "Recipient marker",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "提出すればいい",
+        "role": "Verb-conditional (Should submit)",
+        "raw_role": "Verb-conditional (Should submit)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "です",
+        "role": "Copula (Polite ending)",
+        "raw_role": "Copula (Polite ending)",
+        "normalized_role": "Copula"
+      },
+      {
+        "text": "か",
+        "role": "Question particle",
+        "raw_role": "Question particle",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Advice & Conditionals (〜ば / 〜たら / ほう)",
+    "sequence_key": "Verb → Pronoun → Direct Object Marker → Noun → Particle → Verb → Copula → Particle",
+    "location": "school",
+    "raw_grammar_pattern": "～ばいい (Should I...?)",
+    "functional_tag": "Conditional Advice (\"It's best if\")"
+  },
+  {
+    "japanese": "はい、あちらの校長室まで持って行ってください。",
+    "hiragana": "はい、 あちら の こうちょうしつ まで もって いって ください。",
+    "english": "Yes, please take it to the principal's office over there.",
+    "grammar_pattern": "〜まで",
+    "grammar_explanation": "Indicates the destination or the limit of a movement or action.",
+    "category": "School Enrollment and Registration",
+    "theme": "Education, Language, and Academic Life",
+    "conversation_id": "0d79420e-3fb5-46b6-a952-1eda6f84df61",
+    "components": [
+      {
+        "text": "はい",
+        "role": "Interjection (Yes)",
+        "raw_role": "Interjection (Yes)",
+        "normalized_role": "Interjection"
+      },
+      {
+        "text": "あちら",
+        "role": "Pronoun (Over there)",
+        "raw_role": "Pronoun (Over there)",
+        "normalized_role": "Pronoun"
+      },
+      {
+        "text": "の",
+        "role": "Possessive marker",
+        "raw_role": "Possessive marker",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "校長室",
+        "role": "Noun (Principal's office)",
+        "raw_role": "Noun (Principal's office)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "まで",
+        "role": "Limit marker (To/Until)",
+        "raw_role": "Limit marker (To/Until)",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "持って行ってください",
+        "role": "Polite request (Please take it)",
+        "raw_role": "Polite request (Please take it)",
+        "normalized_role": "Request"
+      }
+    ],
+    "grammar_function": "Grammar & Structural Patterns",
+    "sequence_key": "Interjection → Pronoun → Particle → Noun → Particle → Request",
+    "location": "school",
+    "raw_grammar_pattern": "～まで (Until/To)",
+    "functional_tag": "〜まで"
+  },
+  {
+    "japanese": "先生、「こうこう」と「ここ」は違いますか。",
+    "hiragana": "せんせい、 こうこう と ここ は ちがいますか",
+    "english": "Teacher, are \"kōkō\" and \"koko\" different?",
+    "grammar_pattern": "Noun + と + Noun",
+    "grammar_explanation": "Used to compare two nouns or list items together.",
+    "category": "Phonetic Literacy and Kana Practice",
+    "theme": "Education, Language, and Academic Life",
+    "conversation_id": "be2fd1bf-8e81-4677-82f5-a1e5b403060d",
+    "components": [
+      {
+        "text": "先生",
+        "role": "Noun (Teacher)",
+        "raw_role": "Noun (Teacher)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "こうこう",
+        "role": "Noun (High school)",
+        "raw_role": "Noun (High school)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "と",
+        "role": "Particle (And/With)",
+        "raw_role": "Particle (And/With)",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "ここ",
+        "role": "Noun (Here)",
+        "raw_role": "Noun (Here)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "は",
+        "role": "Topic marker",
+        "raw_role": "Topic marker",
+        "normalized_role": "Topic Marker"
+      },
+      {
+        "text": "違いますか",
+        "role": "Verb (To differ/be different - Question form)",
+        "raw_role": "Verb (To differ/be different - Question form)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Particles & Structural Markers (を / に / で / と)",
+    "sequence_key": "Noun → Noun → Particle → Noun → Topic Marker → Verb",
+    "location": "school",
+    "raw_grammar_pattern": "Noun + と + Noun",
+    "functional_tag": "Connection / Together With (〜と)"
+  },
+  {
+    "japanese": "はい、音の長さで意味が変わります。",
+    "hiragana": "はい、 おと の ながさ で いみ が かわります",
+    "english": "Yes, the meaning changes depending on the length of the sound.",
+    "grammar_pattern": "Noun + で",
+    "grammar_explanation": "Indicates the reason, cause, or means of an action.",
+    "category": "Phonetic Literacy and Kana Practice",
+    "theme": "Education, Language, and Academic Life",
+    "conversation_id": "be2fd1bf-8e81-4677-82f5-a1e5b403060d",
+    "components": [
+      {
+        "text": "はい",
+        "role": "Interjection (Yes)",
+        "raw_role": "Interjection (Yes)",
+        "normalized_role": "Interjection"
+      },
+      {
+        "text": "音",
+        "role": "Noun (Sound)",
+        "raw_role": "Noun (Sound)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "の",
+        "role": "Possessive particle",
+        "raw_role": "Possessive particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "長さ",
+        "role": "Noun (Length)",
+        "raw_role": "Noun (Length)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "で",
+        "role": "Particle (By means of/Because of)",
+        "raw_role": "Particle (By means of/Because of)",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "意味",
+        "role": "Noun (Meaning)",
+        "raw_role": "Noun (Meaning)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "が",
+        "role": "Subject marker",
+        "raw_role": "Subject marker",
+        "normalized_role": "Subject Marker"
+      },
+      {
+        "text": "変わります",
+        "role": "Verb (To change)",
+        "raw_role": "Verb (To change)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Reasons & Causes (〜ので / 〜から)",
+    "sequence_key": "Interjection → Noun → Particle → Noun → Particle → Noun → Subject Marker → Verb",
+    "location": "school",
+    "raw_grammar_pattern": "Noun + で",
+    "functional_tag": "Reason / Starting Point (\"Because / From\")"
+  },
+  {
+    "japanese": "「きって」と「きて」も違いますか。",
+    "hiragana": "きって と きて も ちがいますか",
+    "english": "Are \"kitte\" and \"kite\" also different?",
+    "grammar_pattern": "Noun + も",
+    "grammar_explanation": "Used to indicate that something else is also the case.",
+    "category": "Phonetic Literacy and Kana Practice",
+    "theme": "Education, Language, and Academic Life",
+    "conversation_id": "be2fd1bf-8e81-4677-82f5-a1e5b403060d",
+    "components": [
+      {
+        "text": "きって",
+        "role": "Noun (Stamp)",
+        "raw_role": "Noun (Stamp)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "と",
+        "role": "Particle (And/With)",
+        "raw_role": "Particle (And/With)",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "きて",
+        "role": "Noun (Coming)",
+        "raw_role": "Noun (Coming)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "も",
+        "role": "Particle (Also/Too)",
+        "raw_role": "Particle (Also/Too)",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "違いますか",
+        "role": "Verb (To differ/be different - Question form)",
+        "raw_role": "Verb (To differ/be different - Question form)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Particles & Structural Markers (を / に / で / と)",
+    "sequence_key": "Noun → Particle → Noun → Particle → Verb",
+    "location": "school",
+    "raw_grammar_pattern": "Noun + も",
+    "functional_tag": "Inclusion Marker (\"Also / Too\")"
+  },
+  {
+    "japanese": "はい、小さい「つ」に気をつけてください。",
+    "hiragana": "はい、 ちいさい つ に きを つけて ください",
+    "english": "Yes, please be careful with the small \"tsu\".",
+    "grammar_pattern": "〜てください",
+    "grammar_explanation": "A polite way to request or ask someone to do something.",
+    "category": "Phonetic Literacy and Kana Practice",
+    "theme": "Education, Language, and Academic Life",
+    "conversation_id": "be2fd1bf-8e81-4677-82f5-a1e5b403060d",
+    "components": [
+      {
+        "text": "はい",
+        "role": "Interjection (Yes)",
+        "raw_role": "Interjection (Yes)",
+        "normalized_role": "Interjection"
+      },
+      {
+        "text": "小さい",
+        "role": "Adjective (Small)",
+        "raw_role": "Adjective (Small)",
+        "normalized_role": "Adjective"
+      },
+      {
+        "text": "つ",
+        "role": "Noun (The character 'tsu')",
+        "raw_role": "Noun (The character 'tsu')",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "に",
+        "role": "Particle (Target of attention)",
+        "raw_role": "Particle (Target of attention)",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "気をつけて",
+        "role": "Verb (To be careful - te form)",
+        "raw_role": "Verb (To be careful - te form)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "ください",
+        "role": "Auxiliary verb (Please)",
+        "raw_role": "Auxiliary verb (Please)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Requests & Favors (〜て / ください)",
+    "sequence_key": "Interjection → Adjective → Noun → Particle → Verb → Verb",
+    "location": "school",
+    "raw_grammar_pattern": "Verb-te + ください",
+    "functional_tag": "Polite Request (\"Please do\")"
+  },
+  {
+    "japanese": "先生、すみません。この問題がわかりません。",
+    "hiragana": "せんせい、 すみません。 この もんだい が わかりません。",
+    "english": "Teacher, excuse me. I don't understand this problem.",
+    "grammar_pattern": "Noun + が わかりません",
+    "grammar_explanation": "Used to express that the speaker does not understand a specific topic or thing.",
+    "category": "Education and Learning",
+    "theme": "Education, Language, and Academic Life",
+    "conversation_id": "50a6c7d5-b7f7-4177-a3f6-8c87e444b6e9",
+    "components": [
+      {
+        "text": "先生",
+        "role": "Noun (Teacher)",
+        "raw_role": "Noun (Teacher)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "すみません",
+        "role": "Interjection (Excuse me)",
+        "raw_role": "Interjection (Excuse me)",
+        "normalized_role": "Interjection"
+      },
+      {
+        "text": "この",
+        "role": "Demonstrative adjective (This)",
+        "raw_role": "Demonstrative adjective (This)",
+        "normalized_role": "Adjective"
+      },
+      {
+        "text": "問題",
+        "role": "Noun (Problem)",
+        "raw_role": "Noun (Problem)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "が",
+        "role": "Object marker for state",
+        "raw_role": "Object marker for state",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "わかりません",
+        "role": "Verb (Do not understand)",
+        "raw_role": "Verb (Do not understand)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Particles & Structural Markers (を / に / で / と)",
+    "sequence_key": "Noun → Interjection → Adjective → Noun → Direct Object Marker → Verb",
+    "location": "school",
+    "raw_grammar_pattern": "Noun + が わかりません",
+    "functional_tag": "Subject / Identifier Marker (〜が)"
+  },
+  {
+    "japanese": "どこがわかりませんか。",
+    "hiragana": "どこ が わかりません か。",
+    "english": "Which part do you not understand?",
+    "grammar_pattern": "〜か",
+    "grammar_explanation": "Adding 'ka' at the end of a sentence turns it into a polite question.",
+    "category": "Education and Learning",
+    "theme": "Education, Language, and Academic Life",
+    "conversation_id": "50a6c7d5-b7f7-4177-a3f6-8c87e444b6e9",
+    "components": [
+      {
+        "text": "どこ",
+        "role": "Interrogative (Where/Which part)",
+        "raw_role": "Interrogative (Where/Which part)",
+        "normalized_role": "Question Word"
+      },
+      {
+        "text": "が",
+        "role": "Subject marker",
+        "raw_role": "Subject marker",
+        "normalized_role": "Subject Marker"
+      },
+      {
+        "text": "わかりません",
+        "role": "Verb (Do not understand)",
+        "raw_role": "Verb (Do not understand)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "か",
+        "role": "Question particle",
+        "raw_role": "Question particle",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Questions & Inquiries (〜ですか / どこ / どう)",
+    "sequence_key": "Question Word → Subject Marker → Verb → Particle",
+    "location": "school",
+    "raw_grammar_pattern": "Question marker か",
+    "functional_tag": "Polite Question (\"Is it?\")"
+  },
+  {
+    "japanese": "ここの使いかたを教えてください。",
+    "hiragana": "ここ の つかいかた を おしえて ください。",
+    "english": "Please teach me how to use this part.",
+    "grammar_pattern": "〜てください",
+    "grammar_explanation": "Used to ask someone to do something politely using the te-form of a verb.",
+    "category": "Education and Learning",
+    "theme": "Education, Language, and Academic Life",
+    "conversation_id": "50a6c7d5-b7f7-4177-a3f6-8c87e444b6e9",
+    "components": [
+      {
+        "text": "ここ",
+        "role": "Pronoun (Here)",
+        "raw_role": "Pronoun (Here)",
+        "normalized_role": "Pronoun"
+      },
+      {
+        "text": "の",
+        "role": "Possessive particle",
+        "raw_role": "Possessive particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "使いかた",
+        "role": "Noun (Way of using)",
+        "raw_role": "Noun (Way of using)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "を",
+        "role": "Direct object marker",
+        "raw_role": "Direct object marker",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "教えて",
+        "role": "Verb (Teach - te-form)",
+        "raw_role": "Verb (Teach - te-form)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "ください",
+        "role": "Polite request",
+        "raw_role": "Polite request",
+        "normalized_role": "Request"
+      }
+    ],
+    "grammar_function": "Requests & Favors (〜て / ください)",
+    "sequence_key": "Pronoun → Particle → Noun → Direct Object Marker → Verb → Request",
+    "location": "school",
+    "raw_grammar_pattern": "～てください",
+    "functional_tag": "Polite Request (\"Please do\")"
+  },
+  {
+    "japanese": "いいですよ。一緒に考えましょう。",
+    "hiragana": "いい です よ。 いっしょ に かんがえましょう。",
+    "english": "Sure. Let's think about it together.",
+    "grammar_pattern": "〜ましょう",
+    "grammar_explanation": "Used to suggest doing an action together or offering help politely.",
+    "category": "Education and Learning",
+    "theme": "Education, Language, and Academic Life",
+    "conversation_id": "50a6c7d5-b7f7-4177-a3f6-8c87e444b6e9",
+    "components": [
+      {
+        "text": "いい",
+        "role": "Adjective (Good/Okay)",
+        "raw_role": "Adjective (Good/Okay)",
+        "normalized_role": "Adjective"
+      },
+      {
+        "text": "です",
+        "role": "Copula",
+        "raw_role": "Copula",
+        "normalized_role": "Copula"
+      },
+      {
+        "text": "よ",
+        "role": "Sentence-ending particle",
+        "raw_role": "Sentence-ending particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "一緒に",
+        "role": "Adverb (Together)",
+        "raw_role": "Adverb (Together)",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "考えましょう",
+        "role": "Verb (Let's think)",
+        "raw_role": "Verb (Let's think)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Suggestions & Invitations (〜ましょう / ませんか)",
+    "sequence_key": "Adjective → Copula → Particle → Adverb → Verb",
+    "location": "school",
+    "raw_grammar_pattern": "～ましょう",
+    "functional_tag": "Proposal / Collective Action (\"Let's\")"
+  },
+  {
+    "japanese": "すみません、入学願書を提出しに来ました。",
+    "hiragana": "すみません、にゅうがく がんしょ を ていしゅつ し に きました。",
+    "english": "Excuse me, I've come to submit the enrollment application.",
+    "grammar_pattern": "〜に来る",
+    "grammar_explanation": "Used to express the purpose of coming to a certain place.",
+    "category": "School Enrollment and Registration",
+    "theme": "Education, Language, and Academic Life",
+    "conversation_id": "cfff94f0-c7e4-4d22-9cc0-7287f3ecd47f",
+    "components": [
+      {
+        "text": "すみません",
+        "role": "interjection (excuse me)",
+        "raw_role": "interjection (excuse me)",
+        "normalized_role": "Interjection"
+      },
+      {
+        "text": "入学願書",
+        "role": "noun (enrollment application)",
+        "raw_role": "noun (enrollment application)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "を",
+        "role": "object marker",
+        "raw_role": "object marker",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "提出し",
+        "role": "verb stem (to submit)",
+        "raw_role": "verb stem (to submit)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "に",
+        "role": "purpose particle",
+        "raw_role": "purpose particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "来ました",
+        "role": "verb (came/have come)",
+        "raw_role": "verb (came/have come)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Grammar & Structural Patterns",
+    "sequence_key": "Interjection → Noun → Direct Object Marker → Verb → Particle → Verb",
+    "location": "school",
+    "raw_grammar_pattern": "Verb stem + に来る",
+    "functional_tag": "〜に来る"
+  },
+  {
+    "japanese": "はい、お願いします。書類はすべて記入しましたか。",
+    "hiragana": "はい、おねがい します。しょるい は すべて きにゅう しました か。",
+    "english": "Yes, please. Have you filled out all the documents?",
+    "grammar_pattern": "Verb + か",
+    "grammar_explanation": "A polite way to ask a question about a completed action.",
+    "category": "School Enrollment and Registration",
+    "theme": "Education, Language, and Academic Life",
+    "conversation_id": "cfff94f0-c7e4-4d22-9cc0-7287f3ecd47f",
+    "components": [
+      {
+        "text": "はい",
+        "role": "interjection (yes)",
+        "raw_role": "interjection (yes)",
+        "normalized_role": "Interjection"
+      },
+      {
+        "text": "お願いします",
+        "role": "polite phrase (please)",
+        "raw_role": "polite phrase (please)",
+        "normalized_role": "Expression / Set Phrase"
+      },
+      {
+        "text": "書類",
+        "role": "noun (documents)",
+        "raw_role": "noun (documents)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "は",
+        "role": "topic marker",
+        "raw_role": "topic marker",
+        "normalized_role": "Topic Marker"
+      },
+      {
+        "text": "すべて",
+        "role": "adverb (all)",
+        "raw_role": "adverb (all)",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "記入しました",
+        "role": "verb past polite (filled out)",
+        "raw_role": "verb past polite (filled out)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "か",
+        "role": "question particle",
+        "raw_role": "question particle",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Grammar & Structural Patterns",
+    "sequence_key": "Interjection → Expression / Set Phrase → Noun → Topic Marker → Adverb → Verb → Particle",
+    "location": "school",
+    "raw_grammar_pattern": "Verb (Past Polite) + か",
+    "functional_tag": "Verb + か"
+  },
+  {
+    "japanese": "はい、ですが、ここの書き方がよくわかりません。",
+    "hiragana": "はい、ですが、ここ の かきかた が よく わかりません。",
+    "english": "Yes, but I am not sure how to fill out this part.",
+    "grammar_pattern": "〜方",
+    "grammar_explanation": "Used to describe the way or method of doing something.",
+    "category": "School Enrollment and Registration",
+    "theme": "Education, Language, and Academic Life",
+    "conversation_id": "cfff94f0-c7e4-4d22-9cc0-7287f3ecd47f",
+    "components": [
+      {
+        "text": "はい",
+        "role": "interjection (yes)",
+        "raw_role": "interjection (yes)",
+        "normalized_role": "Interjection"
+      },
+      {
+        "text": "ですが",
+        "role": "conjunction (but/however)",
+        "raw_role": "conjunction (but/however)",
+        "normalized_role": "Conjunction"
+      },
+      {
+        "text": "ここ",
+        "role": "pronoun (here/this part)",
+        "raw_role": "pronoun (here/this part)",
+        "normalized_role": "Pronoun"
+      },
+      {
+        "text": "の",
+        "role": "possessive particle",
+        "raw_role": "possessive particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "書き方",
+        "role": "noun (way of writing)",
+        "raw_role": "noun (way of writing)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "が",
+        "role": "subject marker",
+        "raw_role": "subject marker",
+        "normalized_role": "Subject Marker"
+      },
+      {
+        "text": "よく",
+        "role": "adverb (well)",
+        "raw_role": "adverb (well)",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "わかりません",
+        "role": "verb negative polite (do not understand)",
+        "raw_role": "verb negative polite (do not understand)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Grammar & Structural Patterns",
+    "sequence_key": "Interjection → Conjunction → Pronoun → Particle → Noun → Subject Marker → Adverb → Verb",
+    "location": "school",
+    "raw_grammar_pattern": "Verb stem + 方",
+    "functional_tag": "〜方"
+  },
+  {
+    "japanese": "そうですね。お手伝いしますので、一緒に確認しましょう。",
+    "hiragana": "そう です ね。おてつだい します ので、いっしょ に かくにん しましょう。",
+    "english": "I see. I will help you, so let's check it together.",
+    "grammar_pattern": "〜ましょう",
+    "grammar_explanation": "Used to suggest doing an action together or offer help.",
+    "category": "School Enrollment and Registration",
+    "theme": "Education, Language, and Academic Life",
+    "conversation_id": "cfff94f0-c7e4-4d22-9cc0-7287f3ecd47f",
+    "components": [
+      {
+        "text": "そうですね",
+        "role": "interjection (I see/that's true)",
+        "raw_role": "interjection (I see/that's true)",
+        "normalized_role": "Interjection"
+      },
+      {
+        "text": "お手伝いします",
+        "role": "polite verb (to help)",
+        "raw_role": "polite verb (to help)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "ので",
+        "role": "reason particle (so/because)",
+        "raw_role": "reason particle (so/because)",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "一緒に",
+        "role": "adverb (together)",
+        "raw_role": "adverb (together)",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "確認し",
+        "role": "verb stem (to confirm/check)",
+        "raw_role": "verb stem (to confirm/check)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "ましょう",
+        "role": "volitional ending (let's)",
+        "raw_role": "volitional ending (let's)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Suggestions & Invitations (〜ましょう / ませんか)",
+    "sequence_key": "Interjection → Verb → Particle → Adverb → Verb → Verb",
+    "location": "school",
+    "raw_grammar_pattern": "Verb stem + ましょう",
+    "functional_tag": "Proposal / Collective Action (\"Let's\")"
+  },
+  {
+    "japanese": "先生、この単語の発音は正しいですか？",
+    "hiragana": "せんせい、 この たんご の はつおん は ただしい です か？",
+    "english": "Teacher, is the pronunciation of this word correct?",
+    "grammar_pattern": "Noun + ですか",
+    "grammar_explanation": "Used to form a polite question asking about the state of a noun.",
+    "category": "Phonetic Literacy and Kana Practice",
+    "theme": "Education, Language, and Academic Life",
+    "conversation_id": "8b677a13-769f-44fd-99ec-1246274ec851",
+    "components": [
+      {
+        "text": "先生",
+        "role": "Noun (Vocative)",
+        "raw_role": "Noun (Vocative)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "この",
+        "role": "Demonstrative adjective",
+        "raw_role": "Demonstrative adjective",
+        "normalized_role": "Adjective"
+      },
+      {
+        "text": "単語",
+        "role": "Noun",
+        "raw_role": "Noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "の",
+        "role": "Possessive particle",
+        "raw_role": "Possessive particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "発音",
+        "role": "Noun",
+        "raw_role": "Noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "は",
+        "role": "Topic marker",
+        "raw_role": "Topic marker",
+        "normalized_role": "Topic Marker"
+      },
+      {
+        "text": "正しい",
+        "role": "Adjective",
+        "raw_role": "Adjective",
+        "normalized_role": "Adjective"
+      },
+      {
+        "text": "です",
+        "role": "Copula",
+        "raw_role": "Copula",
+        "normalized_role": "Copula"
+      },
+      {
+        "text": "か",
+        "role": "Question particle",
+        "raw_role": "Question particle",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Questions & Inquiries (〜ですか / どこ / どう)",
+    "sequence_key": "Noun → Adjective → Noun → Particle → Noun → Topic Marker → Adjective → Copula → Particle",
+    "location": "school",
+    "raw_grammar_pattern": "Noun + ですか",
+    "functional_tag": "Polite Question (\"Is it?\")"
+  },
+  {
+    "japanese": "いいえ、長音に注意してください。",
+    "hiragana": "いいえ、 ちょうおん に ちゅうい して ください。",
+    "english": "No, please pay attention to the long vowel.",
+    "grammar_pattern": "〜てください",
+    "grammar_explanation": "A polite way to request or ask someone to perform an action.",
+    "category": "Phonetic Literacy and Kana Practice",
+    "theme": "Education, Language, and Academic Life",
+    "conversation_id": "8b677a13-769f-44fd-99ec-1246274ec851",
+    "components": [
+      {
+        "text": "いいえ",
+        "role": "Interjection",
+        "raw_role": "Interjection",
+        "normalized_role": "Interjection"
+      },
+      {
+        "text": "長音",
+        "role": "Noun",
+        "raw_role": "Noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "に",
+        "role": "Target particle",
+        "raw_role": "Target particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "注意して",
+        "role": "Verb (te-form)",
+        "raw_role": "Verb (te-form)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "ください",
+        "role": "Polite request",
+        "raw_role": "Polite request",
+        "normalized_role": "Request"
+      }
+    ],
+    "grammar_function": "Requests & Favors (〜て / ください)",
+    "sequence_key": "Interjection → Noun → Particle → Verb → Request",
+    "location": "school",
+    "raw_grammar_pattern": "Verb (te-form) + ください",
+    "functional_tag": "Polite Request (\"Please do\")"
+  },
+  {
+    "japanese": "短音とは違いますか？",
+    "hiragana": "たんおん と は ちがいます か？",
+    "english": "Is it different from the short vowel?",
+    "grammar_pattern": "Noun + とは",
+    "grammar_explanation": "Used to contrast one thing with another or define a term.",
+    "category": "Phonetic Literacy and Kana Practice",
+    "theme": "Education, Language, and Academic Life",
+    "conversation_id": "8b677a13-769f-44fd-99ec-1246274ec851",
+    "components": [
+      {
+        "text": "短音",
+        "role": "Noun",
+        "raw_role": "Noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "と",
+        "role": "Comparison particle",
+        "raw_role": "Comparison particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "は",
+        "role": "Topic marker",
+        "raw_role": "Topic marker",
+        "normalized_role": "Topic Marker"
+      },
+      {
+        "text": "違います",
+        "role": "Verb",
+        "raw_role": "Verb",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "か",
+        "role": "Question particle",
+        "raw_role": "Question particle",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Particles & Structural Markers (を / に / で / と)",
+    "sequence_key": "Noun → Particle → Topic Marker → Verb → Particle",
+    "location": "school",
+    "raw_grammar_pattern": "Noun + とは",
+    "functional_tag": "Connection / Together With (〜と)"
+  },
+  {
+    "japanese": "はい、意味が全然違います。",
+    "hiragana": "はい、 いみ が ぜんぜん ちがいます。",
+    "english": "Yes, the meaning is completely different.",
+    "grammar_pattern": "Noun + が",
+    "grammar_explanation": "Identifies the subject of the sentence that is in a specific state.",
+    "category": "Phonetic Literacy and Kana Practice",
+    "theme": "Education, Language, and Academic Life",
+    "conversation_id": "8b677a13-769f-44fd-99ec-1246274ec851",
+    "components": [
+      {
+        "text": "はい",
+        "role": "Interjection",
+        "raw_role": "Interjection",
+        "normalized_role": "Interjection"
+      },
+      {
+        "text": "意味",
+        "role": "Noun",
+        "raw_role": "Noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "が",
+        "role": "Subject marker",
+        "raw_role": "Subject marker",
+        "normalized_role": "Subject Marker"
+      },
+      {
+        "text": "全然",
+        "role": "Adverb",
+        "raw_role": "Adverb",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "違います",
+        "role": "Verb",
+        "raw_role": "Verb",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Particles & Structural Markers (を / に / で / と)",
+    "sequence_key": "Interjection → Noun → Subject Marker → Adverb → Verb",
+    "location": "school",
+    "raw_grammar_pattern": "Noun + が",
+    "functional_tag": "Subject / Identifier Marker (〜が)"
+  },
+  {
+    "japanese": "すみません、入学願書を提出しに来ました。",
+    "hiragana": "すみません、にゅうがく がんしょ を ていしゅつ し に きました。",
+    "english": "Excuse me, I've come to submit the enrollment application.",
+    "grammar_pattern": "〜に来る",
+    "grammar_explanation": "Used to express the specific purpose of coming to a location.",
+    "category": "School Enrollment and Registration",
+    "theme": "Education, Language, and Academic Life",
+    "conversation_id": "2d60999c-7af0-41c7-8d35-7f0247c1c3d8",
+    "components": [
+      {
+        "text": "すみません",
+        "role": "interjection",
+        "raw_role": "interjection",
+        "normalized_role": "Interjection"
+      },
+      {
+        "text": "入学願書",
+        "role": "noun",
+        "raw_role": "noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "を",
+        "role": "object marker",
+        "raw_role": "object marker",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "提出し",
+        "role": "verb stem",
+        "raw_role": "verb stem",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "に",
+        "role": "purpose particle",
+        "raw_role": "purpose particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "来ました",
+        "role": "verb",
+        "raw_role": "verb",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Grammar & Structural Patterns",
+    "sequence_key": "Interjection → Noun → Direct Object Marker → Verb → Particle → Verb",
+    "location": "school",
+    "raw_grammar_pattern": "Verb stem + に来る",
+    "functional_tag": "〜に来る"
+  },
+  {
+    "japanese": "ありがとうございます。こちらの書類も記入してください。",
+    "hiragana": "ありがとう ございます。こちら の しょるい も きにゅう して ください。",
+    "english": "Thank you. Please fill out this document as well.",
+    "grammar_pattern": "〜てください",
+    "grammar_explanation": "A polite way to make a request or give an instruction.",
+    "category": "School Enrollment and Registration",
+    "theme": "Education, Language, and Academic Life",
+    "conversation_id": "2d60999c-7af0-41c7-8d35-7f0247c1c3d8",
+    "components": [
+      {
+        "text": "ありがとうございます",
+        "role": "polite expression",
+        "raw_role": "polite expression",
+        "normalized_role": "Expression / Set Phrase"
+      },
+      {
+        "text": "こちら",
+        "role": "demonstrative",
+        "raw_role": "demonstrative",
+        "normalized_role": "Demonstrative"
+      },
+      {
+        "text": "の",
+        "role": "possessive particle",
+        "raw_role": "possessive particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "書類",
+        "role": "noun",
+        "raw_role": "noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "も",
+        "role": "additive particle",
+        "raw_role": "additive particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "記入して",
+        "role": "verb te-form",
+        "raw_role": "verb te-form",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "ください",
+        "role": "polite request",
+        "raw_role": "polite request",
+        "normalized_role": "Request"
+      }
+    ],
+    "grammar_function": "Requests & Favors (〜て / ください)",
+    "sequence_key": "Expression / Set Phrase → Demonstrative → Particle → Noun → Particle → Verb → Request",
+    "location": "school",
+    "raw_grammar_pattern": "Verb (te-form) + ください",
+    "functional_tag": "Polite Request (\"Please do\")"
+  },
+  {
+    "japanese": "わかりました。書き終わったら、どこに提出すればいいですか？",
+    "hiragana": "わかりました。かき おわったら、どこ に ていしゅつ すれば いい です か？",
+    "english": "I understand. Once I'm finished writing, where should I submit them?",
+    "grammar_pattern": "〜ばいいですか",
+    "grammar_explanation": "Used to ask for advice or a recommendation on what to do.",
+    "category": "School Enrollment and Registration",
+    "theme": "Education, Language, and Academic Life",
+    "conversation_id": "2d60999c-7af0-41c7-8d35-7f0247c1c3d8",
+    "components": [
+      {
+        "text": "わかりました",
+        "role": "verb",
+        "raw_role": "verb",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "書き終わったら",
+        "role": "verb conditional form",
+        "raw_role": "verb conditional form",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "どこ",
+        "role": "interrogative",
+        "raw_role": "interrogative",
+        "normalized_role": "Question Word"
+      },
+      {
+        "text": "に",
+        "role": "destination particle",
+        "raw_role": "destination particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "提出すれば",
+        "role": "verb ba-form",
+        "raw_role": "verb ba-form",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "いい",
+        "role": "adjective",
+        "raw_role": "adjective",
+        "normalized_role": "Adjective"
+      },
+      {
+        "text": "ですか",
+        "role": "polite question marker",
+        "raw_role": "polite question marker",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Advice & Conditionals (〜ば / 〜たら / ほう)",
+    "sequence_key": "Verb → Verb → Question Word → Particle → Verb → Adjective → Particle",
+    "location": "school",
+    "raw_grammar_pattern": "Verb (ba-form) + いいですか",
+    "functional_tag": "Seeking Guidance (\"What should I do?\")"
+  },
+  {
+    "japanese": "あちらの先生にお渡しください。",
+    "hiragana": "あちら の せんせい に おわたし ください。",
+    "english": "Please hand them to that teacher over there.",
+    "grammar_pattern": "Noun + に",
+    "grammar_explanation": "Indicates the person who receives an object or action.",
+    "category": "School Enrollment and Registration",
+    "theme": "Education, Language, and Academic Life",
+    "conversation_id": "2d60999c-7af0-41c7-8d35-7f0247c1c3d8",
+    "components": [
+      {
+        "text": "あちら",
+        "role": "demonstrative",
+        "raw_role": "demonstrative",
+        "normalized_role": "Demonstrative"
+      },
+      {
+        "text": "の",
+        "role": "possessive particle",
+        "raw_role": "possessive particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "先生",
+        "role": "noun",
+        "raw_role": "noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "に",
+        "role": "recipient particle",
+        "raw_role": "recipient particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "お渡しください",
+        "role": "polite request verb",
+        "raw_role": "polite request verb",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Particles & Structural Markers (を / に / で / と)",
+    "sequence_key": "Demonstrative → Particle → Noun → Particle → Verb",
+    "location": "school",
+    "raw_grammar_pattern": "Noun + に (Recipient)",
+    "functional_tag": "Target / Time / Direction (〜に)"
+  },
+  {
+    "japanese": "いっしょに ひらがなの れんしゅうを しましょう。",
+    "hiragana": "いっしょに ひらがな の れんしゅう を しましょう",
+    "english": "Let's practice hiragana together.",
+    "grammar_pattern": "〜ましょう",
+    "grammar_explanation": "A polite expression used to invite someone to do an action together.",
+    "category": "Phonetic Literacy and Kana Practice",
+    "theme": "Education, Language, and Academic Life",
+    "conversation_id": "15f6bbb7-d2c8-425e-b778-967818b77344",
+    "components": [
+      {
+        "text": "いっしょに",
+        "role": "adverb",
+        "raw_role": "adverb",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "ひらがな",
+        "role": "noun",
+        "raw_role": "noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "の",
+        "role": "possessive particle",
+        "raw_role": "possessive particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "れんしゅう",
+        "role": "noun",
+        "raw_role": "noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "を",
+        "role": "object marker particle",
+        "raw_role": "object marker particle",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "しましょう",
+        "role": "verb (polite invitation)",
+        "raw_role": "verb (polite invitation)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Suggestions & Invitations (〜ましょう / ませんか)",
+    "sequence_key": "Adverb → Noun → Particle → Noun → Direct Object Marker → Verb",
+    "location": "school",
+    "raw_grammar_pattern": "～ましょう",
+    "functional_tag": "Proposal / Collective Action (\"Let's\")"
+  },
+  {
+    "japanese": "はい。でも、っ（小さい つ）が むずかしい です。",
+    "hiragana": "はい。 でも、 っ が むずかしい です",
+    "english": "Yes. But, the small 'tsu' (double consonant) is difficult.",
+    "grammar_pattern": "Noun + が + Adjective",
+    "grammar_explanation": "Used to describe a specific quality or characteristic of a subject.",
+    "category": "Phonetic Literacy and Kana Practice",
+    "theme": "Education, Language, and Academic Life",
+    "conversation_id": "15f6bbb7-d2c8-425e-b778-967818b77344",
+    "components": [
+      {
+        "text": "はい",
+        "role": "interjection",
+        "raw_role": "interjection",
+        "normalized_role": "Interjection"
+      },
+      {
+        "text": "でも",
+        "role": "conjunction",
+        "raw_role": "conjunction",
+        "normalized_role": "Conjunction"
+      },
+      {
+        "text": "っ",
+        "role": "noun (phonetic symbol)",
+        "raw_role": "noun (phonetic symbol)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "が",
+        "role": "subject marker particle",
+        "raw_role": "subject marker particle",
+        "normalized_role": "Subject Marker"
+      },
+      {
+        "text": "むずかしい",
+        "role": "adjective",
+        "raw_role": "adjective",
+        "normalized_role": "Adjective"
+      },
+      {
+        "text": "です",
+        "role": "polite copula",
+        "raw_role": "polite copula",
+        "normalized_role": "Copula"
+      }
+    ],
+    "grammar_function": "Particles & Structural Markers (を / に / で / と)",
+    "sequence_key": "Interjection → Conjunction → Noun → Subject Marker → Adjective → Copula",
+    "location": "school",
+    "raw_grammar_pattern": "Noun + が + Adjective",
+    "functional_tag": "Subject / Identifier Marker (〜が)"
+  },
+  {
+    "japanese": "ちょうおん（長い おと）も たいせつ ですね。",
+    "hiragana": "ちょうおん も たいせつ です ね",
+    "english": "Long vowels are also important, right?",
+    "grammar_pattern": "Noun + も",
+    "grammar_explanation": "The particle 'mo' is used to mean 'also' or 'too'.",
+    "category": "Phonetic Literacy and Kana Practice",
+    "theme": "Education, Language, and Academic Life",
+    "conversation_id": "15f6bbb7-d2c8-425e-b778-967818b77344",
+    "components": [
+      {
+        "text": "ちょうおん",
+        "role": "noun",
+        "raw_role": "noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "も",
+        "role": "inclusive particle",
+        "raw_role": "inclusive particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "たいせつ",
+        "role": "adjective-na",
+        "raw_role": "adjective-na",
+        "normalized_role": "Adjective"
+      },
+      {
+        "text": "です",
+        "role": "polite copula",
+        "raw_role": "polite copula",
+        "normalized_role": "Copula"
+      },
+      {
+        "text": "ね",
+        "role": "sentence-ending particle for confirmation",
+        "raw_role": "sentence-ending particle for confirmation",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Particles & Structural Markers (を / に / で / と)",
+    "sequence_key": "Noun → Particle → Adjective → Copula → Particle",
+    "location": "school",
+    "raw_grammar_pattern": "Noun + も",
+    "functional_tag": "Inclusion Marker (\"Also / Too\")"
+  },
+  {
+    "japanese": "そうですね。よく まちがえます。",
+    "hiragana": "そう です ね。 よく まちがえます",
+    "english": "That's true. I often make mistakes.",
+    "grammar_pattern": "Verb",
+    "grammar_explanation": "Expresses a habitual action or a general state in the present tense.",
+    "category": "Phonetic Literacy and Kana Practice",
+    "theme": "Education, Language, and Academic Life",
+    "conversation_id": "15f6bbb7-d2c8-425e-b778-967818b77344",
+    "components": [
+      {
+        "text": "そう",
+        "role": "adverb",
+        "raw_role": "adverb",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "です",
+        "role": "polite copula",
+        "raw_role": "polite copula",
+        "normalized_role": "Copula"
+      },
+      {
+        "text": "ね",
+        "role": "sentence-ending particle for agreement",
+        "raw_role": "sentence-ending particle for agreement",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "よく",
+        "role": "adverb",
+        "raw_role": "adverb",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "まちがえます",
+        "role": "verb (polite form)",
+        "raw_role": "verb (polite form)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Grammar & Structural Patterns",
+    "sequence_key": "Adverb → Copula → Particle → Adverb → Verb",
+    "location": "school",
+    "raw_grammar_pattern": "Verb (Present Polite)",
+    "functional_tag": "Verb"
+  },
+  {
+    "japanese": "先生、宿題について質問があります。",
+    "hiragana": "せんせい 、 しゅくだい に ついて しつもん が あります 。",
+    "english": "Teacher, I have a question about the homework.",
+    "grammar_pattern": "〜について",
+    "grammar_explanation": "Used to indicate the topic or subject that something is about.",
+    "category": "Education and Learning",
+    "theme": "Education, Language, and Academic Life",
+    "conversation_id": "42239e2e-6ed4-4e63-b35e-3a19276f6481",
+    "components": [
+      {
+        "text": "先生",
+        "role": "Noun (Teacher)",
+        "raw_role": "Noun (Teacher)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "宿題",
+        "role": "Noun (Homework)",
+        "raw_role": "Noun (Homework)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "について",
+        "role": "Particle phrase (About)",
+        "raw_role": "Particle phrase (About)",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "質問",
+        "role": "Noun (Question)",
+        "raw_role": "Noun (Question)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "が",
+        "role": "Particle (Subject marker)",
+        "raw_role": "Particle (Subject marker)",
+        "normalized_role": "Subject Marker"
+      },
+      {
+        "text": "あります",
+        "role": "Verb (To exist/have)",
+        "raw_role": "Verb (To exist/have)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Copula, Topics & Definitions (です / は / について)",
+    "sequence_key": "Noun → Noun → Particle → Noun → Subject Marker → Verb",
+    "location": "school",
+    "raw_grammar_pattern": "Noun + について",
+    "functional_tag": "Topic / Focus (\"Regarding / About\")"
+  },
+  {
+    "japanese": "何ですか。教えてください。",
+    "hiragana": "なん です か 。 おしえて ください 。",
+    "english": "What is it? Please tell me.",
+    "grammar_pattern": "〜てください",
+    "grammar_explanation": "A polite way to make a request for someone to perform an action.",
+    "category": "Education and Learning",
+    "theme": "Education, Language, and Academic Life",
+    "conversation_id": "42239e2e-6ed4-4e63-b35e-3a19276f6481",
+    "components": [
+      {
+        "text": "何",
+        "role": "Pronoun (What)",
+        "raw_role": "Pronoun (What)",
+        "normalized_role": "Pronoun"
+      },
+      {
+        "text": "です",
+        "role": "Copula (Is)",
+        "raw_role": "Copula (Is)",
+        "normalized_role": "Copula"
+      },
+      {
+        "text": "か",
+        "role": "Particle (Question marker)",
+        "raw_role": "Particle (Question marker)",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "教えて",
+        "role": "Verb (Tell/Teach - te form)",
+        "raw_role": "Verb (Tell/Teach - te form)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "ください",
+        "role": "Auxiliary verb (Please)",
+        "raw_role": "Auxiliary verb (Please)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Requests & Favors (〜て / ください)",
+    "sequence_key": "Pronoun → Copula → Particle → Verb → Verb",
+    "location": "school",
+    "raw_grammar_pattern": "Verb (te-form) + ください",
+    "functional_tag": "Polite Request (\"Please do\")"
+  },
+  {
+    "japanese": "教科書のこの部分がよくわかりません。",
+    "hiragana": "きょうかしょ の この ぶぶん が よく わかりません 。",
+    "english": "I don't really understand this part of the textbook.",
+    "grammar_pattern": "Verb",
+    "grammar_explanation": "The negative form of a verb indicates that an action or state does not occur.",
+    "category": "Education and Learning",
+    "theme": "Education, Language, and Academic Life",
+    "conversation_id": "42239e2e-6ed4-4e63-b35e-3a19276f6481",
+    "components": [
+      {
+        "text": "教科書",
+        "role": "Noun (Textbook)",
+        "raw_role": "Noun (Textbook)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "の",
+        "role": "Particle (Possessive/Linking)",
+        "raw_role": "Particle (Possessive/Linking)",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "この",
+        "role": "Demonstrative (This)",
+        "raw_role": "Demonstrative (This)",
+        "normalized_role": "Demonstrative"
+      },
+      {
+        "text": "部分",
+        "role": "Noun (Part/Section)",
+        "raw_role": "Noun (Part/Section)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "が",
+        "role": "Particle (Subject marker)",
+        "raw_role": "Particle (Subject marker)",
+        "normalized_role": "Subject Marker"
+      },
+      {
+        "text": "よく",
+        "role": "Adverb (Well/Really)",
+        "raw_role": "Adverb (Well/Really)",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "わかりません",
+        "role": "Verb (Do not understand)",
+        "raw_role": "Verb (Do not understand)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Grammar & Structural Patterns",
+    "sequence_key": "Noun → Particle → Demonstrative → Noun → Subject Marker → Adverb → Verb",
+    "location": "school",
+    "raw_grammar_pattern": "Verb (negative form)",
+    "functional_tag": "Verb"
+  },
+  {
+    "japanese": "一緒に確認しましょう。",
+    "hiragana": "いっしょ に かくにん しましょう 。",
+    "english": "Let's check it together.",
+    "grammar_pattern": "〜ましょう",
+    "grammar_explanation": "Used to suggest an action or invite someone to do something together.",
+    "category": "Education and Learning",
+    "theme": "Education, Language, and Academic Life",
+    "conversation_id": "42239e2e-6ed4-4e63-b35e-3a19276f6481",
+    "components": [
+      {
+        "text": "一緒に",
+        "role": "Adverb (Together)",
+        "raw_role": "Adverb (Together)",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "確認し",
+        "role": "Verb (Check - stem form)",
+        "raw_role": "Verb (Check - stem form)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "ましょう",
+        "role": "Auxiliary verb (Let's)",
+        "raw_role": "Auxiliary verb (Let's)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Suggestions & Invitations (〜ましょう / ませんか)",
+    "sequence_key": "Adverb → Verb → Verb",
+    "location": "school",
+    "raw_grammar_pattern": "Verb (stem) + ましょう",
+    "functional_tag": "Proposal / Collective Action (\"Let's\")"
+  },
+  {
+    "japanese": "すみません、入学願書を提出しに来ました。",
+    "hiragana": "すみません、にゅうがく がんしょ を ていしゅつ し に きました。",
+    "english": "Excuse me, I've come to submit the enrollment application.",
+    "grammar_pattern": "〜に来る",
+    "grammar_explanation": "Used to express the purpose of coming or going to a location.",
+    "category": "School Enrollment and Registration",
+    "theme": "Education, Language, and Academic Life",
+    "conversation_id": "f98716a9-2bba-46ab-bc90-28722115292d",
+    "components": [
+      {
+        "text": "すみません",
+        "role": "Interjection (Excuse me)",
+        "raw_role": "Interjection (Excuse me)",
+        "normalized_role": "Interjection"
+      },
+      {
+        "text": "入学願書",
+        "role": "Noun (enrollment application)",
+        "raw_role": "Noun (enrollment application)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "を",
+        "role": "Object marker",
+        "raw_role": "Object marker",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "提出し",
+        "role": "Verb stem (to submit)",
+        "raw_role": "Verb stem (to submit)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "に",
+        "role": "Purpose marker",
+        "raw_role": "Purpose marker",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "来ました",
+        "role": "Verb (came)",
+        "raw_role": "Verb (came)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Grammar & Structural Patterns",
+    "sequence_key": "Interjection → Noun → Direct Object Marker → Verb → Particle → Verb",
+    "location": "school",
+    "raw_grammar_pattern": "Verb (stem) + に来る",
+    "functional_tag": "〜に来る"
+  },
+  {
+    "japanese": "いらっしゃいませ。こちらの書類も記入してください。",
+    "hiragana": "いらっしゃいませ。こちら の しょるい も きにゅう して ください。",
+    "english": "Welcome. Please fill out this document as well.",
+    "grammar_pattern": "〜てください",
+    "grammar_explanation": "A polite way to request or ask someone to perform an action.",
+    "category": "School Enrollment and Registration",
+    "theme": "Education, Language, and Academic Life",
+    "conversation_id": "f98716a9-2bba-46ab-bc90-28722115292d",
+    "components": [
+      {
+        "text": "いらっしゃいませ",
+        "role": "Greeting (Welcome)",
+        "raw_role": "Greeting (Welcome)",
+        "normalized_role": "Interjection"
+      },
+      {
+        "text": "こちら",
+        "role": "Pronoun (this way/this)",
+        "raw_role": "Pronoun (this way/this)",
+        "normalized_role": "Pronoun"
+      },
+      {
+        "text": "の",
+        "role": "Possessive marker",
+        "raw_role": "Possessive marker",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "書類",
+        "role": "Noun (document)",
+        "raw_role": "Noun (document)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "も",
+        "role": "Additive particle (also/as well)",
+        "raw_role": "Additive particle (also/as well)",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "記入して",
+        "role": "Verb te-form (to fill out)",
+        "raw_role": "Verb te-form (to fill out)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "ください",
+        "role": "Polite request",
+        "raw_role": "Polite request",
+        "normalized_role": "Request"
+      }
+    ],
+    "grammar_function": "Requests & Favors (〜て / ください)",
+    "sequence_key": "Interjection → Pronoun → Particle → Noun → Particle → Verb → Request",
+    "location": "school",
+    "raw_grammar_pattern": "Verb (te-form) + ください",
+    "functional_tag": "Polite Request (\"Please do\")"
+  },
+  {
+    "japanese": "わかりました。どこに提出すればいいですか？",
+    "hiragana": "わかりました。どこ に ていしゅつ すれば いい です か？",
+    "english": "I understand. Where should I submit it?",
+    "grammar_pattern": "〜ばいいですか",
+    "grammar_explanation": "Used to ask for advice or instructions on the best course of action.",
+    "category": "School Enrollment and Registration",
+    "theme": "Education, Language, and Academic Life",
+    "conversation_id": "f98716a9-2bba-46ab-bc90-28722115292d",
+    "components": [
+      {
+        "text": "わかりました",
+        "role": "Verb (understood)",
+        "raw_role": "Verb (understood)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "どこ",
+        "role": "Question word (where)",
+        "raw_role": "Question word (where)",
+        "normalized_role": "Question Word"
+      },
+      {
+        "text": "に",
+        "role": "Direction marker",
+        "raw_role": "Direction marker",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "提出すれば",
+        "role": "Verb ba-form (if I submit)",
+        "raw_role": "Verb ba-form (if I submit)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "いい",
+        "role": "Adjective (good/fine)",
+        "raw_role": "Adjective (good/fine)",
+        "normalized_role": "Adjective"
+      },
+      {
+        "text": "です",
+        "role": "Copula (polite ending)",
+        "raw_role": "Copula (polite ending)",
+        "normalized_role": "Copula"
+      },
+      {
+        "text": "か",
+        "role": "Question marker",
+        "raw_role": "Question marker",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Advice & Conditionals (〜ば / 〜たら / ほう)",
+    "sequence_key": "Verb → Question Word → Particle → Verb → Adjective → Copula → Particle",
+    "location": "school",
+    "raw_grammar_pattern": "Verb (ba-form) + いいですか",
+    "functional_tag": "Seeking Guidance (\"What should I do?\")"
+  },
+  {
+    "japanese": "あちらの先生にお渡しください。",
+    "hiragana": "あちら の せんせい に おわたし ください。",
+    "english": "Please give it to the teacher over there.",
+    "grammar_pattern": "Noun + に",
+    "grammar_explanation": "Indicates the person who receives an object or a specific action.",
+    "category": "School Enrollment and Registration",
+    "theme": "Education, Language, and Academic Life",
+    "conversation_id": "f98716a9-2bba-46ab-bc90-28722115292d",
+    "components": [
+      {
+        "text": "あちら",
+        "role": "Pronoun (that way)",
+        "raw_role": "Pronoun (that way)",
+        "normalized_role": "Pronoun"
+      },
+      {
+        "text": "の",
+        "role": "Possessive marker",
+        "raw_role": "Possessive marker",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "先生",
+        "role": "Noun (teacher)",
+        "raw_role": "Noun (teacher)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "に",
+        "role": "Recipient marker",
+        "raw_role": "Recipient marker",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "お渡し",
+        "role": "Humble verb stem (to hand over)",
+        "raw_role": "Humble verb stem (to hand over)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "ください",
+        "role": "Polite request",
+        "raw_role": "Polite request",
+        "normalized_role": "Request"
+      }
+    ],
+    "grammar_function": "Particles & Structural Markers (を / に / で / と)",
+    "sequence_key": "Pronoun → Particle → Noun → Particle → Verb → Request",
+    "location": "school",
+    "raw_grammar_pattern": "Noun + に (Recipient)",
+    "functional_tag": "Target / Time / Direction (〜に)"
+  },
+  {
+    "japanese": "先生、この言葉はどうやって読みますか？",
+    "hiragana": "せんせい、 この ことば は どう やって よみます か？",
+    "english": "Teacher, how do you read this word?",
+    "grammar_pattern": "〜か",
+    "grammar_explanation": "Placed at the end of a sentence to indicate a question in polite speech.",
+    "category": "Phonetic Literacy and Kana Practice",
+    "theme": "Education, Language, and Academic Life",
+    "conversation_id": "07a02358-a278-4e5b-a757-67e75e669f8a",
+    "components": [
+      {
+        "text": "先生",
+        "role": "Noun (Teacher)",
+        "raw_role": "Noun (Teacher)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "この",
+        "role": "Demonstrative (This)",
+        "raw_role": "Demonstrative (This)",
+        "normalized_role": "Demonstrative"
+      },
+      {
+        "text": "言葉",
+        "role": "Noun (Word)",
+        "raw_role": "Noun (Word)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "は",
+        "role": "Topic marker",
+        "raw_role": "Topic marker",
+        "normalized_role": "Topic Marker"
+      },
+      {
+        "text": "どうやって",
+        "role": "Question word (How)",
+        "raw_role": "Question word (How)",
+        "normalized_role": "Question Word"
+      },
+      {
+        "text": "読みます",
+        "role": "Verb (Read)",
+        "raw_role": "Verb (Read)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "か",
+        "role": "Question particle",
+        "raw_role": "Question particle",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Questions & Inquiries (〜ですか / どこ / どう)",
+    "sequence_key": "Noun → Demonstrative → Noun → Topic Marker → Question Word → Verb → Particle",
+    "location": "school",
+    "raw_grammar_pattern": "Question marker か",
+    "functional_tag": "Polite Question (\"Is it?\")"
+  },
+  {
+    "japanese": "「こうこう」です。長音に気をつけてください。",
+    "hiragana": "「こうこう」 です。 ちょうおん に き を つけて ください。",
+    "english": "It is 'koukou'. Please be careful with the long vowels.",
+    "grammar_pattern": "〜てください",
+    "grammar_explanation": "A polite way to request or ask someone to perform a specific action.",
+    "category": "Phonetic Literacy and Kana Practice",
+    "theme": "Education, Language, and Academic Life",
+    "conversation_id": "07a02358-a278-4e5b-a757-67e75e669f8a",
+    "components": [
+      {
+        "text": "こうこう",
+        "role": "Noun (High school)",
+        "raw_role": "Noun (High school)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "です",
+        "role": "Copula (Is/Am/Are)",
+        "raw_role": "Copula (Is/Am/Are)",
+        "normalized_role": "Copula"
+      },
+      {
+        "text": "長音",
+        "role": "Noun (Long vowel)",
+        "raw_role": "Noun (Long vowel)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "に",
+        "role": "Target particle",
+        "raw_role": "Target particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "気をつけて",
+        "role": "Verb (Be careful)",
+        "raw_role": "Verb (Be careful)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "ください",
+        "role": "Polite request",
+        "raw_role": "Polite request",
+        "normalized_role": "Request"
+      }
+    ],
+    "grammar_function": "Requests & Favors (〜て / ください)",
+    "sequence_key": "Noun → Copula → Noun → Particle → Verb → Request",
+    "location": "school",
+    "raw_grammar_pattern": "～てください",
+    "functional_tag": "Polite Request (\"Please do\")"
+  },
+  {
+    "japanese": "「ここ」とは違うんですか？",
+    "hiragana": "「ここ」 と は ちがう ん です か？",
+    "english": "Is it different from 'koko'?",
+    "grammar_pattern": "〜とは違う",
+    "grammar_explanation": "Used to compare two things and indicate that they are not the same.",
+    "category": "Phonetic Literacy and Kana Practice",
+    "theme": "Education, Language, and Academic Life",
+    "conversation_id": "07a02358-a278-4e5b-a757-67e75e669f8a",
+    "components": [
+      {
+        "text": "ここ",
+        "role": "Noun (Here)",
+        "raw_role": "Noun (Here)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "と",
+        "role": "Comparison particle",
+        "raw_role": "Comparison particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "は",
+        "role": "Topic marker",
+        "raw_role": "Topic marker",
+        "normalized_role": "Topic Marker"
+      },
+      {
+        "text": "違う",
+        "role": "Verb (Differ)",
+        "raw_role": "Verb (Differ)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "ん",
+        "role": "Explanatory particle",
+        "raw_role": "Explanatory particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "です",
+        "role": "Copula (Is/Am/Are)",
+        "raw_role": "Copula (Is/Am/Are)",
+        "normalized_role": "Copula"
+      },
+      {
+        "text": "か",
+        "role": "Question particle",
+        "raw_role": "Question particle",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Grammar & Structural Patterns",
+    "sequence_key": "Noun → Particle → Topic Marker → Verb → Particle → Copula → Particle",
+    "location": "school",
+    "raw_grammar_pattern": "～とは違う",
+    "functional_tag": "〜とは違う"
+  },
+  {
+    "japanese": "はい、意味が全く変わります。",
+    "hiragana": "はい、 いみ が まったく かわります。",
+    "english": "Yes, the meaning changes completely.",
+    "grammar_pattern": "Noun + が",
+    "grammar_explanation": "Identifies the subject of the sentence that is performing an action.",
+    "category": "Phonetic Literacy and Kana Practice",
+    "theme": "Education, Language, and Academic Life",
+    "conversation_id": "07a02358-a278-4e5b-a757-67e75e669f8a",
+    "components": [
+      {
+        "text": "はい",
+        "role": "Interjection (Yes)",
+        "raw_role": "Interjection (Yes)",
+        "normalized_role": "Interjection"
+      },
+      {
+        "text": "意味",
+        "role": "Noun (Meaning)",
+        "raw_role": "Noun (Meaning)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "が",
+        "role": "Subject marker",
+        "raw_role": "Subject marker",
+        "normalized_role": "Subject Marker"
+      },
+      {
+        "text": "全く",
+        "role": "Adverb (Completely)",
+        "raw_role": "Adverb (Completely)",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "変わります",
+        "role": "Verb (Change)",
+        "raw_role": "Verb (Change)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Particles & Structural Markers (を / に / で / と)",
+    "sequence_key": "Interjection → Noun → Subject Marker → Adverb → Verb",
+    "location": "school",
+    "raw_grammar_pattern": "Noun + が",
+    "functional_tag": "Subject / Identifier Marker (〜が)"
+  },
+  {
+    "japanese": "なるほど。もっと練習します。",
+    "hiragana": "なるほど。 もっと れんしゅう します。",
+    "english": "I see. I will practice more.",
+    "grammar_pattern": "Verb + します",
+    "grammar_explanation": "Used to express a future action or a current habit.",
+    "category": "Phonetic Literacy and Kana Practice",
+    "theme": "Education, Language, and Academic Life",
+    "conversation_id": "07a02358-a278-4e5b-a757-67e75e669f8a",
+    "components": [
+      {
+        "text": "なるほど",
+        "role": "Interjection (I see)",
+        "raw_role": "Interjection (I see)",
+        "normalized_role": "Interjection"
+      },
+      {
+        "text": "もっと",
+        "role": "Adverb (More)",
+        "raw_role": "Adverb (More)",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "練習",
+        "role": "Noun (Practice)",
+        "raw_role": "Noun (Practice)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "します",
+        "role": "Verb (Do)",
+        "raw_role": "Verb (Do)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Grammar & Structural Patterns",
+    "sequence_key": "Interjection → Adverb → Noun → Verb",
+    "location": "school",
+    "raw_grammar_pattern": "Verb + します",
+    "functional_tag": "Verb + します"
+  },
+  {
+    "japanese": "先生、科研費の申請書についてご相談したいのですが、お時間はありますでしょうか。",
+    "hiragana": "せんせい、 かけんひ の しんせいしょ に ついて ごそうだん したい の です が、 おじかん は あります でしょう か。",
+    "english": "Professor, I would like to consult with you regarding the research grant application; do you have some time?",
+    "grammar_pattern": "〜たいのですが",
+    "grammar_explanation": "Used to express a desire while politely softening the request or introducing a topic.",
+    "category": "Academic Research and University Administration",
+    "theme": "Education, Language, and Academic Life",
+    "conversation_id": "42e7397b-c546-454e-bf9e-fdc4eaf8c08d",
+    "components": [
+      {
+        "text": "先生",
+        "role": "Noun (Vocative)",
+        "raw_role": "Noun (Vocative)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "科研費",
+        "role": "Noun (Grant-in-Aid)",
+        "raw_role": "Noun (Grant-in-Aid)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "の",
+        "role": "Possessive particle",
+        "raw_role": "Possessive particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "申請書",
+        "role": "Noun (Application form)",
+        "raw_role": "Noun (Application form)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "について",
+        "role": "Compound particle (About)",
+        "raw_role": "Compound particle (About)",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "ご相談したい",
+        "role": "Humble verb (Want to consult)",
+        "raw_role": "Humble verb (Want to consult)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "のです",
+        "role": "Explanatory ending",
+        "raw_role": "Explanatory ending",
+        "normalized_role": "Sentence Ending / Modal"
+      },
+      {
+        "text": "が",
+        "role": "Conjunctional particle (But/Softener)",
+        "raw_role": "Conjunctional particle (But/Softener)",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "お時間",
+        "role": "Honorific noun (Time)",
+        "raw_role": "Honorific noun (Time)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "は",
+        "role": "Topic marker",
+        "raw_role": "Topic marker",
+        "normalized_role": "Topic Marker"
+      },
+      {
+        "text": "ありますでしょうか",
+        "role": "Polite question (Exist)",
+        "raw_role": "Polite question (Exist)",
+        "normalized_role": "Other"
+      }
+    ],
+    "grammar_function": "Desires & Intentions (〜たい / つもり / よう)",
+    "sequence_key": "Noun → Noun → Particle → Noun → Particle → Verb → Sentence Ending / Modal → Particle → Noun → Topic Marker",
+    "location": "school",
+    "raw_grammar_pattern": "～たいのですが",
+    "functional_tag": "Softened Request (\"I would like to...\")"
+  },
+  {
+    "japanese": "はい、いいですよ。明日の午後２時なら空いています。",
+    "hiragana": "はい、 いい です よ。 あした の ごご にじ なら あいています。",
+    "english": "Yes, that's fine. I am free if it is tomorrow at 2 PM.",
+    "grammar_pattern": "〜なら",
+    "grammar_explanation": "A conditional marker used to specify a particular time or item as the basis for a statement.",
+    "category": "Academic Research and University Administration",
+    "theme": "Education, Language, and Academic Life",
+    "conversation_id": "42e7397b-c546-454e-bf9e-fdc4eaf8c08d",
+    "components": [
+      {
+        "text": "はい",
+        "role": "Interjection (Yes)",
+        "raw_role": "Interjection (Yes)",
+        "normalized_role": "Interjection"
+      },
+      {
+        "text": "いいです",
+        "role": "Adjective (Good/Fine)",
+        "raw_role": "Adjective (Good/Fine)",
+        "normalized_role": "Adjective"
+      },
+      {
+        "text": "よ",
+        "role": "Sentence-ending particle (Emphasis)",
+        "raw_role": "Sentence-ending particle (Emphasis)",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "明日",
+        "role": "Noun (Tomorrow)",
+        "raw_role": "Noun (Tomorrow)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "の",
+        "role": "Possessive particle",
+        "raw_role": "Possessive particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "午後",
+        "role": "Noun (Afternoon)",
+        "raw_role": "Noun (Afternoon)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "２時",
+        "role": "Noun (2 o'clock)",
+        "raw_role": "Noun (2 o'clock)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "なら",
+        "role": "Conditional particle (If/As for)",
+        "raw_role": "Conditional particle (If/As for)",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "空いています",
+        "role": "Verb (To be open/free)",
+        "raw_role": "Verb (To be open/free)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Advice & Conditionals (〜ば / 〜たら / ほう)",
+    "sequence_key": "Interjection → Adjective → Particle → Noun → Particle → Noun → Noun → Particle → Verb",
+    "location": "school",
+    "raw_grammar_pattern": "～なら",
+    "functional_tag": "Contextual Conditional (\"If it is the case that\")"
+  },
+  {
+    "japanese": "ありがとうございます。提出書類について、事前に準備しておくべきものはありますか。",
+    "hiragana": "ありがとう ございます。 ていしゅつ しょるい に ついて、 じぜん に じゅんび して おく べき もの は あります か。",
+    "english": "Thank you. Regarding the submission documents, is there anything I should prepare in advance?",
+    "grammar_pattern": "〜べき",
+    "grammar_explanation": "An auxiliary verb indicating something that should be done or is appropriate to do.",
+    "category": "Academic Research and University Administration",
+    "theme": "Education, Language, and Academic Life",
+    "conversation_id": "42e7397b-c546-454e-bf9e-fdc4eaf8c08d",
+    "components": [
+      {
+        "text": "ありがとうございます",
+        "role": "Polite phrase (Thank you)",
+        "raw_role": "Polite phrase (Thank you)",
+        "normalized_role": "Interjection"
+      },
+      {
+        "text": "提出書類",
+        "role": "Noun (Submission documents)",
+        "raw_role": "Noun (Submission documents)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "について",
+        "role": "Compound particle (About)",
+        "raw_role": "Compound particle (About)",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "事前に",
+        "role": "Adverbial noun (In advance)",
+        "raw_role": "Adverbial noun (In advance)",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "準備しておく",
+        "role": "Verb phrase (Prepare beforehand)",
+        "raw_role": "Verb phrase (Prepare beforehand)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "べき",
+        "role": "Auxiliary verb (Should)",
+        "raw_role": "Auxiliary verb (Should)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "もの",
+        "role": "Noun (Thing)",
+        "raw_role": "Noun (Thing)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "は",
+        "role": "Topic marker",
+        "raw_role": "Topic marker",
+        "normalized_role": "Topic Marker"
+      },
+      {
+        "text": "ありますか",
+        "role": "Verb (Question/Exist)",
+        "raw_role": "Verb (Question/Exist)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Grammar & Structural Patterns",
+    "sequence_key": "Interjection → Noun → Particle → Adverb → Verb → Verb → Noun → Topic Marker → Verb",
+    "location": "school",
+    "raw_grammar_pattern": "～べき",
+    "functional_tag": "〜べき"
+  },
+  {
+    "japanese": "まずは事務局のポータルサイトを確認してください。そこに最新のフォーマットがありますから。",
+    "hiragana": "まず は じむきょく の ぽーたる さいと を かくにん して ください。 そこ に さいしん の ふぉーまっと が あります から。",
+    "english": "First, please check the administration office's portal site. Because the latest format is available there.",
+    "grammar_pattern": "〜てください",
+    "grammar_explanation": "A polite way to request an action or give a directive to someone.",
+    "category": "Academic Research and University Administration",
+    "theme": "Education, Language, and Academic Life",
+    "conversation_id": "42e7397b-c546-454e-bf9e-fdc4eaf8c08d",
+    "components": [
+      {
+        "text": "まずは",
+        "role": "Adverbial (First of all)",
+        "raw_role": "Adverbial (First of all)",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "事務局",
+        "role": "Noun (Administrative office)",
+        "raw_role": "Noun (Administrative office)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "の",
+        "role": "Possessive particle",
+        "raw_role": "Possessive particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "ポータルサイト",
+        "role": "Noun (Portal site)",
+        "raw_role": "Noun (Portal site)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "を",
+        "role": "Object marker",
+        "raw_role": "Object marker",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "確認してください",
+        "role": "Verb (Please check)",
+        "raw_role": "Verb (Please check)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "そこ",
+        "role": "Pronoun (There)",
+        "raw_role": "Pronoun (There)",
+        "normalized_role": "Pronoun"
+      },
+      {
+        "text": "に",
+        "role": "Location particle",
+        "raw_role": "Location particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "最新",
+        "role": "Noun (Latest)",
+        "raw_role": "Noun (Latest)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "の",
+        "role": "Possessive particle",
+        "raw_role": "Possessive particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "フォーマット",
+        "role": "Noun (Format)",
+        "raw_role": "Noun (Format)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "が",
+        "role": "Subject marker",
+        "raw_role": "Subject marker",
+        "normalized_role": "Subject Marker"
+      },
+      {
+        "text": "あります",
+        "role": "Verb (Exist)",
+        "raw_role": "Verb (Exist)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "から",
+        "role": "Conjunctional particle (Because)",
+        "raw_role": "Conjunctional particle (Because)",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Requests & Favors (〜て / ください)",
+    "sequence_key": "Adverb → Noun → Particle → Noun → Direct Object Marker → Verb → Pronoun → Particle → Noun → Particle → Noun → Subject Marker → Verb → Particle",
+    "location": "school",
+    "raw_grammar_pattern": "～てください",
+    "functional_tag": "Polite Request (\"Please do\")"
+  },
+  {
+    "japanese": "来週は新歓の時期だから、チラシを準備しよう。",
+    "hiragana": "らいしゅう は しんかん の じき だから、ちらし を じゅんび しよう。",
+    "english": "Next week is the new student recruitment period, so let's prepare the flyers.",
+    "grammar_pattern": "〜てから",
+    "grammar_explanation": "Used to indicate a reason or cause for the action that follows in the sentence.",
+    "category": "University Club and Circle Culture",
+    "theme": "Education, Language, and Academic Life",
+    "conversation_id": "00258ad0-3871-47fd-a7e4-2865b72a8637",
+    "components": [
+      {
+        "text": "来週",
+        "role": "noun (next week)",
+        "raw_role": "noun (next week)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "は",
+        "role": "topic marker",
+        "raw_role": "topic marker",
+        "normalized_role": "Topic Marker"
+      },
+      {
+        "text": "新歓",
+        "role": "noun (new student recruitment)",
+        "raw_role": "noun (new student recruitment)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "の",
+        "role": "possessive particle",
+        "raw_role": "possessive particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "時期",
+        "role": "noun (period/season)",
+        "raw_role": "noun (period/season)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "だから",
+        "role": "conjunction (because/so)",
+        "raw_role": "conjunction (because/so)",
+        "normalized_role": "Conjunction"
+      },
+      {
+        "text": "チラシ",
+        "role": "noun (flyer)",
+        "raw_role": "noun (flyer)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "を",
+        "role": "object marker",
+        "raw_role": "object marker",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "準備しよう",
+        "role": "verb (volitional form of prepare)",
+        "raw_role": "verb (volitional form of prepare)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Time, Aspect & State (〜ている / 〜てある)",
+    "sequence_key": "Noun → Topic Marker → Noun → Particle → Noun → Conjunction → Noun → Direct Object Marker → Verb",
+    "location": "school",
+    "raw_grammar_pattern": "～から (Because)",
+    "functional_tag": "Sequential Progression (\"After doing X, then Y\")"
+  },
+  {
+    "japanese": "わかりました。他の新入生にも声をかけましょうか？",
+    "hiragana": "わかりました。ほか の しんにゅうせい に も こえ を かけましょう か？",
+    "english": "Understood. Should I ask the other freshmen to help as well?",
+    "grammar_pattern": "〜ましょうか",
+    "grammar_explanation": "A polite way to offer help or make a suggestion to someone else.",
+    "category": "University Club and Circle Culture",
+    "theme": "Education, Language, and Academic Life",
+    "conversation_id": "00258ad0-3871-47fd-a7e4-2865b72a8637",
+    "components": [
+      {
+        "text": "わかりました",
+        "role": "verb (polite past of understand)",
+        "raw_role": "verb (polite past of understand)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "他",
+        "role": "noun (other)",
+        "raw_role": "noun (other)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "の",
+        "role": "possessive particle",
+        "raw_role": "possessive particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "新入生",
+        "role": "noun (new student)",
+        "raw_role": "noun (new student)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "に",
+        "role": "target particle",
+        "raw_role": "target particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "も",
+        "role": "additive particle (also)",
+        "raw_role": "additive particle (also)",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "声をかける",
+        "role": "verb phrase (to call out/invite)",
+        "raw_role": "verb phrase (to call out/invite)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "ましょうか",
+        "role": "auxiliary (polite offer/suggestion)",
+        "raw_role": "auxiliary (polite offer/suggestion)",
+        "normalized_role": "Sentence Ending / Modal"
+      }
+    ],
+    "grammar_function": "Suggestions & Invitations (〜ましょう / ませんか)",
+    "sequence_key": "Verb → Noun → Particle → Noun → Particle → Particle → Verb → Sentence Ending / Modal",
+    "location": "school",
+    "raw_grammar_pattern": "～ましょうか (Shall I...?)",
+    "functional_tag": "Offering Help / Suggestion (\"Shall we?\")"
+  },
+  {
+    "japanese": "うん、4時に部室に集まるように伝えて。",
+    "hiragana": "うん、よじ に ぶしつ に あつまる ように つたえて。",
+    "english": "Yeah, please tell them to gather in the club room at 4 PM.",
+    "grammar_pattern": "〜ように",
+    "grammar_explanation": "Used to convey an indirect request or instruction for someone to do something.",
+    "category": "University Club and Circle Culture",
+    "theme": "Education, Language, and Academic Life",
+    "conversation_id": "00258ad0-3871-47fd-a7e4-2865b72a8637",
+    "components": [
+      {
+        "text": "うん",
+        "role": "interjection (yeah)",
+        "raw_role": "interjection (yeah)",
+        "normalized_role": "Interjection"
+      },
+      {
+        "text": "4時",
+        "role": "noun (4 o'clock)",
+        "raw_role": "noun (4 o'clock)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "に",
+        "role": "time particle",
+        "raw_role": "time particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "部室",
+        "role": "noun (club room)",
+        "raw_role": "noun (club room)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "に",
+        "role": "destination particle",
+        "raw_role": "destination particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "集まる",
+        "role": "verb (to gather)",
+        "raw_role": "verb (to gather)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "ように",
+        "role": "particle (indicating request/goal)",
+        "raw_role": "particle (indicating request/goal)",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "伝えて",
+        "role": "verb (te-form of tell/convey)",
+        "raw_role": "verb (te-form of tell/convey)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Grammar & Structural Patterns",
+    "sequence_key": "Interjection → Noun → Particle → Noun → Particle → Verb → Particle → Verb",
+    "location": "school",
+    "raw_grammar_pattern": "～ように (Request)",
+    "functional_tag": "〜ように"
+  },
+  {
+    "japanese": "了解です。すぐにグループラインで連絡しますね。",
+    "hiragana": "りょうかい です。すぐに ぐるーぷらいん で れんらく します ね。",
+    "english": "Got it. I'll message them on the group chat right away.",
+    "grammar_pattern": "〜ます",
+    "grammar_explanation": "The standard polite ending for verbs to show respect to the listener.",
+    "category": "University Club and Circle Culture",
+    "theme": "Education, Language, and Academic Life",
+    "conversation_id": "00258ad0-3871-47fd-a7e4-2865b72a8637",
+    "components": [
+      {
+        "text": "了解",
+        "role": "noun (understanding/roger)",
+        "raw_role": "noun (understanding/roger)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "です",
+        "role": "copula (polite)",
+        "raw_role": "copula (polite)",
+        "normalized_role": "Copula"
+      },
+      {
+        "text": "すぐに",
+        "role": "adverb (immediately)",
+        "raw_role": "adverb (immediately)",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "グループライン",
+        "role": "noun (group LINE chat)",
+        "raw_role": "noun (group LINE chat)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "で",
+        "role": "means/method particle",
+        "raw_role": "means/method particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "連絡します",
+        "role": "verb (polite form of contact)",
+        "raw_role": "verb (polite form of contact)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "ね",
+        "role": "sentence-ending particle (confirmation)",
+        "raw_role": "sentence-ending particle (confirmation)",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Grammar & Structural Patterns",
+    "sequence_key": "Noun → Copula → Adverb → Noun → Particle → Verb → Particle",
+    "location": "school",
+    "raw_grammar_pattern": "～ます (Polite form)",
+    "functional_tag": "〜ます"
+  },
+  {
+    "japanese": "先生、数学の点数が心配です。",
+    "hiragana": "せんせい、 すうがく の てんすう が しんぱい です。",
+    "english": "Teacher, I am worried about my math score.",
+    "grammar_pattern": "Noun + が心配です",
+    "grammar_explanation": "Used to express that the speaker is worried or concerned about a specific subject.",
+    "category": "Juku and Private Education (Cram Schools)",
+    "theme": "Education, Language, and Academic Life",
+    "conversation_id": "6150c9fe-2ead-4fb6-9d6d-f628816b1895",
+    "components": [
+      {
+        "text": "先生",
+        "role": "noun (addressing the teacher)",
+        "raw_role": "noun (addressing the teacher)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "数学",
+        "role": "noun (mathematics)",
+        "raw_role": "noun (mathematics)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "の",
+        "role": "possessive particle",
+        "raw_role": "possessive particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "点数",
+        "role": "noun (score/grade)",
+        "raw_role": "noun (score/grade)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "が",
+        "role": "subject marker",
+        "raw_role": "subject marker",
+        "normalized_role": "Subject Marker"
+      },
+      {
+        "text": "心配",
+        "role": "na-adjective (worried)",
+        "raw_role": "na-adjective (worried)",
+        "normalized_role": "Adjective"
+      },
+      {
+        "text": "です",
+        "role": "polite copula",
+        "raw_role": "polite copula",
+        "normalized_role": "Copula"
+      }
+    ],
+    "grammar_function": "Copula, Topics & Definitions (です / は / について)",
+    "sequence_key": "Noun → Noun → Particle → Noun → Subject Marker → Adjective → Copula",
+    "location": "school",
+    "raw_grammar_pattern": "Noun + が心配です",
+    "functional_tag": "Polite Assertion / Copula (\"It is\")"
+  },
+  {
+    "japanese": "大丈夫ですよ。まずは基本を復習しましょう。",
+    "hiragana": "だいじょうぶ です よ。 まず は きほん を ふくしゅう しましょう。",
+    "english": "It's okay. First, let's review the basics.",
+    "grammar_pattern": "〜ましょう",
+    "grammar_explanation": "A polite expression used to suggest doing an action together with someone.",
+    "category": "Juku and Private Education (Cram Schools)",
+    "theme": "Education, Language, and Academic Life",
+    "conversation_id": "6150c9fe-2ead-4fb6-9d6d-f628816b1895",
+    "components": [
+      {
+        "text": "大丈夫",
+        "role": "na-adjective (okay/fine)",
+        "raw_role": "na-adjective (okay/fine)",
+        "normalized_role": "Adjective"
+      },
+      {
+        "text": "です",
+        "role": "polite copula",
+        "raw_role": "polite copula",
+        "normalized_role": "Copula"
+      },
+      {
+        "text": "よ",
+        "role": "sentence-ending particle for emphasis",
+        "raw_role": "sentence-ending particle for emphasis",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "まず",
+        "role": "adverb (firstly)",
+        "raw_role": "adverb (firstly)",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "は",
+        "role": "topic marker",
+        "raw_role": "topic marker",
+        "normalized_role": "Topic Marker"
+      },
+      {
+        "text": "基本",
+        "role": "noun (basics)",
+        "raw_role": "noun (basics)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "を",
+        "role": "object marker",
+        "raw_role": "object marker",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "復習し",
+        "role": "verb stem (to review)",
+        "raw_role": "verb stem (to review)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "ましょう",
+        "role": "polite volitional ending",
+        "raw_role": "polite volitional ending",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Suggestions & Invitations (〜ましょう / ませんか)",
+    "sequence_key": "Adjective → Copula → Particle → Adverb → Topic Marker → Noun → Direct Object Marker → Verb → Verb",
+    "location": "school",
+    "raw_grammar_pattern": "Verb stem + ましょう",
+    "functional_tag": "Proposal / Collective Action (\"Let's\")"
+  },
+  {
+    "japanese": "今月は勉強時間を増やしたほうがいいですか。",
+    "hiragana": "こんげつ は べんきょう じかん を ふやした ほう が いい です か。",
+    "english": "Would it be better to increase my study hours this month?",
+    "grammar_pattern": "Verb + ほうがいい",
+    "grammar_explanation": "Used to ask for or give advice on the best course of action.",
+    "category": "Juku and Private Education (Cram Schools)",
+    "theme": "Education, Language, and Academic Life",
+    "conversation_id": "6150c9fe-2ead-4fb6-9d6d-f628816b1895",
+    "components": [
+      {
+        "text": "今月",
+        "role": "noun (this month)",
+        "raw_role": "noun (this month)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "は",
+        "role": "topic marker",
+        "raw_role": "topic marker",
+        "normalized_role": "Topic Marker"
+      },
+      {
+        "text": "勉強時間",
+        "role": "noun (study time)",
+        "raw_role": "noun (study time)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "を",
+        "role": "object marker",
+        "raw_role": "object marker",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "増やした",
+        "role": "verb in past tense (increased)",
+        "raw_role": "verb in past tense (increased)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "ほう",
+        "role": "noun (way/direction)",
+        "raw_role": "noun (way/direction)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "が",
+        "role": "subject marker",
+        "raw_role": "subject marker",
+        "normalized_role": "Subject Marker"
+      },
+      {
+        "text": "いい",
+        "role": "adjective (good)",
+        "raw_role": "adjective (good)",
+        "normalized_role": "Adjective"
+      },
+      {
+        "text": "ですか",
+        "role": "polite question marker",
+        "raw_role": "polite question marker",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Advice & Conditionals (〜ば / 〜たら / ほう)",
+    "sequence_key": "Noun → Topic Marker → Noun → Direct Object Marker → Verb → Noun → Subject Marker → Adjective → Particle",
+    "location": "school",
+    "raw_grammar_pattern": "Verb (past) + ほうがいい",
+    "functional_tag": "Advice / Conditional"
+  },
+  {
+    "japanese": "はい、苦手なところを重点的にやりましょう。",
+    "hiragana": "はい、 にがて な ところ を じゅうてんてき に やりましょう。",
+    "english": "Yes, let's focus intensively on the parts you find difficult.",
+    "grammar_pattern": "Na-adjective + な + Noun",
+    "grammar_explanation": "A pattern used to modify a noun with a na-adjective for description.",
+    "category": "Juku and Private Education (Cram Schools)",
+    "theme": "Education, Language, and Academic Life",
+    "conversation_id": "6150c9fe-2ead-4fb6-9d6d-f628816b1895",
+    "components": [
+      {
+        "text": "はい",
+        "role": "interjection (yes)",
+        "raw_role": "interjection (yes)",
+        "normalized_role": "Interjection"
+      },
+      {
+        "text": "苦手な",
+        "role": "na-adjective (weak/poor at)",
+        "raw_role": "na-adjective (weak/poor at)",
+        "normalized_role": "Adjective"
+      },
+      {
+        "text": "ところ",
+        "role": "noun (place/part)",
+        "raw_role": "noun (place/part)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "を",
+        "role": "object marker",
+        "raw_role": "object marker",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "重点的に",
+        "role": "adverb (intensively/focusedly)",
+        "raw_role": "adverb (intensively/focusedly)",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "やり",
+        "role": "verb stem (to do)",
+        "raw_role": "verb stem (to do)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "ましょう",
+        "role": "polite volitional ending",
+        "raw_role": "polite volitional ending",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Grammar & Structural Patterns",
+    "sequence_key": "Interjection → Adjective → Noun → Direct Object Marker → Adverb → Verb → Verb",
+    "location": "school",
+    "raw_grammar_pattern": "Na-adjective + な + Noun",
+    "functional_tag": "Na-adjective + な + Noun"
+  },
+  {
+    "japanese": "すみません、資格試験の申し込みについて伺いたいのですが。",
+    "hiragana": "すみません、 しかくしけん の もうしこみ に ついて うかがいたい の です が。",
+    "english": "Excuse me, I would like to ask about the registration for the certification exam.",
+    "grammar_pattern": "〜について",
+    "grammar_explanation": "Used to indicate the topic or subject that someone is talking about.",
+    "category": "Professional Licensure and Certification Exams",
+    "theme": "Education, Language, and Academic Life",
+    "conversation_id": "f706023e-c1a4-4af8-9352-aa41faccea2e",
+    "components": [
+      {
+        "text": "すみません",
+        "role": "interjection",
+        "raw_role": "interjection",
+        "normalized_role": "Interjection"
+      },
+      {
+        "text": "資格試験",
+        "role": "noun",
+        "raw_role": "noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "の",
+        "role": "possessive particle",
+        "raw_role": "possessive particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "申し込み",
+        "role": "noun",
+        "raw_role": "noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "について",
+        "role": "grammar pattern (about)",
+        "raw_role": "grammar pattern (about)",
+        "normalized_role": "Other"
+      },
+      {
+        "text": "伺いたい",
+        "role": "humble verb (want to ask)",
+        "raw_role": "humble verb (want to ask)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "のです",
+        "role": "explanatory ending",
+        "raw_role": "explanatory ending",
+        "normalized_role": "Sentence Ending / Modal"
+      },
+      {
+        "text": "が",
+        "role": "conjunction (softener)",
+        "raw_role": "conjunction (softener)",
+        "normalized_role": "Conjunction"
+      }
+    ],
+    "grammar_function": "Copula, Topics & Definitions (です / は / について)",
+    "sequence_key": "Interjection → Noun → Particle → Noun → Verb → Sentence Ending / Modal → Conjunction",
+    "location": "office",
+    "raw_grammar_pattern": "～について",
+    "functional_tag": "Topic / Focus (\"Regarding / About\")"
+  },
+  {
+    "japanese": "要項にはオンライン申請とありますが、システムに不具合があるようです。",
+    "hiragana": "ようこう に は おんらいん しんせい と あり ます が、 しすてむ に ふぐあい が ある よう です。",
+    "english": "The guidelines say online application is required, but there seems to be a system error.",
+    "grammar_pattern": "〜ようです",
+    "grammar_explanation": "Used to express a conjecture based on observed information or appearance.",
+    "category": "Professional Licensure and Certification Exams",
+    "theme": "Education, Language, and Academic Life",
+    "conversation_id": "f706023e-c1a4-4af8-9352-aa41faccea2e",
+    "components": [
+      {
+        "text": "要項",
+        "role": "noun",
+        "raw_role": "noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "には",
+        "role": "location particle with topic marker",
+        "raw_role": "location particle with topic marker",
+        "normalized_role": "Topic Marker"
+      },
+      {
+        "text": "オンライン申請",
+        "role": "noun",
+        "raw_role": "noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "と",
+        "role": "quotation particle",
+        "raw_role": "quotation particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "あります",
+        "role": "verb (exists/is written)",
+        "raw_role": "verb (exists/is written)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "が",
+        "role": "conjunction (but)",
+        "raw_role": "conjunction (but)",
+        "normalized_role": "Conjunction"
+      },
+      {
+        "text": "システム",
+        "role": "noun",
+        "raw_role": "noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "に",
+        "role": "location particle",
+        "raw_role": "location particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "不具合",
+        "role": "noun",
+        "raw_role": "noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "が",
+        "role": "subject marker",
+        "raw_role": "subject marker",
+        "normalized_role": "Subject Marker"
+      },
+      {
+        "text": "ある",
+        "role": "verb (exist)",
+        "raw_role": "verb (exist)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "ようです",
+        "role": "grammar pattern (it seems)",
+        "raw_role": "grammar pattern (it seems)",
+        "normalized_role": "Other"
+      }
+    ],
+    "grammar_function": "Conjecture & Opinion (〜と思う / かもしれない)",
+    "sequence_key": "Noun → Topic Marker → Noun → Particle → Verb → Conjunction → Noun → Particle → Noun → Subject Marker → Verb",
+    "location": "office",
+    "raw_grammar_pattern": "～ようです",
+    "functional_tag": "Opinion & Hearsay"
+  },
+  {
+    "japanese": "さようでございますか。一度キャッシュをクリアして、再度お試しいただけますでしょうか。",
+    "hiragana": "さよう で ございます か。 いちど きゃっしゅ を くりあ して、 さいど おためし いただけます でしょう か。",
+    "english": "I see. Could you please try clearing your cache and then trying again?",
+    "grammar_pattern": "〜ていただけますでしょうか",
+    "grammar_explanation": "An extremely polite way to ask someone to do something for you.",
+    "category": "Professional Licensure and Certification Exams",
+    "theme": "Education, Language, and Academic Life",
+    "conversation_id": "f706023e-c1a4-4af8-9352-aa41faccea2e",
+    "components": [
+      {
+        "text": "さようでございますか",
+        "role": "polite phrase (I see)",
+        "raw_role": "polite phrase (I see)",
+        "normalized_role": "Expression / Set Phrase"
+      },
+      {
+        "text": "一度",
+        "role": "adverb",
+        "raw_role": "adverb",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "キャッシュ",
+        "role": "noun",
+        "raw_role": "noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "を",
+        "role": "object marker",
+        "raw_role": "object marker",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "クリアして",
+        "role": "verb (te-form)",
+        "raw_role": "verb (te-form)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "再度",
+        "role": "adverb",
+        "raw_role": "adverb",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "お試しいただけますでしょうか",
+        "role": "polite request phrase",
+        "raw_role": "polite request phrase",
+        "normalized_role": "Request"
+      }
+    ],
+    "grammar_function": "Conjecture & Opinion (〜と思う / かもしれない)",
+    "sequence_key": "Expression / Set Phrase → Adverb → Noun → Direct Object Marker → Verb → Adverb → Request",
+    "location": "office",
+    "raw_grammar_pattern": "～ていただけますでしょうか",
+    "functional_tag": "Conjecture / Presumption (\"Probably\")"
+  },
+  {
+    "japanese": "ありがとうございます。あと、先月の試験結果はいつ発表されますか。",
+    "hiragana": "ありがとう ございます。 あと、 せんげつ の しけんけっか は いつ はっぴょう されます か。",
+    "english": "Thank you. Also, when will last month's exam results be announced?",
+    "grammar_pattern": "〜はいつ",
+    "grammar_explanation": "Used to ask about the specific time or date of an event.",
+    "category": "Professional Licensure and Certification Exams",
+    "theme": "Education, Language, and Academic Life",
+    "conversation_id": "f706023e-c1a4-4af8-9352-aa41faccea2e",
+    "components": [
+      {
+        "text": "ありがとうございます",
+        "role": "polite phrase (thank you)",
+        "raw_role": "polite phrase (thank you)",
+        "normalized_role": "Interjection"
+      },
+      {
+        "text": "あと",
+        "role": "conjunction (also)",
+        "raw_role": "conjunction (also)",
+        "normalized_role": "Conjunction"
+      },
+      {
+        "text": "先月",
+        "role": "noun",
+        "raw_role": "noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "の",
+        "role": "possessive particle",
+        "raw_role": "possessive particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "試験結果",
+        "role": "noun",
+        "raw_role": "noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "は",
+        "role": "topic marker",
+        "raw_role": "topic marker",
+        "normalized_role": "Topic Marker"
+      },
+      {
+        "text": "いつ",
+        "role": "interrogative (when)",
+        "raw_role": "interrogative (when)",
+        "normalized_role": "Question Word"
+      },
+      {
+        "text": "発表されます",
+        "role": "passive verb (be announced)",
+        "raw_role": "passive verb (be announced)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "か",
+        "role": "question marker",
+        "raw_role": "question marker",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Grammar & Structural Patterns",
+    "sequence_key": "Interjection → Conjunction → Noun → Particle → Noun → Topic Marker → Question Word → Verb → Particle",
+    "location": "office",
+    "raw_grammar_pattern": "～はいつ",
+    "functional_tag": "〜はいつ"
+  },
+  {
+    "japanese": "結果は来週の金曜日に、メールで通知されます。",
+    "hiragana": "けっか は らいしゅう の きんようび に、 めーる で つうち されます。",
+    "english": "The results will be notified via email next Friday.",
+    "grammar_pattern": "〜に",
+    "grammar_explanation": "Indicates the specific point in time when an action occurs.",
+    "category": "Professional Licensure and Certification Exams",
+    "theme": "Education, Language, and Academic Life",
+    "conversation_id": "f706023e-c1a4-4af8-9352-aa41faccea2e",
+    "components": [
+      {
+        "text": "結果",
+        "role": "noun",
+        "raw_role": "noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "は",
+        "role": "topic marker",
+        "raw_role": "topic marker",
+        "normalized_role": "Topic Marker"
+      },
+      {
+        "text": "来週",
+        "role": "noun",
+        "raw_role": "noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "の",
+        "role": "possessive particle",
+        "raw_role": "possessive particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "金曜日",
+        "role": "noun",
+        "raw_role": "noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "に",
+        "role": "time marker",
+        "raw_role": "time marker",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "メール",
+        "role": "noun",
+        "raw_role": "noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "で",
+        "role": "means/method particle",
+        "raw_role": "means/method particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "通知されます",
+        "role": "passive verb (be notified)",
+        "raw_role": "passive verb (be notified)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Grammar & Structural Patterns",
+    "sequence_key": "Noun → Topic Marker → Noun → Particle → Noun → Particle → Noun → Particle → Verb",
+    "location": "office",
+    "raw_grammar_pattern": "～に",
+    "functional_tag": "〜に"
+  }
+]

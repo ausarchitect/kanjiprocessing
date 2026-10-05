@@ -1,0 +1,5439 @@
+[
+  {
+    "japanese": "最近、だんだん暖かくなってきましたね。",
+    "hiragana": "さいきん、だんだん あたたかく なってきましたね。",
+    "english": "It's been getting warmer lately, hasn't it?",
+    "grammar_pattern": "〜くなる",
+    "grammar_explanation": "Used to describe a change in state over time, combining an adjective with the verb 'naru'.",
+    "category": "Weather and Seasons",
+    "theme": "Events, Traditions, and Celebrations",
+    "components": [
+      {
+        "text": "最近",
+        "role": "adverb meaning recently",
+        "raw_role": "adverb meaning recently",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "だんだん",
+        "role": "adverb meaning gradually",
+        "raw_role": "adverb meaning gradually",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "暖かく",
+        "role": "adjective stem of 'warm'",
+        "raw_role": "adjective stem of 'warm'",
+        "normalized_role": "Adjective"
+      },
+      {
+        "text": "なってきました",
+        "role": "verb meaning has become",
+        "raw_role": "verb meaning has become",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "ね",
+        "role": "sentence-ending particle for confirmation",
+        "raw_role": "sentence-ending particle for confirmation",
+        "normalized_role": "Particle"
+      }
+    ],
+    "conversation_id": "ce490a53-9863-41a1-9c73-bfa890144e7e",
+    "grammar_function": "Grammar & Structural Patterns",
+    "sequence_key": "Adverb → Adverb → Adjective → Verb → Particle",
+    "location": "Not defined",
+    "raw_grammar_pattern": "～くなる (Become [Adjective])",
+    "functional_tag": "〜くなる"
+  },
+  {
+    "japanese": "そうですね。やっと春が来ました。",
+    "hiragana": "そうですね。やっと はるが きました。",
+    "english": "That's true. Spring has finally arrived.",
+    "grammar_pattern": "Noun + が",
+    "grammar_explanation": "The particle 'ga' identifies the specific subject that is performing an action or existing.",
+    "category": "Weather and Seasons",
+    "theme": "Events, Traditions, and Celebrations",
+    "components": [
+      {
+        "text": "そうですね",
+        "role": "phrase meaning that is so",
+        "raw_role": "phrase meaning that is so",
+        "normalized_role": "Copula"
+      },
+      {
+        "text": "やっと",
+        "role": "adverb meaning finally",
+        "raw_role": "adverb meaning finally",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "春",
+        "role": "noun meaning spring",
+        "raw_role": "noun meaning spring",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "が",
+        "role": "subject marker particle",
+        "raw_role": "subject marker particle",
+        "normalized_role": "Subject Marker"
+      },
+      {
+        "text": "来ました",
+        "role": "verb meaning came/arrived",
+        "raw_role": "verb meaning came/arrived",
+        "normalized_role": "Verb"
+      }
+    ],
+    "conversation_id": "ce490a53-9863-41a1-9c73-bfa890144e7e",
+    "grammar_function": "Particles & Structural Markers (を / に / で / と)",
+    "sequence_key": "Copula → Adverb → Noun → Subject Marker → Verb",
+    "location": "Not defined",
+    "raw_grammar_pattern": "Noun + が (Subject Marker)",
+    "functional_tag": "Subject / Identifier Marker (〜が)"
+  },
+  {
+    "japanese": "早く桜が見たいです。",
+    "hiragana": "はやく さくらが みたいです。",
+    "english": "I want to see the cherry blossoms soon.",
+    "grammar_pattern": "〜たいです",
+    "grammar_explanation": "The desiderative form used to express the speaker's personal desire to perform an action.",
+    "category": "Weather and Seasons",
+    "theme": "Events, Traditions, and Celebrations",
+    "components": [
+      {
+        "text": "早く",
+        "role": "adverb meaning soon or quickly",
+        "raw_role": "adverb meaning soon or quickly",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "桜",
+        "role": "noun meaning cherry blossoms",
+        "raw_role": "noun meaning cherry blossoms",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "が",
+        "role": "particle marking the object of desire",
+        "raw_role": "particle marking the object of desire",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "見たい",
+        "role": "verb meaning want to see",
+        "raw_role": "verb meaning want to see",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "です",
+        "role": "polite copula ending",
+        "raw_role": "polite copula ending",
+        "normalized_role": "Copula"
+      }
+    ],
+    "conversation_id": "ce490a53-9863-41a1-9c73-bfa890144e7e",
+    "grammar_function": "Desires & Intentions (〜たい / つもり / よう)",
+    "sequence_key": "Adverb → Noun → Direct Object Marker → Verb → Copula",
+    "location": "Not defined",
+    "raw_grammar_pattern": "～たい (Want to do)",
+    "functional_tag": "Direct Wish (\"I want to\")"
+  },
+  {
+    "japanese": "いいですね！来週、一緒に行きましょう。",
+    "hiragana": "いいですね！らいしゅう、いっしょに いきましょう。",
+    "english": "That sounds great! Let's go together next week.",
+    "grammar_pattern": "〜ましょう",
+    "grammar_explanation": "The volitional form used to make a polite invitation or suggest an action together.",
+    "category": "Weather and Seasons",
+    "theme": "Events, Traditions, and Celebrations",
+    "components": [
+      {
+        "text": "いいですね",
+        "role": "phrase meaning that is good",
+        "raw_role": "phrase meaning that is good",
+        "normalized_role": "Copula"
+      },
+      {
+        "text": "来週",
+        "role": "noun meaning next week",
+        "raw_role": "noun meaning next week",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "一緒に",
+        "role": "adverb meaning together",
+        "raw_role": "adverb meaning together",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "行きましょう",
+        "role": "verb meaning let's go",
+        "raw_role": "verb meaning let's go",
+        "normalized_role": "Verb"
+      }
+    ],
+    "conversation_id": "ce490a53-9863-41a1-9c73-bfa890144e7e",
+    "grammar_function": "Suggestions & Invitations (〜ましょう / ませんか)",
+    "sequence_key": "Copula → Noun → Adverb → Verb",
+    "location": "Not defined",
+    "raw_grammar_pattern": "～ましょう (Let's [do])",
+    "functional_tag": "Proposal / Collective Action (\"Let's\")"
+  },
+  {
+    "japanese": "来週は町の夏祭りですね。",
+    "hiragana": "らいしゅう は まち の なつまつり です ね。",
+    "english": "Next week is the town's summer festival, isn't it?",
+    "grammar_pattern": "Noun + ですね",
+    "grammar_explanation": "Used to confirm information with the listener or seek their agreement.",
+    "category": "Events and Celebrations",
+    "theme": "Events, Traditions, and Celebrations",
+    "components": [
+      {
+        "text": "来週",
+        "role": "Noun (Time)",
+        "raw_role": "Noun (Time)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "は",
+        "role": "Topic marker",
+        "raw_role": "Topic marker",
+        "normalized_role": "Topic Marker"
+      },
+      {
+        "text": "町",
+        "role": "Noun",
+        "raw_role": "Noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "の",
+        "role": "Possessive marker",
+        "raw_role": "Possessive marker",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "夏祭り",
+        "role": "Noun",
+        "raw_role": "Noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "です",
+        "role": "Copula (to be)",
+        "raw_role": "Copula (to be)",
+        "normalized_role": "Copula"
+      },
+      {
+        "text": "ね",
+        "role": "Confirmation particle",
+        "raw_role": "Confirmation particle",
+        "normalized_role": "Particle"
+      }
+    ],
+    "conversation_id": "88cc02e7-ba73-4556-97df-3c8be8cf7238",
+    "grammar_function": "Copula, Topics & Definitions (です / は / について)",
+    "sequence_key": "Noun → Topic Marker → Noun → Particle → Noun → Copula → Particle",
+    "location": "Not defined",
+    "raw_grammar_pattern": "Noun + ですね",
+    "functional_tag": "Seeking Confirmation (\"Isn't it?\")"
+  },
+  {
+    "japanese": "はい、とても楽しみです！",
+    "hiragana": "はい 、 とても たのしみ です ！",
+    "english": "Yes, I'm really looking forward to it!",
+    "grammar_pattern": "Adjective + です",
+    "grammar_explanation": "Describes the current state or feeling of the speaker in a polite way.",
+    "category": "Events and Celebrations",
+    "theme": "Events, Traditions, and Celebrations",
+    "components": [
+      {
+        "text": "はい",
+        "role": "Affirmative response",
+        "raw_role": "Affirmative response",
+        "normalized_role": "Other"
+      },
+      {
+        "text": "とても",
+        "role": "Adverb (degree)",
+        "raw_role": "Adverb (degree)",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "楽しみ",
+        "role": "Na-adjective (excitement)",
+        "raw_role": "Na-adjective (excitement)",
+        "normalized_role": "Adjective"
+      },
+      {
+        "text": "です",
+        "role": "Copula (to be)",
+        "raw_role": "Copula (to be)",
+        "normalized_role": "Copula"
+      }
+    ],
+    "conversation_id": "88cc02e7-ba73-4556-97df-3c8be8cf7238",
+    "grammar_function": "Copula, Topics & Definitions (です / は / について)",
+    "sequence_key": "Adverb → Adjective → Copula",
+    "location": "Not defined",
+    "raw_grammar_pattern": "Adjective + です",
+    "functional_tag": "Polite Assertion / Copula (\"It is\")"
+  },
+  {
+    "japanese": "浴衣を着ますか？",
+    "hiragana": "ゆかた を き ます か ？",
+    "english": "Will you wear a yukata?",
+    "grammar_pattern": "Verb + か",
+    "grammar_explanation": "Forms a polite question by adding the particle 'ka' to the verb.",
+    "category": "Events and Celebrations",
+    "theme": "Events, Traditions, and Celebrations",
+    "components": [
+      {
+        "text": "浴衣",
+        "role": "Noun (clothing)",
+        "raw_role": "Noun (clothing)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "を",
+        "role": "Object marker",
+        "raw_role": "Object marker",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "着ます",
+        "role": "Verb (to wear)",
+        "raw_role": "Verb (to wear)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "か",
+        "role": "Question marker",
+        "raw_role": "Question marker",
+        "normalized_role": "Particle"
+      }
+    ],
+    "conversation_id": "88cc02e7-ba73-4556-97df-3c8be8cf7238",
+    "grammar_function": "Particles & Structural Markers (を / に / で / と)",
+    "sequence_key": "Noun → Direct Object Marker → Verb → Particle",
+    "location": "Not defined",
+    "raw_grammar_pattern": "Verb (Polite) + か",
+    "functional_tag": "Structural Particle Marker"
+  },
+  {
+    "japanese": "着るつもりですが、まだ色を決めていません。",
+    "hiragana": "きる つもり です が 、 まだ いろ を きめて いません 。",
+    "english": "I plan to wear one, but I haven't decided on the color yet.",
+    "grammar_pattern": "Verb + つもりです",
+    "grammar_explanation": "Expresses the speaker's intention or a planned action for the future.",
+    "category": "Events and Celebrations",
+    "theme": "Events, Traditions, and Celebrations",
+    "components": [
+      {
+        "text": "着る",
+        "role": "Verb (dictionary form)",
+        "raw_role": "Verb (dictionary form)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "つもり",
+        "role": "Noun (intention)",
+        "raw_role": "Noun (intention)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "です",
+        "role": "Copula",
+        "raw_role": "Copula",
+        "normalized_role": "Copula"
+      },
+      {
+        "text": "が",
+        "role": "Conjunction (but)",
+        "raw_role": "Conjunction (but)",
+        "normalized_role": "Conjunction"
+      },
+      {
+        "text": "まだ",
+        "role": "Adverb (yet)",
+        "raw_role": "Adverb (yet)",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "色",
+        "role": "Noun",
+        "raw_role": "Noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "を",
+        "role": "Object marker",
+        "raw_role": "Object marker",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "決めていません",
+        "role": "Verb (negative continuous form)",
+        "raw_role": "Verb (negative continuous form)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "conversation_id": "88cc02e7-ba73-4556-97df-3c8be8cf7238",
+    "grammar_function": "Desires & Intentions (〜たい / つもり / よう)",
+    "sequence_key": "Verb → Noun → Copula → Conjunction → Adverb → Noun → Direct Object Marker → Verb",
+    "location": "Not defined",
+    "raw_grammar_pattern": "Verb (Dictionary form) + つもりです",
+    "functional_tag": "Definite Plan (\"I intend to\")"
+  },
+  {
+    "japanese": "すみません、お賽銭はどうやって供えますか？",
+    "hiragana": "すみません、 おさいせん は どう やって そなえます か？",
+    "english": "Excuse me, how do I make an offering?",
+    "grammar_pattern": "どうやって + Verb",
+    "grammar_explanation": "Used to ask about the method or specific way of performing an action.",
+    "category": "Shrine and Temple Visiting Etiquette",
+    "theme": "Events, Traditions, and Celebrations",
+    "components": [
+      {
+        "text": "すみません",
+        "role": "interjection",
+        "raw_role": "interjection",
+        "normalized_role": "Interjection"
+      },
+      {
+        "text": "お賽銭",
+        "role": "noun",
+        "raw_role": "noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "は",
+        "role": "topic marker",
+        "raw_role": "topic marker",
+        "normalized_role": "Topic Marker"
+      },
+      {
+        "text": "どうやって",
+        "role": "interrogative adverb",
+        "raw_role": "interrogative adverb",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "供えます",
+        "role": "verb",
+        "raw_role": "verb",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "か",
+        "role": "question particle",
+        "raw_role": "question particle",
+        "normalized_role": "Particle"
+      }
+    ],
+    "conversation_id": "ccb30035-5019-4a52-955c-51dcb18769e8",
+    "grammar_function": "Grammar & Structural Patterns",
+    "sequence_key": "Interjection → Noun → Topic Marker → Adverb → Verb → Particle",
+    "location": "shrine",
+    "raw_grammar_pattern": "どうやって + Verb",
+    "functional_tag": "どうやって + Verb"
+  },
+  {
+    "japanese": "まず、お賽銭箱にコインを入れてください。",
+    "hiragana": "まず、 おさいせんばこ に こいん を いれて ください。",
+    "english": "First, please put a coin into the offering box.",
+    "grammar_pattern": "〜てください",
+    "grammar_explanation": "A polite way to request or instruct someone to do something.",
+    "category": "Shrine and Temple Visiting Etiquette",
+    "theme": "Events, Traditions, and Celebrations",
+    "components": [
+      {
+        "text": "まず",
+        "role": "adverb",
+        "raw_role": "adverb",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "お賽銭箱",
+        "role": "noun",
+        "raw_role": "noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "に",
+        "role": "destination marker",
+        "raw_role": "destination marker",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "コイン",
+        "role": "noun",
+        "raw_role": "noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "を",
+        "role": "object marker",
+        "raw_role": "object marker",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "入れて",
+        "role": "verb (te-form)",
+        "raw_role": "verb (te-form)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "ください",
+        "role": "polite request",
+        "raw_role": "polite request",
+        "normalized_role": "Request"
+      }
+    ],
+    "conversation_id": "ccb30035-5019-4a52-955c-51dcb18769e8",
+    "grammar_function": "Requests & Favors (〜て / ください)",
+    "sequence_key": "Adverb → Noun → Particle → Noun → Direct Object Marker → Verb → Request",
+    "location": "shrine",
+    "raw_grammar_pattern": "Verb-te + ください",
+    "functional_tag": "Polite Request (\"Please do\")"
+  },
+  {
+    "japanese": "鈴を鳴らしてもいいですか？",
+    "hiragana": "すず を ならして も いい です か？",
+    "english": "May I ring the bell?",
+    "grammar_pattern": "〜てもいい",
+    "grammar_explanation": "Used to ask for permission to do something.",
+    "category": "Shrine and Temple Visiting Etiquette",
+    "theme": "Events, Traditions, and Celebrations",
+    "components": [
+      {
+        "text": "鈴",
+        "role": "noun",
+        "raw_role": "noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "を",
+        "role": "object marker",
+        "raw_role": "object marker",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "鳴らして",
+        "role": "verb (te-form)",
+        "raw_role": "verb (te-form)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "もいい",
+        "role": "permission phrase",
+        "raw_role": "permission phrase",
+        "normalized_role": "Expression / Set Phrase"
+      },
+      {
+        "text": "です",
+        "role": "polite copula",
+        "raw_role": "polite copula",
+        "normalized_role": "Copula"
+      },
+      {
+        "text": "か",
+        "role": "question particle",
+        "raw_role": "question particle",
+        "normalized_role": "Particle"
+      }
+    ],
+    "conversation_id": "ccb30035-5019-4a52-955c-51dcb18769e8",
+    "grammar_function": "Permission & Prohibition (〜てもいい / てはいけない)",
+    "sequence_key": "Noun → Direct Object Marker → Verb → Expression / Set Phrase → Copula → Particle",
+    "location": "shrine",
+    "raw_grammar_pattern": "Verb-te + もいい",
+    "functional_tag": "Asking Permission (\"May I?\")"
+  },
+  {
+    "japanese": "はい、そのあと二礼二拍手してください。",
+    "hiragana": "はい、 その あと にれい にはくしゅ して ください。",
+    "english": "Yes, after that, please bow twice and clap twice.",
+    "grammar_pattern": "〜てください",
+    "grammar_explanation": "Used to provide polite instructions on the sequence of actions.",
+    "category": "Shrine and Temple Visiting Etiquette",
+    "theme": "Events, Traditions, and Celebrations",
+    "components": [
+      {
+        "text": "はい",
+        "role": "interjection",
+        "raw_role": "interjection",
+        "normalized_role": "Interjection"
+      },
+      {
+        "text": "そのあと",
+        "role": "time phrase",
+        "raw_role": "time phrase",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "二礼二拍手",
+        "role": "noun phrase",
+        "raw_role": "noun phrase",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "して",
+        "role": "verb (te-form)",
+        "raw_role": "verb (te-form)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "ください",
+        "role": "polite request",
+        "raw_role": "polite request",
+        "normalized_role": "Request"
+      }
+    ],
+    "conversation_id": "ccb30035-5019-4a52-955c-51dcb18769e8",
+    "grammar_function": "Requests & Favors (〜て / ください)",
+    "sequence_key": "Interjection → Noun → Noun → Verb → Request",
+    "location": "shrine",
+    "raw_grammar_pattern": "Verb-te + ください",
+    "functional_tag": "Polite Request (\"Please do\")"
+  },
+  {
+    "japanese": "最近、暖かくなってきましたね。",
+    "hiragana": "さいきん、 あたたかく なって きました ね。",
+    "english": "It's been getting warmer lately, hasn't it?",
+    "grammar_pattern": "〜てくる",
+    "grammar_explanation": "Indicates a change starting in the past and continuing up to the present.",
+    "category": "Weather and Seasons",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "7effd328-d8b2-48fe-a037-24d1d712fc05",
+    "components": [
+      {
+        "text": "最近",
+        "role": "adverb meaning lately",
+        "raw_role": "adverb meaning lately",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "暖かく",
+        "role": "adjective stem of warm",
+        "raw_role": "adjective stem of warm",
+        "normalized_role": "Adjective"
+      },
+      {
+        "text": "なって",
+        "role": "te-form of 'to become'",
+        "raw_role": "te-form of 'to become'",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "きました",
+        "role": "polite past of 'to come'",
+        "raw_role": "polite past of 'to come'",
+        "normalized_role": "Other"
+      },
+      {
+        "text": "ね",
+        "role": "sentence-ending particle for agreement",
+        "raw_role": "sentence-ending particle for agreement",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Grammar & Structural Patterns",
+    "sequence_key": "Adverb → Adjective → Verb → Particle",
+    "location": "Not defined",
+    "raw_grammar_pattern": "Verb (te-form) + くる",
+    "functional_tag": "〜てくる"
+  },
+  {
+    "japanese": "はい、やっと春になりましたね。",
+    "hiragana": "はい、 やっと はるに なりました ね。",
+    "english": "Yes, it has finally become spring.",
+    "grammar_pattern": "Noun + になる",
+    "grammar_explanation": "Used to express a change in state or becoming something.",
+    "category": "Weather and Seasons",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "7effd328-d8b2-48fe-a037-24d1d712fc05",
+    "components": [
+      {
+        "text": "はい",
+        "role": "affirmative response",
+        "raw_role": "affirmative response",
+        "normalized_role": "Other"
+      },
+      {
+        "text": "やっと",
+        "role": "adverb meaning finally",
+        "raw_role": "adverb meaning finally",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "春",
+        "role": "noun meaning spring",
+        "raw_role": "noun meaning spring",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "に",
+        "role": "particle indicating result of change",
+        "raw_role": "particle indicating result of change",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "なりました",
+        "role": "polite past of 'to become'",
+        "raw_role": "polite past of 'to become'",
+        "normalized_role": "Other"
+      },
+      {
+        "text": "ね",
+        "role": "sentence-ending particle for agreement",
+        "raw_role": "sentence-ending particle for agreement",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Particles & Structural Markers (を / に / で / と)",
+    "sequence_key": "Adverb → Noun → Particle → Particle",
+    "location": "Not defined",
+    "raw_grammar_pattern": "Noun + になる",
+    "functional_tag": "Target / Time / Direction (〜に)"
+  },
+  {
+    "japanese": "お花見に行きたいです。",
+    "hiragana": "おはなみに いきたい です。",
+    "english": "I want to go cherry blossom viewing.",
+    "grammar_pattern": "Verb",
+    "grammar_explanation": "Used to express the speaker's own desire to perform a specific action.",
+    "category": "Weather and Seasons",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "7effd328-d8b2-48fe-a037-24d1d712fc05",
+    "components": [
+      {
+        "text": "お花見",
+        "role": "noun meaning cherry blossom viewing",
+        "raw_role": "noun meaning cherry blossom viewing",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "に",
+        "role": "particle indicating purpose of movement",
+        "raw_role": "particle indicating purpose of movement",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "行きたい",
+        "role": "desire form of 'to go'",
+        "raw_role": "desire form of 'to go'",
+        "normalized_role": "Auxiliary"
+      },
+      {
+        "text": "です",
+        "role": "polite copula",
+        "raw_role": "polite copula",
+        "normalized_role": "Copula"
+      }
+    ],
+    "grammar_function": "Grammar & Structural Patterns",
+    "sequence_key": "Noun → Particle → Auxiliary → Copula",
+    "location": "Not defined",
+    "raw_grammar_pattern": "Verb (tai-form)",
+    "functional_tag": "Verb"
+  },
+  {
+    "japanese": "いいですね！来週末に一緒に行きましょう。",
+    "hiragana": "いい です ね！ らいしゅうまつ に いっしょに いきましょう。",
+    "english": "That sounds great! Let's go together next weekend.",
+    "grammar_pattern": "Verb",
+    "grammar_explanation": "Used to make a suggestion or invitation to do something together.",
+    "category": "Weather and Seasons",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "7effd328-d8b2-48fe-a037-24d1d712fc05",
+    "components": [
+      {
+        "text": "いい",
+        "role": "adjective meaning good",
+        "raw_role": "adjective meaning good",
+        "normalized_role": "Adjective"
+      },
+      {
+        "text": "です",
+        "role": "polite copula",
+        "raw_role": "polite copula",
+        "normalized_role": "Copula"
+      },
+      {
+        "text": "ね",
+        "role": "sentence-ending particle for agreement",
+        "raw_role": "sentence-ending particle for agreement",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "来週末",
+        "role": "noun meaning next weekend",
+        "raw_role": "noun meaning next weekend",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "に",
+        "role": "particle indicating a specific time",
+        "raw_role": "particle indicating a specific time",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "一緒に",
+        "role": "adverb meaning together",
+        "raw_role": "adverb meaning together",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "行きましょう",
+        "role": "suggestive form of 'to go'",
+        "raw_role": "suggestive form of 'to go'",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Grammar & Structural Patterns",
+    "sequence_key": "Adjective → Copula → Particle → Noun → Particle → Adverb → Verb",
+    "location": "Not defined",
+    "raw_grammar_pattern": "Verb (mashou-form)",
+    "functional_tag": "Verb"
+  },
+  {
+    "japanese": "来週は祇園祭ですね。",
+    "hiragana": "らいしゅう は ぎおんさい です ね",
+    "english": "Next week is the Gion Festival, isn't it?",
+    "grammar_pattern": "Noun + ですね",
+    "grammar_explanation": "Used to confirm information with the listener or seek their agreement.",
+    "category": "Events and Celebrations",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "7b691d9e-116d-4861-9aef-3c8f2429b520",
+    "components": [
+      {
+        "text": "来週",
+        "role": "noun (next week)",
+        "raw_role": "noun (next week)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "は",
+        "role": "topic marker",
+        "raw_role": "topic marker",
+        "normalized_role": "Topic Marker"
+      },
+      {
+        "text": "祇園祭",
+        "role": "noun (Gion Festival)",
+        "raw_role": "noun (Gion Festival)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "です",
+        "role": "copula (polite)",
+        "raw_role": "copula (polite)",
+        "normalized_role": "Copula"
+      },
+      {
+        "text": "ね",
+        "role": "sentence-ending particle (confirmation)",
+        "raw_role": "sentence-ending particle (confirmation)",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Copula, Topics & Definitions (です / は / について)",
+    "sequence_key": "Noun → Topic Marker → Noun → Copula → Particle",
+    "location": "Not defined",
+    "raw_grammar_pattern": "Noun + ですね",
+    "functional_tag": "Seeking Confirmation (\"Isn't it?\")"
+  },
+  {
+    "japanese": "はい、とても楽しみにしています。",
+    "hiragana": "はい 、 とても たのしみ に して います",
+    "english": "Yes, I'm really looking forward to it.",
+    "grammar_pattern": "〜ています",
+    "grammar_explanation": "Describes a current state or an action that is ongoing.",
+    "category": "Events and Celebrations",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "7b691d9e-116d-4861-9aef-3c8f2429b520",
+    "components": [
+      {
+        "text": "はい",
+        "role": "interjection (yes)",
+        "raw_role": "interjection (yes)",
+        "normalized_role": "Interjection"
+      },
+      {
+        "text": "とても",
+        "role": "adverb (very)",
+        "raw_role": "adverb (very)",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "楽しみ",
+        "role": "noun (anticipation/pleasure)",
+        "raw_role": "noun (anticipation/pleasure)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "に",
+        "role": "particle (target/result)",
+        "raw_role": "particle (target/result)",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "して",
+        "role": "verb (te-form of suru/to do)",
+        "raw_role": "verb (te-form of suru/to do)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "います",
+        "role": "auxiliary verb (polite state)",
+        "raw_role": "auxiliary verb (polite state)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Time, Aspect & State (〜ている / 〜てある)",
+    "sequence_key": "Interjection → Adverb → Noun → Particle → Verb → Verb",
+    "location": "Not defined",
+    "raw_grammar_pattern": "Verb (te-form) + います",
+    "functional_tag": "Continuous State / Ongoing (\"-ing / state\")"
+  },
+  {
+    "japanese": "一緒に行きませんか。",
+    "hiragana": "いっしょ に いきませんか",
+    "english": "Would you like to go together?",
+    "grammar_pattern": "Verb",
+    "grammar_explanation": "A polite way to invite someone or make a suggestion.",
+    "category": "Events and Celebrations",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "7b691d9e-116d-4861-9aef-3c8f2429b520",
+    "components": [
+      {
+        "text": "一緒に",
+        "role": "adverb (together)",
+        "raw_role": "adverb (together)",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "行きません",
+        "role": "verb (negative polite form of iku/to go)",
+        "raw_role": "verb (negative polite form of iku/to go)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "か",
+        "role": "question particle",
+        "raw_role": "question particle",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Grammar & Structural Patterns",
+    "sequence_key": "Adverb → Verb → Particle",
+    "location": "Not defined",
+    "raw_grammar_pattern": "Verb (masen-ka)",
+    "functional_tag": "Verb"
+  },
+  {
+    "japanese": "いいですね！浴衣を着て行きましょう。",
+    "hiragana": "いい です ね ！ ゆかた を きて いきましょう",
+    "english": "That sounds good! Let's wear yukata and go.",
+    "grammar_pattern": "Verb",
+    "grammar_explanation": "Used to suggest doing an action together or express a strong intention.",
+    "category": "Events and Celebrations",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "7b691d9e-116d-4861-9aef-3c8f2429b520",
+    "components": [
+      {
+        "text": "いい",
+        "role": "adjective (good)",
+        "raw_role": "adjective (good)",
+        "normalized_role": "Adjective"
+      },
+      {
+        "text": "です",
+        "role": "copula (polite)",
+        "raw_role": "copula (polite)",
+        "normalized_role": "Copula"
+      },
+      {
+        "text": "ね",
+        "role": "sentence-ending particle (agreement)",
+        "raw_role": "sentence-ending particle (agreement)",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "浴衣",
+        "role": "noun (summer kimono)",
+        "raw_role": "noun (summer kimono)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "を",
+        "role": "object marker",
+        "raw_role": "object marker",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "着て",
+        "role": "verb (te-form of kiru/to wear)",
+        "raw_role": "verb (te-form of kiru/to wear)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "行きましょう",
+        "role": "verb (volitional polite form of iku/to go)",
+        "raw_role": "verb (volitional polite form of iku/to go)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Grammar & Structural Patterns",
+    "sequence_key": "Adjective → Copula → Particle → Noun → Direct Object Marker → Verb → Verb",
+    "location": "Not defined",
+    "raw_grammar_pattern": "Verb (mashou)",
+    "functional_tag": "Verb"
+  },
+  {
+    "japanese": "賛成です！楽しみですね。",
+    "hiragana": "さんせい です ！ たのしみ です ね",
+    "english": "I agree! It's exciting, isn't it?",
+    "grammar_pattern": "Noun + です",
+    "grammar_explanation": "A basic polite way to state a fact or a feeling.",
+    "category": "Events and Celebrations",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "7b691d9e-116d-4861-9aef-3c8f2429b520",
+    "components": [
+      {
+        "text": "賛成",
+        "role": "noun (agreement)",
+        "raw_role": "noun (agreement)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "です",
+        "role": "copula (polite)",
+        "raw_role": "copula (polite)",
+        "normalized_role": "Copula"
+      },
+      {
+        "text": "楽しみ",
+        "role": "noun/na-adjective (exciting)",
+        "raw_role": "noun/na-adjective (exciting)",
+        "normalized_role": "Adjective"
+      },
+      {
+        "text": "です",
+        "role": "copula (polite)",
+        "raw_role": "copula (polite)",
+        "normalized_role": "Copula"
+      },
+      {
+        "text": "ね",
+        "role": "sentence-ending particle (confirmation)",
+        "raw_role": "sentence-ending particle (confirmation)",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Copula, Topics & Definitions (です / は / について)",
+    "sequence_key": "Noun → Copula → Adjective → Copula → Particle",
+    "location": "Not defined",
+    "raw_grammar_pattern": "Noun + です",
+    "functional_tag": "Polite Assertion / Copula (\"It is\")"
+  },
+  {
+    "japanese": "すみません、お賽銭のやり方を教えてください。",
+    "hiragana": "すみません、 おさいぜん の やりかた を おしえて ください。",
+    "english": "Excuse me, please tell me how to make an offering.",
+    "grammar_pattern": "〜てください",
+    "grammar_explanation": "Used to make a polite request for someone to perform a specific action.",
+    "category": "Shrine and Temple Visiting Etiquette",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "2d4bcee4-56bb-4723-af0c-fee29a3af736",
+    "components": [
+      {
+        "text": "すみません",
+        "role": "interjection",
+        "raw_role": "interjection",
+        "normalized_role": "Interjection"
+      },
+      {
+        "text": "お賽銭",
+        "role": "noun",
+        "raw_role": "noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "の",
+        "role": "possessive particle",
+        "raw_role": "possessive particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "やり方",
+        "role": "noun",
+        "raw_role": "noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "を",
+        "role": "object marker",
+        "raw_role": "object marker",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "教えて",
+        "role": "verb (te-form)",
+        "raw_role": "verb (te-form)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "ください",
+        "role": "polite request",
+        "raw_role": "polite request",
+        "normalized_role": "Request"
+      }
+    ],
+    "grammar_function": "Requests & Favors (〜て / ください)",
+    "sequence_key": "Interjection → Noun → Particle → Noun → Direct Object Marker → Verb → Request",
+    "location": "shrine",
+    "raw_grammar_pattern": "～てください",
+    "functional_tag": "Polite Request (\"Please do\")"
+  },
+  {
+    "japanese": "まずはお賽銭箱に、お賽銭を入れてください。",
+    "hiragana": "まず は おさいぜんばこ に、 おさいぜん を いれて ください。",
+    "english": "First, please put the offering into the offering box.",
+    "grammar_pattern": "Noun + に",
+    "grammar_explanation": "Indicates the destination or target where an action is directed.",
+    "category": "Shrine and Temple Visiting Etiquette",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "2d4bcee4-56bb-4723-af0c-fee29a3af736",
+    "components": [
+      {
+        "text": "まず",
+        "role": "adverb",
+        "raw_role": "adverb",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "は",
+        "role": "topic marker",
+        "raw_role": "topic marker",
+        "normalized_role": "Topic Marker"
+      },
+      {
+        "text": "お賽銭箱",
+        "role": "noun",
+        "raw_role": "noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "に",
+        "role": "target particle",
+        "raw_role": "target particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "お賽銭",
+        "role": "noun",
+        "raw_role": "noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "を",
+        "role": "object marker",
+        "raw_role": "object marker",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "入れて",
+        "role": "verb (te-form)",
+        "raw_role": "verb (te-form)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "ください",
+        "role": "polite request",
+        "raw_role": "polite request",
+        "normalized_role": "Request"
+      }
+    ],
+    "grammar_function": "Particles & Structural Markers (を / に / で / と)",
+    "sequence_key": "Adverb → Topic Marker → Noun → Particle → Noun → Direct Object Marker → Verb → Request",
+    "location": "shrine",
+    "raw_grammar_pattern": "Noun + に",
+    "functional_tag": "Target / Time / Direction (〜に)"
+  },
+  {
+    "japanese": "そのあと、二礼二拍手一礼でいいですか？",
+    "hiragana": "その あと、 にれい にはくしゅ いちれい で いい です か？",
+    "english": "After that, is it okay to do two bows, two claps, and one bow?",
+    "grammar_pattern": "〜でいいですか",
+    "grammar_explanation": "Used to ask for confirmation or check if a certain method is acceptable.",
+    "category": "Shrine and Temple Visiting Etiquette",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "2d4bcee4-56bb-4723-af0c-fee29a3af736",
+    "components": [
+      {
+        "text": "その",
+        "role": "demonstrative",
+        "raw_role": "demonstrative",
+        "normalized_role": "Demonstrative"
+      },
+      {
+        "text": "あと",
+        "role": "noun",
+        "raw_role": "noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "二礼二拍手一礼",
+        "role": "noun phrase",
+        "raw_role": "noun phrase",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "で",
+        "role": "condition particle",
+        "raw_role": "condition particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "いい",
+        "role": "adjective",
+        "raw_role": "adjective",
+        "normalized_role": "Adjective"
+      },
+      {
+        "text": "です",
+        "role": "polite copula",
+        "raw_role": "polite copula",
+        "normalized_role": "Copula"
+      },
+      {
+        "text": "か",
+        "role": "question marker",
+        "raw_role": "question marker",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Questions & Inquiries (〜ですか / どこ / どう)",
+    "sequence_key": "Demonstrative → Noun → Noun → Particle → Adjective → Copula → Particle",
+    "location": "shrine",
+    "raw_grammar_pattern": "～でいいですか",
+    "functional_tag": "Polite Question (\"Is it?\")"
+  },
+  {
+    "japanese": "はい、それで正解です。最後に静かに祈ってください。",
+    "hiragana": "はい、 それ で せいかい です。 さいご に しずか に いのって ください。",
+    "english": "Yes, that's correct. Finally, please pray quietly.",
+    "grammar_pattern": "Adjective + に",
+    "grammar_explanation": "Transforms an adjective into an adverb to describe how a verb is performed.",
+    "category": "Shrine and Temple Visiting Etiquette",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "2d4bcee4-56bb-4723-af0c-fee29a3af736",
+    "components": [
+      {
+        "text": "はい",
+        "role": "interjection",
+        "raw_role": "interjection",
+        "normalized_role": "Interjection"
+      },
+      {
+        "text": "それ",
+        "role": "pronoun",
+        "raw_role": "pronoun",
+        "normalized_role": "Pronoun"
+      },
+      {
+        "text": "で",
+        "role": "condition particle",
+        "raw_role": "condition particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "正解",
+        "role": "noun",
+        "raw_role": "noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "です",
+        "role": "polite copula",
+        "raw_role": "polite copula",
+        "normalized_role": "Copula"
+      },
+      {
+        "text": "最後",
+        "role": "noun",
+        "raw_role": "noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "に",
+        "role": "time particle",
+        "raw_role": "time particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "静かに",
+        "role": "adverb",
+        "raw_role": "adverb",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "祈って",
+        "role": "verb (te-form)",
+        "raw_role": "verb (te-form)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "ください",
+        "role": "polite request",
+        "raw_role": "polite request",
+        "normalized_role": "Request"
+      }
+    ],
+    "grammar_function": "Grammar & Structural Patterns",
+    "sequence_key": "Interjection → Pronoun → Particle → Noun → Copula → Noun → Particle → Adverb → Verb → Request",
+    "location": "shrine",
+    "raw_grammar_pattern": "Adjective + に",
+    "functional_tag": "Adjective + に"
+  },
+  {
+    "japanese": "今日、とても暑いですね。",
+    "hiragana": "きょう、とても あつい です ね。",
+    "english": "Today is very hot, isn't it?",
+    "grammar_pattern": "Adjective + ですね",
+    "grammar_explanation": "Used to confirm a shared feeling or observation with the listener.",
+    "category": "Weather and Seasons",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "fb51426d-e77f-4a7b-af45-65d450ae44d6",
+    "components": [
+      {
+        "text": "今日",
+        "role": "Noun (Time)",
+        "raw_role": "Noun (Time)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "とても",
+        "role": "Adverb",
+        "raw_role": "Adverb",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "暑い",
+        "role": "i-adjective",
+        "raw_role": "i-adjective",
+        "normalized_role": "Adjective"
+      },
+      {
+        "text": "です",
+        "role": "Copula",
+        "raw_role": "Copula",
+        "normalized_role": "Copula"
+      },
+      {
+        "text": "ね",
+        "role": "Sentence-ending particle",
+        "raw_role": "Sentence-ending particle",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Copula, Topics & Definitions (です / は / について)",
+    "sequence_key": "Noun → Adverb → Adjective → Copula → Particle",
+    "location": "Not defined",
+    "raw_grammar_pattern": "Adjective + ですね",
+    "functional_tag": "Seeking Confirmation (\"Isn't it?\")"
+  },
+  {
+    "japanese": "はい、もう夏のようです。",
+    "hiragana": "はい、もう なつ の よう です。",
+    "english": "Yes, it feels like summer already.",
+    "grammar_pattern": "Noun + のようです",
+    "grammar_explanation": "Used to describe something that seems or feels like a particular thing.",
+    "category": "Weather and Seasons",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "fb51426d-e77f-4a7b-af45-65d450ae44d6",
+    "components": [
+      {
+        "text": "はい",
+        "role": "Interjection",
+        "raw_role": "Interjection",
+        "normalized_role": "Interjection"
+      },
+      {
+        "text": "もう",
+        "role": "Adverb",
+        "raw_role": "Adverb",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "夏",
+        "role": "Noun",
+        "raw_role": "Noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "の",
+        "role": "Possessive particle",
+        "raw_role": "Possessive particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "よう",
+        "role": "Auxiliary noun (appearance)",
+        "raw_role": "Auxiliary noun (appearance)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "です",
+        "role": "Copula",
+        "raw_role": "Copula",
+        "normalized_role": "Copula"
+      }
+    ],
+    "grammar_function": "Conjecture & Opinion (〜と思う / かもしれない)",
+    "sequence_key": "Interjection → Adverb → Noun → Particle → Noun → Copula",
+    "location": "Not defined",
+    "raw_grammar_pattern": "Noun + のようです",
+    "functional_tag": "Opinion & Hearsay"
+  },
+  {
+    "japanese": "早く海に行きたいです。",
+    "hiragana": "はやく うみ に いきたい です。",
+    "english": "I want to go to the beach soon.",
+    "grammar_pattern": "Verb + です",
+    "grammar_explanation": "Expresses the speaker's desire to perform a specific action.",
+    "category": "Weather and Seasons",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "fb51426d-e77f-4a7b-af45-65d450ae44d6",
+    "components": [
+      {
+        "text": "早く",
+        "role": "Adverb",
+        "raw_role": "Adverb",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "海",
+        "role": "Noun (Destination)",
+        "raw_role": "Noun (Destination)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "に",
+        "role": "Directional particle",
+        "raw_role": "Directional particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "行きたい",
+        "role": "Verb (desire form)",
+        "raw_role": "Verb (desire form)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "です",
+        "role": "Copula",
+        "raw_role": "Copula",
+        "normalized_role": "Copula"
+      }
+    ],
+    "grammar_function": "Copula, Topics & Definitions (です / は / について)",
+    "sequence_key": "Adverb → Noun → Particle → Verb → Copula",
+    "location": "Not defined",
+    "raw_grammar_pattern": "Verb (tai-form) + です",
+    "functional_tag": "Polite Assertion / Copula (\"It is\")"
+  },
+  {
+    "japanese": "いいですね！来週末に一緒に行きましょう。",
+    "hiragana": "いい です ね！らいしゅうまつ に いっしょ に いきましょう。",
+    "english": "That sounds nice! Let's go together next weekend.",
+    "grammar_pattern": "Verb",
+    "grammar_explanation": "Used to make a polite suggestion or invite someone to do something.",
+    "category": "Weather and Seasons",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "fb51426d-e77f-4a7b-af45-65d450ae44d6",
+    "components": [
+      {
+        "text": "いい",
+        "role": "i-adjective",
+        "raw_role": "i-adjective",
+        "normalized_role": "Adjective"
+      },
+      {
+        "text": "です",
+        "role": "Copula",
+        "raw_role": "Copula",
+        "normalized_role": "Copula"
+      },
+      {
+        "text": "ね",
+        "role": "Sentence-ending particle",
+        "raw_role": "Sentence-ending particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "来週末",
+        "role": "Noun (Time)",
+        "raw_role": "Noun (Time)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "に",
+        "role": "Time particle",
+        "raw_role": "Time particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "一緒に",
+        "role": "Adverb",
+        "raw_role": "Adverb",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "行きましょう",
+        "role": "Verb (suggestive form)",
+        "raw_role": "Verb (suggestive form)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Grammar & Structural Patterns",
+    "sequence_key": "Adjective → Copula → Particle → Noun → Particle → Adverb → Verb",
+    "location": "Not defined",
+    "raw_grammar_pattern": "Verb (mashou-form)",
+    "functional_tag": "Verb"
+  },
+  {
+    "japanese": "来週は七夕祭りですね。",
+    "hiragana": "らいしゅう は たなばたまつり です ね。",
+    "english": "Next week is the Tanabata festival, isn't it?",
+    "grammar_pattern": "Noun + ですね",
+    "grammar_explanation": "Used to confirm information or seek agreement from the listener.",
+    "category": "Events and Celebrations",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "9d508634-7142-405f-9c3e-2f44f11e2fbb",
+    "components": [
+      {
+        "text": "来週",
+        "role": "Noun (Time)",
+        "raw_role": "Noun (Time)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "は",
+        "role": "Topic marker",
+        "raw_role": "Topic marker",
+        "normalized_role": "Topic Marker"
+      },
+      {
+        "text": "七夕祭り",
+        "role": "Noun (Event)",
+        "raw_role": "Noun (Event)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "です",
+        "role": "Copula",
+        "raw_role": "Copula",
+        "normalized_role": "Copula"
+      },
+      {
+        "text": "ね",
+        "role": "Sentence ending particle",
+        "raw_role": "Sentence ending particle",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Copula, Topics & Definitions (です / は / について)",
+    "sequence_key": "Noun → Topic Marker → Noun → Copula → Particle",
+    "location": "Not defined",
+    "raw_grammar_pattern": "Noun + ですね",
+    "functional_tag": "Seeking Confirmation (\"Isn't it?\")"
+  },
+  {
+    "japanese": "はい、友達と一緒にいきたいです。",
+    "hiragana": "はい、ともだち と いっしょに いきたい です。",
+    "english": "Yes, I want to go with my friends.",
+    "grammar_pattern": "Verb + です",
+    "grammar_explanation": "Expresses the speaker's personal desire to do a specific action.",
+    "category": "Events and Celebrations",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "9d508634-7142-405f-9c3e-2f44f11e2fbb",
+    "components": [
+      {
+        "text": "はい",
+        "role": "Affirmative response",
+        "raw_role": "Affirmative response",
+        "normalized_role": "Other"
+      },
+      {
+        "text": "友達",
+        "role": "Noun",
+        "raw_role": "Noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "と",
+        "role": "Particle (with)",
+        "raw_role": "Particle (with)",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "一緒に",
+        "role": "Adverb",
+        "raw_role": "Adverb",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "いきたい",
+        "role": "Verb (desiderative)",
+        "raw_role": "Verb (desiderative)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "です",
+        "role": "Polite ending",
+        "raw_role": "Polite ending",
+        "normalized_role": "Copula"
+      }
+    ],
+    "grammar_function": "Copula, Topics & Definitions (です / は / について)",
+    "sequence_key": "Noun → Particle → Adverb → Verb → Copula",
+    "location": "Not defined",
+    "raw_grammar_pattern": "Verb (tai-form) + です",
+    "functional_tag": "Polite Assertion / Copula (\"It is\")"
+  },
+  {
+    "japanese": "何を着ていきますか。",
+    "hiragana": "なに を きて いきます か。",
+    "english": "What are you going to wear there?",
+    "grammar_pattern": "Verb + ますか",
+    "grammar_explanation": "The standard polite form used to ask a question about an action.",
+    "category": "Events and Celebrations",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "9d508634-7142-405f-9c3e-2f44f11e2fbb",
+    "components": [
+      {
+        "text": "何",
+        "role": "Question word",
+        "raw_role": "Question word",
+        "normalized_role": "Question Word"
+      },
+      {
+        "text": "を",
+        "role": "Object marker",
+        "raw_role": "Object marker",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "着て",
+        "role": "Verb (te-form)",
+        "raw_role": "Verb (te-form)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "いきます",
+        "role": "Verb",
+        "raw_role": "Verb",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "か",
+        "role": "Question marker",
+        "raw_role": "Question marker",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Grammar & Structural Patterns",
+    "sequence_key": "Question Word → Direct Object Marker → Verb → Verb → Particle",
+    "location": "Not defined",
+    "raw_grammar_pattern": "Verb + ますか",
+    "functional_tag": "Verb + ますか"
+  },
+  {
+    "japanese": "浴衣を着ていこうと思っています。",
+    "hiragana": "ゆかた を きて いこう と おもって います。",
+    "english": "I'm thinking of wearing a yukata.",
+    "grammar_pattern": "〜ようと思っています",
+    "grammar_explanation": "Used to express a continuing intention or a plan the speaker is considering.",
+    "category": "Events and Celebrations",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "9d508634-7142-405f-9c3e-2f44f11e2fbb",
+    "components": [
+      {
+        "text": "浴衣",
+        "role": "Noun",
+        "raw_role": "Noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "を",
+        "role": "Object marker",
+        "raw_role": "Object marker",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "着ていこう",
+        "role": "Verb (volitional)",
+        "raw_role": "Verb (volitional)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "と",
+        "role": "Quotation marker",
+        "raw_role": "Quotation marker",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "思っています",
+        "role": "Verb phrase (thinking)",
+        "raw_role": "Verb phrase (thinking)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Time, Aspect & State (〜ている / 〜てある)",
+    "sequence_key": "Noun → Direct Object Marker → Verb → Particle → Verb",
+    "location": "Not defined",
+    "raw_grammar_pattern": "Volitional form + と思っています",
+    "functional_tag": "Continuous State / Ongoing (\"-ing / state\")"
+  },
+  {
+    "japanese": "それはいいですね！",
+    "hiragana": "それ は いい です ね！",
+    "english": "That sounds lovely!",
+    "grammar_pattern": "Adjective + ですね",
+    "grammar_explanation": "Used to express a positive reaction or agreement with the speaker.",
+    "category": "Events and Celebrations",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "9d508634-7142-405f-9c3e-2f44f11e2fbb",
+    "components": [
+      {
+        "text": "それ",
+        "role": "Pronoun",
+        "raw_role": "Pronoun",
+        "normalized_role": "Pronoun"
+      },
+      {
+        "text": "は",
+        "role": "Topic marker",
+        "raw_role": "Topic marker",
+        "normalized_role": "Topic Marker"
+      },
+      {
+        "text": "いい",
+        "role": "Adjective",
+        "raw_role": "Adjective",
+        "normalized_role": "Adjective"
+      },
+      {
+        "text": "です",
+        "role": "Copula",
+        "raw_role": "Copula",
+        "normalized_role": "Copula"
+      },
+      {
+        "text": "ね",
+        "role": "Sentence ending particle",
+        "raw_role": "Sentence ending particle",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Copula, Topics & Definitions (です / は / について)",
+    "sequence_key": "Pronoun → Topic Marker → Adjective → Copula → Particle",
+    "location": "Not defined",
+    "raw_grammar_pattern": "Adjective + ですね",
+    "functional_tag": "Seeking Confirmation (\"Isn't it?\")"
+  },
+  {
+    "japanese": "すみません、正しい参拝の仕方を教えてください。",
+    "hiragana": "すみません、ただしい さんぱいの しかたを おしえて ください。",
+    "english": "Excuse me, please tell me the correct way to pray.",
+    "grammar_pattern": "〜てください",
+    "grammar_explanation": "Used to make a polite request for someone to perform an action.",
+    "category": "Shrine and Temple Visiting Etiquette",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "6ac5e4e5-5be3-415d-8c25-a5fe669c76ec",
+    "components": [
+      {
+        "text": "すみません",
+        "role": "interjection",
+        "raw_role": "interjection",
+        "normalized_role": "Interjection"
+      },
+      {
+        "text": "正しい",
+        "role": "adjective",
+        "raw_role": "adjective",
+        "normalized_role": "Adjective"
+      },
+      {
+        "text": "参拝",
+        "role": "noun",
+        "raw_role": "noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "の",
+        "role": "possessive particle",
+        "raw_role": "possessive particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "仕方",
+        "role": "noun",
+        "raw_role": "noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "を",
+        "role": "object marker",
+        "raw_role": "object marker",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "教えて",
+        "role": "verb (te-form)",
+        "raw_role": "verb (te-form)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "ください",
+        "role": "polite request",
+        "raw_role": "polite request",
+        "normalized_role": "Request"
+      }
+    ],
+    "grammar_function": "Requests & Favors (〜て / ください)",
+    "sequence_key": "Interjection → Adjective → Noun → Particle → Noun → Direct Object Marker → Verb → Request",
+    "location": "shrine",
+    "raw_grammar_pattern": "～てください",
+    "functional_tag": "Polite Request (\"Please do\")"
+  },
+  {
+    "japanese": "はい。まず、二礼二拍手一礼でお願いします。",
+    "hiragana": "はい。まず、にれい にはくしゅ いちれいで おねがいします。",
+    "english": "Yes. First, please do two bows, two claps, and one bow.",
+    "grammar_pattern": "〜でお願いします",
+    "grammar_explanation": "Used to request a specific method, choice, or arrangement politely.",
+    "category": "Shrine and Temple Visiting Etiquette",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "6ac5e4e5-5be3-415d-8c25-a5fe669c76ec",
+    "components": [
+      {
+        "text": "はい",
+        "role": "interjection",
+        "raw_role": "interjection",
+        "normalized_role": "Interjection"
+      },
+      {
+        "text": "まず",
+        "role": "adverb",
+        "raw_role": "adverb",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "二礼二拍手一礼",
+        "role": "noun phrase",
+        "raw_role": "noun phrase",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "で",
+        "role": "method particle",
+        "raw_role": "method particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "お願いします",
+        "role": "polite request",
+        "raw_role": "polite request",
+        "normalized_role": "Request"
+      }
+    ],
+    "grammar_function": "Requests & Favors (〜て / ください)",
+    "sequence_key": "Interjection → Adverb → Noun → Particle → Request",
+    "location": "shrine",
+    "raw_grammar_pattern": "～でお願いします",
+    "functional_tag": "Polite Request (\"Please / I'd like\")"
+  },
+  {
+    "japanese": "お賽銭はどこに投げ入れればいいですか？",
+    "hiragana": "おさいせんは どこに なげいれれば いいですか？",
+    "english": "Where should I put the offering coin?",
+    "grammar_pattern": "〜ればいいですか",
+    "grammar_explanation": "Used to ask for advice or instructions on the best way to act.",
+    "category": "Shrine and Temple Visiting Etiquette",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "6ac5e4e5-5be3-415d-8c25-a5fe669c76ec",
+    "components": [
+      {
+        "text": "お賽銭",
+        "role": "noun",
+        "raw_role": "noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "は",
+        "role": "topic marker",
+        "raw_role": "topic marker",
+        "normalized_role": "Topic Marker"
+      },
+      {
+        "text": "どこ",
+        "role": "question word",
+        "raw_role": "question word",
+        "normalized_role": "Question Word"
+      },
+      {
+        "text": "に",
+        "role": "direction particle",
+        "raw_role": "direction particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "投げ入れれば",
+        "role": "verb (conditional form)",
+        "raw_role": "verb (conditional form)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "いい",
+        "role": "adjective",
+        "raw_role": "adjective",
+        "normalized_role": "Adjective"
+      },
+      {
+        "text": "ですか",
+        "role": "polite question",
+        "raw_role": "polite question",
+        "normalized_role": "Other"
+      }
+    ],
+    "grammar_function": "Advice & Conditionals (〜ば / 〜たら / ほう)",
+    "sequence_key": "Noun → Topic Marker → Question Word → Particle → Verb → Adjective",
+    "location": "shrine",
+    "raw_grammar_pattern": "～ればいいですか",
+    "functional_tag": "Seeking Guidance (\"What should I do?\")"
+  },
+  {
+    "japanese": "あの大きな箱に、静かにいれてください。",
+    "hiragana": "あの おおきな はこに、しずかに いれて ください。",
+    "english": "Please put it quietly into that large box.",
+    "grammar_pattern": "Adjective + Noun",
+    "grammar_explanation": "Placing an adjective before a noun to describe its characteristics.",
+    "category": "Shrine and Temple Visiting Etiquette",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "6ac5e4e5-5be3-415d-8c25-a5fe669c76ec",
+    "components": [
+      {
+        "text": "あの",
+        "role": "demonstrative",
+        "raw_role": "demonstrative",
+        "normalized_role": "Demonstrative"
+      },
+      {
+        "text": "大きな",
+        "role": "adjective",
+        "raw_role": "adjective",
+        "normalized_role": "Adjective"
+      },
+      {
+        "text": "箱",
+        "role": "noun",
+        "raw_role": "noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "に",
+        "role": "destination particle",
+        "raw_role": "destination particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "静かに",
+        "role": "adverb",
+        "raw_role": "adverb",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "いれて",
+        "role": "verb (te-form)",
+        "raw_role": "verb (te-form)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "ください",
+        "role": "polite request",
+        "raw_role": "polite request",
+        "normalized_role": "Request"
+      }
+    ],
+    "grammar_function": "Grammar & Structural Patterns",
+    "sequence_key": "Demonstrative → Adjective → Noun → Particle → Adverb → Verb → Request",
+    "location": "shrine",
+    "raw_grammar_pattern": "Adjective + Noun",
+    "functional_tag": "Adjective + Noun"
+  },
+  {
+    "japanese": "最近、寒くなってきましたね。",
+    "hiragana": "さいきん、さむく なって きました ね。",
+    "english": "It's been getting colder lately, hasn't it?",
+    "grammar_pattern": "〜てきました",
+    "grammar_explanation": "Indicates a process or change that has been continuing up until the present moment.",
+    "category": "Weather and Seasons",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "330ec6fe-06c7-4559-b955-94c986fcc8ab",
+    "components": [
+      {
+        "text": "最近",
+        "role": "adverb meaning lately",
+        "raw_role": "adverb meaning lately",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "寒く",
+        "role": "adjective stem of samui",
+        "raw_role": "adjective stem of samui",
+        "normalized_role": "Adjective"
+      },
+      {
+        "text": "なって",
+        "role": "te-form of naru meaning to become",
+        "raw_role": "te-form of naru meaning to become",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "きました",
+        "role": "polite past form of kuru meaning to come",
+        "raw_role": "polite past form of kuru meaning to come",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "ね",
+        "role": "sentence-ending particle for agreement",
+        "raw_role": "sentence-ending particle for agreement",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Grammar & Structural Patterns",
+    "sequence_key": "Adverb → Adjective → Verb → Verb → Particle",
+    "location": "Not defined",
+    "raw_grammar_pattern": "～てきました",
+    "functional_tag": "〜てきました"
+  },
+  {
+    "japanese": "そうですね。もうすぐ冬になりますね。",
+    "hiragana": "そう です ね。もう すぐ ふゆ に なります ね。",
+    "english": "That's true. It will be winter soon, won't it?",
+    "grammar_pattern": "Noun + になります",
+    "grammar_explanation": "Used to describe a change in state or the transition into a new season.",
+    "category": "Weather and Seasons",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "330ec6fe-06c7-4559-b955-94c986fcc8ab",
+    "components": [
+      {
+        "text": "そう",
+        "role": "adverb meaning so/that way",
+        "raw_role": "adverb meaning so/that way",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "です",
+        "role": "polite copula",
+        "raw_role": "polite copula",
+        "normalized_role": "Copula"
+      },
+      {
+        "text": "ね",
+        "role": "particle for confirmation",
+        "raw_role": "particle for confirmation",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "もうすぐ",
+        "role": "adverb meaning soon",
+        "raw_role": "adverb meaning soon",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "冬",
+        "role": "noun meaning winter",
+        "raw_role": "noun meaning winter",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "に",
+        "role": "particle marking the result of change",
+        "raw_role": "particle marking the result of change",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "なります",
+        "role": "polite verb meaning to become",
+        "raw_role": "polite verb meaning to become",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "ね",
+        "role": "particle for confirmation",
+        "raw_role": "particle for confirmation",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Particles & Structural Markers (を / に / で / と)",
+    "sequence_key": "Adverb → Copula → Particle → Adverb → Noun → Particle → Verb → Particle",
+    "location": "Not defined",
+    "raw_grammar_pattern": "Noun + になります",
+    "functional_tag": "Target / Time / Direction (〜に)"
+  },
+  {
+    "japanese": "寒くなる前に、紅葉を見に行きたいです。",
+    "hiragana": "さむく なる まえ に、こうよう を み に いきたい です。",
+    "english": "I want to go see the autumn leaves before it gets cold.",
+    "grammar_pattern": "〜たいです",
+    "grammar_explanation": "Used to express the speaker's personal desire or wish to do something.",
+    "category": "Weather and Seasons",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "330ec6fe-06c7-4559-b955-94c986fcc8ab",
+    "components": [
+      {
+        "text": "寒く",
+        "role": "adjective stem of samui",
+        "raw_role": "adjective stem of samui",
+        "normalized_role": "Adjective"
+      },
+      {
+        "text": "なる",
+        "role": "verb meaning to become",
+        "raw_role": "verb meaning to become",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "前に",
+        "role": "grammar phrase meaning before",
+        "raw_role": "grammar phrase meaning before",
+        "normalized_role": "Expression / Set Phrase"
+      },
+      {
+        "text": "紅葉",
+        "role": "noun meaning autumn leaves",
+        "raw_role": "noun meaning autumn leaves",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "を",
+        "role": "object marker particle",
+        "raw_role": "object marker particle",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "見に",
+        "role": "verb stem plus particle for purpose",
+        "raw_role": "verb stem plus particle for purpose",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "行きたい",
+        "role": "desire form of the verb iku",
+        "raw_role": "desire form of the verb iku",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "です",
+        "role": "polite ending",
+        "raw_role": "polite ending",
+        "normalized_role": "Copula"
+      }
+    ],
+    "grammar_function": "Desires & Intentions (〜たい / つもり / よう)",
+    "sequence_key": "Adjective → Verb → Expression / Set Phrase → Noun → Direct Object Marker → Particle → Verb → Copula",
+    "location": "Not defined",
+    "raw_grammar_pattern": "～たいです",
+    "functional_tag": "Direct Wish (\"I want to\")"
+  },
+  {
+    "japanese": "いいですね！来週末に一緒に行きましょう。",
+    "hiragana": "いい です ね！らいしゅうまつ に いっしょ に いきましょう。",
+    "english": "That sounds great! Let's go together next weekend.",
+    "grammar_pattern": "〜ましょう",
+    "grammar_explanation": "A polite invitation or suggestion to perform an action together.",
+    "category": "Weather and Seasons",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "330ec6fe-06c7-4559-b955-94c986fcc8ab",
+    "components": [
+      {
+        "text": "いい",
+        "role": "adjective meaning good",
+        "raw_role": "adjective meaning good",
+        "normalized_role": "Adjective"
+      },
+      {
+        "text": "です",
+        "role": "polite copula",
+        "raw_role": "polite copula",
+        "normalized_role": "Copula"
+      },
+      {
+        "text": "ね",
+        "role": "particle for agreement",
+        "raw_role": "particle for agreement",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "来週末",
+        "role": "noun meaning next weekend",
+        "raw_role": "noun meaning next weekend",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "に",
+        "role": "time marking particle",
+        "raw_role": "time marking particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "一緒に",
+        "role": "adverb meaning together",
+        "raw_role": "adverb meaning together",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "行きましょう",
+        "role": "suggestive form of the verb iku",
+        "raw_role": "suggestive form of the verb iku",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Suggestions & Invitations (〜ましょう / ませんか)",
+    "sequence_key": "Adjective → Copula → Particle → Noun → Particle → Adverb → Verb",
+    "location": "Not defined",
+    "raw_grammar_pattern": "～ましょう",
+    "functional_tag": "Proposal / Collective Action (\"Let's\")"
+  },
+  {
+    "japanese": "来週は祇園祭ですね。",
+    "hiragana": "らいしゅう は ぎおんまつり です ね",
+    "english": "Next week is the Gion Festival, isn't it?",
+    "grammar_pattern": "Noun + ですね",
+    "grammar_explanation": "Used to confirm information or seek agreement from the listener.",
+    "category": "Events and Celebrations",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "eb56a5c0-d7c4-4523-8869-22e1b523886f",
+    "components": [
+      {
+        "text": "来週",
+        "role": "Noun (Next week)",
+        "raw_role": "Noun (Next week)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "は",
+        "role": "Topic marker",
+        "raw_role": "Topic marker",
+        "normalized_role": "Topic Marker"
+      },
+      {
+        "text": "祇園祭",
+        "role": "Noun (Gion Festival)",
+        "raw_role": "Noun (Gion Festival)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "です",
+        "role": "Copula (is)",
+        "raw_role": "Copula (is)",
+        "normalized_role": "Copula"
+      },
+      {
+        "text": "ね",
+        "role": "Sentence ending particle for confirmation",
+        "raw_role": "Sentence ending particle for confirmation",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Copula, Topics & Definitions (です / は / について)",
+    "sequence_key": "Noun → Topic Marker → Noun → Copula → Particle",
+    "location": "Not defined",
+    "raw_grammar_pattern": "Noun + ですね",
+    "functional_tag": "Seeking Confirmation (\"Isn't it?\")"
+  },
+  {
+    "japanese": "はい、家族と見に行きたいです。",
+    "hiragana": "はい、かぞく と み に いきたい です",
+    "english": "Yes, I want to go see it with my family.",
+    "grammar_pattern": "〜たいです",
+    "grammar_explanation": "Expresses the speaker's desire to do a specific action.",
+    "category": "Events and Celebrations",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "eb56a5c0-d7c4-4523-8869-22e1b523886f",
+    "components": [
+      {
+        "text": "はい",
+        "role": "Affirmative response (Yes)",
+        "raw_role": "Affirmative response (Yes)",
+        "normalized_role": "Interjection"
+      },
+      {
+        "text": "家族",
+        "role": "Noun (Family)",
+        "raw_role": "Noun (Family)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "と",
+        "role": "Particle meaning 'with'",
+        "raw_role": "Particle meaning 'with'",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "見に",
+        "role": "Verb (to see) used for purpose",
+        "raw_role": "Verb (to see) used for purpose",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "行きたい",
+        "role": "Verb (want to go)",
+        "raw_role": "Verb (want to go)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "です",
+        "role": "Polite ending",
+        "raw_role": "Polite ending",
+        "normalized_role": "Copula"
+      }
+    ],
+    "grammar_function": "Desires & Intentions (〜たい / つもり / よう)",
+    "sequence_key": "Interjection → Noun → Particle → Verb → Verb → Copula",
+    "location": "Not defined",
+    "raw_grammar_pattern": "Verb stem + たいです",
+    "functional_tag": "Direct Wish (\"I want to\")"
+  },
+  {
+    "japanese": "そこで何を食べたいですか？",
+    "hiragana": "そこ で なに を たべたい です か",
+    "english": "What do you want to eat there?",
+    "grammar_pattern": "〜か",
+    "grammar_explanation": "Placed at the end of a sentence to turn it into a question.",
+    "category": "Events and Celebrations",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "eb56a5c0-d7c4-4523-8869-22e1b523886f",
+    "components": [
+      {
+        "text": "そこ",
+        "role": "Pronoun (There)",
+        "raw_role": "Pronoun (There)",
+        "normalized_role": "Pronoun"
+      },
+      {
+        "text": "で",
+        "role": "Location of action marker",
+        "raw_role": "Location of action marker",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "何",
+        "role": "Question word (What)",
+        "raw_role": "Question word (What)",
+        "normalized_role": "Question Word"
+      },
+      {
+        "text": "を",
+        "role": "Object marker",
+        "raw_role": "Object marker",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "食べたい",
+        "role": "Verb (want to eat)",
+        "raw_role": "Verb (want to eat)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "です",
+        "role": "Polite ending",
+        "raw_role": "Polite ending",
+        "normalized_role": "Copula"
+      },
+      {
+        "text": "か",
+        "role": "Question particle",
+        "raw_role": "Question particle",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Questions & Inquiries (〜ですか / どこ / どう)",
+    "sequence_key": "Pronoun → Particle → Question Word → Direct Object Marker → Verb → Copula → Particle",
+    "location": "Not defined",
+    "raw_grammar_pattern": "Question marker か",
+    "functional_tag": "Polite Question (\"Is it?\")"
+  },
+  {
+    "japanese": "焼きそばとたこ焼きを食べたいです！",
+    "hiragana": "やきそば と たこやき を たべたい です",
+    "english": "I want to eat yakisoba and takoyaki!",
+    "grammar_pattern": "Noun + と + Noun",
+    "grammar_explanation": "The particle 'to' is used to list two or more items completely.",
+    "category": "Events and Celebrations",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "eb56a5c0-d7c4-4523-8869-22e1b523886f",
+    "components": [
+      {
+        "text": "焼きそば",
+        "role": "Noun (Fried noodles)",
+        "raw_role": "Noun (Fried noodles)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "と",
+        "role": "Connecting particle (and)",
+        "raw_role": "Connecting particle (and)",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "たこ焼き",
+        "role": "Noun (Octopus balls)",
+        "raw_role": "Noun (Octopus balls)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "を",
+        "role": "Object marker",
+        "raw_role": "Object marker",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "食べたい",
+        "role": "Verb (want to eat)",
+        "raw_role": "Verb (want to eat)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "です",
+        "role": "Polite ending",
+        "raw_role": "Polite ending",
+        "normalized_role": "Copula"
+      }
+    ],
+    "grammar_function": "Particles & Structural Markers (を / に / で / と)",
+    "sequence_key": "Noun → Particle → Noun → Direct Object Marker → Verb → Copula",
+    "location": "Not defined",
+    "raw_grammar_pattern": "Noun + と + Noun",
+    "functional_tag": "Connection / Together With (〜と)"
+  },
+  {
+    "japanese": "すみません、お供えはどうすればいいですか？",
+    "hiragana": "すみません 、 おそなえ は どう すれば いい です か ？",
+    "english": "Excuse me, how should I make an offering?",
+    "grammar_pattern": "〜ばいいですか",
+    "grammar_explanation": "Used to ask for advice or instructions on the best way to do something.",
+    "category": "Shrine and Temple Visiting Etiquette",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "5b4d4d5e-92b7-460c-a855-65bd870c7b78",
+    "components": [
+      {
+        "text": "すみません",
+        "role": "Interjection (Excuse me)",
+        "raw_role": "Interjection (Excuse me)",
+        "normalized_role": "Interjection"
+      },
+      {
+        "text": "お供え",
+        "role": "Noun (offering)",
+        "raw_role": "Noun (offering)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "は",
+        "role": "Topic marker",
+        "raw_role": "Topic marker",
+        "normalized_role": "Topic Marker"
+      },
+      {
+        "text": "どう",
+        "role": "Adverb (how)",
+        "raw_role": "Adverb (how)",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "すれば",
+        "role": "Verb conditional form of 'suru' (do)",
+        "raw_role": "Verb conditional form of 'suru' (do)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "いい",
+        "role": "Adjective (good/correct)",
+        "raw_role": "Adjective (good/correct)",
+        "normalized_role": "Adjective"
+      },
+      {
+        "text": "ですか",
+        "role": "Polite question ending",
+        "raw_role": "Polite question ending",
+        "normalized_role": "Sentence Ending / Modal"
+      }
+    ],
+    "grammar_function": "Advice & Conditionals (〜ば / 〜たら / ほう)",
+    "sequence_key": "Interjection → Noun → Topic Marker → Adverb → Verb → Adjective → Sentence Ending / Modal",
+    "location": "shrine",
+    "raw_grammar_pattern": "~ばいいですか",
+    "functional_tag": "Seeking Guidance (\"What should I do?\")"
+  },
+  {
+    "japanese": "お賽銭箱にお金を入れて、二回お辞儀をしてください。",
+    "hiragana": "おさいせんばこ に おかね を いれて 、 にかい おじぎ を して ください 。",
+    "english": "Please put the money in the offering box and bow twice.",
+    "grammar_pattern": "〜てください",
+    "grammar_explanation": "A polite way to request or instruct someone to perform an action.",
+    "category": "Shrine and Temple Visiting Etiquette",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "5b4d4d5e-92b7-460c-a855-65bd870c7b78",
+    "components": [
+      {
+        "text": "お賽銭箱",
+        "role": "Noun (offering box)",
+        "raw_role": "Noun (offering box)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "に",
+        "role": "Destination marker",
+        "raw_role": "Destination marker",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "お金",
+        "role": "Noun (money)",
+        "raw_role": "Noun (money)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "を",
+        "role": "Object marker",
+        "raw_role": "Object marker",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "入れて",
+        "role": "Verb te-form of 'ireru' (put in)",
+        "raw_role": "Verb te-form of 'ireru' (put in)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "二回",
+        "role": "Noun/Adverb (twice)",
+        "raw_role": "Noun/Adverb (twice)",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "お辞儀",
+        "role": "Noun (bow)",
+        "raw_role": "Noun (bow)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "を",
+        "role": "Object marker",
+        "raw_role": "Object marker",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "して",
+        "role": "Verb te-form of 'suru' (do)",
+        "raw_role": "Verb te-form of 'suru' (do)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "ください",
+        "role": "Polite request",
+        "raw_role": "Polite request",
+        "normalized_role": "Request"
+      }
+    ],
+    "grammar_function": "Requests & Favors (〜て / ください)",
+    "sequence_key": "Noun → Particle → Noun → Direct Object Marker → Verb → Adverb → Noun → Direct Object Marker → Verb → Request",
+    "location": "shrine",
+    "raw_grammar_pattern": "~てください",
+    "functional_tag": "Polite Request (\"Please do\")"
+  },
+  {
+    "japanese": "そのあと、手を叩いてもいいですか？",
+    "hiragana": "その あと 、 て を たたいて も いい です か ？",
+    "english": "After that, may I clap my hands?",
+    "grammar_pattern": "〜てもいいですか",
+    "grammar_explanation": "Used to ask for permission to do a specific action.",
+    "category": "Shrine and Temple Visiting Etiquette",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "5b4d4d5e-92b7-460c-a855-65bd870c7b78",
+    "components": [
+      {
+        "text": "その",
+        "role": "Demonstrative (that)",
+        "raw_role": "Demonstrative (that)",
+        "normalized_role": "Demonstrative"
+      },
+      {
+        "text": "あと",
+        "role": "Noun (after/later)",
+        "raw_role": "Noun (after/later)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "手",
+        "role": "Noun (hand)",
+        "raw_role": "Noun (hand)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "を",
+        "role": "Object marker",
+        "raw_role": "Object marker",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "叩いて",
+        "role": "Verb te-form of 'tataku' (clap/strike)",
+        "raw_role": "Verb te-form of 'tataku' (clap/strike)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "もいい",
+        "role": "Permission phrase (is okay)",
+        "raw_role": "Permission phrase (is okay)",
+        "normalized_role": "Copula"
+      },
+      {
+        "text": "ですか",
+        "role": "Polite question ending",
+        "raw_role": "Polite question ending",
+        "normalized_role": "Sentence Ending / Modal"
+      }
+    ],
+    "grammar_function": "Permission & Prohibition (〜てもいい / てはいけない)",
+    "sequence_key": "Demonstrative → Noun → Noun → Direct Object Marker → Verb → Copula → Sentence Ending / Modal",
+    "location": "shrine",
+    "raw_grammar_pattern": "~てもいいですか",
+    "functional_tag": "Asking Permission (\"May I?\")"
+  },
+  {
+    "japanese": "はい、二回叩いてからお祈りをしてください。",
+    "hiragana": "はい 、 にかい たたいて から おいのり を して ください 。",
+    "english": "Yes, please pray after clapping twice.",
+    "grammar_pattern": "〜てから",
+    "grammar_explanation": "Indicates that one action takes place immediately after another is completed.",
+    "category": "Shrine and Temple Visiting Etiquette",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "5b4d4d5e-92b7-460c-a855-65bd870c7b78",
+    "components": [
+      {
+        "text": "はい",
+        "role": "Interjection (yes)",
+        "raw_role": "Interjection (yes)",
+        "normalized_role": "Interjection"
+      },
+      {
+        "text": "二回",
+        "role": "Noun/Adverb (twice)",
+        "raw_role": "Noun/Adverb (twice)",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "叩いて",
+        "role": "Verb te-form of 'tataku' (clap)",
+        "raw_role": "Verb te-form of 'tataku' (clap)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "から",
+        "role": "Particle (after)",
+        "raw_role": "Particle (after)",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "お祈り",
+        "role": "Noun (prayer)",
+        "raw_role": "Noun (prayer)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "を",
+        "role": "Object marker",
+        "raw_role": "Object marker",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "して",
+        "role": "Verb te-form of 'suru' (do)",
+        "raw_role": "Verb te-form of 'suru' (do)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "ください",
+        "role": "Polite request",
+        "raw_role": "Polite request",
+        "normalized_role": "Request"
+      }
+    ],
+    "grammar_function": "Time, Aspect & State (〜ている / 〜てある)",
+    "sequence_key": "Interjection → Adverb → Verb → Particle → Noun → Direct Object Marker → Verb → Request",
+    "location": "shrine",
+    "raw_grammar_pattern": "~てから",
+    "functional_tag": "Sequential Progression (\"After doing X, then Y\")"
+  },
+  {
+    "japanese": "最近、暖かくなってきましたね。",
+    "hiragana": "さいきん、 あたたかく なって きました ね。",
+    "english": "It's been getting warmer lately, hasn't it?",
+    "grammar_pattern": "〜てくる",
+    "grammar_explanation": "Indicates a change that has been gradually happening up until the present moment.",
+    "category": "Weather and Seasons",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "ef0c8ada-3902-4399-bc0f-0290873b735a",
+    "components": [
+      {
+        "text": "最近",
+        "role": "adverb meaning recently",
+        "raw_role": "adverb meaning recently",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "暖かく",
+        "role": "adjective stem meaning warm",
+        "raw_role": "adjective stem meaning warm",
+        "normalized_role": "Adjective"
+      },
+      {
+        "text": "なって",
+        "role": "verb meaning to become (te-form)",
+        "raw_role": "verb meaning to become (te-form)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "きました",
+        "role": "auxiliary verb indicating a continuing process",
+        "raw_role": "auxiliary verb indicating a continuing process",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "ね",
+        "role": "sentence-ending particle for confirmation",
+        "raw_role": "sentence-ending particle for confirmation",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Grammar & Structural Patterns",
+    "sequence_key": "Adverb → Adjective → Verb → Verb → Particle",
+    "location": "Not defined",
+    "raw_grammar_pattern": "Verb (te-form) + くる",
+    "functional_tag": "〜てくる"
+  },
+  {
+    "japanese": "はい、やっと春になりましたね。",
+    "hiragana": "はい、 やっと はるに なりました ね。",
+    "english": "Yes, spring has finally arrived.",
+    "grammar_pattern": "Noun + になる",
+    "grammar_explanation": "Used to express a change in state or transition into a new season.",
+    "category": "Weather and Seasons",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "ef0c8ada-3902-4399-bc0f-0290873b735a",
+    "components": [
+      {
+        "text": "はい",
+        "role": "affirmative response",
+        "raw_role": "affirmative response",
+        "normalized_role": "Other"
+      },
+      {
+        "text": "やっと",
+        "role": "adverb meaning finally",
+        "raw_role": "adverb meaning finally",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "春",
+        "role": "noun meaning spring",
+        "raw_role": "noun meaning spring",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "に",
+        "role": "particle indicating the result of change",
+        "raw_role": "particle indicating the result of change",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "なりました",
+        "role": "polite verb meaning became",
+        "raw_role": "polite verb meaning became",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "ね",
+        "role": "sentence-ending particle for agreement",
+        "raw_role": "sentence-ending particle for agreement",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Particles & Structural Markers (を / に / で / と)",
+    "sequence_key": "Adverb → Noun → Particle → Verb → Particle",
+    "location": "Not defined",
+    "raw_grammar_pattern": "Noun + になる",
+    "functional_tag": "Target / Time / Direction (〜に)"
+  },
+  {
+    "japanese": "早く桜を見に行きたいです。",
+    "hiragana": "はやく さくらを みに いきたい です。",
+    "english": "I want to go see the cherry blossoms soon.",
+    "grammar_pattern": "〜たいです",
+    "grammar_explanation": "Expresses the speaker's personal desire to perform a specific action.",
+    "category": "Weather and Seasons",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "ef0c8ada-3902-4399-bc0f-0290873b735a",
+    "components": [
+      {
+        "text": "早く",
+        "role": "adverb meaning soon/quickly",
+        "raw_role": "adverb meaning soon/quickly",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "桜",
+        "role": "noun meaning cherry blossoms",
+        "raw_role": "noun meaning cherry blossoms",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "を",
+        "role": "object marker particle",
+        "raw_role": "object marker particle",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "見に",
+        "role": "verb stem plus particle indicating purpose",
+        "raw_role": "verb stem plus particle indicating purpose",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "行きたい",
+        "role": "verb meaning want to go",
+        "raw_role": "verb meaning want to go",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "です",
+        "role": "polite copula",
+        "raw_role": "polite copula",
+        "normalized_role": "Copula"
+      }
+    ],
+    "grammar_function": "Desires & Intentions (〜たい / つもり / よう)",
+    "sequence_key": "Adverb → Noun → Direct Object Marker → Particle → Verb → Copula",
+    "location": "Not defined",
+    "raw_grammar_pattern": "Verb (stem) + たい",
+    "functional_tag": "Direct Wish (\"I want to\")"
+  },
+  {
+    "japanese": "いいですね！来週末に一緒に行きましょう。",
+    "hiragana": "いい です ね！ らいしゅうまつ に いっしょに いきましょう。",
+    "english": "That sounds great! Let's go together next weekend.",
+    "grammar_pattern": "〜ましょう",
+    "grammar_explanation": "Used to make a polite suggestion or invite someone to do something together.",
+    "category": "Weather and Seasons",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "ef0c8ada-3902-4399-bc0f-0290873b735a",
+    "components": [
+      {
+        "text": "いい",
+        "role": "adjective meaning good",
+        "raw_role": "adjective meaning good",
+        "normalized_role": "Adjective"
+      },
+      {
+        "text": "です",
+        "role": "polite copula",
+        "raw_role": "polite copula",
+        "normalized_role": "Copula"
+      },
+      {
+        "text": "ね",
+        "role": "sentence-ending particle for agreement",
+        "raw_role": "sentence-ending particle for agreement",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "来週末",
+        "role": "noun meaning next weekend",
+        "raw_role": "noun meaning next weekend",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "に",
+        "role": "particle indicating a specific point in time",
+        "raw_role": "particle indicating a specific point in time",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "一緒に",
+        "role": "adverb meaning together",
+        "raw_role": "adverb meaning together",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "行きましょう",
+        "role": "polite volitional verb meaning let's go",
+        "raw_role": "polite volitional verb meaning let's go",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Suggestions & Invitations (〜ましょう / ませんか)",
+    "sequence_key": "Adjective → Copula → Particle → Noun → Particle → Adverb → Verb",
+    "location": "Not defined",
+    "raw_grammar_pattern": "Verb (stem) + ましょう",
+    "functional_tag": "Proposal / Collective Action (\"Let's\")"
+  },
+  {
+    "japanese": "来週は夏祭りですね。",
+    "hiragana": "らいしゅう は なつまつり です ね",
+    "english": "Next week is the summer festival, isn't it?",
+    "grammar_pattern": "Noun + ですね",
+    "grammar_explanation": "Used to confirm information with the listener in a polite and friendly way.",
+    "category": "Events and Celebrations",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "cb441af4-5937-4be4-94e2-17771b433920",
+    "components": [
+      {
+        "text": "来週",
+        "role": "noun (next week)",
+        "raw_role": "noun (next week)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "は",
+        "role": "topic marker",
+        "raw_role": "topic marker",
+        "normalized_role": "Topic Marker"
+      },
+      {
+        "text": "夏祭り",
+        "role": "noun (summer festival)",
+        "raw_role": "noun (summer festival)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "です",
+        "role": "copula (to be)",
+        "raw_role": "copula (to be)",
+        "normalized_role": "Copula"
+      },
+      {
+        "text": "ね",
+        "role": "sentence-ending particle for confirmation",
+        "raw_role": "sentence-ending particle for confirmation",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Copula, Topics & Definitions (です / は / について)",
+    "sequence_key": "Noun → Topic Marker → Noun → Copula → Particle",
+    "location": "Not defined",
+    "raw_grammar_pattern": "Noun + ですね",
+    "functional_tag": "Seeking Confirmation (\"Isn't it?\")"
+  },
+  {
+    "japanese": "はい、とても楽しみにしています！",
+    "hiragana": "はい 、 とても たのしみ に して います",
+    "english": "Yes, I'm really looking forward to it!",
+    "grammar_pattern": "〜にしています",
+    "grammar_explanation": "Expresses a current state of anticipation or a continuous feeling toward an event.",
+    "category": "Events and Celebrations",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "cb441af4-5937-4be4-94e2-17771b433920",
+    "components": [
+      {
+        "text": "はい",
+        "role": "interjection (yes)",
+        "raw_role": "interjection (yes)",
+        "normalized_role": "Interjection"
+      },
+      {
+        "text": "とても",
+        "role": "adverb (very)",
+        "raw_role": "adverb (very)",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "楽しみ",
+        "role": "noun (pleasure/anticipation)",
+        "raw_role": "noun (pleasure/anticipation)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "に",
+        "role": "particle (target/result)",
+        "raw_role": "particle (target/result)",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "して",
+        "role": "verb stem (from suru)",
+        "raw_role": "verb stem (from suru)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "います",
+        "role": "auxiliary verb (continuous state)",
+        "raw_role": "auxiliary verb (continuous state)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Time, Aspect & State (〜ている / 〜てある)",
+    "sequence_key": "Interjection → Adverb → Noun → Particle → Verb → Verb",
+    "location": "Not defined",
+    "raw_grammar_pattern": "～にしています",
+    "functional_tag": "Continuous State / Ongoing (\"-ing / state\")"
+  },
+  {
+    "japanese": "何を着ますか？",
+    "hiragana": "なに を きます か",
+    "english": "What will you wear?",
+    "grammar_pattern": "Verb + ますか",
+    "grammar_explanation": "The polite form used to ask a question about an action or future event.",
+    "category": "Events and Celebrations",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "cb441af4-5937-4be4-94e2-17771b433920",
+    "components": [
+      {
+        "text": "何",
+        "role": "question word (what)",
+        "raw_role": "question word (what)",
+        "normalized_role": "Question Word"
+      },
+      {
+        "text": "を",
+        "role": "object marker",
+        "raw_role": "object marker",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "着ます",
+        "role": "verb (to wear)",
+        "raw_role": "verb (to wear)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "か",
+        "role": "question particle",
+        "raw_role": "question particle",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Grammar & Structural Patterns",
+    "sequence_key": "Question Word → Direct Object Marker → Verb → Particle",
+    "location": "Not defined",
+    "raw_grammar_pattern": "Verb + ますか",
+    "functional_tag": "Verb + ますか"
+  },
+  {
+    "japanese": "浴衣を着るつもりです。",
+    "hiragana": "ゆかた を きる つもり です",
+    "english": "I intend to wear a yukata.",
+    "grammar_pattern": "Verb + つもりです",
+    "grammar_explanation": "Used to express a person's intention or a planned action for the future.",
+    "category": "Events and Celebrations",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "cb441af4-5937-4be4-94e2-17771b433920",
+    "components": [
+      {
+        "text": "浴衣",
+        "role": "noun (yukata)",
+        "raw_role": "noun (yukata)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "を",
+        "role": "object marker",
+        "raw_role": "object marker",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "着る",
+        "role": "verb (to wear)",
+        "raw_role": "verb (to wear)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "つもり",
+        "role": "noun (intention)",
+        "raw_role": "noun (intention)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "です",
+        "role": "copula (to be)",
+        "raw_role": "copula (to be)",
+        "normalized_role": "Copula"
+      }
+    ],
+    "grammar_function": "Desires & Intentions (〜たい / つもり / よう)",
+    "sequence_key": "Noun → Direct Object Marker → Verb → Noun → Copula",
+    "location": "Not defined",
+    "raw_grammar_pattern": "Verb (dictionary form) + つもりです",
+    "functional_tag": "Definite Plan (\"I intend to\")"
+  },
+  {
+    "japanese": "それはいいですね！",
+    "hiragana": "それ は いい です ね",
+    "english": "That sounds lovely!",
+    "grammar_pattern": "Adjective + ですね",
+    "grammar_explanation": "Used to express agreement or a positive reaction to something the other person said.",
+    "category": "Events and Celebrations",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "cb441af4-5937-4be4-94e2-17771b433920",
+    "components": [
+      {
+        "text": "それ",
+        "role": "pronoun (that)",
+        "raw_role": "pronoun (that)",
+        "normalized_role": "Pronoun"
+      },
+      {
+        "text": "は",
+        "role": "topic marker",
+        "raw_role": "topic marker",
+        "normalized_role": "Topic Marker"
+      },
+      {
+        "text": "いい",
+        "role": "adjective (good/nice)",
+        "raw_role": "adjective (good/nice)",
+        "normalized_role": "Adjective"
+      },
+      {
+        "text": "です",
+        "role": "copula (to be)",
+        "raw_role": "copula (to be)",
+        "normalized_role": "Copula"
+      },
+      {
+        "text": "ね",
+        "role": "sentence-ending particle for agreement",
+        "raw_role": "sentence-ending particle for agreement",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Copula, Topics & Definitions (です / は / について)",
+    "sequence_key": "Pronoun → Topic Marker → Adjective → Copula → Particle",
+    "location": "Not defined",
+    "raw_grammar_pattern": "Adjective + ですね",
+    "functional_tag": "Seeking Confirmation (\"Isn't it?\")"
+  },
+  {
+    "japanese": "すみません、お賽銭はどうすればいいですか？",
+    "hiragana": "すみません、 おさいせん は どう すれば いい です か？",
+    "english": "Excuse me, how should I make an offering?",
+    "grammar_pattern": "〜ばいいですか",
+    "grammar_explanation": "Used to ask for advice or instructions on the best way to do something.",
+    "category": "Shrine and Temple Visiting Etiquette",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "a8058596-4b99-4f73-b653-9e2900502cbd",
+    "components": [
+      {
+        "text": "すみません",
+        "role": "Interjection (Excuse me)",
+        "raw_role": "Interjection (Excuse me)",
+        "normalized_role": "Interjection"
+      },
+      {
+        "text": "お賽銭",
+        "role": "Noun (Offering money)",
+        "raw_role": "Noun (Offering money)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "は",
+        "role": "Topic marker",
+        "raw_role": "Topic marker",
+        "normalized_role": "Topic Marker"
+      },
+      {
+        "text": "どう",
+        "role": "Adverb (How)",
+        "raw_role": "Adverb (How)",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "すれば",
+        "role": "Verb (Conditional form of 'suru')",
+        "raw_role": "Verb (Conditional form of 'suru')",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "いい",
+        "role": "Adjective (Good/Fine)",
+        "raw_role": "Adjective (Good/Fine)",
+        "normalized_role": "Adjective"
+      },
+      {
+        "text": "ですか",
+        "role": "Polite question marker",
+        "raw_role": "Polite question marker",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Advice & Conditionals (〜ば / 〜たら / ほう)",
+    "sequence_key": "Interjection → Noun → Topic Marker → Adverb → Verb → Adjective → Particle",
+    "location": "shrine",
+    "raw_grammar_pattern": "～ばいいですか",
+    "functional_tag": "Seeking Guidance (\"What should I do?\")"
+  },
+  {
+    "japanese": "箱にコインを入れて、二礼してください。",
+    "hiragana": "はこ に こいん を いれて、 にれい して ください。",
+    "english": "Please put a coin in the box and bow twice.",
+    "grammar_pattern": "〜てください",
+    "grammar_explanation": "A polite request asking someone to perform a specific action.",
+    "category": "Shrine and Temple Visiting Etiquette",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "a8058596-4b99-4f73-b653-9e2900502cbd",
+    "components": [
+      {
+        "text": "箱",
+        "role": "Noun (Box)",
+        "raw_role": "Noun (Box)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "に",
+        "role": "Destination marker",
+        "raw_role": "Destination marker",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "コイン",
+        "role": "Noun (Coin)",
+        "raw_role": "Noun (Coin)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "を",
+        "role": "Object marker",
+        "raw_role": "Object marker",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "入れて",
+        "role": "Verb (Te-form of 'ireru' - to put in)",
+        "raw_role": "Verb (Te-form of 'ireru' - to put in)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "二礼",
+        "role": "Noun (Two bows)",
+        "raw_role": "Noun (Two bows)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "して",
+        "role": "Verb (Te-form of 'suru' - to do)",
+        "raw_role": "Verb (Te-form of 'suru' - to do)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "ください",
+        "role": "Polite request auxiliary",
+        "raw_role": "Polite request auxiliary",
+        "normalized_role": "Request"
+      }
+    ],
+    "grammar_function": "Requests & Favors (〜て / ください)",
+    "sequence_key": "Noun → Particle → Noun → Direct Object Marker → Verb → Noun → Verb → Request",
+    "location": "shrine",
+    "raw_grammar_pattern": "～てください",
+    "functional_tag": "Polite Request (\"Please do\")"
+  },
+  {
+    "japanese": "わかりました。拍手もしますか？",
+    "hiragana": "わかりました。 はくしゅ も します か？",
+    "english": "I understand. Do I clap my hands as well?",
+    "grammar_pattern": "〜も",
+    "grammar_explanation": "Used to indicate that the item mentioned is added to something else.",
+    "category": "Shrine and Temple Visiting Etiquette",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "a8058596-4b99-4f73-b653-9e2900502cbd",
+    "components": [
+      {
+        "text": "わかりました",
+        "role": "Verb (Past polite form of 'wakaru' - to understand)",
+        "raw_role": "Verb (Past polite form of 'wakaru' - to understand)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "拍手",
+        "role": "Noun (Clapping)",
+        "raw_role": "Noun (Clapping)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "も",
+        "role": "Additive particle (Also/Too)",
+        "raw_role": "Additive particle (Also/Too)",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "します",
+        "role": "Verb (Polite form of 'suru' - to do)",
+        "raw_role": "Verb (Polite form of 'suru' - to do)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "か",
+        "role": "Question marker",
+        "raw_role": "Question marker",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Grammar & Structural Patterns",
+    "sequence_key": "Verb → Noun → Particle → Verb → Particle",
+    "location": "shrine",
+    "raw_grammar_pattern": "～も",
+    "functional_tag": "〜も"
+  },
+  {
+    "japanese": "はい、二回拍手してからお祈りしてください。",
+    "hiragana": "はい、 にかい はくしゅ して から おいのり して ください。",
+    "english": "Yes, please pray after clapping twice.",
+    "grammar_pattern": "〜てから",
+    "grammar_explanation": "Indicates that one action happens immediately after another action is completed.",
+    "category": "Shrine and Temple Visiting Etiquette",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "a8058596-4b99-4f73-b653-9e2900502cbd",
+    "components": [
+      {
+        "text": "はい",
+        "role": "Interjection (Yes)",
+        "raw_role": "Interjection (Yes)",
+        "normalized_role": "Interjection"
+      },
+      {
+        "text": "二回",
+        "role": "Noun/Counter (Two times)",
+        "raw_role": "Noun/Counter (Two times)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "拍手して",
+        "role": "Verb (Te-form of 'hakushu suru' - to clap)",
+        "raw_role": "Verb (Te-form of 'hakushu suru' - to clap)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "から",
+        "role": "Particle (After)",
+        "raw_role": "Particle (After)",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "お祈りして",
+        "role": "Verb (Te-form of 'oinori suru' - to pray)",
+        "raw_role": "Verb (Te-form of 'oinori suru' - to pray)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "ください",
+        "role": "Polite request auxiliary",
+        "raw_role": "Polite request auxiliary",
+        "normalized_role": "Request"
+      }
+    ],
+    "grammar_function": "Time, Aspect & State (〜ている / 〜てある)",
+    "sequence_key": "Interjection → Noun → Verb → Particle → Verb → Request",
+    "location": "shrine",
+    "raw_grammar_pattern": "～てから",
+    "functional_tag": "Sequential Progression (\"After doing X, then Y\")"
+  },
+  {
+    "japanese": "もうすっかり涼しくなりましたね。",
+    "hiragana": "もう すっかり すずしく なりました ね",
+    "english": "It has finally become completely cool, hasn't it?",
+    "grammar_pattern": "Adjective + なる",
+    "grammar_explanation": "Used to describe a change in state or condition over time.",
+    "category": "Weather and Seasons",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "55d95fbd-ccb8-4c9b-91f7-5644cb9a382f",
+    "components": [
+      {
+        "text": "もう",
+        "role": "adverb meaning 'already'",
+        "raw_role": "adverb meaning 'already'",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "すっかり",
+        "role": "adverb meaning 'completely'",
+        "raw_role": "adverb meaning 'completely'",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "涼しく",
+        "role": "adjective 'cool' in adverbial form",
+        "raw_role": "adjective 'cool' in adverbial form",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "なりました",
+        "role": "verb 'to become' in polite past tense",
+        "raw_role": "verb 'to become' in polite past tense",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "ね",
+        "role": "sentence-ending particle for confirmation",
+        "raw_role": "sentence-ending particle for confirmation",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Grammar & Structural Patterns",
+    "sequence_key": "Adverb → Adverb → Adverb → Verb → Particle",
+    "location": "Not defined",
+    "raw_grammar_pattern": "Adjective + なる",
+    "functional_tag": "Adjective + なる"
+  },
+  {
+    "japanese": "ええ、やっと秋が来ましたね。",
+    "hiragana": "ええ やっと あき が きました ね",
+    "english": "Yes, autumn has finally arrived.",
+    "grammar_pattern": "Noun + が",
+    "grammar_explanation": "The particle 'ga' identifies the subject that is performing the action.",
+    "category": "Weather and Seasons",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "55d95fbd-ccb8-4c9b-91f7-5644cb9a382f",
+    "components": [
+      {
+        "text": "ええ",
+        "role": "interjection meaning 'yes'",
+        "raw_role": "interjection meaning 'yes'",
+        "normalized_role": "Interjection"
+      },
+      {
+        "text": "やっと",
+        "role": "adverb meaning 'finally'",
+        "raw_role": "adverb meaning 'finally'",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "秋",
+        "role": "noun meaning 'autumn'",
+        "raw_role": "noun meaning 'autumn'",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "が",
+        "role": "subject marker particle",
+        "raw_role": "subject marker particle",
+        "normalized_role": "Subject Marker"
+      },
+      {
+        "text": "来ました",
+        "role": "verb 'to come' in polite past tense",
+        "raw_role": "verb 'to come' in polite past tense",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "ね",
+        "role": "sentence-ending particle for confirmation",
+        "raw_role": "sentence-ending particle for confirmation",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Particles & Structural Markers (を / に / で / と)",
+    "sequence_key": "Interjection → Adverb → Noun → Subject Marker → Verb → Particle",
+    "location": "Not defined",
+    "raw_grammar_pattern": "Noun + が",
+    "functional_tag": "Subject / Identifier Marker (〜が)"
+  },
+  {
+    "japanese": "紅葉を見に行きたいです。",
+    "hiragana": "こうよう を みに いきたい です",
+    "english": "I want to go see the autumn leaves.",
+    "grammar_pattern": "〜たいです",
+    "grammar_explanation": "Used to express the speaker's own desire to do an action.",
+    "category": "Weather and Seasons",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "55d95fbd-ccb8-4c9b-91f7-5644cb9a382f",
+    "components": [
+      {
+        "text": "紅葉",
+        "role": "noun meaning 'autumn leaves'",
+        "raw_role": "noun meaning 'autumn leaves'",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "を",
+        "role": "object marker particle",
+        "raw_role": "object marker particle",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "見に",
+        "role": "verb 'to see' in stem form plus purpose particle",
+        "raw_role": "verb 'to see' in stem form plus purpose particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "行きたい",
+        "role": "verb 'to go' in the desire form",
+        "raw_role": "verb 'to go' in the desire form",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "です",
+        "role": "polite copula ending",
+        "raw_role": "polite copula ending",
+        "normalized_role": "Copula"
+      }
+    ],
+    "grammar_function": "Desires & Intentions (〜たい / つもり / よう)",
+    "sequence_key": "Noun → Direct Object Marker → Particle → Verb → Copula",
+    "location": "Not defined",
+    "raw_grammar_pattern": "Verb stem + たい",
+    "functional_tag": "Direct Wish (\"I want to\")"
+  },
+  {
+    "japanese": "いいですね！どこに行きましょうか。",
+    "hiragana": "いい です ね どこ に いきましょう か",
+    "english": "That sounds great! Where shall we go?",
+    "grammar_pattern": "〜ましょうか",
+    "grammar_explanation": "Used to make a polite suggestion or offer to do something together.",
+    "category": "Weather and Seasons",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "55d95fbd-ccb8-4c9b-91f7-5644cb9a382f",
+    "components": [
+      {
+        "text": "いい",
+        "role": "adjective meaning 'good'",
+        "raw_role": "adjective meaning 'good'",
+        "normalized_role": "Adjective"
+      },
+      {
+        "text": "です",
+        "role": "polite copula",
+        "raw_role": "polite copula",
+        "normalized_role": "Copula"
+      },
+      {
+        "text": "ね",
+        "role": "sentence-ending particle for agreement",
+        "raw_role": "sentence-ending particle for agreement",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "どこ",
+        "role": "question word meaning 'where'",
+        "raw_role": "question word meaning 'where'",
+        "normalized_role": "Question Word"
+      },
+      {
+        "text": "に",
+        "role": "direction/destination marker particle",
+        "raw_role": "direction/destination marker particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "行きましょうか",
+        "role": "verb 'to go' in the suggestive form with question particle",
+        "raw_role": "verb 'to go' in the suggestive form with question particle",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Suggestions & Invitations (〜ましょう / ませんか)",
+    "sequence_key": "Adjective → Copula → Particle → Question Word → Particle → Particle",
+    "location": "Not defined",
+    "raw_grammar_pattern": "Verb stem + ましょうか",
+    "functional_tag": "Offering Help / Suggestion (\"Shall we?\")"
+  },
+  {
+    "japanese": "来週は七夕祭りですね。",
+    "hiragana": "らいしゅう は たなばた まつり です ね",
+    "english": "Next week is the Tanabata festival, isn't it?",
+    "grammar_pattern": "Noun + ですね",
+    "grammar_explanation": "Used to confirm information or seek agreement from the listener.",
+    "category": "Events and Celebrations",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "06bebbb4-4e24-4f78-8a59-6bc4f33acd6f",
+    "components": [
+      {
+        "text": "来週",
+        "role": "Noun (Time)",
+        "raw_role": "Noun (Time)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "は",
+        "role": "Topic marker",
+        "raw_role": "Topic marker",
+        "normalized_role": "Topic Marker"
+      },
+      {
+        "text": "七夕祭り",
+        "role": "Noun",
+        "raw_role": "Noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "です",
+        "role": "Copula (Polite)",
+        "raw_role": "Copula (Polite)",
+        "normalized_role": "Copula"
+      },
+      {
+        "text": "ね",
+        "role": "Sentence-ending particle",
+        "raw_role": "Sentence-ending particle",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Copula, Topics & Definitions (です / は / について)",
+    "sequence_key": "Noun → Topic Marker → Noun → Copula → Particle",
+    "location": "Not defined",
+    "raw_grammar_pattern": "Noun + ですね",
+    "functional_tag": "Seeking Confirmation (\"Isn't it?\")"
+  },
+  {
+    "japanese": "はい、とても楽しみにしています。",
+    "hiragana": "はい 、 とても たのしみ に して います",
+    "english": "Yes, I'm really looking forward to it.",
+    "grammar_pattern": "〜にしています",
+    "grammar_explanation": "Expresses a continuous state of anticipation or expectation.",
+    "category": "Events and Celebrations",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "06bebbb4-4e24-4f78-8a59-6bc4f33acd6f",
+    "components": [
+      {
+        "text": "はい",
+        "role": "Interjection",
+        "raw_role": "Interjection",
+        "normalized_role": "Interjection"
+      },
+      {
+        "text": "とても",
+        "role": "Adverb",
+        "raw_role": "Adverb",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "楽しみ",
+        "role": "Noun",
+        "raw_role": "Noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "に",
+        "role": "Particle",
+        "raw_role": "Particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "して",
+        "role": "Verb (te-form)",
+        "raw_role": "Verb (te-form)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "います",
+        "role": "Auxiliary verb",
+        "raw_role": "Auxiliary verb",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Time, Aspect & State (〜ている / 〜てある)",
+    "sequence_key": "Interjection → Adverb → Noun → Particle → Verb → Verb",
+    "location": "Not defined",
+    "raw_grammar_pattern": "～にしています",
+    "functional_tag": "Continuous State / Ongoing (\"-ing / state\")"
+  },
+  {
+    "japanese": "何をしますか？",
+    "hiragana": "なに を します か",
+    "english": "What are you going to do?",
+    "grammar_pattern": "Verb + ますか",
+    "grammar_explanation": "A polite way to ask about an action or future plan.",
+    "category": "Events and Celebrations",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "06bebbb4-4e24-4f78-8a59-6bc4f33acd6f",
+    "components": [
+      {
+        "text": "何",
+        "role": "Question word",
+        "raw_role": "Question word",
+        "normalized_role": "Question Word"
+      },
+      {
+        "text": "を",
+        "role": "Object marker",
+        "raw_role": "Object marker",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "します",
+        "role": "Verb (Polite)",
+        "raw_role": "Verb (Polite)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "か",
+        "role": "Question particle",
+        "raw_role": "Question particle",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Grammar & Structural Patterns",
+    "sequence_key": "Question Word → Direct Object Marker → Verb → Particle",
+    "location": "Not defined",
+    "raw_grammar_pattern": "Verb + ますか",
+    "functional_tag": "Verb + ますか"
+  },
+  {
+    "japanese": "短冊に願い事を書こうと思います。",
+    "hiragana": "たんざく に ねがいごと を かこう と おもいます",
+    "english": "I think I'll write a wish on a strip of paper.",
+    "grammar_pattern": "〜ようと思います",
+    "grammar_explanation": "Expresses the speaker's intention or plan to do something.",
+    "category": "Events and Celebrations",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "06bebbb4-4e24-4f78-8a59-6bc4f33acd6f",
+    "components": [
+      {
+        "text": "短冊",
+        "role": "Noun",
+        "raw_role": "Noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "に",
+        "role": "Target particle",
+        "raw_role": "Target particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "願い事",
+        "role": "Noun",
+        "raw_role": "Noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "を",
+        "role": "Object marker",
+        "raw_role": "Object marker",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "書こう",
+        "role": "Verb (Volitional)",
+        "raw_role": "Verb (Volitional)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "と",
+        "role": "Quotative particle",
+        "raw_role": "Quotative particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "思います",
+        "role": "Verb (Polite)",
+        "raw_role": "Verb (Polite)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Desires & Intentions (〜たい / つもり / よう)",
+    "sequence_key": "Noun → Particle → Noun → Direct Object Marker → Verb → Particle → Verb",
+    "location": "Not defined",
+    "raw_grammar_pattern": "Volitional form + と思います",
+    "functional_tag": "Intention / Resolution (\"I plan to\")"
+  },
+  {
+    "japanese": "それはいいですね！",
+    "hiragana": "それ は いい です ね",
+    "english": "That sounds nice!",
+    "grammar_pattern": "Adjective + ですね",
+    "grammar_explanation": "Expresses agreement or a positive reaction to something mentioned.",
+    "category": "Events and Celebrations",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "06bebbb4-4e24-4f78-8a59-6bc4f33acd6f",
+    "components": [
+      {
+        "text": "それ",
+        "role": "Pronoun",
+        "raw_role": "Pronoun",
+        "normalized_role": "Pronoun"
+      },
+      {
+        "text": "は",
+        "role": "Topic marker",
+        "raw_role": "Topic marker",
+        "normalized_role": "Topic Marker"
+      },
+      {
+        "text": "いい",
+        "role": "Adjective",
+        "raw_role": "Adjective",
+        "normalized_role": "Adjective"
+      },
+      {
+        "text": "です",
+        "role": "Copula (Polite)",
+        "raw_role": "Copula (Polite)",
+        "normalized_role": "Copula"
+      },
+      {
+        "text": "ね",
+        "role": "Sentence-ending particle",
+        "raw_role": "Sentence-ending particle",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Copula, Topics & Definitions (です / は / について)",
+    "sequence_key": "Pronoun → Topic Marker → Adjective → Copula → Particle",
+    "location": "Not defined",
+    "raw_grammar_pattern": "Adjective + ですね",
+    "functional_tag": "Seeking Confirmation (\"Isn't it?\")"
+  },
+  {
+    "japanese": "お賽銭はどうやってお供えしますか？",
+    "hiragana": "おさいせん は どうやって おそなえしますか？",
+    "english": "How do I make an offering?",
+    "grammar_pattern": "どうやって",
+    "grammar_explanation": "Used to ask about the method or process of doing something.",
+    "category": "Shrine and Temple Visiting Etiquette",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "13564ba7-959e-4d92-b4ac-dd68f9e56f34",
+    "components": [
+      {
+        "text": "お賽銭",
+        "role": "noun (offering)",
+        "raw_role": "noun (offering)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "は",
+        "role": "topic marker",
+        "raw_role": "topic marker",
+        "normalized_role": "Topic Marker"
+      },
+      {
+        "text": "どうやって",
+        "role": "interrogative adverb (how)",
+        "raw_role": "interrogative adverb (how)",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "お供えします",
+        "role": "polite verb (to offer)",
+        "raw_role": "polite verb (to offer)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "か",
+        "role": "question particle",
+        "raw_role": "question particle",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Grammar & Structural Patterns",
+    "sequence_key": "Noun → Topic Marker → Adverb → Verb → Particle",
+    "location": "shrine",
+    "raw_grammar_pattern": "どうやって",
+    "functional_tag": "どうやって"
+  },
+  {
+    "japanese": "ここにコインを静かに置いてください。",
+    "hiragana": "ここ に こいん を しずかに おいて ください。",
+    "english": "Please place a coin here quietly.",
+    "grammar_pattern": "〜てください",
+    "grammar_explanation": "A polite request asking someone to perform a specific action.",
+    "category": "Shrine and Temple Visiting Etiquette",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "13564ba7-959e-4d92-b4ac-dd68f9e56f34",
+    "components": [
+      {
+        "text": "ここ",
+        "role": "location (here)",
+        "raw_role": "location (here)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "に",
+        "role": "destination marker",
+        "raw_role": "destination marker",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "コイン",
+        "role": "noun (coin)",
+        "raw_role": "noun (coin)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "を",
+        "role": "object marker",
+        "raw_role": "object marker",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "静かに",
+        "role": "adverb (quietly)",
+        "raw_role": "adverb (quietly)",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "置いて",
+        "role": "te-form of the verb (to place)",
+        "raw_role": "te-form of the verb (to place)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "ください",
+        "role": "polite request",
+        "raw_role": "polite request",
+        "normalized_role": "Request"
+      }
+    ],
+    "grammar_function": "Requests & Favors (〜て / ください)",
+    "sequence_key": "Noun → Particle → Noun → Direct Object Marker → Adverb → Verb → Request",
+    "location": "shrine",
+    "raw_grammar_pattern": "〜てください",
+    "functional_tag": "Polite Request (\"Please do\")"
+  },
+  {
+    "japanese": "お祈りの仕方を教えていただけますか？",
+    "hiragana": "おいのり の しかた を おしえて いただけますか？",
+    "english": "Could you tell me how to pray?",
+    "grammar_pattern": "〜ていただけますか",
+    "grammar_explanation": "A very polite way to ask for a favor or information.",
+    "category": "Shrine and Temple Visiting Etiquette",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "13564ba7-959e-4d92-b4ac-dd68f9e56f34",
+    "components": [
+      {
+        "text": "お祈り",
+        "role": "noun (prayer)",
+        "raw_role": "noun (prayer)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "の",
+        "role": "linking particle",
+        "raw_role": "linking particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "仕方",
+        "role": "noun (way of doing)",
+        "raw_role": "noun (way of doing)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "を",
+        "role": "object marker",
+        "raw_role": "object marker",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "教えて",
+        "role": "te-form of the verb (to teach/tell)",
+        "raw_role": "te-form of the verb (to teach/tell)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "いただけますか",
+        "role": "polite request question",
+        "raw_role": "polite request question",
+        "normalized_role": "Request"
+      }
+    ],
+    "grammar_function": "Requests & Favors (〜て / ください)",
+    "sequence_key": "Noun → Particle → Noun → Direct Object Marker → Verb → Request",
+    "location": "shrine",
+    "raw_grammar_pattern": "〜いただけますか",
+    "functional_tag": "Humble Request (\"Could you please\")"
+  },
+  {
+    "japanese": "二礼二拍手一礼です。",
+    "hiragana": "にれい にはくしゅ いちれい です。",
+    "english": "It is two bows, two claps, and one bow.",
+    "grammar_pattern": "Noun + です",
+    "grammar_explanation": "A basic polite sentence structure used to state a fact.",
+    "category": "Shrine and Temple Visiting Etiquette",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "13564ba7-959e-4d92-b4ac-dd68f9e56f34",
+    "components": [
+      {
+        "text": "二礼",
+        "role": "noun (two bows)",
+        "raw_role": "noun (two bows)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "二拍手",
+        "role": "noun (two claps)",
+        "raw_role": "noun (two claps)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "一礼",
+        "role": "noun (one bow)",
+        "raw_role": "noun (one bow)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "です",
+        "role": "polite copula",
+        "raw_role": "polite copula",
+        "normalized_role": "Copula"
+      }
+    ],
+    "grammar_function": "Copula, Topics & Definitions (です / は / について)",
+    "sequence_key": "Noun → Noun → Noun → Copula",
+    "location": "shrine",
+    "raw_grammar_pattern": "Noun + です",
+    "functional_tag": "Polite Assertion / Copula (\"It is\")"
+  },
+  {
+    "japanese": "すみません、お湯に浸かる前に体を洗わないといけませんか？",
+    "hiragana": "すみません、 おゆに つかる まえに からだを あらわないと いけませんか？",
+    "english": "Excuse me, do I have to wash my body before soaking in the bath?",
+    "grammar_pattern": "〜ないといけません",
+    "grammar_explanation": "Used to express obligation or necessity, meaning 'must do' or 'have to do'.",
+    "category": "Onsen and Sento Etiquette",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "fe45e849-cfdf-4981-827b-ffb2053ae143",
+    "components": [
+      {
+        "text": "すみません",
+        "role": "Interjection (Excuse me)",
+        "raw_role": "Interjection (Excuse me)",
+        "normalized_role": "Interjection"
+      },
+      {
+        "text": "お湯",
+        "role": "Noun (Hot water/Bath)",
+        "raw_role": "Noun (Hot water/Bath)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "に",
+        "role": "Particle (Target of action)",
+        "raw_role": "Particle (Target of action)",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "浸かる",
+        "role": "Verb (To soak)",
+        "raw_role": "Verb (To soak)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "前に",
+        "role": "Grammar pattern (Before doing)",
+        "raw_role": "Grammar pattern (Before doing)",
+        "normalized_role": "Other"
+      },
+      {
+        "text": "体",
+        "role": "Noun (Body)",
+        "raw_role": "Noun (Body)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "を",
+        "role": "Particle (Object marker)",
+        "raw_role": "Particle (Object marker)",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "洗わないと",
+        "role": "Verb negative form (If not wash)",
+        "raw_role": "Verb negative form (If not wash)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "いけませんか",
+        "role": "Phrase (Is it not okay/Must I?)",
+        "raw_role": "Phrase (Is it not okay/Must I?)",
+        "normalized_role": "Copula"
+      }
+    ],
+    "grammar_function": "Necessity & Obligation (〜しなければならない)",
+    "sequence_key": "Interjection → Noun → Particle → Verb → Noun → Direct Object Marker → Verb → Copula",
+    "location": "ryokan",
+    "raw_grammar_pattern": "~ないといけません",
+    "functional_tag": "Obligation / Necessity (\"Must / Have to\")"
+  },
+  {
+    "japanese": "はい、まず体をきれいに洗ってください。",
+    "hiragana": "はい、 まず からだを きれいに あらって ください。",
+    "english": "Yes, please wash your body clean first.",
+    "grammar_pattern": "〜てください",
+    "grammar_explanation": "A polite way to request someone to do something or give a direction.",
+    "category": "Onsen and Sento Etiquette",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "fe45e849-cfdf-4981-827b-ffb2053ae143",
+    "components": [
+      {
+        "text": "はい",
+        "role": "Interjection (Yes)",
+        "raw_role": "Interjection (Yes)",
+        "normalized_role": "Interjection"
+      },
+      {
+        "text": "まず",
+        "role": "Adverb (First/Firstly)",
+        "raw_role": "Adverb (First/Firstly)",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "体",
+        "role": "Noun (Body)",
+        "raw_role": "Noun (Body)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "を",
+        "role": "Particle (Object marker)",
+        "raw_role": "Particle (Object marker)",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "きれいに",
+        "role": "Adverb (Cleanly)",
+        "raw_role": "Adverb (Cleanly)",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "洗って",
+        "role": "Verb te-form (Wash)",
+        "raw_role": "Verb te-form (Wash)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "ください",
+        "role": "Auxiliary verb (Please)",
+        "raw_role": "Auxiliary verb (Please)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Requests & Favors (〜て / ください)",
+    "sequence_key": "Interjection → Adverb → Noun → Direct Object Marker → Adverb → Verb → Verb",
+    "location": "ryokan",
+    "raw_grammar_pattern": "~てください",
+    "functional_tag": "Polite Request (\"Please do\")"
+  },
+  {
+    "japanese": "タオルはお湯に入れてもいいですか？",
+    "hiragana": "たおるは おゆに いれても いいですか？",
+    "english": "Is it okay to put my towel in the water?",
+    "grammar_pattern": "〜てもいいですか",
+    "grammar_explanation": "Used to ask for permission or check if an action is acceptable.",
+    "category": "Onsen and Sento Etiquette",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "fe45e849-cfdf-4981-827b-ffb2053ae143",
+    "components": [
+      {
+        "text": "タオル",
+        "role": "Noun (Towel)",
+        "raw_role": "Noun (Towel)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "は",
+        "role": "Particle (Topic marker)",
+        "raw_role": "Particle (Topic marker)",
+        "normalized_role": "Topic Marker"
+      },
+      {
+        "text": "お湯",
+        "role": "Noun (Hot water/Bath)",
+        "raw_role": "Noun (Hot water/Bath)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "に",
+        "role": "Particle (Destination)",
+        "raw_role": "Particle (Destination)",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "入れても",
+        "role": "Verb te-form + particle (Even if put in)",
+        "raw_role": "Verb te-form + particle (Even if put in)",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "いいですか",
+        "role": "Phrase (Is it okay?)",
+        "raw_role": "Phrase (Is it okay?)",
+        "normalized_role": "Copula"
+      }
+    ],
+    "grammar_function": "Permission & Prohibition (〜てもいい / てはいけない)",
+    "sequence_key": "Noun → Topic Marker → Noun → Particle → Particle → Copula",
+    "location": "ryokan",
+    "raw_grammar_pattern": "~てもいいですか",
+    "functional_tag": "Asking Permission (\"May I?\")"
+  },
+  {
+    "japanese": "いいえ、タオルはお湯に入れないでください。",
+    "hiragana": "いいえ、 たおるは おゆに いれないで ください。",
+    "english": "No, please do not put your towel in the water.",
+    "grammar_pattern": "〜ないでください",
+    "grammar_explanation": "Used to politely ask or instruct someone not to do something.",
+    "category": "Onsen and Sento Etiquette",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "fe45e849-cfdf-4981-827b-ffb2053ae143",
+    "components": [
+      {
+        "text": "いいえ",
+        "role": "Interjection (No)",
+        "raw_role": "Interjection (No)",
+        "normalized_role": "Interjection"
+      },
+      {
+        "text": "タオル",
+        "role": "Noun (Towel)",
+        "raw_role": "Noun (Towel)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "は",
+        "role": "Particle (Topic marker)",
+        "raw_role": "Particle (Topic marker)",
+        "normalized_role": "Topic Marker"
+      },
+      {
+        "text": "お湯",
+        "role": "Noun (Hot water/Bath)",
+        "raw_role": "Noun (Hot water/Bath)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "に",
+        "role": "Particle (Destination)",
+        "raw_role": "Particle (Destination)",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "入れないで",
+        "role": "Verb negative form (Without putting in)",
+        "raw_role": "Verb negative form (Without putting in)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "ください",
+        "role": "Auxiliary verb (Please)",
+        "raw_role": "Auxiliary verb (Please)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Requests & Favors (〜て / ください)",
+    "sequence_key": "Interjection → Noun → Topic Marker → Noun → Particle → Verb → Verb",
+    "location": "ryokan",
+    "raw_grammar_pattern": "~ないでください",
+    "functional_tag": "Negative Request (\"Please don't\")"
+  },
+  {
+    "japanese": "ご結婚おめでとうございます！",
+    "hiragana": "ごけっこん　おめでとう　ございます！",
+    "english": "Congratulations on your marriage!",
+    "grammar_pattern": "Honorific Prefix",
+    "grammar_explanation": "Using 'go-' before certain nouns expresses respect toward the person's action or state.",
+    "category": "Ceremonial Rites and Passages",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "8afd91a3-2946-4c8f-be97-80fdf6604f24",
+    "components": [
+      {
+        "text": "ご",
+        "role": "Honorific prefix",
+        "raw_role": "Honorific prefix",
+        "normalized_role": "Honorific Prefix"
+      },
+      {
+        "text": "結婚",
+        "role": "Noun (marriage)",
+        "raw_role": "Noun (marriage)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "おめでとう",
+        "role": "Congratulations",
+        "raw_role": "Congratulations",
+        "normalized_role": "Other"
+      },
+      {
+        "text": "ございます",
+        "role": "Polite verb (to be)",
+        "raw_role": "Polite verb (to be)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Grammar & Structural Patterns",
+    "sequence_key": "Honorific Prefix → Noun → Verb",
+    "location": "wedding hall",
+    "raw_grammar_pattern": "Honorific Prefix (ご-)",
+    "functional_tag": "Honorific Prefix"
+  },
+  {
+    "japanese": "ありがとうございます。",
+    "hiragana": "ありがとう　ございます。",
+    "english": "Thank you very much.",
+    "grammar_pattern": "Polite Gratitude",
+    "grammar_explanation": "The standard formal expression used to show gratitude in social settings.",
+    "category": "Ceremonial Rites and Passages",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "8afd91a3-2946-4c8f-be97-80fdf6604f24",
+    "components": [
+      {
+        "text": "ありがとう",
+        "role": "Thank you",
+        "raw_role": "Thank you",
+        "normalized_role": "Interjection"
+      },
+      {
+        "text": "ございます",
+        "role": "Polite verb (to be)",
+        "raw_role": "Polite verb (to be)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Social Expressions & Politeness",
+    "sequence_key": "Interjection → Verb",
+    "location": "wedding hall",
+    "raw_grammar_pattern": "Polite Gratitude (ありがとうございます)",
+    "functional_tag": "Social Etiquette & Formal Keigo"
+  },
+  {
+    "japanese": "末永くお幸せにしてくださいね。",
+    "hiragana": "すえながく　おしあわせに　してくださいね。",
+    "english": "I wish you a lifetime of happiness together.",
+    "grammar_pattern": "〜てください",
+    "grammar_explanation": "A polite way to express a wish or request for someone's future state.",
+    "category": "Ceremonial Rites and Passages",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "8afd91a3-2946-4c8f-be97-80fdf6604f24",
+    "components": [
+      {
+        "text": "末永く",
+        "role": "Adverb (forever)",
+        "raw_role": "Adverb (forever)",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "お幸せに",
+        "role": "Happily (honorific)",
+        "raw_role": "Happily (honorific)",
+        "normalized_role": "Honorific Prefix"
+      },
+      {
+        "text": "して",
+        "role": "Verb te-form (do)",
+        "raw_role": "Verb te-form (do)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "ください",
+        "role": "Polite request",
+        "raw_role": "Polite request",
+        "normalized_role": "Request"
+      },
+      {
+        "text": "ね",
+        "role": "Sentence-ending particle",
+        "raw_role": "Sentence-ending particle",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Requests & Favors (〜て / ください)",
+    "sequence_key": "Adverb → Honorific Prefix → Verb → Request → Particle",
+    "location": "wedding hall",
+    "raw_grammar_pattern": "~てください (Polite Request/Wish)",
+    "functional_tag": "Polite Request (\"Please do\")"
+  },
+  {
+    "japanese": "今日は来てくれて本当に嬉しいです。",
+    "hiragana": "きょうは　きてくれて　ほんとうに　うれしいです。",
+    "english": "I'm really happy that you came today.",
+    "grammar_pattern": "〜てくれる",
+    "grammar_explanation": "Used to express gratitude when someone does an action for the benefit of the speaker.",
+    "category": "Ceremonial Rites and Passages",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "8afd91a3-2946-4c8f-be97-80fdf6604f24",
+    "components": [
+      {
+        "text": "今日",
+        "role": "Noun (today)",
+        "raw_role": "Noun (today)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "は",
+        "role": "Topic marker",
+        "raw_role": "Topic marker",
+        "normalized_role": "Topic Marker"
+      },
+      {
+        "text": "来て",
+        "role": "Verb te-form (come)",
+        "raw_role": "Verb te-form (come)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "くれて",
+        "role": "Auxiliary verb (giving a favor)",
+        "raw_role": "Auxiliary verb (giving a favor)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "本当に",
+        "role": "Adverb (really)",
+        "raw_role": "Adverb (really)",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "嬉しい",
+        "role": "Adjective (happy)",
+        "raw_role": "Adjective (happy)",
+        "normalized_role": "Adjective"
+      },
+      {
+        "text": "です",
+        "role": "Polite copula",
+        "raw_role": "Polite copula",
+        "normalized_role": "Copula"
+      }
+    ],
+    "grammar_function": "Giving & Receiving (あげる / くれる / もらう)",
+    "sequence_key": "Noun → Topic Marker → Verb → Verb → Adverb → Adjective → Copula",
+    "location": "wedding hall",
+    "raw_grammar_pattern": "Verb-te + くれる (Doing a favor)",
+    "functional_tag": "Benefactive Action (\"Give / Receive a favor\")"
+  },
+  {
+    "japanese": "この度は、ご愁傷様でございます。",
+    "hiragana": "このたび は ごしゅうしょうさま で ございます",
+    "english": "Please accept my deepest condolences.",
+    "grammar_pattern": "〜でございます",
+    "grammar_explanation": "An extremely formal version of 'desu' used in ceremonial or very polite contexts.",
+    "category": "Funeral and Mourning Etiquette (Imikotoba)",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "64076469-048b-4da3-abf0-9ab2c277bdd4",
+    "components": [
+      {
+        "text": "この度は",
+        "role": "this time / on this occasion",
+        "raw_role": "this time / on this occasion",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "ご愁傷様",
+        "role": "expression of sympathy",
+        "raw_role": "expression of sympathy",
+        "normalized_role": "Expression / Set Phrase"
+      },
+      {
+        "text": "でございます",
+        "role": "formal polite copula",
+        "raw_role": "formal polite copula",
+        "normalized_role": "Copula"
+      }
+    ],
+    "grammar_function": "Existence & Presence (ある / いる)",
+    "sequence_key": "Noun → Expression / Set Phrase → Copula",
+    "location": "Not defined",
+    "raw_grammar_pattern": "~でございます",
+    "functional_tag": "Existence & Location"
+  },
+  {
+    "japanese": "お気遣いいただき、ありがとうございます。",
+    "hiragana": "おきづかい いただき ありがとう ございます",
+    "english": "Thank you for your kind consideration.",
+    "grammar_pattern": "Noun + いただき",
+    "grammar_explanation": "A humble way to express gratitude for receiving a favor or kindness.",
+    "category": "Funeral and Mourning Etiquette (Imikotoba)",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "64076469-048b-4da3-abf0-9ab2c277bdd4",
+    "components": [
+      {
+        "text": "お気遣い",
+        "role": "kindness / consideration",
+        "raw_role": "kindness / consideration",
+        "normalized_role": "Other"
+      },
+      {
+        "text": "いただき",
+        "role": "receiving (humble form)",
+        "raw_role": "receiving (humble form)",
+        "normalized_role": "Other"
+      },
+      {
+        "text": "ありがとう",
+        "role": "thank you",
+        "raw_role": "thank you",
+        "normalized_role": "Interjection"
+      },
+      {
+        "text": "ございます",
+        "role": "polite ending",
+        "raw_role": "polite ending",
+        "normalized_role": "Copula"
+      }
+    ],
+    "grammar_function": "Grammar & Structural Patterns",
+    "sequence_key": "Interjection → Copula",
+    "location": "Not defined",
+    "raw_grammar_pattern": "Noun + いただき",
+    "functional_tag": "Noun + いただき"
+  },
+  {
+    "japanese": "ご不幸があったと伺いましたが、急のことでしたか。",
+    "hiragana": "ごふこう が あった と うかがいましたが きゅう の こと でした か",
+    "english": "I heard about the passing; was it sudden?",
+    "grammar_pattern": "〜と伺いましたが",
+    "grammar_explanation": "A polite way to introduce information you have heard from another source.",
+    "category": "Funeral and Mourning Etiquette (Imikotoba)",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "64076469-048b-4da3-abf0-9ab2c277bdd4",
+    "components": [
+      {
+        "text": "ご不幸",
+        "role": "misfortune (euphemism for death)",
+        "raw_role": "misfortune (euphemism for death)",
+        "normalized_role": "Other"
+      },
+      {
+        "text": "が",
+        "role": "subject marker",
+        "raw_role": "subject marker",
+        "normalized_role": "Subject Marker"
+      },
+      {
+        "text": "あった",
+        "role": "happened / occurred",
+        "raw_role": "happened / occurred",
+        "normalized_role": "Other"
+      },
+      {
+        "text": "と",
+        "role": "quotation marker",
+        "raw_role": "quotation marker",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "伺いましたが",
+        "role": "heard (humble) + but",
+        "raw_role": "heard (humble) + but",
+        "normalized_role": "Other"
+      },
+      {
+        "text": "急の",
+        "role": "sudden",
+        "raw_role": "sudden",
+        "normalized_role": "Other"
+      },
+      {
+        "text": "こと",
+        "role": "matter / event",
+        "raw_role": "matter / event",
+        "normalized_role": "Other"
+      },
+      {
+        "text": "でしたか",
+        "role": "was it? (polite question)",
+        "raw_role": "was it? (polite question)",
+        "normalized_role": "Copula"
+      }
+    ],
+    "grammar_function": "Grammar & Structural Patterns",
+    "sequence_key": "Subject Marker → Particle → Copula",
+    "location": "Not defined",
+    "raw_grammar_pattern": "~と伺いましたが",
+    "functional_tag": "〜と伺いましたが"
+  },
+  {
+    "japanese": "はい、急に体調を崩されまして。",
+    "hiragana": "はい きゅう に たいちょう を くずされまして",
+    "english": "Yes, their health suddenly declined.",
+    "grammar_pattern": "〜れました",
+    "grammar_explanation": "Using the honorific form of a verb to show respect toward the deceased.",
+    "category": "Funeral and Mourning Etiquette (Imikotoba)",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "64076469-048b-4da3-abf0-9ab2c277bdd4",
+    "components": [
+      {
+        "text": "はい",
+        "role": "yes",
+        "raw_role": "yes",
+        "normalized_role": "Interjection"
+      },
+      {
+        "text": "急に",
+        "role": "suddenly",
+        "raw_role": "suddenly",
+        "normalized_role": "Other"
+      },
+      {
+        "text": "体調",
+        "role": "physical condition",
+        "raw_role": "physical condition",
+        "normalized_role": "Other"
+      },
+      {
+        "text": "を",
+        "role": "object marker",
+        "raw_role": "object marker",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "崩されまして",
+        "role": "deteriorated (honorific polite form)",
+        "raw_role": "deteriorated (honorific polite form)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Grammar & Structural Patterns",
+    "sequence_key": "Interjection → Direct Object Marker → Verb",
+    "location": "Not defined",
+    "raw_grammar_pattern": "~れました (Honorific)",
+    "functional_tag": "〜れました"
+  },
+  {
+    "japanese": "田中さんの結婚式の招待状、届いた？",
+    "hiragana": "たなかさん の けっこんしき の しょうたいじょう、とどいた？",
+    "english": "Did you receive the invitation to Tanaka-san's wedding?",
+    "grammar_pattern": "Noun + の",
+    "grammar_explanation": "Used to connect nouns, indicating possession or a relationship between two things.",
+    "category": "Wedding Etiquette and Social Obligations",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "0595ab82-1929-4f56-b3fc-181a0cca522d",
+    "components": [
+      {
+        "text": "田中さん",
+        "role": "Proper noun (person)",
+        "raw_role": "Proper noun (person)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "の",
+        "role": "Possessive particle",
+        "raw_role": "Possessive particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "結婚式",
+        "role": "Noun (wedding)",
+        "raw_role": "Noun (wedding)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "の",
+        "role": "Possessive particle",
+        "raw_role": "Possessive particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "招待状",
+        "role": "Noun (invitation)",
+        "raw_role": "Noun (invitation)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "届いた",
+        "role": "Verb (arrived/received)",
+        "raw_role": "Verb (arrived/received)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Grammar & Structural Patterns",
+    "sequence_key": "Noun → Particle → Noun → Particle → Noun → Verb",
+    "location": "Not defined",
+    "raw_grammar_pattern": "Noun + の",
+    "functional_tag": "Noun + の"
+  },
+  {
+    "japanese": "うん、届いたけど、祝儀袋の書き方がよく分からなくて。",
+    "hiragana": "うん、とどいた けど、しゅぎぶくろ の かきかた が よく わからなくて。",
+    "english": "Yes, I did, but I'm not really sure how to write on the gift envelope.",
+    "grammar_pattern": "Verb + くて",
+    "grammar_explanation": "Used to connect a negative state or provide a reason for the following thought.",
+    "category": "Wedding Etiquette and Social Obligations",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "0595ab82-1929-4f56-b3fc-181a0cca522d",
+    "components": [
+      {
+        "text": "うん",
+        "role": "Informal affirmation",
+        "raw_role": "Informal affirmation",
+        "normalized_role": "Interjection"
+      },
+      {
+        "text": "届いた",
+        "role": "Verb (arrived)",
+        "raw_role": "Verb (arrived)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "けど",
+        "role": "Conjunction (but)",
+        "raw_role": "Conjunction (but)",
+        "normalized_role": "Conjunction"
+      },
+      {
+        "text": "祝儀袋",
+        "role": "Noun (monetary gift envelope)",
+        "raw_role": "Noun (monetary gift envelope)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "の",
+        "role": "Possessive particle",
+        "raw_role": "Possessive particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "書き方",
+        "role": "Noun (way of writing)",
+        "raw_role": "Noun (way of writing)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "が",
+        "role": "Subject marker",
+        "raw_role": "Subject marker",
+        "normalized_role": "Subject Marker"
+      },
+      {
+        "text": "よく",
+        "role": "Adverb (well/clearly)",
+        "raw_role": "Adverb (well/clearly)",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "分からなくて",
+        "role": "Verb (negative te-form: don't know)",
+        "raw_role": "Verb (negative te-form: don't know)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Reasons & Causes (〜ので / 〜から)",
+    "sequence_key": "Interjection → Verb → Conjunction → Noun → Particle → Noun → Subject Marker → Adverb → Verb",
+    "location": "Not defined",
+    "raw_grammar_pattern": "Verb (Negative) + くて",
+    "functional_tag": "Reason / Starting Point (\"Because / From\")"
+  },
+  {
+    "japanese": "お金はいくら包めばいいかな？",
+    "hiragana": "おかね は いくら つつめば いい かな？",
+    "english": "I wonder how much money I should put in the envelope?",
+    "grammar_pattern": "〜ばいい",
+    "grammar_explanation": "Used to ask for advice or suggestions on the best course of action.",
+    "category": "Wedding Etiquette and Social Obligations",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "0595ab82-1929-4f56-b3fc-181a0cca522d",
+    "components": [
+      {
+        "text": "お金",
+        "role": "Noun (money)",
+        "raw_role": "Noun (money)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "は",
+        "role": "Topic marker",
+        "raw_role": "Topic marker",
+        "normalized_role": "Topic Marker"
+      },
+      {
+        "text": "いくら",
+        "role": "Interrogative (how much)",
+        "raw_role": "Interrogative (how much)",
+        "normalized_role": "Question Word"
+      },
+      {
+        "text": "包めば",
+        "role": "Verb (conditional form: if I wrap/put in)",
+        "raw_role": "Verb (conditional form: if I wrap/put in)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "いい",
+        "role": "Adjective (good/correct)",
+        "raw_role": "Adjective (good/correct)",
+        "normalized_role": "Adjective"
+      },
+      {
+        "text": "かな",
+        "role": "Sentence-ending particle (I wonder)",
+        "raw_role": "Sentence-ending particle (I wonder)",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Advice & Conditionals (〜ば / 〜たら / ほう)",
+    "sequence_key": "Noun → Topic Marker → Question Word → Verb → Adjective → Particle",
+    "location": "Not defined",
+    "raw_grammar_pattern": "Verb (Conditional) + いい",
+    "functional_tag": "Conditional Advice (\"It's best if\")"
+  },
+  {
+    "japanese": "友達なら、だいたい三万円くらいがいいと思うよ。",
+    "hiragana": "ともだち なら、だいたい さんまんえん くらい が いい と おもう よ。",
+    "english": "If it's for a friend, I think around 30,000 yen is usually good.",
+    "grammar_pattern": "Noun + なら",
+    "grammar_explanation": "Sets a condition or context, meaning 'if it is the case that...'",
+    "category": "Wedding Etiquette and Social Obligations",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "0595ab82-1929-4f56-b3fc-181a0cca522d",
+    "components": [
+      {
+        "text": "友達",
+        "role": "Noun (friend)",
+        "raw_role": "Noun (friend)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "なら",
+        "role": "Conditional particle",
+        "raw_role": "Conditional particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "だいたい",
+        "role": "Adverb (approximately)",
+        "raw_role": "Adverb (approximately)",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "三万円",
+        "role": "Noun (30,000 yen)",
+        "raw_role": "Noun (30,000 yen)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "くらい",
+        "role": "Particle (about/around)",
+        "raw_role": "Particle (about/around)",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "が",
+        "role": "Subject marker",
+        "raw_role": "Subject marker",
+        "normalized_role": "Subject Marker"
+      },
+      {
+        "text": "いい",
+        "role": "Adjective (good)",
+        "raw_role": "Adjective (good)",
+        "normalized_role": "Adjective"
+      },
+      {
+        "text": "と",
+        "role": "Quotative particle",
+        "raw_role": "Quotative particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "思う",
+        "role": "Verb (think)",
+        "raw_role": "Verb (think)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "よ",
+        "role": "Sentence-ending particle (emphasis)",
+        "raw_role": "Sentence-ending particle (emphasis)",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Grammar & Structural Patterns",
+    "sequence_key": "Noun → Particle → Adverb → Noun → Particle → Subject Marker → Adjective → Particle → Verb → Particle",
+    "location": "Not defined",
+    "raw_grammar_pattern": "Noun + なら",
+    "functional_tag": "Noun + なら"
+  },
+  {
+    "japanese": "分かった。マナー本を確認して準備するね。",
+    "hiragana": "わかった。まなーぼん を かくにん して じゅんび する ね。",
+    "english": "Got it. I'll check an etiquette book and get ready.",
+    "grammar_pattern": "〜て",
+    "grammar_explanation": "Used to link two actions in a chronological sequence.",
+    "category": "Wedding Etiquette and Social Obligations",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "0595ab82-1929-4f56-b3fc-181a0cca522d",
+    "components": [
+      {
+        "text": "分かった",
+        "role": "Verb (understood)",
+        "raw_role": "Verb (understood)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "マナー本",
+        "role": "Noun (etiquette book)",
+        "raw_role": "Noun (etiquette book)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "を",
+        "role": "Object marker",
+        "raw_role": "Object marker",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "確認して",
+        "role": "Verb (te-form: check and...)",
+        "raw_role": "Verb (te-form: check and...)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "準備する",
+        "role": "Verb (prepare)",
+        "raw_role": "Verb (prepare)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "ね",
+        "role": "Sentence-ending particle (confirmation)",
+        "raw_role": "Sentence-ending particle (confirmation)",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Grammar & Structural Patterns",
+    "sequence_key": "Verb → Noun → Direct Object Marker → Verb → Verb → Particle",
+    "location": "Not defined",
+    "raw_grammar_pattern": "Verb (Te-form)",
+    "functional_tag": "〜て"
+  },
+  {
+    "japanese": "皆様、本日はお忙しい中、ご参集いただき誠にありがとうございます。",
+    "hiragana": "みなさま、ほんじつは おいそがしい なか、ごさんしゅう いただき まことに ありがとうございます。",
+    "english": "Ladies and gentlemen, thank you very much for joining us today despite your busy schedules.",
+    "grammar_pattern": "〜ていただき ありがとうございます",
+    "grammar_explanation": "A formal way to express gratitude for an action performed by someone else.",
+    "category": "Formal Event Moderation and MCing",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "c645c0f2-aee9-464f-9ffb-b182bde8a6a6",
+    "components": [
+      {
+        "text": "皆様",
+        "role": "Noun (Audience)",
+        "raw_role": "Noun (Audience)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "本日は",
+        "role": "Time noun + Topic marker",
+        "raw_role": "Time noun + Topic marker",
+        "normalized_role": "Topic Marker"
+      },
+      {
+        "text": "お忙しい",
+        "role": "Adjective (Busy)",
+        "raw_role": "Adjective (Busy)",
+        "normalized_role": "Adjective"
+      },
+      {
+        "text": "中",
+        "role": "Noun (Amidst/During)",
+        "raw_role": "Noun (Amidst/During)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "ご参集いただき",
+        "role": "Humble verb (Gathering)",
+        "raw_role": "Humble verb (Gathering)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "誠に",
+        "role": "Adverb (Truly/Sincerely)",
+        "raw_role": "Adverb (Truly/Sincerely)",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "ありがとうございます",
+        "role": "Polite expression of thanks",
+        "raw_role": "Polite expression of thanks",
+        "normalized_role": "Expression / Set Phrase"
+      }
+    ],
+    "grammar_function": "Existence & Presence (ある / いる)",
+    "sequence_key": "Noun → Topic Marker → Adjective → Noun → Verb → Adverb → Expression / Set Phrase",
+    "location": "event venue",
+    "raw_grammar_pattern": "～ていただき ありがとうございます",
+    "functional_tag": "Existence & Location"
+  },
+  {
+    "japanese": "それでは、本日のプログラムに沿って、進行させていただきます。",
+    "hiragana": "それでは、ほんじつの プログラムに そって、しんこう させていただきます。",
+    "english": "Now, I will proceed with the program for today.",
+    "grammar_pattern": "〜に沿って",
+    "grammar_explanation": "Used to indicate that an action follows a specific plan, rule, or guideline.",
+    "category": "Formal Event Moderation and MCing",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "c645c0f2-aee9-464f-9ffb-b182bde8a6a6",
+    "components": [
+      {
+        "text": "それでは",
+        "role": "Conjunction (Well then)",
+        "raw_role": "Conjunction (Well then)",
+        "normalized_role": "Conjunction"
+      },
+      {
+        "text": "本日の",
+        "role": "Noun + Possessive particle",
+        "raw_role": "Noun + Possessive particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "プログラムに",
+        "role": "Noun + Target particle",
+        "raw_role": "Noun + Target particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "沿って",
+        "role": "Verb (Along/According to)",
+        "raw_role": "Verb (Along/According to)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "進行させていただきます",
+        "role": "Humble polite verb (To proceed)",
+        "raw_role": "Humble polite verb (To proceed)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Grammar & Structural Patterns",
+    "sequence_key": "Conjunction → Particle → Particle → Verb → Verb",
+    "location": "event venue",
+    "raw_grammar_pattern": "～に沿って",
+    "functional_tag": "〜に沿って"
+  },
+  {
+    "japanese": "まずは、弊社代表の田中様に、ご挨拶をいただきます。",
+    "hiragana": "まずは、へいしゃ だいひょうの たなかさまに、ごあいさつを いただきます。",
+    "english": "First, we will have a greeting from our company representative, Mr. Tanaka.",
+    "grammar_pattern": "〜に...をいただく",
+    "grammar_explanation": "A humble expression used when receiving an action or favor from a superior.",
+    "category": "Formal Event Moderation and MCing",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "c645c0f2-aee9-464f-9ffb-b182bde8a6a6",
+    "components": [
+      {
+        "text": "まずは",
+        "role": "Adverb (First of all)",
+        "raw_role": "Adverb (First of all)",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "弊社代表の",
+        "role": "Noun (Company rep) + Possessive particle",
+        "raw_role": "Noun (Company rep) + Possessive particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "田中様に",
+        "role": "Name + Honorific + Target particle",
+        "raw_role": "Name + Honorific + Target particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "ご挨拶を",
+        "role": "Honorific noun (Greeting) + Object particle",
+        "raw_role": "Honorific noun (Greeting) + Object particle",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "いただきます",
+        "role": "Humble verb (To receive)",
+        "raw_role": "Humble verb (To receive)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Giving & Receiving (あげる / くれる / もらう)",
+    "sequence_key": "Adverb → Particle → Particle → Direct Object Marker → Verb",
+    "location": "event venue",
+    "raw_grammar_pattern": "～に...をいただく",
+    "functional_tag": "Benefactive Action (\"Give / Receive a favor\")"
+  },
+  {
+    "japanese": "皆様、どうぞ大きな拍手でお迎えください。",
+    "hiragana": "みなさま、どうぞ おおきな はくしゅで おむかえ ください。",
+    "english": "Everyone, please welcome him with a round of applause.",
+    "grammar_pattern": "〜で...ください",
+    "grammar_explanation": "A polite request asking the audience to perform an action using a specific means.",
+    "category": "Formal Event Moderation and MCing",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "c645c0f2-aee9-464f-9ffb-b182bde8a6a6",
+    "components": [
+      {
+        "text": "皆様",
+        "role": "Noun (Audience)",
+        "raw_role": "Noun (Audience)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "どうぞ",
+        "role": "Adverb (Please)",
+        "raw_role": "Adverb (Please)",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "大きな",
+        "role": "Adjective (Big/Loud)",
+        "raw_role": "Adjective (Big/Loud)",
+        "normalized_role": "Adjective"
+      },
+      {
+        "text": "拍手で",
+        "role": "Noun (Applause) + Means particle",
+        "raw_role": "Noun (Applause) + Means particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "お迎えください",
+        "role": "Honorific request (Welcome)",
+        "raw_role": "Honorific request (Welcome)",
+        "normalized_role": "Honorific Prefix"
+      }
+    ],
+    "grammar_function": "Grammar & Structural Patterns",
+    "sequence_key": "Noun → Adverb → Adjective → Particle → Honorific Prefix",
+    "location": "event venue",
+    "raw_grammar_pattern": "～で...ください",
+    "functional_tag": "〜で...ください"
+  },
+  {
+    "japanese": "今年の祭りの練習は、来週の日曜日から始まりますね。",
+    "hiragana": "ことしの まつりの れんしゅうは、 らいしゅうの にちようびから はじまりますね。",
+    "english": "The rehearsal for this year's festival starts next Sunday, right?",
+    "grammar_pattern": "Noun + は",
+    "grammar_explanation": "The particle 'は' marks the topic of the sentence, establishing what is being discussed.",
+    "category": "Local Festival (Matsuri) Coordination and Community Participation",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "ba50d58e-ab3b-4205-97a0-e712bdd54325",
+    "components": [
+      {
+        "text": "今年",
+        "role": "noun (this year)",
+        "raw_role": "noun (this year)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "の",
+        "role": "possessive particle",
+        "raw_role": "possessive particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "祭り",
+        "role": "noun (festival)",
+        "raw_role": "noun (festival)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "の",
+        "role": "possessive particle",
+        "raw_role": "possessive particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "練習",
+        "role": "noun (rehearsal)",
+        "raw_role": "noun (rehearsal)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "は",
+        "role": "topic marker",
+        "raw_role": "topic marker",
+        "normalized_role": "Topic Marker"
+      },
+      {
+        "text": "来週",
+        "role": "noun (next week)",
+        "raw_role": "noun (next week)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "の",
+        "role": "possessive particle",
+        "raw_role": "possessive particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "日曜日",
+        "role": "noun (Sunday)",
+        "raw_role": "noun (Sunday)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "から",
+        "role": "starting point marker",
+        "raw_role": "starting point marker",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "始まります",
+        "role": "verb (to begin)",
+        "raw_role": "verb (to begin)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "ね",
+        "role": "confirmation particle",
+        "raw_role": "confirmation particle",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Copula, Topics & Definitions (です / は / について)",
+    "sequence_key": "Noun → Particle → Noun → Particle → Noun → Topic Marker → Noun → Particle → Noun → Particle → Verb → Particle",
+    "location": "Not defined",
+    "raw_grammar_pattern": "Noun + は",
+    "functional_tag": "Topic Introduction (\"As for...\")"
+  },
+  {
+    "japanese": "はい、でも高齢の方々が参加できるよう配慮しなければなりません。",
+    "hiragana": "はい、でも こうれいの かたがたが さんか できるよう はいりょ しなければ なりません。",
+    "english": "Yes, but we must make arrangements so that the elderly members can participate.",
+    "grammar_pattern": "Verb + ように",
+    "grammar_explanation": "Used to express a goal, purpose, or a desired state that should be achieved.",
+    "category": "Local Festival (Matsuri) Coordination and Community Participation",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "ba50d58e-ab3b-4205-97a0-e712bdd54325",
+    "components": [
+      {
+        "text": "はい",
+        "role": "interjection (yes)",
+        "raw_role": "interjection (yes)",
+        "normalized_role": "Interjection"
+      },
+      {
+        "text": "でも",
+        "role": "conjunction (but)",
+        "raw_role": "conjunction (but)",
+        "normalized_role": "Conjunction"
+      },
+      {
+        "text": "高齢",
+        "role": "noun (old age)",
+        "raw_role": "noun (old age)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "の",
+        "role": "possessive particle",
+        "raw_role": "possessive particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "方々",
+        "role": "noun (people - polite plural)",
+        "raw_role": "noun (people - polite plural)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "が",
+        "role": "subject marker",
+        "raw_role": "subject marker",
+        "normalized_role": "Subject Marker"
+      },
+      {
+        "text": "参加できる",
+        "role": "verb (can participate - potential)",
+        "raw_role": "verb (can participate - potential)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "よう",
+        "role": "particle (in order to)",
+        "raw_role": "particle (in order to)",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "配慮しなければなりません",
+        "role": "verb phrase (must consider/arrange)",
+        "raw_role": "verb phrase (must consider/arrange)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Grammar & Structural Patterns",
+    "sequence_key": "Interjection → Conjunction → Noun → Particle → Noun → Subject Marker → Verb → Particle → Verb",
+    "location": "Not defined",
+    "raw_grammar_pattern": "Verb (Potential) + ように",
+    "functional_tag": "Verb + ように"
+  },
+  {
+    "japanese": "私が町内会に連絡して、時間を調整します。",
+    "hiragana": "わたしが ちょうないかいに れんらくして、 じかんを ちょうせいします。",
+    "english": "I will contact the neighborhood association and coordinate the time.",
+    "grammar_pattern": "〜て",
+    "grammar_explanation": "The te-form is used here to connect two actions in a chronological sequence.",
+    "category": "Local Festival (Matsuri) Coordination and Community Participation",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "ba50d58e-ab3b-4205-97a0-e712bdd54325",
+    "components": [
+      {
+        "text": "私",
+        "role": "noun (I)",
+        "raw_role": "noun (I)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "が",
+        "role": "subject marker",
+        "raw_role": "subject marker",
+        "normalized_role": "Subject Marker"
+      },
+      {
+        "text": "町内会",
+        "role": "noun (neighborhood association)",
+        "raw_role": "noun (neighborhood association)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "に",
+        "role": "target particle",
+        "raw_role": "target particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "連絡して",
+        "role": "verb (contact - te-form)",
+        "raw_role": "verb (contact - te-form)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "時間",
+        "role": "noun (time)",
+        "raw_role": "noun (time)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "を",
+        "role": "object marker",
+        "raw_role": "object marker",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "調整します",
+        "role": "verb (to coordinate)",
+        "raw_role": "verb (to coordinate)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Grammar & Structural Patterns",
+    "sequence_key": "Noun → Subject Marker → Noun → Particle → Verb → Noun → Direct Object Marker → Verb",
+    "location": "Not defined",
+    "raw_grammar_pattern": "Verb (Te-form)",
+    "functional_tag": "〜て"
+  },
+  {
+    "japanese": "よろしくお願いします。山車の運行には、皆さんの協力が不可欠ですからね。",
+    "hiragana": "よろしく おねがいします。だしの うんこうには、 みなさんの きょうりょくが ふかけつ ですからね。",
+    "english": "Thank you. After all, everyone's cooperation is essential for the movement of the float.",
+    "grammar_pattern": "Noun + ですから",
+    "grammar_explanation": "Used to provide a reason or explanation for the previous statement.",
+    "category": "Local Festival (Matsuri) Coordination and Community Participation",
+    "theme": "Events, Traditions, and Celebrations",
+    "conversation_id": "ba50d58e-ab3b-4205-97a0-e712bdd54325",
+    "components": [
+      {
+        "text": "よろしくお願いします",
+        "role": "set phrase (please take care of it)",
+        "raw_role": "set phrase (please take care of it)",
+        "normalized_role": "Expression / Set Phrase"
+      },
+      {
+        "text": "山車",
+        "role": "noun (festival float)",
+        "raw_role": "noun (festival float)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "の",
+        "role": "possessive particle",
+        "raw_role": "possessive particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "運行",
+        "role": "noun (operation/movement)",
+        "raw_role": "noun (operation/movement)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "には",
+        "role": "target and topic marker",
+        "raw_role": "target and topic marker",
+        "normalized_role": "Topic Marker"
+      },
+      {
+        "text": "皆さん",
+        "role": "noun (everyone)",
+        "raw_role": "noun (everyone)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "の",
+        "role": "possessive particle",
+        "raw_role": "possessive particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "協力",
+        "role": "noun (cooperation)",
+        "raw_role": "noun (cooperation)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "が",
+        "role": "subject marker",
+        "raw_role": "subject marker",
+        "normalized_role": "Subject Marker"
+      },
+      {
+        "text": "不可欠",
+        "role": "na-adjective (essential)",
+        "raw_role": "na-adjective (essential)",
+        "normalized_role": "Adjective"
+      },
+      {
+        "text": "です",
+        "role": "copula",
+        "raw_role": "copula",
+        "normalized_role": "Copula"
+      },
+      {
+        "text": "から",
+        "role": "reason particle",
+        "raw_role": "reason particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "ね",
+        "role": "confirmation particle",
+        "raw_role": "confirmation particle",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Reasons & Causes (〜ので / 〜から)",
+    "sequence_key": "Expression / Set Phrase → Noun → Particle → Noun → Topic Marker → Noun → Particle → Noun → Subject Marker → Adjective → Copula → Particle → Particle",
+    "location": "Not defined",
+    "raw_grammar_pattern": "Noun + ですから",
+    "functional_tag": "Reason / Starting Point (\"Because / From\")"
+  }
+]

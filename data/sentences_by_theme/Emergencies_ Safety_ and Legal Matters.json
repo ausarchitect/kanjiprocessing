@@ -1,0 +1,5962 @@
+[
+  {
+    "japanese": "すみません、財布をなくしました。",
+    "hiragana": "すみません、さいふ を なくし ました。",
+    "english": "Excuse me, I lost my wallet.",
+    "grammar_pattern": "Verb",
+    "grammar_explanation": "The -mashita ending is used to express a completed action in a polite way.",
+    "category": "Emergencies and Problems",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "components": [
+      {
+        "text": "すみません",
+        "role": "Interjection",
+        "raw_role": "Interjection",
+        "normalized_role": "Interjection"
+      },
+      {
+        "text": "財布",
+        "role": "Noun",
+        "raw_role": "Noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "を",
+        "role": "Object marker",
+        "raw_role": "Object marker",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "なくしました",
+        "role": "Verb (past polite)",
+        "raw_role": "Verb (past polite)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "conversation_id": "b0a94fac-aecf-407a-bafe-f42eb324861a",
+    "grammar_function": "Grammar & Structural Patterns",
+    "sequence_key": "Interjection → Noun → Direct Object Marker → Verb",
+    "location": "train station",
+    "raw_grammar_pattern": "Verb (Past Polite)",
+    "functional_tag": "Verb"
+  },
+  {
+    "japanese": "どこでなくしましたか。",
+    "hiragana": "どこ で なくし ました か。",
+    "english": "Where did you lose it?",
+    "grammar_pattern": "Question Word + で",
+    "grammar_explanation": "The particle 'de' indicates the location where an action takes place.",
+    "category": "Emergencies and Problems",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "components": [
+      {
+        "text": "どこ",
+        "role": "Question word (where)",
+        "raw_role": "Question word (where)",
+        "normalized_role": "Question Word"
+      },
+      {
+        "text": "で",
+        "role": "Location marker",
+        "raw_role": "Location marker",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "なくしました",
+        "role": "Verb (past polite)",
+        "raw_role": "Verb (past polite)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "か",
+        "role": "Question particle",
+        "raw_role": "Question particle",
+        "normalized_role": "Particle"
+      }
+    ],
+    "conversation_id": "b0a94fac-aecf-407a-bafe-f42eb324861a",
+    "grammar_function": "Questions & Inquiries (〜ですか / どこ / どう)",
+    "sequence_key": "Question Word → Particle → Verb → Particle",
+    "location": "train station",
+    "raw_grammar_pattern": "Question Word + で",
+    "functional_tag": "Information Query (\"How / What / Where?\")"
+  },
+  {
+    "japanese": "電車に忘れたと思います。",
+    "hiragana": "でんしゃ に わすれた と おもいます。",
+    "english": "I think I left it on the train.",
+    "grammar_pattern": "〜ようと思います",
+    "grammar_explanation": "This pattern is used to express a personal opinion or belief about something.",
+    "category": "Emergencies and Problems",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "components": [
+      {
+        "text": "電車",
+        "role": "Noun",
+        "raw_role": "Noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "に",
+        "role": "Location marker",
+        "raw_role": "Location marker",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "忘れた",
+        "role": "Verb (plain past)",
+        "raw_role": "Verb (plain past)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "と",
+        "role": "Quotative particle",
+        "raw_role": "Quotative particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "思います",
+        "role": "Verb (polite)",
+        "raw_role": "Verb (polite)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "conversation_id": "b0a94fac-aecf-407a-bafe-f42eb324861a",
+    "grammar_function": "Desires & Intentions (〜たい / つもり / よう)",
+    "sequence_key": "Noun → Particle → Verb → Particle → Verb",
+    "location": "train station",
+    "raw_grammar_pattern": "Verb (Plain) + と思います",
+    "functional_tag": "Intention / Resolution (\"I plan to\")"
+  },
+  {
+    "japanese": "遺失物取扱所で確認しますね。",
+    "hiragana": "いしつぶつ とりあつかいしょ で かくにん します ね。",
+    "english": "I will check at the lost and found office.",
+    "grammar_pattern": "Verb + ね",
+    "grammar_explanation": "The particle 'ne' is added to the end of a sentence for confirmation or empathy.",
+    "category": "Emergencies and Problems",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "components": [
+      {
+        "text": "遺失物取扱所",
+        "role": "Noun",
+        "raw_role": "Noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "で",
+        "role": "Location marker",
+        "raw_role": "Location marker",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "確認します",
+        "role": "Verb (polite)",
+        "raw_role": "Verb (polite)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "ね",
+        "role": "Sentence-ending particle",
+        "raw_role": "Sentence-ending particle",
+        "normalized_role": "Particle"
+      }
+    ],
+    "conversation_id": "b0a94fac-aecf-407a-bafe-f42eb324861a",
+    "grammar_function": "Particles & Structural Markers (を / に / で / と)",
+    "sequence_key": "Noun → Particle → Verb → Particle",
+    "location": "train station",
+    "raw_grammar_pattern": "Verb (Polite) + ね",
+    "functional_tag": "Structural Particle Marker"
+  },
+  {
+    "japanese": "地震の速報が来ましたよ！",
+    "hiragana": "じしん の そくほう が きました よ！",
+    "english": "A disaster alert for an earthquake just came!",
+    "grammar_pattern": "Verb + よ",
+    "grammar_explanation": "Used to provide new information or emphasize a fact to the listener.",
+    "category": "Disaster Preparedness and Response",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "components": [
+      {
+        "text": "地震",
+        "role": "noun (earthquake)",
+        "raw_role": "noun (earthquake)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "の",
+        "role": "possessive particle",
+        "raw_role": "possessive particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "速報",
+        "role": "noun (alert/breaking news)",
+        "raw_role": "noun (alert/breaking news)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "が",
+        "role": "subject marker",
+        "raw_role": "subject marker",
+        "normalized_role": "Subject Marker"
+      },
+      {
+        "text": "来ました",
+        "role": "verb (came - polite past)",
+        "raw_role": "verb (came - polite past)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "よ",
+        "role": "sentence-ending particle",
+        "raw_role": "sentence-ending particle",
+        "normalized_role": "Particle"
+      }
+    ],
+    "conversation_id": "ec6b6833-9cc3-498e-9b91-69d359603062",
+    "grammar_function": "Grammar & Structural Patterns",
+    "sequence_key": "Noun → Particle → Noun → Subject Marker → Verb → Particle",
+    "location": "home",
+    "raw_grammar_pattern": "Verb (Past Polite) + よ",
+    "functional_tag": "Verb + よ"
+  },
+  {
+    "japanese": "本当ですか？一番近い避難所はどこですか？",
+    "hiragana": "ほんとう です か？ いちばん ちかい ひなんじょ は どこ です か？",
+    "english": "Really? Where is the nearest evacuation shelter?",
+    "grammar_pattern": "Question with ですか",
+    "grammar_explanation": "A polite way to ask a question about the identity or location of something.",
+    "category": "Disaster Preparedness and Response",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "components": [
+      {
+        "text": "本当",
+        "role": "noun (truth)",
+        "raw_role": "noun (truth)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "です",
+        "role": "copula",
+        "raw_role": "copula",
+        "normalized_role": "Copula"
+      },
+      {
+        "text": "か",
+        "role": "question particle",
+        "raw_role": "question particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "一番",
+        "role": "adverb (most)",
+        "raw_role": "adverb (most)",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "近い",
+        "role": "adjective (near)",
+        "raw_role": "adjective (near)",
+        "normalized_role": "Adjective"
+      },
+      {
+        "text": "避難所",
+        "role": "noun (shelter)",
+        "raw_role": "noun (shelter)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "は",
+        "role": "topic marker",
+        "raw_role": "topic marker",
+        "normalized_role": "Topic Marker"
+      },
+      {
+        "text": "どこ",
+        "role": "interrogative (where)",
+        "raw_role": "interrogative (where)",
+        "normalized_role": "Question Word"
+      },
+      {
+        "text": "です",
+        "role": "copula",
+        "raw_role": "copula",
+        "normalized_role": "Copula"
+      },
+      {
+        "text": "か",
+        "role": "question particle",
+        "raw_role": "question particle",
+        "normalized_role": "Particle"
+      }
+    ],
+    "conversation_id": "ec6b6833-9cc3-498e-9b91-69d359603062",
+    "grammar_function": "Questions & Inquiries (〜ですか / どこ / どう)",
+    "sequence_key": "Noun → Copula → Particle → Adverb → Adjective → Noun → Topic Marker → Question Word → Copula → Particle",
+    "location": "home",
+    "raw_grammar_pattern": "Question with ですか",
+    "functional_tag": "Polite Question (\"Is it?\")"
+  },
+  {
+    "japanese": "あそこの小学校です。",
+    "hiragana": "あそこ の しょうがっこう です。",
+    "english": "It's the elementary school over there.",
+    "grammar_pattern": "Noun + です",
+    "grammar_explanation": "A basic polite sentence structure used to state a fact or identify something.",
+    "category": "Disaster Preparedness and Response",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "components": [
+      {
+        "text": "あそこ",
+        "role": "pronoun (over there)",
+        "raw_role": "pronoun (over there)",
+        "normalized_role": "Pronoun"
+      },
+      {
+        "text": "の",
+        "role": "possessive particle",
+        "raw_role": "possessive particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "小学校",
+        "role": "noun (elementary school)",
+        "raw_role": "noun (elementary school)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "です",
+        "role": "copula",
+        "raw_role": "copula",
+        "normalized_role": "Copula"
+      }
+    ],
+    "conversation_id": "ec6b6833-9cc3-498e-9b91-69d359603062",
+    "grammar_function": "Copula, Topics & Definitions (です / は / について)",
+    "sequence_key": "Pronoun → Particle → Noun → Copula",
+    "location": "home",
+    "raw_grammar_pattern": "Noun + です",
+    "functional_tag": "Polite Assertion / Copula (\"It is\")"
+  },
+  {
+    "japanese": "非常用持ち出し袋を持って、早く行きましょう。",
+    "hiragana": "ひじょうよう もちだしぶくろ を もって、 はやく いきましょう。",
+    "english": "Let's take the emergency bag and go quickly.",
+    "grammar_pattern": "〜てVerb",
+    "grammar_explanation": "The te-form connects actions, and the -mashou form suggests doing something together.",
+    "category": "Disaster Preparedness and Response",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "components": [
+      {
+        "text": "非常用持ち出し袋",
+        "role": "noun (emergency bag)",
+        "raw_role": "noun (emergency bag)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "を",
+        "role": "object marker",
+        "raw_role": "object marker",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "持って",
+        "role": "verb (take - te-form)",
+        "raw_role": "verb (take - te-form)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "早く",
+        "role": "adverb (quickly)",
+        "raw_role": "adverb (quickly)",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "行きましょう",
+        "role": "verb (let's go - polite)",
+        "raw_role": "verb (let's go - polite)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "conversation_id": "ec6b6833-9cc3-498e-9b91-69d359603062",
+    "grammar_function": "Grammar & Structural Patterns",
+    "sequence_key": "Noun → Direct Object Marker → Verb → Adverb → Verb",
+    "location": "home",
+    "raw_grammar_pattern": "Verb (Te-form) + Verb (Let's form)",
+    "functional_tag": "〜てVerb"
+  },
+  {
+    "japanese": "今日は地震の訓練があります。",
+    "hiragana": "きょう は じしん の くんれん が あります。",
+    "english": "There is an earthquake drill today.",
+    "grammar_pattern": "Noun + があります",
+    "grammar_explanation": "Used to indicate the existence of an inanimate object or a scheduled event.",
+    "category": "Emergency Preparedness Drills",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "components": [
+      {
+        "text": "今日",
+        "role": "Noun (today)",
+        "raw_role": "Noun (today)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "は",
+        "role": "Topic marker",
+        "raw_role": "Topic marker",
+        "normalized_role": "Topic Marker"
+      },
+      {
+        "text": "地震",
+        "role": "Noun (earthquake)",
+        "raw_role": "Noun (earthquake)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "の",
+        "role": "Possessive particle",
+        "raw_role": "Possessive particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "訓練",
+        "role": "Noun (drill/training)",
+        "raw_role": "Noun (drill/training)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "が",
+        "role": "Subject marker",
+        "raw_role": "Subject marker",
+        "normalized_role": "Subject Marker"
+      },
+      {
+        "text": "あります",
+        "role": "Verb (to exist/be)",
+        "raw_role": "Verb (to exist/be)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "conversation_id": "4b7838de-83ea-442b-99fd-ac85bf5dcc1a",
+    "grammar_function": "Existence & Presence (ある / いる)",
+    "sequence_key": "Noun → Topic Marker → Noun → Particle → Noun → Subject Marker → Verb",
+    "location": "school",
+    "raw_grammar_pattern": "Noun + があります",
+    "functional_tag": "Inanimate Existence (\"There is / Have\")"
+  },
+  {
+    "japanese": "避難経路はどこですか？",
+    "hiragana": "ひなん けいろ は どこ です か？",
+    "english": "Where is the evacuation route?",
+    "grammar_pattern": "〜はどこですか",
+    "grammar_explanation": "A standard polite expression used to ask for the location of something.",
+    "category": "Emergency Preparedness Drills",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "components": [
+      {
+        "text": "避難経路",
+        "role": "Noun (evacuation route)",
+        "raw_role": "Noun (evacuation route)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "は",
+        "role": "Topic marker",
+        "raw_role": "Topic marker",
+        "normalized_role": "Topic Marker"
+      },
+      {
+        "text": "どこ",
+        "role": "Interrogative (where)",
+        "raw_role": "Interrogative (where)",
+        "normalized_role": "Question Word"
+      },
+      {
+        "text": "です",
+        "role": "Copula (to be)",
+        "raw_role": "Copula (to be)",
+        "normalized_role": "Copula"
+      },
+      {
+        "text": "か",
+        "role": "Question particle",
+        "raw_role": "Question particle",
+        "normalized_role": "Particle"
+      }
+    ],
+    "conversation_id": "4b7838de-83ea-442b-99fd-ac85bf5dcc1a",
+    "grammar_function": "Questions & Inquiries (〜ですか / どこ / どう)",
+    "sequence_key": "Noun → Topic Marker → Question Word → Copula → Particle",
+    "location": "school",
+    "raw_grammar_pattern": "Noun + はどこですか",
+    "functional_tag": "Information Query (\"How / What / Where?\")"
+  },
+  {
+    "japanese": "看板に沿って公園まで行ってください。",
+    "hiragana": "かんばん に そって こうえん まで いって ください。",
+    "english": "Please follow the signs to the park.",
+    "grammar_pattern": "〜てください",
+    "grammar_explanation": "Used to make a polite request for someone to perform an action.",
+    "category": "Emergency Preparedness Drills",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "components": [
+      {
+        "text": "看板",
+        "role": "Noun (signboard)",
+        "raw_role": "Noun (signboard)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "に",
+        "role": "Target particle",
+        "raw_role": "Target particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "沿って",
+        "role": "Verb (to follow/along)",
+        "raw_role": "Verb (to follow/along)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "公園",
+        "role": "Noun (park)",
+        "raw_role": "Noun (park)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "まで",
+        "role": "Limit particle (until/to)",
+        "raw_role": "Limit particle (until/to)",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "行って",
+        "role": "Verb (to go)",
+        "raw_role": "Verb (to go)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "ください",
+        "role": "Polite request",
+        "raw_role": "Polite request",
+        "normalized_role": "Request"
+      }
+    ],
+    "conversation_id": "4b7838de-83ea-442b-99fd-ac85bf5dcc1a",
+    "grammar_function": "Requests & Favors (〜て / ください)",
+    "sequence_key": "Noun → Particle → Verb → Noun → Particle → Verb → Request",
+    "location": "school",
+    "raw_grammar_pattern": "Verb-te + ください",
+    "functional_tag": "Polite Request (\"Please do\")"
+  },
+  {
+    "japanese": "Jアラートが鳴ったら、どうすればいいですか？",
+    "hiragana": "じぇいあらーと が なったら、 どう すれば いい です か？",
+    "english": "What should I do if the J-Alert sounds?",
+    "grammar_pattern": "Verb-tara",
+    "grammar_explanation": "Expresses a condition; 'if' or 'when' something happens, then another action follows.",
+    "category": "Emergency Preparedness Drills",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "components": [
+      {
+        "text": "Jアラート",
+        "role": "Noun (J-Alert system)",
+        "raw_role": "Noun (J-Alert system)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "が",
+        "role": "Subject marker",
+        "raw_role": "Subject marker",
+        "normalized_role": "Subject Marker"
+      },
+      {
+        "text": "鳴ったら",
+        "role": "Verb (to sound/ring - conditional)",
+        "raw_role": "Verb (to sound/ring - conditional)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "どう",
+        "role": "Adverb (how)",
+        "raw_role": "Adverb (how)",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "すれば",
+        "role": "Verb (to do - conditional)",
+        "raw_role": "Verb (to do - conditional)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "いい",
+        "role": "Adjective (good/fine)",
+        "raw_role": "Adjective (good/fine)",
+        "normalized_role": "Adjective"
+      },
+      {
+        "text": "です",
+        "role": "Copula (to be)",
+        "raw_role": "Copula (to be)",
+        "normalized_role": "Copula"
+      },
+      {
+        "text": "か",
+        "role": "Question particle",
+        "raw_role": "Question particle",
+        "normalized_role": "Particle"
+      }
+    ],
+    "conversation_id": "4b7838de-83ea-442b-99fd-ac85bf5dcc1a",
+    "grammar_function": "Grammar & Structural Patterns",
+    "sequence_key": "Noun → Subject Marker → Verb → Adverb → Verb → Adjective → Copula → Particle",
+    "location": "school",
+    "raw_grammar_pattern": "Verb-tara (Conditional)",
+    "functional_tag": "Verb-tara"
+  },
+  {
+    "japanese": "まずは頭を守ってください。",
+    "hiragana": "まず は あたま を まもって ください。",
+    "english": "First, please protect your head.",
+    "grammar_pattern": "Noun + を",
+    "grammar_explanation": "The particle 'wo' marks the direct object of a transitive verb.",
+    "category": "Emergency Preparedness Drills",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "components": [
+      {
+        "text": "まず",
+        "role": "Adverb (firstly)",
+        "raw_role": "Adverb (firstly)",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "は",
+        "role": "Topic marker",
+        "raw_role": "Topic marker",
+        "normalized_role": "Topic Marker"
+      },
+      {
+        "text": "頭",
+        "role": "Noun (head)",
+        "raw_role": "Noun (head)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "を",
+        "role": "Object marker",
+        "raw_role": "Object marker",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "守って",
+        "role": "Verb (to protect)",
+        "raw_role": "Verb (to protect)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "ください",
+        "role": "Polite request",
+        "raw_role": "Polite request",
+        "normalized_role": "Request"
+      }
+    ],
+    "conversation_id": "4b7838de-83ea-442b-99fd-ac85bf5dcc1a",
+    "grammar_function": "Particles & Structural Markers (を / に / で / と)",
+    "sequence_key": "Adverb → Topic Marker → Noun → Direct Object Marker → Verb → Request",
+    "location": "school",
+    "raw_grammar_pattern": "Noun + を",
+    "functional_tag": "Direct Object Marker (〜を)"
+  },
+  {
+    "japanese": "すみません、財布をなくしました。",
+    "hiragana": "すみません、さいふ を なくしました。",
+    "english": "Excuse me, I lost my wallet.",
+    "grammar_pattern": "Verb",
+    "grammar_explanation": "Describes a completed action in the past using the polite -mashita ending.",
+    "category": "Legal Aid and Police Interactions",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "components": [
+      {
+        "text": "すみません",
+        "role": "interjection (excuse me)",
+        "raw_role": "interjection (excuse me)",
+        "normalized_role": "Interjection"
+      },
+      {
+        "text": "財布",
+        "role": "noun (wallet)",
+        "raw_role": "noun (wallet)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "を",
+        "role": "object marker",
+        "raw_role": "object marker",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "なくしました",
+        "role": "verb (lost - past polite)",
+        "raw_role": "verb (lost - past polite)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "conversation_id": "04b68ab4-8a47-4be1-8615-04a834e39ba5",
+    "grammar_function": "Grammar & Structural Patterns",
+    "sequence_key": "Interjection → Noun → Direct Object Marker → Verb",
+    "location": "police station",
+    "raw_grammar_pattern": "Verb (Past Polite)",
+    "functional_tag": "Verb"
+  },
+  {
+    "japanese": "どこでなくしましたか。",
+    "hiragana": "どこ で なくしました か。",
+    "english": "Where did you lose it?",
+    "grammar_pattern": "〜か",
+    "grammar_explanation": "The particle 'ka' is added to the end of a sentence to indicate a question.",
+    "category": "Legal Aid and Police Interactions",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "components": [
+      {
+        "text": "どこ",
+        "role": "question word (where)",
+        "raw_role": "question word (where)",
+        "normalized_role": "Question Word"
+      },
+      {
+        "text": "で",
+        "role": "location of action marker",
+        "raw_role": "location of action marker",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "なくしました",
+        "role": "verb (lost - past polite)",
+        "raw_role": "verb (lost - past polite)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "か",
+        "role": "question particle",
+        "raw_role": "question particle",
+        "normalized_role": "Particle"
+      }
+    ],
+    "conversation_id": "04b68ab4-8a47-4be1-8615-04a834e39ba5",
+    "grammar_function": "Questions & Inquiries (〜ですか / どこ / どう)",
+    "sequence_key": "Question Word → Particle → Verb → Particle",
+    "location": "police station",
+    "raw_grammar_pattern": "Question marker か",
+    "functional_tag": "Polite Question (\"Is it?\")"
+  },
+  {
+    "japanese": "バスの中に忘れたと思います。",
+    "hiragana": "ばす の なか に わすれた と おもいます。",
+    "english": "I think I left it inside the bus.",
+    "grammar_pattern": "〜ようと思います",
+    "grammar_explanation": "Used to express an opinion or a belief about something.",
+    "category": "Legal Aid and Police Interactions",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "components": [
+      {
+        "text": "バス",
+        "role": "noun (bus)",
+        "raw_role": "noun (bus)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "の",
+        "role": "possessive particle",
+        "raw_role": "possessive particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "中",
+        "role": "noun (inside)",
+        "raw_role": "noun (inside)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "に",
+        "role": "location marker",
+        "raw_role": "location marker",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "忘れた",
+        "role": "verb (forgot/left - past plain)",
+        "raw_role": "verb (forgot/left - past plain)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "と",
+        "role": "quotation particle",
+        "raw_role": "quotation particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "思います",
+        "role": "verb (think - polite)",
+        "raw_role": "verb (think - polite)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "conversation_id": "04b68ab4-8a47-4be1-8615-04a834e39ba5",
+    "grammar_function": "Desires & Intentions (〜たい / つもり / よう)",
+    "sequence_key": "Noun → Particle → Noun → Particle → Verb → Particle → Verb",
+    "location": "police station",
+    "raw_grammar_pattern": "～と思います",
+    "functional_tag": "Intention / Resolution (\"I plan to\")"
+  },
+  {
+    "japanese": "この遺失届に記入してください。",
+    "hiragana": "この いしつ とどけ に きにゅう してください。",
+    "english": "Please fill out this lost property report.",
+    "grammar_pattern": "〜てください",
+    "grammar_explanation": "A polite way to request or ask someone to do something.",
+    "category": "Legal Aid and Police Interactions",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "components": [
+      {
+        "text": "この",
+        "role": "demonstrative (this)",
+        "raw_role": "demonstrative (this)",
+        "normalized_role": "Demonstrative"
+      },
+      {
+        "text": "遺失届",
+        "role": "noun (lost property report)",
+        "raw_role": "noun (lost property report)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "に",
+        "role": "target marker",
+        "raw_role": "target marker",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "記入して",
+        "role": "verb (fill out - te form)",
+        "raw_role": "verb (fill out - te form)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "ください",
+        "role": "polite request",
+        "raw_role": "polite request",
+        "normalized_role": "Request"
+      }
+    ],
+    "conversation_id": "04b68ab4-8a47-4be1-8615-04a834e39ba5",
+    "grammar_function": "Requests & Favors (〜て / ください)",
+    "sequence_key": "Demonstrative → Noun → Particle → Verb → Request",
+    "location": "police station",
+    "raw_grammar_pattern": "～てください",
+    "functional_tag": "Polite Request (\"Please do\")"
+  },
+  {
+    "japanese": "すみません、財布をなくしました。",
+    "hiragana": "すみません、さいふ を なくしました。",
+    "english": "Excuse me, I lost my wallet.",
+    "grammar_pattern": "Verb",
+    "grammar_explanation": "Used to describe a completed action in the past politely.",
+    "category": "Emergencies and Problems",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "a81368df-6b4e-4043-91df-a1119b62eeeb",
+    "components": [
+      {
+        "text": "すみません",
+        "role": "Interjection",
+        "raw_role": "Interjection",
+        "normalized_role": "Interjection"
+      },
+      {
+        "text": "財布",
+        "role": "Noun (Object)",
+        "raw_role": "Noun (Object)",
+        "normalized_role": "Direct Object"
+      },
+      {
+        "text": "を",
+        "role": "Object marker",
+        "raw_role": "Object marker",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "なくしました",
+        "role": "Verb (Past Polite)",
+        "raw_role": "Verb (Past Polite)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Grammar & Structural Patterns",
+    "sequence_key": "Interjection → Direct Object → Direct Object Marker → Verb",
+    "location": "train station",
+    "raw_grammar_pattern": "Verb (Past Polite)",
+    "functional_tag": "Verb"
+  },
+  {
+    "japanese": "それは大変ですね！どこでなくしましたか。",
+    "hiragana": "それ は たいへん です ね！どこ で なくしました か。",
+    "english": "That's terrible! Where did you lose it?",
+    "grammar_pattern": "〜か",
+    "grammar_explanation": "Added to the end of a sentence to indicate a question.",
+    "category": "Emergencies and Problems",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "a81368df-6b4e-4043-91df-a1119b62eeeb",
+    "components": [
+      {
+        "text": "それ",
+        "role": "Pronoun",
+        "raw_role": "Pronoun",
+        "normalized_role": "Pronoun"
+      },
+      {
+        "text": "は",
+        "role": "Topic marker",
+        "raw_role": "Topic marker",
+        "normalized_role": "Topic Marker"
+      },
+      {
+        "text": "大変",
+        "role": "Adjective",
+        "raw_role": "Adjective",
+        "normalized_role": "Adjective"
+      },
+      {
+        "text": "です",
+        "role": "Copula",
+        "raw_role": "Copula",
+        "normalized_role": "Copula"
+      },
+      {
+        "text": "ね",
+        "role": "Sentence-ending particle",
+        "raw_role": "Sentence-ending particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "どこ",
+        "role": "Question word",
+        "raw_role": "Question word",
+        "normalized_role": "Question Word"
+      },
+      {
+        "text": "で",
+        "role": "Location marker",
+        "raw_role": "Location marker",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "なくしました",
+        "role": "Verb (Past Polite)",
+        "raw_role": "Verb (Past Polite)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "か",
+        "role": "Question marker",
+        "raw_role": "Question marker",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Questions & Inquiries (〜ですか / どこ / どう)",
+    "sequence_key": "Pronoun → Topic Marker → Adjective → Copula → Particle → Question Word → Particle → Verb → Particle",
+    "location": "train station",
+    "raw_grammar_pattern": "Question marker か",
+    "functional_tag": "Polite Question (\"Is it?\")"
+  },
+  {
+    "japanese": "電車の中に忘れたと思います。",
+    "hiragana": "でんしゃ の なか に わすれた と おもいます。",
+    "english": "I think I left it inside the train.",
+    "grammar_pattern": "〜ようと思います",
+    "grammar_explanation": "Expresses the speaker's opinion or belief about a situation.",
+    "category": "Emergencies and Problems",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "a81368df-6b4e-4043-91df-a1119b62eeeb",
+    "components": [
+      {
+        "text": "電車",
+        "role": "Noun",
+        "raw_role": "Noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "の",
+        "role": "Possessive marker",
+        "raw_role": "Possessive marker",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "中",
+        "role": "Noun (Location)",
+        "raw_role": "Noun (Location)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "に",
+        "role": "Location marker",
+        "raw_role": "Location marker",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "忘れた",
+        "role": "Verb (Past Plain)",
+        "raw_role": "Verb (Past Plain)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "と",
+        "role": "Quotative particle",
+        "raw_role": "Quotative particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "思います",
+        "role": "Verb (Polite)",
+        "raw_role": "Verb (Polite)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Desires & Intentions (〜たい / つもり / よう)",
+    "sequence_key": "Noun → Particle → Noun → Particle → Verb → Particle → Verb",
+    "location": "train station",
+    "raw_grammar_pattern": "~と思います",
+    "functional_tag": "Intention / Resolution (\"I plan to\")"
+  },
+  {
+    "japanese": "一緒に忘れ物センターへ確認しましょう。",
+    "hiragana": "いっしょ に わすれもの せんたー へ かくにん しましょう。",
+    "english": "Let's check the lost and found center together.",
+    "grammar_pattern": "Verb",
+    "grammar_explanation": "The ~mashou form is used to suggest doing something together.",
+    "category": "Emergencies and Problems",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "a81368df-6b4e-4043-91df-a1119b62eeeb",
+    "components": [
+      {
+        "text": "一緒に",
+        "role": "Adverb",
+        "raw_role": "Adverb",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "忘れ物センター",
+        "role": "Noun (Destination)",
+        "raw_role": "Noun (Destination)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "へ",
+        "role": "Direction marker",
+        "raw_role": "Direction marker",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "確認",
+        "role": "Noun",
+        "raw_role": "Noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "しましょう",
+        "role": "Verb (Volitional Polite)",
+        "raw_role": "Verb (Volitional Polite)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Grammar & Structural Patterns",
+    "sequence_key": "Adverb → Noun → Particle → Noun → Verb",
+    "location": "train station",
+    "raw_grammar_pattern": "Verb (Let's...)",
+    "functional_tag": "Verb"
+  },
+  {
+    "japanese": "地震速報が来ましたよ！",
+    "hiragana": "じしん そくほう が きました よ",
+    "english": "An earthquake alert just came through!",
+    "grammar_pattern": "Verb + よ",
+    "grammar_explanation": "Used to provide new information or emphasize a point to the listener.",
+    "category": "Disaster Preparedness and Response",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "866b09a6-ff73-4458-a6b0-7d5b13162d18",
+    "components": [
+      {
+        "text": "地震速報",
+        "role": "Noun (Earthquake alert)",
+        "raw_role": "Noun (Earthquake alert)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "が",
+        "role": "Subject marker",
+        "raw_role": "Subject marker",
+        "normalized_role": "Subject Marker"
+      },
+      {
+        "text": "来ました",
+        "role": "Verb (Came - polite past)",
+        "raw_role": "Verb (Came - polite past)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "よ",
+        "role": "Sentence ending particle",
+        "raw_role": "Sentence ending particle",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Grammar & Structural Patterns",
+    "sequence_key": "Noun → Subject Marker → Verb → Particle",
+    "location": "home",
+    "raw_grammar_pattern": "Verb (Past) + よ",
+    "functional_tag": "Verb + よ"
+  },
+  {
+    "japanese": "どこに避難すればいいですか？",
+    "hiragana": "どこ に ひなん すれば いい です か",
+    "english": "Where should I evacuate to?",
+    "grammar_pattern": "〜ばいいですか",
+    "grammar_explanation": "A common phrase used to ask for advice or instructions on what to do.",
+    "category": "Disaster Preparedness and Response",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "866b09a6-ff73-4458-a6b0-7d5b13162d18",
+    "components": [
+      {
+        "text": "どこ",
+        "role": "Question word (Where)",
+        "raw_role": "Question word (Where)",
+        "normalized_role": "Question Word"
+      },
+      {
+        "text": "に",
+        "role": "Direction marker",
+        "raw_role": "Direction marker",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "避難すれば",
+        "role": "Verb (Evacuate - conditional form)",
+        "raw_role": "Verb (Evacuate - conditional form)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "いい",
+        "role": "Adjective (Good/Fine)",
+        "raw_role": "Adjective (Good/Fine)",
+        "normalized_role": "Adjective"
+      },
+      {
+        "text": "ですか",
+        "role": "Polite question marker",
+        "raw_role": "Polite question marker",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Advice & Conditionals (〜ば / 〜たら / ほう)",
+    "sequence_key": "Question Word → Particle → Verb → Adjective → Particle",
+    "location": "home",
+    "raw_grammar_pattern": "～ばいいですか",
+    "functional_tag": "Seeking Guidance (\"What should I do?\")"
+  },
+  {
+    "japanese": "あそこの避難所に逃げましょう。",
+    "hiragana": "あそこ の ひなんじょ に にげましょう",
+    "english": "Let's flee to that evacuation center over there.",
+    "grammar_pattern": "〜ましょう",
+    "grammar_explanation": "The volitional form used to suggest or propose an action together.",
+    "category": "Disaster Preparedness and Response",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "866b09a6-ff73-4458-a6b0-7d5b13162d18",
+    "components": [
+      {
+        "text": "あそこ",
+        "role": "Pronoun (Over there)",
+        "raw_role": "Pronoun (Over there)",
+        "normalized_role": "Pronoun"
+      },
+      {
+        "text": "の",
+        "role": "Possessive/Linking particle",
+        "raw_role": "Possessive/Linking particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "避難所",
+        "role": "Noun (Evacuation shelter)",
+        "raw_role": "Noun (Evacuation shelter)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "に",
+        "role": "Direction marker",
+        "raw_role": "Direction marker",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "逃げましょう",
+        "role": "Verb (Let's flee - volitional)",
+        "raw_role": "Verb (Let's flee - volitional)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Suggestions & Invitations (〜ましょう / ませんか)",
+    "sequence_key": "Pronoun → Particle → Noun → Particle → Verb",
+    "location": "home",
+    "raw_grammar_pattern": "～ましょう",
+    "functional_tag": "Proposal / Collective Action (\"Let's\")"
+  },
+  {
+    "japanese": "非常用持ち出し袋はありますか？",
+    "hiragana": "ひじょうよう もちだしぶくろ は あります か",
+    "english": "Do we have the emergency carry-out bag?",
+    "grammar_pattern": "〜はありますか",
+    "grammar_explanation": "A standard way to ask if a specific object exists or is available.",
+    "category": "Disaster Preparedness and Response",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "866b09a6-ff73-4458-a6b0-7d5b13162d18",
+    "components": [
+      {
+        "text": "非常用持ち出し袋",
+        "role": "Noun (Emergency carry-out bag)",
+        "raw_role": "Noun (Emergency carry-out bag)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "は",
+        "role": "Topic marker",
+        "raw_role": "Topic marker",
+        "normalized_role": "Topic Marker"
+      },
+      {
+        "text": "あります",
+        "role": "Verb (Exist/Have)",
+        "raw_role": "Verb (Exist/Have)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "か",
+        "role": "Question particle",
+        "raw_role": "Question particle",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Existence & Presence (ある / いる)",
+    "sequence_key": "Noun → Topic Marker → Verb → Particle",
+    "location": "home",
+    "raw_grammar_pattern": "Noun + はありますか",
+    "functional_tag": "Checking Availability (\"Do you have...?\")"
+  },
+  {
+    "japanese": "はい、もう準備してあります。",
+    "hiragana": "はい もう じゅんび して あります",
+    "english": "Yes, I have already prepared it.",
+    "grammar_pattern": "〜てあります",
+    "grammar_explanation": "Describes a state that exists as a result of an intentional action.",
+    "category": "Disaster Preparedness and Response",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "866b09a6-ff73-4458-a6b0-7d5b13162d18",
+    "components": [
+      {
+        "text": "はい",
+        "role": "Interjection (Yes)",
+        "raw_role": "Interjection (Yes)",
+        "normalized_role": "Interjection"
+      },
+      {
+        "text": "もう",
+        "role": "Adverb (Already)",
+        "raw_role": "Adverb (Already)",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "準備して",
+        "role": "Verb (Prepare - te-form)",
+        "raw_role": "Verb (Prepare - te-form)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "あります",
+        "role": "Auxiliary verb (State of being)",
+        "raw_role": "Auxiliary verb (State of being)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Time, Aspect & State (〜ている / 〜てある)",
+    "sequence_key": "Interjection → Adverb → Verb → Verb",
+    "location": "home",
+    "raw_grammar_pattern": "～てあります",
+    "functional_tag": "Resultant State (\"Has been prepared\")"
+  },
+  {
+    "japanese": "明日は地震の避難訓練がありますね。",
+    "hiragana": "あした は じしん の ひなん くんれん が あります ね",
+    "english": "Tomorrow is the earthquake evacuation drill, isn't it?",
+    "grammar_pattern": "Noun + があります",
+    "grammar_explanation": "Used to indicate the existence of an event or object.",
+    "category": "Emergency Preparedness Drills",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "d4a31064-53dd-4f1d-bcdc-0b25e185b074",
+    "components": [
+      {
+        "text": "明日",
+        "role": "Noun (tomorrow)",
+        "raw_role": "Noun (tomorrow)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "は",
+        "role": "Topic marker",
+        "raw_role": "Topic marker",
+        "normalized_role": "Topic Marker"
+      },
+      {
+        "text": "地震",
+        "role": "Noun (earthquake)",
+        "raw_role": "Noun (earthquake)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "の",
+        "role": "Possessive particle",
+        "raw_role": "Possessive particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "避難訓練",
+        "role": "Noun (evacuation drill)",
+        "raw_role": "Noun (evacuation drill)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "が",
+        "role": "Subject marker",
+        "raw_role": "Subject marker",
+        "normalized_role": "Subject Marker"
+      },
+      {
+        "text": "あります",
+        "role": "Verb (to exist/be)",
+        "raw_role": "Verb (to exist/be)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "ね",
+        "role": "Confirmation particle",
+        "raw_role": "Confirmation particle",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Existence & Presence (ある / いる)",
+    "sequence_key": "Noun → Topic Marker → Noun → Particle → Noun → Subject Marker → Verb → Particle",
+    "location": "office",
+    "raw_grammar_pattern": "Noun + があります",
+    "functional_tag": "Inanimate Existence (\"There is / Have\")"
+  },
+  {
+    "japanese": "はい、避難経路を確認しておきましょう。",
+    "hiragana": "はい 、 ひなん けいろ を かくにん して おきましょう",
+    "english": "Yes, let's check the evacuation routes in advance.",
+    "grammar_pattern": "〜ておきましょう",
+    "grammar_explanation": "Suggests doing something as a preparation for the future.",
+    "category": "Emergency Preparedness Drills",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "d4a31064-53dd-4f1d-bcdc-0b25e185b074",
+    "components": [
+      {
+        "text": "はい",
+        "role": "Interjection (yes)",
+        "raw_role": "Interjection (yes)",
+        "normalized_role": "Interjection"
+      },
+      {
+        "text": "避難経路",
+        "role": "Noun (evacuation route)",
+        "raw_role": "Noun (evacuation route)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "を",
+        "role": "Object marker",
+        "raw_role": "Object marker",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "確認して",
+        "role": "Verb (confirm, te-form)",
+        "raw_role": "Verb (confirm, te-form)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "おきましょう",
+        "role": "Auxiliary verb (let's do in advance)",
+        "raw_role": "Auxiliary verb (let's do in advance)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Suggestions & Invitations (〜ましょう / ませんか)",
+    "sequence_key": "Interjection → Noun → Direct Object Marker → Verb → Verb",
+    "location": "office",
+    "raw_grammar_pattern": "~ておきましょう",
+    "functional_tag": "Proposal / Collective Action (\"Let's\")"
+  },
+  {
+    "japanese": "Jアラートが鳴った時はどうすればいいですか。",
+    "hiragana": "じぇい あらーと が なった とき は どう すれば いい です か",
+    "english": "What should I do when the J-Alert sounds?",
+    "grammar_pattern": "〜ばいいですか",
+    "grammar_explanation": "Used to ask for advice or the best course of action.",
+    "category": "Emergency Preparedness Drills",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "d4a31064-53dd-4f1d-bcdc-0b25e185b074",
+    "components": [
+      {
+        "text": "Jアラート",
+        "role": "Noun (J-Alert system)",
+        "raw_role": "Noun (J-Alert system)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "が",
+        "role": "Subject marker",
+        "raw_role": "Subject marker",
+        "normalized_role": "Subject Marker"
+      },
+      {
+        "text": "鳴った",
+        "role": "Verb (rang, past tense)",
+        "raw_role": "Verb (rang, past tense)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "時",
+        "role": "Noun (time/when)",
+        "raw_role": "Noun (time/when)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "は",
+        "role": "Topic marker",
+        "raw_role": "Topic marker",
+        "normalized_role": "Topic Marker"
+      },
+      {
+        "text": "どう",
+        "role": "Adverb (how)",
+        "raw_role": "Adverb (how)",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "すれば",
+        "role": "Verb (if do, conditional)",
+        "raw_role": "Verb (if do, conditional)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "いい",
+        "role": "Adjective (good/best)",
+        "raw_role": "Adjective (good/best)",
+        "normalized_role": "Adjective"
+      },
+      {
+        "text": "ですか",
+        "role": "Polite question ending",
+        "raw_role": "Polite question ending",
+        "normalized_role": "Sentence Ending / Modal"
+      }
+    ],
+    "grammar_function": "Advice & Conditionals (〜ば / 〜たら / ほう)",
+    "sequence_key": "Noun → Subject Marker → Verb → Noun → Topic Marker → Adverb → Verb → Adjective → Sentence Ending / Modal",
+    "location": "office",
+    "raw_grammar_pattern": "~ばいいですか",
+    "functional_tag": "Seeking Guidance (\"What should I do?\")"
+  },
+  {
+    "japanese": "まずは頭を守って、落ち着いて行動してください。",
+    "hiragana": "まず は あたま を まもって 、 おちついて こうどう して ください",
+    "english": "First, protect your head and please act calmly.",
+    "grammar_pattern": "〜てください",
+    "grammar_explanation": "A polite way to request or instruct someone to do something.",
+    "category": "Emergency Preparedness Drills",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "d4a31064-53dd-4f1d-bcdc-0b25e185b074",
+    "components": [
+      {
+        "text": "まず",
+        "role": "Adverb (first)",
+        "raw_role": "Adverb (first)",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "は",
+        "role": "Topic marker",
+        "raw_role": "Topic marker",
+        "normalized_role": "Topic Marker"
+      },
+      {
+        "text": "頭",
+        "role": "Noun (head)",
+        "raw_role": "Noun (head)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "を",
+        "role": "Object marker",
+        "raw_role": "Object marker",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "守って",
+        "role": "Verb (protect, te-form)",
+        "raw_role": "Verb (protect, te-form)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "落ち着いて",
+        "role": "Verb (be calm, te-form)",
+        "raw_role": "Verb (be calm, te-form)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "行動して",
+        "role": "Verb (act/behave, te-form)",
+        "raw_role": "Verb (act/behave, te-form)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "ください",
+        "role": "Polite request auxiliary",
+        "raw_role": "Polite request auxiliary",
+        "normalized_role": "Request"
+      }
+    ],
+    "grammar_function": "Requests & Favors (〜て / ください)",
+    "sequence_key": "Adverb → Topic Marker → Noun → Direct Object Marker → Verb → Verb → Verb → Request",
+    "location": "office",
+    "raw_grammar_pattern": "~てください",
+    "functional_tag": "Polite Request (\"Please do\")"
+  },
+  {
+    "japanese": "今夜、もう一度マニュアルを確認しておきます。",
+    "hiragana": "こんや 、 もう いちど まにゅある を かくにん して おきます",
+    "english": "I will check the manual once more tonight.",
+    "grammar_pattern": "〜ておきます",
+    "grammar_explanation": "Indicates performing an action to prepare for a future event.",
+    "category": "Emergency Preparedness Drills",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "d4a31064-53dd-4f1d-bcdc-0b25e185b074",
+    "components": [
+      {
+        "text": "今夜",
+        "role": "Noun (tonight)",
+        "raw_role": "Noun (tonight)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "もう一度",
+        "role": "Adverbial phrase (once more)",
+        "raw_role": "Adverbial phrase (once more)",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "マニュアル",
+        "role": "Noun (manual)",
+        "raw_role": "Noun (manual)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "を",
+        "role": "Object marker",
+        "raw_role": "Object marker",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "確認して",
+        "role": "Verb (confirm, te-form)",
+        "raw_role": "Verb (confirm, te-form)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "おきます",
+        "role": "Auxiliary verb (do in advance)",
+        "raw_role": "Auxiliary verb (do in advance)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Time, Aspect & State (〜ている / 〜てある)",
+    "sequence_key": "Noun → Adverb → Noun → Direct Object Marker → Verb → Verb",
+    "location": "office",
+    "raw_grammar_pattern": "~ておきます",
+    "functional_tag": "Preparatory Action (\"Do in advance\")"
+  },
+  {
+    "japanese": "すみません、財布をなくしました。",
+    "hiragana": "すみません、さいふ を なくしました。",
+    "english": "Excuse me, I lost my wallet.",
+    "grammar_pattern": "Noun + を + Verb",
+    "grammar_explanation": "The particle 'を' marks the direct object of an action.",
+    "category": "Legal Aid and Police Interactions",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "b1619a78-87d8-476e-869c-6e14aa52df21",
+    "components": [
+      {
+        "text": "すみません",
+        "role": "interjection",
+        "raw_role": "interjection",
+        "normalized_role": "Interjection"
+      },
+      {
+        "text": "財布",
+        "role": "noun (object)",
+        "raw_role": "noun (object)",
+        "normalized_role": "Direct Object"
+      },
+      {
+        "text": "を",
+        "role": "object marker",
+        "raw_role": "object marker",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "なくしました",
+        "role": "verb (past polite)",
+        "raw_role": "verb (past polite)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Particles & Structural Markers (を / に / で / と)",
+    "sequence_key": "Interjection → Direct Object → Direct Object Marker → Verb",
+    "location": "police station",
+    "raw_grammar_pattern": "Noun + を + Verb",
+    "functional_tag": "Direct Object Marker (〜を)"
+  },
+  {
+    "japanese": "どこでなくしましたか。",
+    "hiragana": "どこ で なくしました か。",
+    "english": "Where did you lose it?",
+    "grammar_pattern": "Question word + で",
+    "grammar_explanation": "The particle 'で' indicates the location where an action takes place.",
+    "category": "Legal Aid and Police Interactions",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "b1619a78-87d8-476e-869c-6e14aa52df21",
+    "components": [
+      {
+        "text": "どこ",
+        "role": "question word (where)",
+        "raw_role": "question word (where)",
+        "normalized_role": "Question Word"
+      },
+      {
+        "text": "で",
+        "role": "location marker",
+        "raw_role": "location marker",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "なくしました",
+        "role": "verb (past polite)",
+        "raw_role": "verb (past polite)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "か",
+        "role": "question particle",
+        "raw_role": "question particle",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Questions & Inquiries (〜ですか / どこ / どう)",
+    "sequence_key": "Question Word → Particle → Verb → Particle",
+    "location": "police station",
+    "raw_grammar_pattern": "Question word + で",
+    "functional_tag": "Information Query (\"How / What / Where?\")"
+  },
+  {
+    "japanese": "駅でなくしたと思います。",
+    "hiragana": "えき で なくした と おもいます。",
+    "english": "I think I lost it at the station.",
+    "grammar_pattern": "〜ようと思います",
+    "grammar_explanation": "Used to express the speaker's opinion or a guess about something.",
+    "category": "Legal Aid and Police Interactions",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "b1619a78-87d8-476e-869c-6e14aa52df21",
+    "components": [
+      {
+        "text": "駅",
+        "role": "noun (location)",
+        "raw_role": "noun (location)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "で",
+        "role": "location marker",
+        "raw_role": "location marker",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "なくした",
+        "role": "verb (plain past)",
+        "raw_role": "verb (plain past)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "と",
+        "role": "quotation particle",
+        "raw_role": "quotation particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "思います",
+        "role": "verb (think)",
+        "raw_role": "verb (think)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Desires & Intentions (〜たい / つもり / よう)",
+    "sequence_key": "Noun → Particle → Verb → Particle → Verb",
+    "location": "police station",
+    "raw_grammar_pattern": "Plain form + と思います",
+    "functional_tag": "Intention / Resolution (\"I plan to\")"
+  },
+  {
+    "japanese": "こちらの遺失届に記入してください。",
+    "hiragana": "こちら の いしつとどけ に きにゅう して ください。",
+    "english": "Please fill out this lost property report.",
+    "grammar_pattern": "〜てください",
+    "grammar_explanation": "A polite way to request or instruct someone to do an action.",
+    "category": "Legal Aid and Police Interactions",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "b1619a78-87d8-476e-869c-6e14aa52df21",
+    "components": [
+      {
+        "text": "こちら",
+        "role": "demonstrative (this)",
+        "raw_role": "demonstrative (this)",
+        "normalized_role": "Demonstrative"
+      },
+      {
+        "text": "の",
+        "role": "possessive marker",
+        "raw_role": "possessive marker",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "遺失届",
+        "role": "noun (lost property report)",
+        "raw_role": "noun (lost property report)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "に",
+        "role": "target marker",
+        "raw_role": "target marker",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "記入して",
+        "role": "verb (te-form)",
+        "raw_role": "verb (te-form)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "ください",
+        "role": "polite request",
+        "raw_role": "polite request",
+        "normalized_role": "Request"
+      }
+    ],
+    "grammar_function": "Requests & Favors (〜て / ください)",
+    "sequence_key": "Demonstrative → Particle → Noun → Particle → Verb → Request",
+    "location": "police station",
+    "raw_grammar_pattern": "Verb (Te-form) + ください",
+    "functional_tag": "Polite Request (\"Please do\")"
+  },
+  {
+    "japanese": "すみません、財布をなくしました。",
+    "hiragana": "すみません、 さいふ を なくしました。",
+    "english": "Excuse me, I lost my wallet.",
+    "grammar_pattern": "Verb",
+    "grammar_explanation": "Used to describe a completed action in the past in a polite manner.",
+    "category": "Emergencies and Problems",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "a12116c1-600a-4c97-8072-5cf6dab53dc0",
+    "components": [
+      {
+        "text": "すみません",
+        "role": "Greeting/Apology",
+        "raw_role": "Greeting/Apology",
+        "normalized_role": "Interjection"
+      },
+      {
+        "text": "財布",
+        "role": "Noun (Object)",
+        "raw_role": "Noun (Object)",
+        "normalized_role": "Direct Object"
+      },
+      {
+        "text": "を",
+        "role": "Object marker",
+        "raw_role": "Object marker",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "なくしました",
+        "role": "Verb (Past Polite)",
+        "raw_role": "Verb (Past Polite)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Grammar & Structural Patterns",
+    "sequence_key": "Interjection → Direct Object → Direct Object Marker → Verb",
+    "location": "police station",
+    "raw_grammar_pattern": "Verb (Past Polite)",
+    "functional_tag": "Verb"
+  },
+  {
+    "japanese": "それは大変ですね！どこでなくしましたか。",
+    "hiragana": "それ は たいへん です ね！ どこ で なくしました か。",
+    "english": "That's terrible! Where did you lose it?",
+    "grammar_pattern": "Verb + か",
+    "grammar_explanation": "Used to form a polite question about an event that happened in the past.",
+    "category": "Emergencies and Problems",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "a12116c1-600a-4c97-8072-5cf6dab53dc0",
+    "components": [
+      {
+        "text": "それ",
+        "role": "Pronoun",
+        "raw_role": "Pronoun",
+        "normalized_role": "Pronoun"
+      },
+      {
+        "text": "は",
+        "role": "Topic marker",
+        "raw_role": "Topic marker",
+        "normalized_role": "Topic Marker"
+      },
+      {
+        "text": "大変",
+        "role": "Adjective",
+        "raw_role": "Adjective",
+        "normalized_role": "Adjective"
+      },
+      {
+        "text": "です",
+        "role": "Copula (Polite)",
+        "raw_role": "Copula (Polite)",
+        "normalized_role": "Copula"
+      },
+      {
+        "text": "ね",
+        "role": "Sentence ending particle",
+        "raw_role": "Sentence ending particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "どこ",
+        "role": "Question word (Location)",
+        "raw_role": "Question word (Location)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "で",
+        "role": "Location of action marker",
+        "raw_role": "Location of action marker",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "なくしました",
+        "role": "Verb (Past Polite)",
+        "raw_role": "Verb (Past Polite)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "か",
+        "role": "Question marker",
+        "raw_role": "Question marker",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Grammar & Structural Patterns",
+    "sequence_key": "Pronoun → Topic Marker → Adjective → Copula → Particle → Noun → Particle → Verb → Particle",
+    "location": "police station",
+    "raw_grammar_pattern": "Verb (Past Polite) + か",
+    "functional_tag": "Verb + か"
+  },
+  {
+    "japanese": "電車の中に忘れたと思います。",
+    "hiragana": "でんしゃ の なか に わすれた と おもいます。",
+    "english": "I think I left it inside the train.",
+    "grammar_pattern": "〜ようと思います",
+    "grammar_explanation": "Used to express a thought, opinion, or an educated guess about something.",
+    "category": "Emergencies and Problems",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "a12116c1-600a-4c97-8072-5cf6dab53dc0",
+    "components": [
+      {
+        "text": "電車",
+        "role": "Noun",
+        "raw_role": "Noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "の",
+        "role": "Linking particle",
+        "raw_role": "Linking particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "中",
+        "role": "Noun (Interior)",
+        "raw_role": "Noun (Interior)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "に",
+        "role": "Location marker",
+        "raw_role": "Location marker",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "忘れた",
+        "role": "Verb (Plain Past)",
+        "raw_role": "Verb (Plain Past)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "と",
+        "role": "Quotative particle",
+        "raw_role": "Quotative particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "思います",
+        "role": "Verb (Polite)",
+        "raw_role": "Verb (Polite)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Desires & Intentions (〜たい / つもり / よう)",
+    "sequence_key": "Noun → Particle → Noun → Particle → Verb → Particle → Verb",
+    "location": "police station",
+    "raw_grammar_pattern": "Plain form + と思います",
+    "functional_tag": "Intention / Resolution (\"I plan to\")"
+  },
+  {
+    "japanese": "では、この遺失物届に記入してください。",
+    "hiragana": "では、 この いしつぶつ とどけ に きにゅう して ください。",
+    "english": "In that case, please fill out this lost property report.",
+    "grammar_pattern": "〜てください",
+    "grammar_explanation": "A polite way to request or ask someone to do something.",
+    "category": "Emergencies and Problems",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "a12116c1-600a-4c97-8072-5cf6dab53dc0",
+    "components": [
+      {
+        "text": "では",
+        "role": "Conjunction",
+        "raw_role": "Conjunction",
+        "normalized_role": "Conjunction"
+      },
+      {
+        "text": "この",
+        "role": "Demonstrative word",
+        "raw_role": "Demonstrative word",
+        "normalized_role": "Demonstrative"
+      },
+      {
+        "text": "遺失物届",
+        "role": "Noun",
+        "raw_role": "Noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "に",
+        "role": "Target marker",
+        "raw_role": "Target marker",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "記入して",
+        "role": "Verb (Te-form)",
+        "raw_role": "Verb (Te-form)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "ください",
+        "role": "Polite request",
+        "raw_role": "Polite request",
+        "normalized_role": "Request"
+      }
+    ],
+    "grammar_function": "Requests & Favors (〜て / ください)",
+    "sequence_key": "Conjunction → Demonstrative → Noun → Particle → Verb → Request",
+    "location": "police station",
+    "raw_grammar_pattern": "Verb (Te-form) + ください",
+    "functional_tag": "Polite Request (\"Please do\")"
+  },
+  {
+    "japanese": "見て、地震速報が来たよ！",
+    "hiragana": "みて、 じしん そくほう が きた よ！",
+    "english": "Look, an earthquake early warning just came!",
+    "grammar_pattern": "Noun + が + Verb",
+    "grammar_explanation": "The particle 'ga' identifies the subject that is performing the action.",
+    "category": "Disaster Preparedness and Response",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "f3879670-236b-4316-b5c9-b0ca7c86ea99",
+    "components": [
+      {
+        "text": "見て",
+        "role": "verb (request)",
+        "raw_role": "verb (request)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "地震速報",
+        "role": "noun (earthquake warning)",
+        "raw_role": "noun (earthquake warning)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "が",
+        "role": "subject marker",
+        "raw_role": "subject marker",
+        "normalized_role": "Subject Marker"
+      },
+      {
+        "text": "来た",
+        "role": "verb (came/arrived)",
+        "raw_role": "verb (came/arrived)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "よ",
+        "role": "sentence-ending particle (emphasis)",
+        "raw_role": "sentence-ending particle (emphasis)",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Particles & Structural Markers (を / に / で / と)",
+    "sequence_key": "Verb → Noun → Subject Marker → Verb → Particle",
+    "location": "home",
+    "raw_grammar_pattern": "Noun + が + Verb",
+    "functional_tag": "Subject / Identifier Marker (〜が)"
+  },
+  {
+    "japanese": "急いでテーブルの下に隠れよう。",
+    "hiragana": "いそいで てーぶる の した に かくれよう。",
+    "english": "Quickly, let's hide under the table.",
+    "grammar_pattern": "Noun + の + Noun",
+    "grammar_explanation": "The particle 'no' connects two nouns to show location or relationship.",
+    "category": "Disaster Preparedness and Response",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "f3879670-236b-4316-b5c9-b0ca7c86ea99",
+    "components": [
+      {
+        "text": "急いで",
+        "role": "adverb (quickly)",
+        "raw_role": "adverb (quickly)",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "テーブル",
+        "role": "noun (table)",
+        "raw_role": "noun (table)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "の",
+        "role": "connecting particle",
+        "raw_role": "connecting particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "下",
+        "role": "noun (under/bottom)",
+        "raw_role": "noun (under/bottom)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "に",
+        "role": "location marker",
+        "raw_role": "location marker",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "隠れよう",
+        "role": "verb (volitional form: let's hide)",
+        "raw_role": "verb (volitional form: let's hide)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Particles & Structural Markers (を / に / で / と)",
+    "sequence_key": "Adverb → Noun → Particle → Noun → Particle → Verb",
+    "location": "home",
+    "raw_grammar_pattern": "Noun + の + Noun",
+    "functional_tag": "Structural Particle Marker"
+  },
+  {
+    "japanese": "揺れが収まったら、避難経路を確認しよう。",
+    "hiragana": "ゆれ が おさまったら、 ひなん けいろ を かくにん しよう。",
+    "english": "Once the shaking stops, let's check the evacuation route.",
+    "grammar_pattern": "Verb-tara",
+    "grammar_explanation": "The '-tara' form indicates that one action happens after another is completed.",
+    "category": "Disaster Preparedness and Response",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "f3879670-236b-4316-b5c9-b0ca7c86ea99",
+    "components": [
+      {
+        "text": "揺れ",
+        "role": "noun (shaking)",
+        "raw_role": "noun (shaking)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "が",
+        "role": "subject marker",
+        "raw_role": "subject marker",
+        "normalized_role": "Subject Marker"
+      },
+      {
+        "text": "収まったら",
+        "role": "verb (conditional: once it settles)",
+        "raw_role": "verb (conditional: once it settles)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "避難経路",
+        "role": "noun (evacuation route)",
+        "raw_role": "noun (evacuation route)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "を",
+        "role": "object marker",
+        "raw_role": "object marker",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "確認しよう",
+        "role": "verb (volitional form: let's confirm)",
+        "raw_role": "verb (volitional form: let's confirm)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Grammar & Structural Patterns",
+    "sequence_key": "Noun → Subject Marker → Verb → Noun → Direct Object Marker → Verb",
+    "location": "home",
+    "raw_grammar_pattern": "Verb-tara (Conditional)",
+    "functional_tag": "Verb-tara"
+  },
+  {
+    "japanese": "私も非常用持ち出し袋を準備するね。",
+    "hiragana": "わたし も ひじょうよう もちだしぶくろ を じゅんび する ね。",
+    "english": "I will prepare the emergency grab-and-go bag too.",
+    "grammar_pattern": "Noun + を + Verb",
+    "grammar_explanation": "The particle 'wo' marks the direct object of a transitive verb.",
+    "category": "Disaster Preparedness and Response",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "f3879670-236b-4316-b5c9-b0ca7c86ea99",
+    "components": [
+      {
+        "text": "私",
+        "role": "noun (I)",
+        "raw_role": "noun (I)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "も",
+        "role": "particle (also/too)",
+        "raw_role": "particle (also/too)",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "非常用持ち出し袋",
+        "role": "noun (emergency bag)",
+        "raw_role": "noun (emergency bag)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "を",
+        "role": "object marker",
+        "raw_role": "object marker",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "準備する",
+        "role": "verb (to prepare)",
+        "raw_role": "verb (to prepare)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "ね",
+        "role": "sentence-ending particle (confirmation)",
+        "raw_role": "sentence-ending particle (confirmation)",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Particles & Structural Markers (を / に / で / と)",
+    "sequence_key": "Noun → Particle → Noun → Direct Object Marker → Verb → Particle",
+    "location": "home",
+    "raw_grammar_pattern": "Noun + を + Verb",
+    "functional_tag": "Direct Object Marker (〜を)"
+  },
+  {
+    "japanese": "もうすぐ地震の訓練が始まりますね。",
+    "hiragana": "もうすぐ じしん の くんれん が はじまります ね",
+    "english": "The earthquake drill is starting soon, isn't it?",
+    "grammar_pattern": "Sentence ending particle ね",
+    "grammar_explanation": "Used at the end of a sentence to seek agreement or confirmation from the listener.",
+    "category": "Emergency Preparedness Drills",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "52484de8-60c2-4959-96f8-86236889051c",
+    "components": [
+      {
+        "text": "もうすぐ",
+        "role": "Adverb meaning 'soon'",
+        "raw_role": "Adverb meaning 'soon'",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "地震",
+        "role": "Noun meaning 'earthquake'",
+        "raw_role": "Noun meaning 'earthquake'",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "の",
+        "role": "Possessive particle connecting two nouns",
+        "raw_role": "Possessive particle connecting two nouns",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "訓練",
+        "role": "Noun meaning 'drill/training'",
+        "raw_role": "Noun meaning 'drill/training'",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "が",
+        "role": "Subject marker particle",
+        "raw_role": "Subject marker particle",
+        "normalized_role": "Subject Marker"
+      },
+      {
+        "text": "始まります",
+        "role": "Polite verb meaning 'to begin'",
+        "raw_role": "Polite verb meaning 'to begin'",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "ね",
+        "role": "Confirmation particle",
+        "raw_role": "Confirmation particle",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Particles & Structural Markers (を / に / で / と)",
+    "sequence_key": "Adverb → Noun → Particle → Noun → Subject Marker → Verb → Particle",
+    "location": "Not defined",
+    "raw_grammar_pattern": "Sentence ending particle ね",
+    "functional_tag": "Structural Particle Marker"
+  },
+  {
+    "japanese": "はい。まずは避難経路を確認しましょう。",
+    "hiragana": "はい。 まずは ひなん けいろ を かくにん しましょう",
+    "english": "Yes. Let's check the evacuation route first.",
+    "grammar_pattern": "〜ようましょう",
+    "grammar_explanation": "The volitional form used to suggest an action or invite someone to do something together.",
+    "category": "Emergency Preparedness Drills",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "52484de8-60c2-4959-96f8-86236889051c",
+    "components": [
+      {
+        "text": "はい",
+        "role": "Affirmative interjection",
+        "raw_role": "Affirmative interjection",
+        "normalized_role": "Interjection"
+      },
+      {
+        "text": "まずは",
+        "role": "Adverb meaning 'first of all'",
+        "raw_role": "Adverb meaning 'first of all'",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "避難経路",
+        "role": "Noun meaning 'evacuation route'",
+        "raw_role": "Noun meaning 'evacuation route'",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "を",
+        "role": "Object marker particle",
+        "raw_role": "Object marker particle",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "確認しましょう",
+        "role": "Volitional verb meaning 'let's confirm'",
+        "raw_role": "Volitional verb meaning 'let's confirm'",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Suggestions & Invitations (〜ましょう / ませんか)",
+    "sequence_key": "Interjection → Adverb → Noun → Direct Object Marker → Verb",
+    "location": "Not defined",
+    "raw_grammar_pattern": "Verb volitional ましょう",
+    "functional_tag": "Proposal / Collective Action (\"Let's\")"
+  },
+  {
+    "japanese": "Jアラートが鳴った時はどうすればいいですか。",
+    "hiragana": "ジェイ アラート が なった とき は どう すれば いい です か",
+    "english": "What should I do when the J-Alert sounds?",
+    "grammar_pattern": "〜ばば + いい",
+    "grammar_explanation": "A structure used to ask for advice or the correct way to do something.",
+    "category": "Emergency Preparedness Drills",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "52484de8-60c2-4959-96f8-86236889051c",
+    "components": [
+      {
+        "text": "Jアラート",
+        "role": "Noun referring to the emergency broadcast system",
+        "raw_role": "Noun referring to the emergency broadcast system",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "が",
+        "role": "Subject marker particle",
+        "raw_role": "Subject marker particle",
+        "normalized_role": "Subject Marker"
+      },
+      {
+        "text": "鳴った",
+        "role": "Past tense verb meaning 'sounded/rang'",
+        "raw_role": "Past tense verb meaning 'sounded/rang'",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "時",
+        "role": "Noun meaning 'time/when'",
+        "raw_role": "Noun meaning 'time/when'",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "は",
+        "role": "Topic marker particle",
+        "raw_role": "Topic marker particle",
+        "normalized_role": "Topic Marker"
+      },
+      {
+        "text": "どう",
+        "role": "Interrogative adverb meaning 'how'",
+        "raw_role": "Interrogative adverb meaning 'how'",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "すれば",
+        "role": "Conditional form of the verb 'to do'",
+        "raw_role": "Conditional form of the verb 'to do'",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "いい",
+        "role": "Adjective meaning 'good/correct'",
+        "raw_role": "Adjective meaning 'good/correct'",
+        "normalized_role": "Adjective"
+      },
+      {
+        "text": "ですか",
+        "role": "Polite question ending",
+        "raw_role": "Polite question ending",
+        "normalized_role": "Sentence Ending / Modal"
+      }
+    ],
+    "grammar_function": "Advice & Conditionals (〜ば / 〜たら / ほう)",
+    "sequence_key": "Noun → Subject Marker → Verb → Noun → Topic Marker → Adverb → Verb → Adjective → Sentence Ending / Modal",
+    "location": "Not defined",
+    "raw_grammar_pattern": "Conditional ば + いい",
+    "functional_tag": "Hypothetical Conditional (\"If\")"
+  },
+  {
+    "japanese": "スタッフの指示に従って、落ち着いて移動してください。",
+    "hiragana": "スタッフ の しじ に したがって、 おちついて いどう して ください",
+    "english": "Please follow the staff's instructions and move calmly.",
+    "grammar_pattern": "〜てください",
+    "grammar_explanation": "A polite request used to ask someone to perform a specific action.",
+    "category": "Emergency Preparedness Drills",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "52484de8-60c2-4959-96f8-86236889051c",
+    "components": [
+      {
+        "text": "スタッフ",
+        "role": "Noun meaning 'staff'",
+        "raw_role": "Noun meaning 'staff'",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "の",
+        "role": "Possessive particle",
+        "raw_role": "Possessive particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "指示",
+        "role": "Noun meaning 'instructions'",
+        "raw_role": "Noun meaning 'instructions'",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "に",
+        "role": "Target particle",
+        "raw_role": "Target particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "従って",
+        "role": "Te-form verb meaning 'to follow'",
+        "raw_role": "Te-form verb meaning 'to follow'",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "落ち着いて",
+        "role": "Te-form verb meaning 'to be calm'",
+        "raw_role": "Te-form verb meaning 'to be calm'",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "移動して",
+        "role": "Te-form verb meaning 'to move/evacuate'",
+        "raw_role": "Te-form verb meaning 'to move/evacuate'",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "ください",
+        "role": "Polite request auxiliary",
+        "raw_role": "Polite request auxiliary",
+        "normalized_role": "Request"
+      }
+    ],
+    "grammar_function": "Requests & Favors (〜て / ください)",
+    "sequence_key": "Noun → Particle → Noun → Particle → Verb → Verb → Verb → Request",
+    "location": "Not defined",
+    "raw_grammar_pattern": "Verb-te form + ください",
+    "functional_tag": "Polite Request (\"Please do\")"
+  },
+  {
+    "japanese": "すみません、財布をなくしました。",
+    "hiragana": "すみません、さいふ を なくしました。",
+    "english": "Excuse me, I lost my wallet.",
+    "grammar_pattern": "Verb",
+    "grammar_explanation": "Used to describe a completed action in a polite manner using the -mashita ending.",
+    "category": "Legal Aid and Police Interactions",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "e181ec7b-aefb-4d4e-b0d0-c5c9bbe71549",
+    "components": [
+      {
+        "text": "すみません",
+        "role": "Interjection/Apology",
+        "raw_role": "Interjection/Apology",
+        "normalized_role": "Interjection"
+      },
+      {
+        "text": "財布",
+        "role": "Noun (Object)",
+        "raw_role": "Noun (Object)",
+        "normalized_role": "Direct Object"
+      },
+      {
+        "text": "を",
+        "role": "Object marker particle",
+        "raw_role": "Object marker particle",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "なくしました",
+        "role": "Verb (Past Polite)",
+        "raw_role": "Verb (Past Polite)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Grammar & Structural Patterns",
+    "sequence_key": "Interjection → Direct Object → Direct Object Marker → Verb",
+    "location": "police station",
+    "raw_grammar_pattern": "Verb (Past Polite)",
+    "functional_tag": "Verb"
+  },
+  {
+    "japanese": "どこでなくしましたか。",
+    "hiragana": "どこ で なくしました か。",
+    "english": "Where did you lose it?",
+    "grammar_pattern": "Interrogative + で",
+    "grammar_explanation": "Used to ask about the specific location where an action took place.",
+    "category": "Legal Aid and Police Interactions",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "e181ec7b-aefb-4d4e-b0d0-c5c9bbe71549",
+    "components": [
+      {
+        "text": "どこ",
+        "role": "Question word (Where)",
+        "raw_role": "Question word (Where)",
+        "normalized_role": "Question Word"
+      },
+      {
+        "text": "で",
+        "role": "Location marker particle",
+        "raw_role": "Location marker particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "なくしました",
+        "role": "Verb (Past Polite)",
+        "raw_role": "Verb (Past Polite)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "か",
+        "role": "Question particle",
+        "raw_role": "Question particle",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Grammar & Structural Patterns",
+    "sequence_key": "Question Word → Particle → Verb → Particle",
+    "location": "police station",
+    "raw_grammar_pattern": "Interrogative + で",
+    "functional_tag": "Interrogative + で"
+  },
+  {
+    "japanese": "電車の中でなくしたと思います。",
+    "hiragana": "でんしゃ の なか で なくした と おもいます。",
+    "english": "I think I lost it on the train.",
+    "grammar_pattern": "〜ようと思います",
+    "grammar_explanation": "Used to express a personal opinion, belief, or conjecture about something.",
+    "category": "Legal Aid and Police Interactions",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "e181ec7b-aefb-4d4e-b0d0-c5c9bbe71549",
+    "components": [
+      {
+        "text": "電車",
+        "role": "Noun",
+        "raw_role": "Noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "の",
+        "role": "Possessive/Linking particle",
+        "raw_role": "Possessive/Linking particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "中",
+        "role": "Noun (Inside)",
+        "raw_role": "Noun (Inside)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "で",
+        "role": "Location marker particle",
+        "raw_role": "Location marker particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "なくした",
+        "role": "Verb (Plain Past)",
+        "raw_role": "Verb (Plain Past)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "と",
+        "role": "Quotation particle",
+        "raw_role": "Quotation particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "思います",
+        "role": "Verb (Think)",
+        "raw_role": "Verb (Think)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Desires & Intentions (〜たい / つもり / よう)",
+    "sequence_key": "Noun → Particle → Noun → Particle → Verb → Particle → Verb",
+    "location": "police station",
+    "raw_grammar_pattern": "Plain form + と思います",
+    "functional_tag": "Intention / Resolution (\"I plan to\")"
+  },
+  {
+    "japanese": "この遺失物届に名前を書いてください。",
+    "hiragana": "この いしつぶつとどけ に なまえ を かいて ください。",
+    "english": "Please write your name on this lost property report.",
+    "grammar_pattern": "〜てください",
+    "grammar_explanation": "A standard polite way to request someone to perform a specific action.",
+    "category": "Legal Aid and Police Interactions",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "e181ec7b-aefb-4d4e-b0d0-c5c9bbe71549",
+    "components": [
+      {
+        "text": "この",
+        "role": "Demonstrative (This)",
+        "raw_role": "Demonstrative (This)",
+        "normalized_role": "Demonstrative"
+      },
+      {
+        "text": "遺失物届",
+        "role": "Noun (Lost property report)",
+        "raw_role": "Noun (Lost property report)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "に",
+        "role": "Target marker particle",
+        "raw_role": "Target marker particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "名前",
+        "role": "Noun (Name)",
+        "raw_role": "Noun (Name)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "を",
+        "role": "Object marker particle",
+        "raw_role": "Object marker particle",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "書いて",
+        "role": "Verb (Te-form)",
+        "raw_role": "Verb (Te-form)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "ください",
+        "role": "Polite request",
+        "raw_role": "Polite request",
+        "normalized_role": "Request"
+      }
+    ],
+    "grammar_function": "Requests & Favors (〜て / ください)",
+    "sequence_key": "Demonstrative → Noun → Particle → Noun → Direct Object Marker → Verb → Request",
+    "location": "police station",
+    "raw_grammar_pattern": "て-form + ください",
+    "functional_tag": "Polite Request (\"Please do\")"
+  },
+  {
+    "japanese": "すみません、財布をなくしました。",
+    "hiragana": "すみません、さいふ を なくしました。",
+    "english": "Excuse me, I lost my wallet.",
+    "grammar_pattern": "Verb",
+    "grammar_explanation": "Used to describe a completed action in a polite manner.",
+    "category": "Emergencies and Problems",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "8da9bc21-d217-4661-aa9f-9d26151f287d",
+    "components": [
+      {
+        "text": "すみません",
+        "role": "interjection",
+        "raw_role": "interjection",
+        "normalized_role": "Interjection"
+      },
+      {
+        "text": "財布",
+        "role": "noun",
+        "raw_role": "noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "を",
+        "role": "object marker",
+        "raw_role": "object marker",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "なくしました",
+        "role": "verb, past polite",
+        "raw_role": "verb, past polite",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Grammar & Structural Patterns",
+    "sequence_key": "Interjection → Noun → Direct Object Marker → Verb",
+    "location": "train station",
+    "raw_grammar_pattern": "Verb (Past Polite)",
+    "functional_tag": "Verb"
+  },
+  {
+    "japanese": "どのような財布でしたか。",
+    "hiragana": "どのような さいふ でした か。",
+    "english": "What kind of wallet was it?",
+    "grammar_pattern": "どのような + Noun",
+    "grammar_explanation": "Used to ask for a detailed description of an object.",
+    "category": "Emergencies and Problems",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "8da9bc21-d217-4661-aa9f-9d26151f287d",
+    "components": [
+      {
+        "text": "どのような",
+        "role": "interrogative adjective",
+        "raw_role": "interrogative adjective",
+        "normalized_role": "Adjective"
+      },
+      {
+        "text": "財布",
+        "role": "noun",
+        "raw_role": "noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "でした",
+        "role": "copula, past polite",
+        "raw_role": "copula, past polite",
+        "normalized_role": "Copula"
+      },
+      {
+        "text": "か",
+        "role": "question particle",
+        "raw_role": "question particle",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Grammar & Structural Patterns",
+    "sequence_key": "Adjective → Noun → Copula → Particle",
+    "location": "train station",
+    "raw_grammar_pattern": "どのような + Noun",
+    "functional_tag": "どのような + Noun"
+  },
+  {
+    "japanese": "黒い革の財布です。",
+    "hiragana": "くろい かわ の さいふ です。",
+    "english": "It is a black leather wallet.",
+    "grammar_pattern": "Noun + の + Noun",
+    "grammar_explanation": "The particle 'no' connects nouns to show characteristics or possession.",
+    "category": "Emergencies and Problems",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "8da9bc21-d217-4661-aa9f-9d26151f287d",
+    "components": [
+      {
+        "text": "黒い",
+        "role": "adjective",
+        "raw_role": "adjective",
+        "normalized_role": "Adjective"
+      },
+      {
+        "text": "革",
+        "role": "noun",
+        "raw_role": "noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "の",
+        "role": "linking particle",
+        "raw_role": "linking particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "財布",
+        "role": "noun",
+        "raw_role": "noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "です",
+        "role": "copula",
+        "raw_role": "copula",
+        "normalized_role": "Copula"
+      }
+    ],
+    "grammar_function": "Particles & Structural Markers (を / に / で / と)",
+    "sequence_key": "Adjective → Noun → Particle → Noun → Copula",
+    "location": "train station",
+    "raw_grammar_pattern": "Noun + の + Noun",
+    "functional_tag": "Structural Particle Marker"
+  },
+  {
+    "japanese": "遺失物センターで確認しますね。",
+    "hiragana": "いしつぶつ せんたー で かくにん します ね。",
+    "english": "I will check at the lost and found center.",
+    "grammar_pattern": "Location + で + Verb",
+    "grammar_explanation": "The particle 'de' indicates the place where an action occurs.",
+    "category": "Emergencies and Problems",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "8da9bc21-d217-4661-aa9f-9d26151f287d",
+    "components": [
+      {
+        "text": "遺失物センター",
+        "role": "noun",
+        "raw_role": "noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "で",
+        "role": "location marker",
+        "raw_role": "location marker",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "確認します",
+        "role": "verb, polite",
+        "raw_role": "verb, polite",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "ね",
+        "role": "sentence-ending particle",
+        "raw_role": "sentence-ending particle",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Particles & Structural Markers (を / に / で / と)",
+    "sequence_key": "Noun → Particle → Verb → Particle",
+    "location": "train station",
+    "raw_grammar_pattern": "Location + で + Verb",
+    "functional_tag": "Location / Means Marker (〜で)"
+  },
+  {
+    "japanese": "ありがとうございます。お願いします。",
+    "hiragana": "ありがとう ございます。 おねがい します。",
+    "english": "Thank you. Please do.",
+    "grammar_pattern": "〜をお願いします",
+    "grammar_explanation": "A polite expression used to request a favor or service.",
+    "category": "Emergencies and Problems",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "8da9bc21-d217-4661-aa9f-9d26151f287d",
+    "components": [
+      {
+        "text": "ありがとう",
+        "role": "interjection",
+        "raw_role": "interjection",
+        "normalized_role": "Interjection"
+      },
+      {
+        "text": "ございます",
+        "role": "polite auxiliary",
+        "raw_role": "polite auxiliary",
+        "normalized_role": "Auxiliary"
+      },
+      {
+        "text": "お願いします",
+        "role": "set phrase",
+        "raw_role": "set phrase",
+        "normalized_role": "Expression / Set Phrase"
+      }
+    ],
+    "grammar_function": "Requests & Favors (〜て / ください)",
+    "sequence_key": "Interjection → Auxiliary → Expression / Set Phrase",
+    "location": "train station",
+    "raw_grammar_pattern": "お願いします (Set Phrase)",
+    "functional_tag": "Polite Request (\"Please / I'd like\")"
+  },
+  {
+    "japanese": "スマホに地震速報が来ましたね。",
+    "hiragana": "すまほ に じしん そくほう が きました ね",
+    "english": "An earthquake alert came to the smartphone, didn't it?",
+    "grammar_pattern": "Noun + が",
+    "grammar_explanation": "The particle 'ga' identifies the subject that performs the action or exists.",
+    "category": "Disaster Preparedness and Response",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "69cb08b4-53b3-4644-811b-da8a148bf982",
+    "components": [
+      {
+        "text": "スマホ",
+        "role": "noun",
+        "raw_role": "noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "に",
+        "role": "particle",
+        "raw_role": "particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "地震速報",
+        "role": "noun",
+        "raw_role": "noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "が",
+        "role": "particle",
+        "raw_role": "particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "来ました",
+        "role": "verb",
+        "raw_role": "verb",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "ね",
+        "role": "particle",
+        "raw_role": "particle",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Particles & Structural Markers (を / に / で / と)",
+    "sequence_key": "Noun → Particle → Noun → Particle → Verb → Particle",
+    "location": "home",
+    "raw_grammar_pattern": "Noun + が (subject marker)",
+    "functional_tag": "Subject / Identifier Marker (〜が)"
+  },
+  {
+    "japanese": "はい。急いで非常用持ち出し袋を準備しましょう。",
+    "hiragana": "はい。いそいで ひじょうよう もちだしぶくろ を じゅんび しましょう",
+    "english": "Yes. Let's quickly prepare the emergency carry-out bag.",
+    "grammar_pattern": "Verb-mashou",
+    "grammar_explanation": "The polite form used to suggest or invite someone to do an action together.",
+    "category": "Disaster Preparedness and Response",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "69cb08b4-53b3-4644-811b-da8a148bf982",
+    "components": [
+      {
+        "text": "はい",
+        "role": "interjection",
+        "raw_role": "interjection",
+        "normalized_role": "Interjection"
+      },
+      {
+        "text": "急いで",
+        "role": "adverb",
+        "raw_role": "adverb",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "非常用持ち出し袋",
+        "role": "noun",
+        "raw_role": "noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "を",
+        "role": "particle",
+        "raw_role": "particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "準備しましょう",
+        "role": "verb",
+        "raw_role": "verb",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Grammar & Structural Patterns",
+    "sequence_key": "Interjection → Adverb → Noun → Particle → Verb",
+    "location": "home",
+    "raw_grammar_pattern": "Verb-mashou",
+    "functional_tag": "Verb-mashou"
+  },
+  {
+    "japanese": "一番近い避難所はどこですか。",
+    "hiragana": "いちばん ちかい ひなんじょ は どこ です か",
+    "english": "Where is the nearest evacuation shelter?",
+    "grammar_pattern": "〜はどこですか",
+    "grammar_explanation": "A standard polite pattern used to ask for the location of a specific place.",
+    "category": "Disaster Preparedness and Response",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "69cb08b4-53b3-4644-811b-da8a148bf982",
+    "components": [
+      {
+        "text": "一番",
+        "role": "adverb",
+        "raw_role": "adverb",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "近い",
+        "role": "adjective",
+        "raw_role": "adjective",
+        "normalized_role": "Adjective"
+      },
+      {
+        "text": "避難所",
+        "role": "noun",
+        "raw_role": "noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "は",
+        "role": "particle",
+        "raw_role": "particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "どこ",
+        "role": "pronoun",
+        "raw_role": "pronoun",
+        "normalized_role": "Pronoun"
+      },
+      {
+        "text": "です",
+        "role": "copula",
+        "raw_role": "copula",
+        "normalized_role": "Copula"
+      },
+      {
+        "text": "か",
+        "role": "particle",
+        "raw_role": "particle",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Questions & Inquiries (〜ですか / どこ / どう)",
+    "sequence_key": "Adverb → Adjective → Noun → Particle → Pronoun → Copula → Particle",
+    "location": "home",
+    "raw_grammar_pattern": "Noun + はどこですか",
+    "functional_tag": "Information Query (\"How / What / Where?\")"
+  },
+  {
+    "japanese": "あそこにある小学校です。",
+    "hiragana": "あそこ に ある しょうがっこう です",
+    "english": "It is the elementary school over there.",
+    "grammar_pattern": "Noun + です",
+    "grammar_explanation": "The most basic polite sentence structure used to state what something is.",
+    "category": "Disaster Preparedness and Response",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "69cb08b4-53b3-4644-811b-da8a148bf982",
+    "components": [
+      {
+        "text": "あそこ",
+        "role": "pronoun",
+        "raw_role": "pronoun",
+        "normalized_role": "Pronoun"
+      },
+      {
+        "text": "に",
+        "role": "particle",
+        "raw_role": "particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "ある",
+        "role": "verb",
+        "raw_role": "verb",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "小学校",
+        "role": "noun",
+        "raw_role": "noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "です",
+        "role": "copula",
+        "raw_role": "copula",
+        "normalized_role": "Copula"
+      }
+    ],
+    "grammar_function": "Copula, Topics & Definitions (です / は / について)",
+    "sequence_key": "Pronoun → Particle → Verb → Noun → Copula",
+    "location": "home",
+    "raw_grammar_pattern": "Noun + です",
+    "functional_tag": "Polite Assertion / Copula (\"It is\")"
+  },
+  {
+    "japanese": "わかりました。気をつけて一緒に行きましょう。",
+    "hiragana": "わかりました。きを つけて いっしょ に いきましょう",
+    "english": "I understand. Let's go together carefully.",
+    "grammar_pattern": "Verb-mashou",
+    "grammar_explanation": "Suggests a joint action, used here to propose moving toward the shelter together.",
+    "category": "Disaster Preparedness and Response",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "69cb08b4-53b3-4644-811b-da8a148bf982",
+    "components": [
+      {
+        "text": "わかりました",
+        "role": "verb",
+        "raw_role": "verb",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "気をつけて",
+        "role": "expression",
+        "raw_role": "expression",
+        "normalized_role": "Expression / Set Phrase"
+      },
+      {
+        "text": "一緒に",
+        "role": "adverb",
+        "raw_role": "adverb",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "行きましょう",
+        "role": "verb",
+        "raw_role": "verb",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Grammar & Structural Patterns",
+    "sequence_key": "Verb → Expression / Set Phrase → Adverb → Verb",
+    "location": "home",
+    "raw_grammar_pattern": "Verb-mashou",
+    "functional_tag": "Verb-mashou"
+  },
+  {
+    "japanese": "今日は地震の避難訓練があります。",
+    "hiragana": "きょう は じしん の ひなんくんれん が あります",
+    "english": "Today, there is an earthquake evacuation drill.",
+    "grammar_pattern": "Noun + があります",
+    "grammar_explanation": "Used to indicate the existence of an event or object.",
+    "category": "Emergency Preparedness Drills",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "77bd18a9-2b38-4f4d-8f5d-917593d5f419",
+    "components": [
+      {
+        "text": "今日",
+        "role": "noun (today)",
+        "raw_role": "noun (today)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "は",
+        "role": "topic marker",
+        "raw_role": "topic marker",
+        "normalized_role": "Topic Marker"
+      },
+      {
+        "text": "地震",
+        "role": "noun (earthquake)",
+        "raw_role": "noun (earthquake)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "の",
+        "role": "possessive particle",
+        "raw_role": "possessive particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "避難訓練",
+        "role": "noun (evacuation drill)",
+        "raw_role": "noun (evacuation drill)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "が",
+        "role": "subject marker",
+        "raw_role": "subject marker",
+        "normalized_role": "Subject Marker"
+      },
+      {
+        "text": "あります",
+        "role": "verb (exists/is)",
+        "raw_role": "verb (exists/is)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Existence & Presence (ある / いる)",
+    "sequence_key": "Noun → Topic Marker → Noun → Particle → Noun → Subject Marker → Verb",
+    "location": "school",
+    "raw_grammar_pattern": "Noun + があります",
+    "functional_tag": "Inanimate Existence (\"There is / Have\")"
+  },
+  {
+    "japanese": "Jアラートが鳴った時は、どうすればいいですか？",
+    "hiragana": "じぇいあらーと が なった とき は どう すれば いい です か",
+    "english": "What should I do when the J-Alert sounds?",
+    "grammar_pattern": "〜た時",
+    "grammar_explanation": "Indicates the specific time or occasion when an action occurs.",
+    "category": "Emergency Preparedness Drills",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "77bd18a9-2b38-4f4d-8f5d-917593d5f419",
+    "components": [
+      {
+        "text": "Jアラート",
+        "role": "noun (J-Alert)",
+        "raw_role": "noun (J-Alert)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "が",
+        "role": "subject marker",
+        "raw_role": "subject marker",
+        "normalized_role": "Subject Marker"
+      },
+      {
+        "text": "鳴った",
+        "role": "verb (rang - past form)",
+        "raw_role": "verb (rang - past form)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "時",
+        "role": "noun (time/when)",
+        "raw_role": "noun (time/when)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "は",
+        "role": "topic marker",
+        "raw_role": "topic marker",
+        "normalized_role": "Topic Marker"
+      },
+      {
+        "text": "どう",
+        "role": "adverb (how)",
+        "raw_role": "adverb (how)",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "すれば",
+        "role": "verb (if I do - conditional)",
+        "raw_role": "verb (if I do - conditional)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "いい",
+        "role": "adjective (good/better)",
+        "raw_role": "adjective (good/better)",
+        "normalized_role": "Adjective"
+      },
+      {
+        "text": "ですか",
+        "role": "polite question marker",
+        "raw_role": "polite question marker",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Grammar & Structural Patterns",
+    "sequence_key": "Noun → Subject Marker → Verb → Noun → Topic Marker → Adverb → Verb → Adjective → Particle",
+    "location": "school",
+    "raw_grammar_pattern": "〜た時",
+    "functional_tag": "〜た時"
+  },
+  {
+    "japanese": "まずは頭を守って、机の下に隠れてください。",
+    "hiragana": "まず は あたま を まもって つくえ の した に かくれ て ください",
+    "english": "First, protect your head and hide under the desk.",
+    "grammar_pattern": "〜てください",
+    "grammar_explanation": "A polite way to request or instruct someone to do something.",
+    "category": "Emergency Preparedness Drills",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "77bd18a9-2b38-4f4d-8f5d-917593d5f419",
+    "components": [
+      {
+        "text": "まず",
+        "role": "adverb (first)",
+        "raw_role": "adverb (first)",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "は",
+        "role": "topic marker",
+        "raw_role": "topic marker",
+        "normalized_role": "Topic Marker"
+      },
+      {
+        "text": "頭",
+        "role": "noun (head)",
+        "raw_role": "noun (head)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "を",
+        "role": "object marker",
+        "raw_role": "object marker",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "守って",
+        "role": "verb (protect - te-form)",
+        "raw_role": "verb (protect - te-form)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "机",
+        "role": "noun (desk)",
+        "raw_role": "noun (desk)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "の",
+        "role": "possessive particle",
+        "raw_role": "possessive particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "下",
+        "role": "noun (under/below)",
+        "raw_role": "noun (under/below)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "に",
+        "role": "location marker",
+        "raw_role": "location marker",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "隠れて",
+        "role": "verb (hide - te-form)",
+        "raw_role": "verb (hide - te-form)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "ください",
+        "role": "polite request",
+        "raw_role": "polite request",
+        "normalized_role": "Request"
+      }
+    ],
+    "grammar_function": "Requests & Favors (〜て / ください)",
+    "sequence_key": "Adverb → Topic Marker → Noun → Direct Object Marker → Verb → Noun → Particle → Noun → Particle → Verb → Request",
+    "location": "school",
+    "raw_grammar_pattern": "〜てください",
+    "functional_tag": "Polite Request (\"Please do\")"
+  },
+  {
+    "japanese": "その後で、一緒に避難経路を確認しましょう。",
+    "hiragana": "そのあと で いっしょ に ひなんけいろ を かくにん しましょう",
+    "english": "After that, let's check the evacuation route together.",
+    "grammar_pattern": "〜ましょう",
+    "grammar_explanation": "Used to suggest doing an action together or offer help.",
+    "category": "Emergency Preparedness Drills",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "77bd18a9-2b38-4f4d-8f5d-917593d5f419",
+    "components": [
+      {
+        "text": "その後",
+        "role": "noun (after that)",
+        "raw_role": "noun (after that)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "で",
+        "role": "particle (indicating time/limit)",
+        "raw_role": "particle (indicating time/limit)",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "一緒に",
+        "role": "adverb (together)",
+        "raw_role": "adverb (together)",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "避難経路",
+        "role": "noun (evacuation route)",
+        "raw_role": "noun (evacuation route)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "を",
+        "role": "object marker",
+        "raw_role": "object marker",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "確認しましょう",
+        "role": "verb (let's confirm)",
+        "raw_role": "verb (let's confirm)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Suggestions & Invitations (〜ましょう / ませんか)",
+    "sequence_key": "Noun → Particle → Adverb → Noun → Direct Object Marker → Verb",
+    "location": "school",
+    "raw_grammar_pattern": "〜ましょう",
+    "functional_tag": "Proposal / Collective Action (\"Let's\")"
+  },
+  {
+    "japanese": "すみません、財布をなくしました。",
+    "hiragana": "すみません、 さいふ を なくしました。",
+    "english": "Excuse me, I lost my wallet.",
+    "grammar_pattern": "Verb",
+    "grammar_explanation": "The polite past tense form used to describe a completed action.",
+    "category": "Legal Aid and Police Interactions",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "22a88e6b-571c-40f2-9abf-a00559f3fdd8",
+    "components": [
+      {
+        "text": "すみません",
+        "role": "Interjection for getting attention",
+        "raw_role": "Interjection for getting attention",
+        "normalized_role": "Interjection"
+      },
+      {
+        "text": "財布",
+        "role": "Noun (object)",
+        "raw_role": "Noun (object)",
+        "normalized_role": "Direct Object"
+      },
+      {
+        "text": "を",
+        "role": "Object marker particle",
+        "raw_role": "Object marker particle",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "なくしました",
+        "role": "Verb (polite past form of 'to lose')",
+        "raw_role": "Verb (polite past form of 'to lose')",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Grammar & Structural Patterns",
+    "sequence_key": "Interjection → Direct Object → Direct Object Marker → Verb",
+    "location": "police station",
+    "raw_grammar_pattern": "Verb (Past Polite)",
+    "functional_tag": "Verb"
+  },
+  {
+    "japanese": "どこでなくされましたか。",
+    "hiragana": "どこ で なくされました か。",
+    "english": "Where did you lose it?",
+    "grammar_pattern": "Interrogative + で",
+    "grammar_explanation": "Used to ask about the specific location where an action occurred.",
+    "category": "Legal Aid and Police Interactions",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "22a88e6b-571c-40f2-9abf-a00559f3fdd8",
+    "components": [
+      {
+        "text": "どこ",
+        "role": "Interrogative pronoun (where)",
+        "raw_role": "Interrogative pronoun (where)",
+        "normalized_role": "Pronoun"
+      },
+      {
+        "text": "で",
+        "role": "Location of action particle",
+        "raw_role": "Location of action particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "なくされました",
+        "role": "Verb (honorific past form of 'to lose')",
+        "raw_role": "Verb (honorific past form of 'to lose')",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "か",
+        "role": "Question particle",
+        "raw_role": "Question particle",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Grammar & Structural Patterns",
+    "sequence_key": "Pronoun → Particle → Verb → Particle",
+    "location": "police station",
+    "raw_grammar_pattern": "Interrogative + で",
+    "functional_tag": "Interrogative + で"
+  },
+  {
+    "japanese": "電車の中でなくしたと思います。",
+    "hiragana": "でんしゃ の なか で なくした と おもいます。",
+    "english": "I think I lost it inside the train.",
+    "grammar_pattern": "〜ようと思います",
+    "grammar_explanation": "Used to express the speaker's opinion, belief, or conjecture.",
+    "category": "Legal Aid and Police Interactions",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "22a88e6b-571c-40f2-9abf-a00559f3fdd8",
+    "components": [
+      {
+        "text": "電車",
+        "role": "Noun (train)",
+        "raw_role": "Noun (train)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "の",
+        "role": "Possessive/Connecting particle",
+        "raw_role": "Possessive/Connecting particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "中",
+        "role": "Noun (inside)",
+        "raw_role": "Noun (inside)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "で",
+        "role": "Location of action particle",
+        "raw_role": "Location of action particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "なくした",
+        "role": "Verb (plain past form of 'to lose')",
+        "raw_role": "Verb (plain past form of 'to lose')",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "と",
+        "role": "Quotation particle",
+        "raw_role": "Quotation particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "思います",
+        "role": "Verb (polite form of 'to think')",
+        "raw_role": "Verb (polite form of 'to think')",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Desires & Intentions (〜たい / つもり / よう)",
+    "sequence_key": "Noun → Particle → Noun → Particle → Verb → Particle → Verb",
+    "location": "police station",
+    "raw_grammar_pattern": "Plain Form + と思います",
+    "functional_tag": "Intention / Resolution (\"I plan to\")"
+  },
+  {
+    "japanese": "こちらの遺失物届に記入してください。",
+    "hiragana": "こちら の いしつぶつ とどけ に きにゅう して ください。",
+    "english": "Please fill out this lost property report.",
+    "grammar_pattern": "〜てください",
+    "grammar_explanation": "Used to make a polite request for someone to perform an action.",
+    "category": "Legal Aid and Police Interactions",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "22a88e6b-571c-40f2-9abf-a00559f3fdd8",
+    "components": [
+      {
+        "text": "こちら",
+        "role": "Demonstrative pronoun (this)",
+        "raw_role": "Demonstrative pronoun (this)",
+        "normalized_role": "Pronoun"
+      },
+      {
+        "text": "の",
+        "role": "Possessive/Connecting particle",
+        "raw_role": "Possessive/Connecting particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "遺失物届",
+        "role": "Noun (lost property report)",
+        "raw_role": "Noun (lost property report)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "に",
+        "role": "Target/Destination particle",
+        "raw_role": "Target/Destination particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "記入して",
+        "role": "Verb (te-form of 'to fill out')",
+        "raw_role": "Verb (te-form of 'to fill out')",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "ください",
+        "role": "Auxiliary verb for polite requests",
+        "raw_role": "Auxiliary verb for polite requests",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Requests & Favors (〜て / ください)",
+    "sequence_key": "Pronoun → Particle → Noun → Particle → Verb → Verb",
+    "location": "police station",
+    "raw_grammar_pattern": "～てください",
+    "functional_tag": "Polite Request (\"Please do\")"
+  },
+  {
+    "japanese": "すみません、財布をなくしたようです。",
+    "hiragana": "すみません、さいふ を なくした よう です。",
+    "english": "Excuse me, it seems I have lost my wallet.",
+    "grammar_pattern": "〜ようです",
+    "grammar_explanation": "Used to express a conclusion based on objective evidence or the current situation.",
+    "category": "Emergencies and Problems",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "be54b55e-b84f-4c4a-8563-bb0d0c1882d4",
+    "components": [
+      {
+        "text": "すみません",
+        "role": "Excuse me",
+        "raw_role": "Excuse me",
+        "normalized_role": "Other"
+      },
+      {
+        "text": "財布",
+        "role": "Wallet",
+        "raw_role": "Wallet",
+        "normalized_role": "Other"
+      },
+      {
+        "text": "を",
+        "role": "Object marker",
+        "raw_role": "Object marker",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "なくした",
+        "role": "Lost (past tense)",
+        "raw_role": "Lost (past tense)",
+        "normalized_role": "Other"
+      },
+      {
+        "text": "ようです",
+        "role": "It seems that",
+        "raw_role": "It seems that",
+        "normalized_role": "Other"
+      }
+    ],
+    "grammar_function": "Conjecture & Opinion (〜と思う / かもしれない)",
+    "sequence_key": "Direct Object Marker",
+    "location": "train station",
+    "raw_grammar_pattern": "～ようです",
+    "functional_tag": "Opinion & Hearsay"
+  },
+  {
+    "japanese": "大変ですね！どこでなくしましたか。",
+    "hiragana": "たいへん です ね！どこ で なくしました か。",
+    "english": "That's terrible! Where did you lose it?",
+    "grammar_pattern": "どこで",
+    "grammar_explanation": "The question word 'doko' combined with 'de' to ask for the location of an action.",
+    "category": "Emergencies and Problems",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "be54b55e-b84f-4c4a-8563-bb0d0c1882d4",
+    "components": [
+      {
+        "text": "大変",
+        "role": "Terrible/Difficult",
+        "raw_role": "Terrible/Difficult",
+        "normalized_role": "Other"
+      },
+      {
+        "text": "です",
+        "role": "Copula (is)",
+        "raw_role": "Copula (is)",
+        "normalized_role": "Copula"
+      },
+      {
+        "text": "ね",
+        "role": "Agreement particle",
+        "raw_role": "Agreement particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "どこ",
+        "role": "Where",
+        "raw_role": "Where",
+        "normalized_role": "Other"
+      },
+      {
+        "text": "で",
+        "role": "Location of action marker",
+        "raw_role": "Location of action marker",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "なくしました",
+        "role": "Lost (polite past)",
+        "raw_role": "Lost (polite past)",
+        "normalized_role": "Other"
+      },
+      {
+        "text": "か",
+        "role": "Question particle",
+        "raw_role": "Question particle",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Questions & Inquiries (〜ですか / どこ / どう)",
+    "sequence_key": "Copula → Particle → Particle → Particle",
+    "location": "train station",
+    "raw_grammar_pattern": "どこで",
+    "functional_tag": "Information Query (\"How / What / Where?\")"
+  },
+  {
+    "japanese": "改札の近くだったと思います。",
+    "hiragana": "かいさつ の ちかく だった と おもいます。",
+    "english": "I think it was near the ticket gate.",
+    "grammar_pattern": "〜ようと思います",
+    "grammar_explanation": "Used to express the speaker's opinion, belief, or a cautious guess.",
+    "category": "Emergencies and Problems",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "be54b55e-b84f-4c4a-8563-bb0d0c1882d4",
+    "components": [
+      {
+        "text": "改札",
+        "role": "Ticket gate",
+        "raw_role": "Ticket gate",
+        "normalized_role": "Other"
+      },
+      {
+        "text": "の",
+        "role": "Possessive marker",
+        "raw_role": "Possessive marker",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "近く",
+        "role": "Near/Vicinity",
+        "raw_role": "Near/Vicinity",
+        "normalized_role": "Other"
+      },
+      {
+        "text": "だった",
+        "role": "Was (informal)",
+        "raw_role": "Was (informal)",
+        "normalized_role": "Copula"
+      },
+      {
+        "text": "と",
+        "role": "Quotation marker",
+        "raw_role": "Quotation marker",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "思います",
+        "role": "Think (polite)",
+        "raw_role": "Think (polite)",
+        "normalized_role": "Other"
+      }
+    ],
+    "grammar_function": "Desires & Intentions (〜たい / つもり / よう)",
+    "sequence_key": "Particle → Copula → Particle",
+    "location": "train station",
+    "raw_grammar_pattern": "～と思います",
+    "functional_tag": "Intention / Resolution (\"I plan to\")"
+  },
+  {
+    "japanese": "忘れ物センターに確認しますね。",
+    "hiragana": "わすれもの せんたー に かくにん します ね。",
+    "english": "I will check with the lost and found center.",
+    "grammar_pattern": "〜に確認する",
+    "grammar_explanation": "Using 'ni' to mark the person or department being contacted for verification.",
+    "category": "Emergencies and Problems",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "be54b55e-b84f-4c4a-8563-bb0d0c1882d4",
+    "components": [
+      {
+        "text": "忘れ物センター",
+        "role": "Lost and found center",
+        "raw_role": "Lost and found center",
+        "normalized_role": "Other"
+      },
+      {
+        "text": "に",
+        "role": "Target marker",
+        "raw_role": "Target marker",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "確認します",
+        "role": "Check/Confirm (polite)",
+        "raw_role": "Check/Confirm (polite)",
+        "normalized_role": "Other"
+      },
+      {
+        "text": "ね",
+        "role": "Confirmation particle",
+        "raw_role": "Confirmation particle",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Grammar & Structural Patterns",
+    "sequence_key": "Particle → Particle",
+    "location": "train station",
+    "raw_grammar_pattern": "～に確認する",
+    "functional_tag": "〜に確認する"
+  },
+  {
+    "japanese": "ニュースで台風の警報が出ていますよ。",
+    "hiragana": "にゅーす で たいふう の けいほう が でて います よ",
+    "english": "Look, there is a typhoon warning on the news.",
+    "grammar_pattern": "〜ています",
+    "grammar_explanation": "Used to describe a current state or an ongoing action in the present.",
+    "category": "Disaster Preparedness and Response",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "7aa7ca21-ecd3-4ee6-b37e-2bdd21ea7068",
+    "components": [
+      {
+        "text": "ニュース",
+        "role": "Noun",
+        "raw_role": "Noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "で",
+        "role": "Particle (Location)",
+        "raw_role": "Particle (Location)",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "台風",
+        "role": "Noun",
+        "raw_role": "Noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "の",
+        "role": "Particle (Possessive)",
+        "raw_role": "Particle (Possessive)",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "警報",
+        "role": "Noun",
+        "raw_role": "Noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "が",
+        "role": "Particle (Subject)",
+        "raw_role": "Particle (Subject)",
+        "normalized_role": "Subject Marker"
+      },
+      {
+        "text": "出ています",
+        "role": "Verb",
+        "raw_role": "Verb",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "よ",
+        "role": "Particle (Emphasis)",
+        "raw_role": "Particle (Emphasis)",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Time, Aspect & State (〜ている / 〜てある)",
+    "sequence_key": "Noun → Particle → Noun → Particle → Noun → Subject Marker → Verb → Particle",
+    "location": "home",
+    "raw_grammar_pattern": "Verb (Te-form) + います",
+    "functional_tag": "Continuous State / Ongoing (\"-ing / state\")"
+  },
+  {
+    "japanese": "本当ですか。",
+    "hiragana": "ほんとう です か",
+    "english": "Really?",
+    "grammar_pattern": "Noun + ですか",
+    "grammar_explanation": "A polite way to form a question using the copula.",
+    "category": "Disaster Preparedness and Response",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "7aa7ca21-ecd3-4ee6-b37e-2bdd21ea7068",
+    "components": [
+      {
+        "text": "本当",
+        "role": "Noun",
+        "raw_role": "Noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "です",
+        "role": "Copula",
+        "raw_role": "Copula",
+        "normalized_role": "Copula"
+      },
+      {
+        "text": "か",
+        "role": "Particle (Question)",
+        "raw_role": "Particle (Question)",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Questions & Inquiries (〜ですか / どこ / どう)",
+    "sequence_key": "Noun → Copula → Particle",
+    "location": "home",
+    "raw_grammar_pattern": "Noun + ですか",
+    "functional_tag": "Polite Question (\"Is it?\")"
+  },
+  {
+    "japanese": "避難場所を確認しましょう。",
+    "hiragana": "ひなん ばしょ を かくにん しましょう",
+    "english": "Let's check the evacuation site.",
+    "grammar_pattern": "〜ましょう",
+    "grammar_explanation": "Used to make a suggestion or offer to do something together.",
+    "category": "Disaster Preparedness and Response",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "7aa7ca21-ecd3-4ee6-b37e-2bdd21ea7068",
+    "components": [
+      {
+        "text": "避難場所",
+        "role": "Noun",
+        "raw_role": "Noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "を",
+        "role": "Particle (Object)",
+        "raw_role": "Particle (Object)",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "確認しましょう",
+        "role": "Verb",
+        "raw_role": "Verb",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Suggestions & Invitations (〜ましょう / ませんか)",
+    "sequence_key": "Noun → Direct Object Marker → Verb",
+    "location": "home",
+    "raw_grammar_pattern": "Verb (Stem) + ましょう",
+    "functional_tag": "Proposal / Collective Action (\"Let's\")"
+  },
+  {
+    "japanese": "私は非常用持ち出し袋を準備します。",
+    "hiragana": "わたし は ひじょうよう もちだしぶくろ を じゅんび します",
+    "english": "I will prepare the emergency kit.",
+    "grammar_pattern": "Noun + は",
+    "grammar_explanation": "Identifies the main topic of the sentence.",
+    "category": "Disaster Preparedness and Response",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "7aa7ca21-ecd3-4ee6-b37e-2bdd21ea7068",
+    "components": [
+      {
+        "text": "私",
+        "role": "Noun",
+        "raw_role": "Noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "は",
+        "role": "Particle (Topic)",
+        "raw_role": "Particle (Topic)",
+        "normalized_role": "Topic Marker"
+      },
+      {
+        "text": "非常用持ち出し袋",
+        "role": "Noun",
+        "raw_role": "Noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "を",
+        "role": "Particle (Object)",
+        "raw_role": "Particle (Object)",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "準備します",
+        "role": "Verb",
+        "raw_role": "Verb",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Copula, Topics & Definitions (です / は / について)",
+    "sequence_key": "Noun → Topic Marker → Noun → Direct Object Marker → Verb",
+    "location": "home",
+    "raw_grammar_pattern": "Noun + は (Topic marker)",
+    "functional_tag": "Topic Introduction (\"As for...\")"
+  },
+  {
+    "japanese": "懐中電灯が動くか確認してください。",
+    "hiragana": "かいちゅうでんとう が うごく か かくにん して ください",
+    "english": "Please check if the flashlight is working.",
+    "grammar_pattern": "〜てください",
+    "grammar_explanation": "A polite way to ask or request someone to do something.",
+    "category": "Disaster Preparedness and Response",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "7aa7ca21-ecd3-4ee6-b37e-2bdd21ea7068",
+    "components": [
+      {
+        "text": "懐中電灯",
+        "role": "Noun",
+        "raw_role": "Noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "が",
+        "role": "Particle (Subject)",
+        "raw_role": "Particle (Subject)",
+        "normalized_role": "Subject Marker"
+      },
+      {
+        "text": "動く",
+        "role": "Verb",
+        "raw_role": "Verb",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "か",
+        "role": "Particle (Question)",
+        "raw_role": "Particle (Question)",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "確認して",
+        "role": "Verb",
+        "raw_role": "Verb",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "ください",
+        "role": "Auxiliary Verb",
+        "raw_role": "Auxiliary Verb",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Requests & Favors (〜て / ください)",
+    "sequence_key": "Noun → Subject Marker → Verb → Particle → Verb → Verb",
+    "location": "home",
+    "raw_grammar_pattern": "Verb (Te-form) + ください",
+    "functional_tag": "Polite Request (\"Please do\")"
+  },
+  {
+    "japanese": "明日は地震の避難訓練がありますね。",
+    "hiragana": "あした は じしん の ひなん くんれん が あります ね",
+    "english": "Tomorrow is the earthquake evacuation drill, right?",
+    "grammar_pattern": "Noun + があります",
+    "grammar_explanation": "Used to indicate that an event or activity takes place at a specific time.",
+    "category": "Emergency Preparedness Drills",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "b82d81dd-feb3-43eb-80d7-00b43e6b85f4",
+    "components": [
+      {
+        "text": "明日",
+        "role": "Noun (Time)",
+        "raw_role": "Noun (Time)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "は",
+        "role": "Topic marker",
+        "raw_role": "Topic marker",
+        "normalized_role": "Topic Marker"
+      },
+      {
+        "text": "地震",
+        "role": "Noun",
+        "raw_role": "Noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "の",
+        "role": "Possessive particle",
+        "raw_role": "Possessive particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "避難訓練",
+        "role": "Noun",
+        "raw_role": "Noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "が",
+        "role": "Subject marker",
+        "raw_role": "Subject marker",
+        "normalized_role": "Subject Marker"
+      },
+      {
+        "text": "あります",
+        "role": "Verb (to be/exist)",
+        "raw_role": "Verb (to be/exist)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "ね",
+        "role": "Sentence-ending particle (confirmation)",
+        "raw_role": "Sentence-ending particle (confirmation)",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Existence & Presence (ある / いる)",
+    "sequence_key": "Noun → Topic Marker → Noun → Particle → Noun → Subject Marker → Verb → Particle",
+    "location": "office",
+    "raw_grammar_pattern": "Noun + があります",
+    "functional_tag": "Inanimate Existence (\"There is / Have\")"
+  },
+  {
+    "japanese": "はい、避難ルートを確認しておきましょう。",
+    "hiragana": "はい 、 ひなん るーと を かくにん して おきましょう",
+    "english": "Yes, let's check the evacuation route in advance.",
+    "grammar_pattern": "〜ておきましょう",
+    "grammar_explanation": "Expresses doing an action in advance to prepare for a future event.",
+    "category": "Emergency Preparedness Drills",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "b82d81dd-feb3-43eb-80d7-00b43e6b85f4",
+    "components": [
+      {
+        "text": "はい",
+        "role": "Interjection",
+        "raw_role": "Interjection",
+        "normalized_role": "Interjection"
+      },
+      {
+        "text": "避難ルート",
+        "role": "Noun",
+        "raw_role": "Noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "を",
+        "role": "Object marker",
+        "raw_role": "Object marker",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "確認して",
+        "role": "Verb (te-form of confirm)",
+        "raw_role": "Verb (te-form of confirm)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "おきましょう",
+        "role": "Auxiliary verb (let's do in advance)",
+        "raw_role": "Auxiliary verb (let's do in advance)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Suggestions & Invitations (〜ましょう / ませんか)",
+    "sequence_key": "Interjection → Noun → Direct Object Marker → Verb → Verb",
+    "location": "office",
+    "raw_grammar_pattern": "～ておきましょう",
+    "functional_tag": "Proposal / Collective Action (\"Let's\")"
+  },
+  {
+    "japanese": "Jアラートが鳴ったときは、どうすればいいですか？",
+    "hiragana": "じぇい あらーと が なった とき は 、 どう すれば いい です か",
+    "english": "What should I do when the J-Alert sounds?",
+    "grammar_pattern": "〜ばいいですか",
+    "grammar_explanation": "A common phrase used to ask for advice or the correct course of action.",
+    "category": "Emergency Preparedness Drills",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "b82d81dd-feb3-43eb-80d7-00b43e6b85f4",
+    "components": [
+      {
+        "text": "Jアラート",
+        "role": "Noun",
+        "raw_role": "Noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "が",
+        "role": "Subject marker",
+        "raw_role": "Subject marker",
+        "normalized_role": "Subject Marker"
+      },
+      {
+        "text": "鳴った",
+        "role": "Verb (past form of ring/sound)",
+        "raw_role": "Verb (past form of ring/sound)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "とき",
+        "role": "Noun (time/when)",
+        "raw_role": "Noun (time/when)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "は",
+        "role": "Topic marker",
+        "raw_role": "Topic marker",
+        "normalized_role": "Topic Marker"
+      },
+      {
+        "text": "どう",
+        "role": "Adverb (how)",
+        "raw_role": "Adverb (how)",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "すれば",
+        "role": "Verb (conditional form of do)",
+        "raw_role": "Verb (conditional form of do)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "いい",
+        "role": "Adjective (good)",
+        "raw_role": "Adjective (good)",
+        "normalized_role": "Adjective"
+      },
+      {
+        "text": "ですか",
+        "role": "Polite question marker",
+        "raw_role": "Polite question marker",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Advice & Conditionals (〜ば / 〜たら / ほう)",
+    "sequence_key": "Noun → Subject Marker → Verb → Noun → Topic Marker → Adverb → Verb → Adjective → Particle",
+    "location": "office",
+    "raw_grammar_pattern": "～ばいいですか",
+    "functional_tag": "Seeking Guidance (\"What should I do?\")"
+  },
+  {
+    "japanese": "まずは身を守り、それから指定の場所に集まってください。",
+    "hiragana": "まず は み を まもり 、 それから してい の ばしょ に あつまって ください",
+    "english": "First, protect yourself, and then please gather at the designated location.",
+    "grammar_pattern": "〜てください",
+    "grammar_explanation": "A polite request or instruction asking someone to perform a specific action.",
+    "category": "Emergency Preparedness Drills",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "b82d81dd-feb3-43eb-80d7-00b43e6b85f4",
+    "components": [
+      {
+        "text": "まず",
+        "role": "Adverb (first)",
+        "raw_role": "Adverb (first)",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "は",
+        "role": "Topic marker",
+        "raw_role": "Topic marker",
+        "normalized_role": "Topic Marker"
+      },
+      {
+        "text": "身",
+        "role": "Noun (body/self)",
+        "raw_role": "Noun (body/self)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "を",
+        "role": "Object marker",
+        "raw_role": "Object marker",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "守り",
+        "role": "Verb (stem form of protect)",
+        "raw_role": "Verb (stem form of protect)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "それから",
+        "role": "Conjunction (after that)",
+        "raw_role": "Conjunction (after that)",
+        "normalized_role": "Conjunction"
+      },
+      {
+        "text": "指定",
+        "role": "Noun (designation)",
+        "raw_role": "Noun (designation)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "の",
+        "role": "Possessive particle",
+        "raw_role": "Possessive particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "場所",
+        "role": "Noun (place)",
+        "raw_role": "Noun (place)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "に",
+        "role": "Direction marker",
+        "raw_role": "Direction marker",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "集まって",
+        "role": "Verb (te-form of gather)",
+        "raw_role": "Verb (te-form of gather)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "ください",
+        "role": "Auxiliary verb (please)",
+        "raw_role": "Auxiliary verb (please)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Requests & Favors (〜て / ください)",
+    "sequence_key": "Adverb → Topic Marker → Noun → Direct Object Marker → Verb → Conjunction → Noun → Particle → Noun → Particle → Verb → Verb",
+    "location": "office",
+    "raw_grammar_pattern": "～てください",
+    "functional_tag": "Polite Request (\"Please do\")"
+  },
+  {
+    "japanese": "すみません、財布をなくしました。",
+    "hiragana": "すみません、さいふ を なくしました。",
+    "english": "Excuse me, I lost my wallet.",
+    "grammar_pattern": "Noun + を + Verb",
+    "grammar_explanation": "Indicates the object of an action that occurred in the past.",
+    "category": "Emergencies and Problems",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "4d6b8e55-0494-4860-bc0f-568370b765f9",
+    "components": [
+      {
+        "text": "すみません",
+        "role": "Apology/Attention seeker",
+        "raw_role": "Apology/Attention seeker",
+        "normalized_role": "Interjection"
+      },
+      {
+        "text": "財布",
+        "role": "Noun (wallet)",
+        "raw_role": "Noun (wallet)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "を",
+        "role": "Object marker",
+        "raw_role": "Object marker",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "なくしました",
+        "role": "Verb (lost)",
+        "raw_role": "Verb (lost)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Particles & Structural Markers (を / に / で / と)",
+    "sequence_key": "Interjection → Noun → Direct Object Marker → Verb",
+    "location": "police station",
+    "raw_grammar_pattern": "Noun + を + Verb (Past)",
+    "functional_tag": "Direct Object Marker (〜を)"
+  },
+  {
+    "japanese": "それは大変ですね。どこでなくしましたか。",
+    "hiragana": "それ は たいへん です ね。どこ で なくしました か。",
+    "english": "That's terrible. Where did you lose it?",
+    "grammar_pattern": "Question word + で + Verb",
+    "grammar_explanation": "Used to ask about the specific location where an action took place.",
+    "category": "Emergencies and Problems",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "4d6b8e55-0494-4860-bc0f-568370b765f9",
+    "components": [
+      {
+        "text": "それ",
+        "role": "Pronoun (that)",
+        "raw_role": "Pronoun (that)",
+        "normalized_role": "Pronoun"
+      },
+      {
+        "text": "は",
+        "role": "Topic marker",
+        "raw_role": "Topic marker",
+        "normalized_role": "Topic Marker"
+      },
+      {
+        "text": "大変",
+        "role": "Adjective (tough/terrible)",
+        "raw_role": "Adjective (tough/terrible)",
+        "normalized_role": "Adjective"
+      },
+      {
+        "text": "です",
+        "role": "Copula (is/am/are)",
+        "raw_role": "Copula (is/am/are)",
+        "normalized_role": "Copula"
+      },
+      {
+        "text": "ね",
+        "role": "Sentence-ending particle (agreement)",
+        "raw_role": "Sentence-ending particle (agreement)",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "どこ",
+        "role": "Question word (where)",
+        "raw_role": "Question word (where)",
+        "normalized_role": "Question Word"
+      },
+      {
+        "text": "で",
+        "role": "Location marker",
+        "raw_role": "Location marker",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "なくしました",
+        "role": "Verb (lost)",
+        "raw_role": "Verb (lost)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "か",
+        "role": "Question particle",
+        "raw_role": "Question particle",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Questions & Inquiries (〜ですか / どこ / どう)",
+    "sequence_key": "Pronoun → Topic Marker → Adjective → Copula → Particle → Question Word → Particle → Verb → Particle",
+    "location": "police station",
+    "raw_grammar_pattern": "Question word + で + Verb",
+    "functional_tag": "Information Query (\"How / What / Where?\")"
+  },
+  {
+    "japanese": "電車の中に忘れたと思います。",
+    "hiragana": "でんしゃ の なか に わすれた と おもいます。",
+    "english": "I think I left it inside the train.",
+    "grammar_pattern": "〜ようと思います",
+    "grammar_explanation": "Used to express a personal opinion, belief, or a guess.",
+    "category": "Emergencies and Problems",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "4d6b8e55-0494-4860-bc0f-568370b765f9",
+    "components": [
+      {
+        "text": "電車",
+        "role": "Noun (train)",
+        "raw_role": "Noun (train)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "の",
+        "role": "Possessive marker",
+        "raw_role": "Possessive marker",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "中",
+        "role": "Noun (inside)",
+        "raw_role": "Noun (inside)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "に",
+        "role": "Location marker",
+        "raw_role": "Location marker",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "忘れた",
+        "role": "Verb (forgot/left behind)",
+        "raw_role": "Verb (forgot/left behind)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "と",
+        "role": "Quotative particle",
+        "raw_role": "Quotative particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "思います",
+        "role": "Verb (think)",
+        "raw_role": "Verb (think)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Desires & Intentions (〜たい / つもり / よう)",
+    "sequence_key": "Noun → Particle → Noun → Particle → Verb → Particle → Verb",
+    "location": "police station",
+    "raw_grammar_pattern": "Verb (Plain) + と思います",
+    "functional_tag": "Intention / Resolution (\"I plan to\")"
+  },
+  {
+    "japanese": "では、この遺失物届に記入してください。",
+    "hiragana": "では、この いしつぶつとどけ に きにゅう して ください。",
+    "english": "Then, please fill out this lost property report.",
+    "grammar_pattern": "〜てください",
+    "grammar_explanation": "A polite way to request or ask someone to do something.",
+    "category": "Emergencies and Problems",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "4d6b8e55-0494-4860-bc0f-568370b765f9",
+    "components": [
+      {
+        "text": "では",
+        "role": "Conjunction (then)",
+        "raw_role": "Conjunction (then)",
+        "normalized_role": "Conjunction"
+      },
+      {
+        "text": "この",
+        "role": "Demonstrative (this)",
+        "raw_role": "Demonstrative (this)",
+        "normalized_role": "Demonstrative"
+      },
+      {
+        "text": "遺失物届",
+        "role": "Noun (lost property report)",
+        "raw_role": "Noun (lost property report)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "に",
+        "role": "Target marker",
+        "raw_role": "Target marker",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "記入して",
+        "role": "Verb Te-form (fill in)",
+        "raw_role": "Verb Te-form (fill in)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "ください",
+        "role": "Polite request",
+        "raw_role": "Polite request",
+        "normalized_role": "Request"
+      }
+    ],
+    "grammar_function": "Requests & Favors (〜て / ください)",
+    "sequence_key": "Conjunction → Demonstrative → Noun → Particle → Verb → Request",
+    "location": "police station",
+    "raw_grammar_pattern": "Verb (Te-form) + ください",
+    "functional_tag": "Polite Request (\"Please do\")"
+  },
+  {
+    "japanese": "見て！スマホに地震速報が来たよ。",
+    "hiragana": "みて！ すまほ に じしん そくほう が きた よ。",
+    "english": "Look! An earthquake alert just came on my phone.",
+    "grammar_pattern": "Noun + が + Verb",
+    "grammar_explanation": "The particle 'ga' identifies the subject that performs the action of the verb.",
+    "category": "Disaster Preparedness and Response",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "9e309d5d-4fbc-476f-a5cf-6c3da22835db",
+    "components": [
+      {
+        "text": "見て",
+        "role": "Verb (imperative/request)",
+        "raw_role": "Verb (imperative/request)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "スマホ",
+        "role": "Noun",
+        "raw_role": "Noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "に",
+        "role": "Particle (location/target)",
+        "raw_role": "Particle (location/target)",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "地震速報",
+        "role": "Noun",
+        "raw_role": "Noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "が",
+        "role": "Subject marker",
+        "raw_role": "Subject marker",
+        "normalized_role": "Subject Marker"
+      },
+      {
+        "text": "来た",
+        "role": "Verb (past tense)",
+        "raw_role": "Verb (past tense)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "よ",
+        "role": "Sentence-ending particle (emphasis)",
+        "raw_role": "Sentence-ending particle (emphasis)",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Particles & Structural Markers (を / に / で / と)",
+    "sequence_key": "Verb → Noun → Particle → Noun → Subject Marker → Verb → Particle",
+    "location": "home",
+    "raw_grammar_pattern": "Noun + が + Verb",
+    "functional_tag": "Subject / Identifier Marker (〜が)"
+  },
+  {
+    "japanese": "大きい地震かな？一番近い避難所はどこだろう。",
+    "hiragana": "おおきい じしん かな？ いちばん ちかい ひなんじょ は どこ だろう。",
+    "english": "Is it a big earthquake? I wonder where the nearest shelter is.",
+    "grammar_pattern": "Question word + だろう",
+    "grammar_explanation": "Used to express a conjecture or wonder about something unknown.",
+    "category": "Disaster Preparedness and Response",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "9e309d5d-4fbc-476f-a5cf-6c3da22835db",
+    "components": [
+      {
+        "text": "大きい",
+        "role": "Adjective",
+        "raw_role": "Adjective",
+        "normalized_role": "Adjective"
+      },
+      {
+        "text": "地震",
+        "role": "Noun",
+        "raw_role": "Noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "かな",
+        "role": "Particle (wondering)",
+        "raw_role": "Particle (wondering)",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "一番近い",
+        "role": "Superlative adjective",
+        "raw_role": "Superlative adjective",
+        "normalized_role": "Adjective"
+      },
+      {
+        "text": "避難所",
+        "role": "Noun",
+        "raw_role": "Noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "は",
+        "role": "Topic marker",
+        "raw_role": "Topic marker",
+        "normalized_role": "Topic Marker"
+      },
+      {
+        "text": "どこ",
+        "role": "Question word (where)",
+        "raw_role": "Question word (where)",
+        "normalized_role": "Question Word"
+      },
+      {
+        "text": "だろう",
+        "role": "Auxiliary (conjecture)",
+        "raw_role": "Auxiliary (conjecture)",
+        "normalized_role": "Auxiliary"
+      }
+    ],
+    "grammar_function": "Conjecture & Opinion (〜と思う / かもしれない)",
+    "sequence_key": "Adjective → Noun → Particle → Adjective → Noun → Topic Marker → Question Word → Auxiliary",
+    "location": "home",
+    "raw_grammar_pattern": "Question word + だろう",
+    "functional_tag": "Conjecture / Presumption (\"Probably\")"
+  },
+  {
+    "japanese": "市役所が指定の避難所だよ。早く行こう。",
+    "hiragana": "しやくしょ が してい の ひなんじょ だ よ。 はやく いこう。",
+    "english": "The city hall is the designated shelter. Let's go quickly.",
+    "grammar_pattern": "Verb",
+    "grammar_explanation": "The volitional form expresses an invitation or a strong intention to do something.",
+    "category": "Disaster Preparedness and Response",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "9e309d5d-4fbc-476f-a5cf-6c3da22835db",
+    "components": [
+      {
+        "text": "市役所",
+        "role": "Noun",
+        "raw_role": "Noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "が",
+        "role": "Subject marker",
+        "raw_role": "Subject marker",
+        "normalized_role": "Subject Marker"
+      },
+      {
+        "text": "指定",
+        "role": "Noun",
+        "raw_role": "Noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "の",
+        "role": "Possessive/Modifying particle",
+        "raw_role": "Possessive/Modifying particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "避難所",
+        "role": "Noun",
+        "raw_role": "Noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "だ",
+        "role": "Copula (is)",
+        "raw_role": "Copula (is)",
+        "normalized_role": "Copula"
+      },
+      {
+        "text": "よ",
+        "role": "Sentence-ending particle",
+        "raw_role": "Sentence-ending particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "早く",
+        "role": "Adverb",
+        "raw_role": "Adverb",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "行こう",
+        "role": "Verb (volitional)",
+        "raw_role": "Verb (volitional)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Grammar & Structural Patterns",
+    "sequence_key": "Noun → Subject Marker → Noun → Particle → Noun → Copula → Particle → Adverb → Verb",
+    "location": "home",
+    "raw_grammar_pattern": "Verb (Volitional form)",
+    "functional_tag": "Verb"
+  },
+  {
+    "japanese": "待って、まず非常用持ち出し袋を持っていくね。",
+    "hiragana": "まって、 まず ひじょうよう もちだしぶくろ を もっていく ね。",
+    "english": "Wait, I'll grab the emergency supply kit first.",
+    "grammar_pattern": "Noun + を + Verb",
+    "grammar_explanation": "The particle 'wo' marks the direct object of an action.",
+    "category": "Disaster Preparedness and Response",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "9e309d5d-4fbc-476f-a5cf-6c3da22835db",
+    "components": [
+      {
+        "text": "待って",
+        "role": "Verb (te-form request)",
+        "raw_role": "Verb (te-form request)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "まず",
+        "role": "Adverb",
+        "raw_role": "Adverb",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "非常用持ち出し袋",
+        "role": "Noun",
+        "raw_role": "Noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "を",
+        "role": "Object marker",
+        "raw_role": "Object marker",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "持っていく",
+        "role": "Verb (to take/carry)",
+        "raw_role": "Verb (to take/carry)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "ね",
+        "role": "Sentence-ending particle (confirmation)",
+        "raw_role": "Sentence-ending particle (confirmation)",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Particles & Structural Markers (を / に / で / と)",
+    "sequence_key": "Verb → Adverb → Noun → Direct Object Marker → Verb → Particle",
+    "location": "home",
+    "raw_grammar_pattern": "Noun + を + Verb",
+    "functional_tag": "Direct Object Marker (〜を)"
+  },
+  {
+    "japanese": "急いで！安全が一番大事だから。",
+    "hiragana": "いそいで！ あんぜん が いちばん だいじ だ から。",
+    "english": "Hurry up! Because safety is the most important thing.",
+    "grammar_pattern": "...から",
+    "grammar_explanation": "The particle 'kara' is used at the end of a clause to explain a reason.",
+    "category": "Disaster Preparedness and Response",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "9e309d5d-4fbc-476f-a5cf-6c3da22835db",
+    "components": [
+      {
+        "text": "急いで",
+        "role": "Verb (te-form request)",
+        "raw_role": "Verb (te-form request)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "安全",
+        "role": "Noun",
+        "raw_role": "Noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "が",
+        "role": "Subject marker",
+        "raw_role": "Subject marker",
+        "normalized_role": "Subject Marker"
+      },
+      {
+        "text": "一番",
+        "role": "Adverb (most)",
+        "raw_role": "Adverb (most)",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "大事",
+        "role": "Na-adjective (important)",
+        "raw_role": "Na-adjective (important)",
+        "normalized_role": "Adjective"
+      },
+      {
+        "text": "だ",
+        "role": "Copula",
+        "raw_role": "Copula",
+        "normalized_role": "Copula"
+      },
+      {
+        "text": "から",
+        "role": "Particle (reason)",
+        "raw_role": "Particle (reason)",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Reasons & Causes (〜ので / 〜から)",
+    "sequence_key": "Verb → Noun → Subject Marker → Adverb → Adjective → Copula → Particle",
+    "location": "home",
+    "raw_grammar_pattern": "...から (Reason)",
+    "functional_tag": "Reason / Starting Point (\"Because / From\")"
+  },
+  {
+    "japanese": "明日は地震の避難訓練があります。",
+    "hiragana": "あした は じしん の ひなん くんれん が あります。",
+    "english": "Tomorrow is the earthquake evacuation drill.",
+    "grammar_pattern": "Noun + があります",
+    "grammar_explanation": "Used to indicate the existence of an event or a physical object.",
+    "category": "Emergency Preparedness Drills",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "eaf1b04d-2cbd-4333-a588-75778a60ec89",
+    "components": [
+      {
+        "text": "明日",
+        "role": "Time noun",
+        "raw_role": "Time noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "は",
+        "role": "Topic marker",
+        "raw_role": "Topic marker",
+        "normalized_role": "Topic Marker"
+      },
+      {
+        "text": "地震",
+        "role": "Noun",
+        "raw_role": "Noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "の",
+        "role": "Possessive particle",
+        "raw_role": "Possessive particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "避難訓練",
+        "role": "Noun",
+        "raw_role": "Noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "が",
+        "role": "Subject marker",
+        "raw_role": "Subject marker",
+        "normalized_role": "Subject Marker"
+      },
+      {
+        "text": "あります",
+        "role": "Verb (existence)",
+        "raw_role": "Verb (existence)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Existence & Presence (ある / いる)",
+    "sequence_key": "Noun → Topic Marker → Noun → Particle → Noun → Subject Marker → Verb",
+    "location": "office",
+    "raw_grammar_pattern": "Noun + があります",
+    "functional_tag": "Inanimate Existence (\"There is / Have\")"
+  },
+  {
+    "japanese": "避難ルートはどこか分かりますか。",
+    "hiragana": "ひなん るーと は どこ か わかります か。",
+    "english": "Do you know where the evacuation route is?",
+    "grammar_pattern": "Question word + か",
+    "grammar_explanation": "Used to create an embedded question within a larger sentence.",
+    "category": "Emergency Preparedness Drills",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "eaf1b04d-2cbd-4333-a588-75778a60ec89",
+    "components": [
+      {
+        "text": "避難ルート",
+        "role": "Noun",
+        "raw_role": "Noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "は",
+        "role": "Topic marker",
+        "raw_role": "Topic marker",
+        "normalized_role": "Topic Marker"
+      },
+      {
+        "text": "どこ",
+        "role": "Question word",
+        "raw_role": "Question word",
+        "normalized_role": "Question Word"
+      },
+      {
+        "text": "か",
+        "role": "Question particle",
+        "raw_role": "Question particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "分かります",
+        "role": "Verb (understand/know)",
+        "raw_role": "Verb (understand/know)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "か",
+        "role": "Question marker",
+        "raw_role": "Question marker",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Questions & Inquiries (〜ですか / どこ / どう)",
+    "sequence_key": "Noun → Topic Marker → Question Word → Particle → Verb → Particle",
+    "location": "office",
+    "raw_grammar_pattern": "Question word + か",
+    "functional_tag": "Information Query (\"How / What / Where?\")"
+  },
+  {
+    "japanese": "はい、廊下の地図に書いてありますよ。",
+    "hiragana": "はい、ろうか の ちず に かいて あります よ。",
+    "english": "Yes, it is written on the map in the hallway.",
+    "grammar_pattern": "〜てあります",
+    "grammar_explanation": "Describes a state that remains after an action has been completed.",
+    "category": "Emergency Preparedness Drills",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "eaf1b04d-2cbd-4333-a588-75778a60ec89",
+    "components": [
+      {
+        "text": "はい",
+        "role": "Affirmative response",
+        "raw_role": "Affirmative response",
+        "normalized_role": "Other"
+      },
+      {
+        "text": "廊下",
+        "role": "Noun",
+        "raw_role": "Noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "の",
+        "role": "Possessive particle",
+        "raw_role": "Possessive particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "地図",
+        "role": "Noun",
+        "raw_role": "Noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "に",
+        "role": "Location marker",
+        "raw_role": "Location marker",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "書いて",
+        "role": "Verb (te-form)",
+        "raw_role": "Verb (te-form)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "あります",
+        "role": "Auxiliary verb (state)",
+        "raw_role": "Auxiliary verb (state)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "よ",
+        "role": "Sentence ending particle",
+        "raw_role": "Sentence ending particle",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Time, Aspect & State (〜ている / 〜てある)",
+    "sequence_key": "Noun → Particle → Noun → Particle → Verb → Verb → Particle",
+    "location": "office",
+    "raw_grammar_pattern": "Te-form + あります",
+    "functional_tag": "Resultant State (\"Has been prepared\")"
+  },
+  {
+    "japanese": "Jアラートの通知設定も確認しましょう。",
+    "hiragana": "じぇー あらーと の つうち せってい も かくにん しましょう。",
+    "english": "Let's also check the J-Alert notification settings.",
+    "grammar_pattern": "〜ましょう",
+    "grammar_explanation": "Used to suggest doing an action together or invite someone.",
+    "category": "Emergency Preparedness Drills",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "eaf1b04d-2cbd-4333-a588-75778a60ec89",
+    "components": [
+      {
+        "text": "Jアラート",
+        "role": "Noun",
+        "raw_role": "Noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "の",
+        "role": "Possessive particle",
+        "raw_role": "Possessive particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "通知設定",
+        "role": "Noun",
+        "raw_role": "Noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "も",
+        "role": "Inclusive particle (also)",
+        "raw_role": "Inclusive particle (also)",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "確認",
+        "role": "Noun",
+        "raw_role": "Noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "しましょう",
+        "role": "Verb (volitional form)",
+        "raw_role": "Verb (volitional form)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Suggestions & Invitations (〜ましょう / ませんか)",
+    "sequence_key": "Noun → Particle → Noun → Particle → Noun → Verb",
+    "location": "office",
+    "raw_grammar_pattern": "Verb stem + ましょう",
+    "functional_tag": "Proposal / Collective Action (\"Let's\")"
+  },
+  {
+    "japanese": "そうですね。しっかり準備しておきましょう。",
+    "hiragana": "そう です ね。しっかり じゅんび して おきましょう。",
+    "english": "You're right. Let's make sure to be prepared in advance.",
+    "grammar_pattern": "〜ておきます",
+    "grammar_explanation": "Indicates performing an action in advance for future preparation.",
+    "category": "Emergency Preparedness Drills",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "eaf1b04d-2cbd-4333-a588-75778a60ec89",
+    "components": [
+      {
+        "text": "そう",
+        "role": "Adverb",
+        "raw_role": "Adverb",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "です",
+        "role": "Copula",
+        "raw_role": "Copula",
+        "normalized_role": "Copula"
+      },
+      {
+        "text": "ね",
+        "role": "Agreement particle",
+        "raw_role": "Agreement particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "しっかり",
+        "role": "Adverb",
+        "raw_role": "Adverb",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "準備して",
+        "role": "Verb (te-form)",
+        "raw_role": "Verb (te-form)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "おきましょう",
+        "role": "Auxiliary verb (volitional advance action)",
+        "raw_role": "Auxiliary verb (volitional advance action)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Time, Aspect & State (〜ている / 〜てある)",
+    "sequence_key": "Adverb → Copula → Particle → Adverb → Verb → Verb",
+    "location": "office",
+    "raw_grammar_pattern": "Te-form + おきます",
+    "functional_tag": "Preparatory Action (\"Do in advance\")"
+  },
+  {
+    "japanese": "すみません、財布をなくしました。",
+    "hiragana": "すみません、さいふ を なくしました。",
+    "english": "Excuse me, I lost my wallet.",
+    "grammar_pattern": "Verb",
+    "grammar_explanation": "Used to describe a completed action in a formal or polite manner.",
+    "category": "Legal Aid and Police Interactions",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "a60c34d3-c788-48bb-8127-d7b5b1fbd824",
+    "components": [
+      {
+        "text": "すみません",
+        "role": "Interjection (Excuse me)",
+        "raw_role": "Interjection (Excuse me)",
+        "normalized_role": "Interjection"
+      },
+      {
+        "text": "財布",
+        "role": "Noun (Wallet)",
+        "raw_role": "Noun (Wallet)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "を",
+        "role": "Object marker",
+        "raw_role": "Object marker",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "なくしました",
+        "role": "Verb (Lost - past polite)",
+        "raw_role": "Verb (Lost - past polite)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Grammar & Structural Patterns",
+    "sequence_key": "Interjection → Noun → Direct Object Marker → Verb",
+    "location": "police station",
+    "raw_grammar_pattern": "Verb (Past Polite)",
+    "functional_tag": "Verb"
+  },
+  {
+    "japanese": "どこでなくしましたか。",
+    "hiragana": "どこ で なくしました か。",
+    "english": "Where did you lose it?",
+    "grammar_pattern": "〜か",
+    "grammar_explanation": "Attached to the end of a sentence to indicate a question.",
+    "category": "Legal Aid and Police Interactions",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "a60c34d3-c788-48bb-8127-d7b5b1fbd824",
+    "components": [
+      {
+        "text": "どこ",
+        "role": "Interrogative (Where)",
+        "raw_role": "Interrogative (Where)",
+        "normalized_role": "Question Word"
+      },
+      {
+        "text": "で",
+        "role": "Location marker (Action)",
+        "raw_role": "Location marker (Action)",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "なくしました",
+        "role": "Verb (Lost - past polite)",
+        "raw_role": "Verb (Lost - past polite)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "か",
+        "role": "Question particle",
+        "raw_role": "Question particle",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Questions & Inquiries (〜ですか / どこ / どう)",
+    "sequence_key": "Question Word → Particle → Verb → Particle",
+    "location": "police station",
+    "raw_grammar_pattern": "Question marker か",
+    "functional_tag": "Polite Question (\"Is it?\")"
+  },
+  {
+    "japanese": "電車に忘れたと思います。",
+    "hiragana": "でんしゃ に わすれた と おもいます。",
+    "english": "I think I left it on the train.",
+    "grammar_pattern": "〜ようと思います",
+    "grammar_explanation": "Used to express a personal thought, opinion, or conjecture.",
+    "category": "Legal Aid and Police Interactions",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "a60c34d3-c788-48bb-8127-d7b5b1fbd824",
+    "components": [
+      {
+        "text": "電車",
+        "role": "Noun (Train)",
+        "raw_role": "Noun (Train)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "に",
+        "role": "Location marker (Static)",
+        "raw_role": "Location marker (Static)",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "忘れた",
+        "role": "Verb (Forgot/Left - plain past)",
+        "raw_role": "Verb (Forgot/Left - plain past)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "と",
+        "role": "Quotation particle",
+        "raw_role": "Quotation particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "思います",
+        "role": "Verb (Think - polite)",
+        "raw_role": "Verb (Think - polite)",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Desires & Intentions (〜たい / つもり / よう)",
+    "sequence_key": "Noun → Particle → Verb → Particle → Verb",
+    "location": "police station",
+    "raw_grammar_pattern": "Verb (Plain) + と思います",
+    "functional_tag": "Intention / Resolution (\"I plan to\")"
+  },
+  {
+    "japanese": "この遺失物届に記入してください。",
+    "hiragana": "この いしつぶつ とどけ に きにゅう して ください。",
+    "english": "Please fill out this lost property report.",
+    "grammar_pattern": "〜てください",
+    "grammar_explanation": "A polite way to request or ask someone to perform an action.",
+    "category": "Legal Aid and Police Interactions",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "a60c34d3-c788-48bb-8127-d7b5b1fbd824",
+    "components": [
+      {
+        "text": "この",
+        "role": "Demonstrative (This)",
+        "raw_role": "Demonstrative (This)",
+        "normalized_role": "Demonstrative"
+      },
+      {
+        "text": "遺失物届",
+        "role": "Noun (Lost property report)",
+        "raw_role": "Noun (Lost property report)",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "に",
+        "role": "Target marker",
+        "raw_role": "Target marker",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "記入して",
+        "role": "Verb (Fill out - te-form)",
+        "raw_role": "Verb (Fill out - te-form)",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "ください",
+        "role": "Polite request phrase",
+        "raw_role": "Polite request phrase",
+        "normalized_role": "Request"
+      }
+    ],
+    "grammar_function": "Requests & Favors (〜て / ください)",
+    "sequence_key": "Demonstrative → Noun → Particle → Verb → Request",
+    "location": "police station",
+    "raw_grammar_pattern": "Verb (te-form) + ください",
+    "functional_tag": "Polite Request (\"Please do\")"
+  },
+  {
+    "japanese": "在留期間の更新手続きをお願いします。",
+    "hiragana": "ざいりゅう きかん の こうしん てつづき を おねがい します。",
+    "english": "I would like to apply for the renewal of my period of stay.",
+    "grammar_pattern": "〜をお願いします",
+    "grammar_explanation": "A polite way to request a service or a specific item from someone.",
+    "category": "Visa Renewal and Residency Status Management",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "b8e8f957-b0df-4903-8d7a-aeb83e9b40a1",
+    "components": [
+      {
+        "text": "在留期間",
+        "role": "Noun",
+        "raw_role": "Noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "の",
+        "role": "Possessive particle",
+        "raw_role": "Possessive particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "更新手続き",
+        "role": "Noun",
+        "raw_role": "Noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "を",
+        "role": "Object marker",
+        "raw_role": "Object marker",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "お願いします",
+        "role": "Polite request verb",
+        "raw_role": "Polite request verb",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Requests & Favors (〜て / ください)",
+    "sequence_key": "Noun → Particle → Noun → Direct Object Marker → Verb",
+    "location": "immigration office",
+    "raw_grammar_pattern": "Noun + をお願いします",
+    "functional_tag": "Polite Request (\"Please / I'd like\")"
+  },
+  {
+    "japanese": "パスポートと在留カードを見せてください。",
+    "hiragana": "ぱすぽーと と ざいりゅう かーど を みせて ください。",
+    "english": "Please show me your passport and residence card.",
+    "grammar_pattern": "〜てください",
+    "grammar_explanation": "Used to make a polite request for someone to perform an action.",
+    "category": "Visa Renewal and Residency Status Management",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "b8e8f957-b0df-4903-8d7a-aeb83e9b40a1",
+    "components": [
+      {
+        "text": "パスポート",
+        "role": "Noun",
+        "raw_role": "Noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "と",
+        "role": "And particle",
+        "raw_role": "And particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "在留カード",
+        "role": "Noun",
+        "raw_role": "Noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "を",
+        "role": "Object marker",
+        "raw_role": "Object marker",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "見せて",
+        "role": "Verb te-form",
+        "raw_role": "Verb te-form",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "ください",
+        "role": "Polite request auxiliary",
+        "raw_role": "Polite request auxiliary",
+        "normalized_role": "Request"
+      }
+    ],
+    "grammar_function": "Requests & Favors (〜て / ください)",
+    "sequence_key": "Noun → Particle → Noun → Direct Object Marker → Verb → Request",
+    "location": "immigration office",
+    "raw_grammar_pattern": "Te-form + ください",
+    "functional_tag": "Polite Request (\"Please do\")"
+  },
+  {
+    "japanese": "はい、こちらです。申請書に間違いはありませんか。",
+    "hiragana": "はい、こちら です。しんせいしょ に まちがい は ありません か。",
+    "english": "Yes, here they are. Is there any mistake in the application form?",
+    "grammar_pattern": "Noun + はありませんか",
+    "grammar_explanation": "A polite way to ask if something does not exist or is missing.",
+    "category": "Visa Renewal and Residency Status Management",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "b8e8f957-b0df-4903-8d7a-aeb83e9b40a1",
+    "components": [
+      {
+        "text": "はい",
+        "role": "Interjection",
+        "raw_role": "Interjection",
+        "normalized_role": "Interjection"
+      },
+      {
+        "text": "こちら",
+        "role": "Pronoun",
+        "raw_role": "Pronoun",
+        "normalized_role": "Pronoun"
+      },
+      {
+        "text": "です",
+        "role": "Copula",
+        "raw_role": "Copula",
+        "normalized_role": "Copula"
+      },
+      {
+        "text": "申請書",
+        "role": "Noun",
+        "raw_role": "Noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "に",
+        "role": "Location particle",
+        "raw_role": "Location particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "間違い",
+        "role": "Noun",
+        "raw_role": "Noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "は",
+        "role": "Topic marker",
+        "raw_role": "Topic marker",
+        "normalized_role": "Topic Marker"
+      },
+      {
+        "text": "ありません",
+        "role": "Negative verb",
+        "raw_role": "Negative verb",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "か",
+        "role": "Question particle",
+        "raw_role": "Question particle",
+        "normalized_role": "Particle"
+      }
+    ],
+    "grammar_function": "Suggestions & Invitations (〜ましょう / ませんか)",
+    "sequence_key": "Interjection → Pronoun → Copula → Noun → Particle → Noun → Topic Marker → Verb → Particle",
+    "location": "immigration office",
+    "raw_grammar_pattern": "Noun + はありませんか",
+    "functional_tag": "Polite Invitation (\"Won't you?\")"
+  },
+  {
+    "japanese": "内容は大丈夫ですが、ここにも記入してください。",
+    "hiragana": "ないよう は だいじょうぶ です が、ここ に も きにゅう して ください。",
+    "english": "The content is fine, but please fill in this part as well.",
+    "grammar_pattern": "Noun + ですが",
+    "grammar_explanation": "Connects two clauses, often introducing a contrast or a transition to another point.",
+    "category": "Visa Renewal and Residency Status Management",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "b8e8f957-b0df-4903-8d7a-aeb83e9b40a1",
+    "components": [
+      {
+        "text": "内容",
+        "role": "Noun",
+        "raw_role": "Noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "は",
+        "role": "Topic marker",
+        "raw_role": "Topic marker",
+        "normalized_role": "Topic Marker"
+      },
+      {
+        "text": "大丈夫",
+        "role": "Adjective-noun",
+        "raw_role": "Adjective-noun",
+        "normalized_role": "Adjective"
+      },
+      {
+        "text": "です",
+        "role": "Copula",
+        "raw_role": "Copula",
+        "normalized_role": "Copula"
+      },
+      {
+        "text": "が",
+        "role": "Conjunction",
+        "raw_role": "Conjunction",
+        "normalized_role": "Conjunction"
+      },
+      {
+        "text": "ここ",
+        "role": "Pronoun",
+        "raw_role": "Pronoun",
+        "normalized_role": "Pronoun"
+      },
+      {
+        "text": "に",
+        "role": "Location particle",
+        "raw_role": "Location particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "も",
+        "role": "Additive particle",
+        "raw_role": "Additive particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "記入して",
+        "role": "Verb te-form",
+        "raw_role": "Verb te-form",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "ください",
+        "role": "Polite request auxiliary",
+        "raw_role": "Polite request auxiliary",
+        "normalized_role": "Request"
+      }
+    ],
+    "grammar_function": "Particles & Structural Markers (を / に / で / と)",
+    "sequence_key": "Noun → Topic Marker → Adjective → Copula → Conjunction → Pronoun → Particle → Particle → Verb → Request",
+    "location": "immigration office",
+    "raw_grammar_pattern": "Noun + ですが",
+    "functional_tag": "Location / Means Marker (〜で)"
+  },
+  {
+    "japanese": "大変申し訳ございません。",
+    "hiragana": "たいへん もしわけ ございません。",
+    "english": "I am very sorry.",
+    "grammar_pattern": "申し訳ございません",
+    "grammar_explanation": "A very formal expression used to apologize deeply in professional or serious situations.",
+    "category": "Insurance Claims and Accident Reporting",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "e6a80702-ce22-4d50-befb-99a1f7e8546b",
+    "components": [
+      {
+        "text": "大変",
+        "role": "adverb",
+        "raw_role": "adverb",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "申し訳ございません",
+        "role": "polite expression",
+        "raw_role": "polite expression",
+        "normalized_role": "Expression / Set Phrase"
+      }
+    ],
+    "grammar_function": "Existence & Presence (ある / いる)",
+    "sequence_key": "Adverb → Expression / Set Phrase",
+    "location": "street",
+    "raw_grammar_pattern": "申し訳ございません",
+    "functional_tag": "Animate Absence (\"Not present\")"
+  },
+  {
+    "japanese": "車にぶつかってしまいました。",
+    "hiragana": "くるま に ぶつかって しまいました。",
+    "english": "I accidentally hit your car.",
+    "grammar_pattern": "〜てしまいました",
+    "grammar_explanation": "Used to express that an action was completed, often with a sense of regret or mistake.",
+    "category": "Insurance Claims and Accident Reporting",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "e6a80702-ce22-4d50-befb-99a1f7e8546b",
+    "components": [
+      {
+        "text": "車",
+        "role": "noun",
+        "raw_role": "noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "に",
+        "role": "particle",
+        "raw_role": "particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "ぶつかって",
+        "role": "verb",
+        "raw_role": "verb",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "しまいました",
+        "role": "auxiliary verb",
+        "raw_role": "auxiliary verb",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Grammar & Structural Patterns",
+    "sequence_key": "Noun → Particle → Verb → Verb",
+    "location": "street",
+    "raw_grammar_pattern": "～てしまいました",
+    "functional_tag": "〜てしまいました"
+  },
+  {
+    "japanese": "まずは警察に連絡しましょう。",
+    "hiragana": "まずは けいさつ に れんらく しましょう。",
+    "english": "First, let's contact the police.",
+    "grammar_pattern": "〜ましょう",
+    "grammar_explanation": "Used to suggest an action or invite someone to do something together.",
+    "category": "Insurance Claims and Accident Reporting",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "e6a80702-ce22-4d50-befb-99a1f7e8546b",
+    "components": [
+      {
+        "text": "まずは",
+        "role": "adverb",
+        "raw_role": "adverb",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "警察",
+        "role": "noun",
+        "raw_role": "noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "に",
+        "role": "particle",
+        "raw_role": "particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "連絡しましょう",
+        "role": "verb",
+        "raw_role": "verb",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Suggestions & Invitations (〜ましょう / ませんか)",
+    "sequence_key": "Adverb → Noun → Particle → Verb",
+    "location": "street",
+    "raw_grammar_pattern": "～ましょう",
+    "functional_tag": "Proposal / Collective Action (\"Let's\")"
+  },
+  {
+    "japanese": "すぐに保険会社にも連絡します。",
+    "hiragana": "すぐに ほけんがいしゃ に も れんらく します。",
+    "english": "I will contact my insurance company immediately as well.",
+    "grammar_pattern": "Noun + に",
+    "grammar_explanation": "Indicates the person or organization that receives a communication or an action.",
+    "category": "Insurance Claims and Accident Reporting",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "e6a80702-ce22-4d50-befb-99a1f7e8546b",
+    "components": [
+      {
+        "text": "すぐに",
+        "role": "adverb",
+        "raw_role": "adverb",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "保険会社",
+        "role": "noun",
+        "raw_role": "noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "に",
+        "role": "particle",
+        "raw_role": "particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "も",
+        "role": "particle",
+        "raw_role": "particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "連絡します",
+        "role": "verb",
+        "raw_role": "verb",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Particles & Structural Markers (を / に / で / と)",
+    "sequence_key": "Adverb → Noun → Particle → Particle → Verb",
+    "location": "street",
+    "raw_grammar_pattern": "Noun + に",
+    "functional_tag": "Target / Time / Direction (〜に)"
+  },
+  {
+    "japanese": "共有スペースの掃除当番を、みんなで決めませんか。",
+    "hiragana": "きょうゆう すぺーす の そうじ とうばん を 、 みんな で きめませんか。",
+    "english": "Shall we all decide on the cleaning duties for the shared space together?",
+    "grammar_pattern": "〜ませんか",
+    "grammar_explanation": "Used to politely invite someone to do an action or make a suggestion.",
+    "category": "Evacuation Shelter Social Dynamics",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "7c0e434e-4d5b-4712-92e3-43d032b16425",
+    "components": [
+      {
+        "text": "共有スペース",
+        "role": "noun",
+        "raw_role": "noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "の",
+        "role": "possessive particle",
+        "raw_role": "possessive particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "掃除当番",
+        "role": "noun",
+        "raw_role": "noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "を",
+        "role": "object marker",
+        "raw_role": "object marker",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "みんな",
+        "role": "noun",
+        "raw_role": "noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "で",
+        "role": "group marker",
+        "raw_role": "group marker",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "決め",
+        "role": "verb stem",
+        "raw_role": "verb stem",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "ませんか",
+        "role": "polite suggestion ending",
+        "raw_role": "polite suggestion ending",
+        "normalized_role": "Sentence Ending / Modal"
+      }
+    ],
+    "grammar_function": "Suggestions & Invitations (〜ましょう / ませんか)",
+    "sequence_key": "Noun → Particle → Noun → Direct Object Marker → Noun → Particle → Verb → Sentence Ending / Modal",
+    "location": "office",
+    "raw_grammar_pattern": "～ませんか",
+    "functional_tag": "Polite Invitation (\"Won't you?\")"
+  },
+  {
+    "japanese": "いいですね。少し散らかってきたし、そのほうがいいと思います。",
+    "hiragana": "いい です ね 。 すこし ちららかって きた し 、 その ほう が いい と おもいます。",
+    "english": "That sounds good. It has become a bit messy, so I think that would be better.",
+    "grammar_pattern": "〜ようと思います",
+    "grammar_explanation": "Used to express one's personal opinion or thought about a situation.",
+    "category": "Evacuation Shelter Social Dynamics",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "7c0e434e-4d5b-4712-92e3-43d032b16425",
+    "components": [
+      {
+        "text": "いい",
+        "role": "adjective",
+        "raw_role": "adjective",
+        "normalized_role": "Adjective"
+      },
+      {
+        "text": "ですね",
+        "role": "polite confirmation",
+        "raw_role": "polite confirmation",
+        "normalized_role": "Other"
+      },
+      {
+        "text": "少し",
+        "role": "adverb",
+        "raw_role": "adverb",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "散らかって",
+        "role": "verb te-form",
+        "raw_role": "verb te-form",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "きた",
+        "role": "auxiliary verb",
+        "raw_role": "auxiliary verb",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "し",
+        "role": "conjunction particle",
+        "raw_role": "conjunction particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "その",
+        "role": "demonstrative",
+        "raw_role": "demonstrative",
+        "normalized_role": "Demonstrative"
+      },
+      {
+        "text": "ほう",
+        "role": "noun",
+        "raw_role": "noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "が",
+        "role": "subject marker",
+        "raw_role": "subject marker",
+        "normalized_role": "Subject Marker"
+      },
+      {
+        "text": "いい",
+        "role": "adjective",
+        "raw_role": "adjective",
+        "normalized_role": "Adjective"
+      },
+      {
+        "text": "と",
+        "role": "quotation particle",
+        "raw_role": "quotation particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "思います",
+        "role": "verb",
+        "raw_role": "verb",
+        "normalized_role": "Verb"
+      }
+    ],
+    "grammar_function": "Desires & Intentions (〜たい / つもり / よう)",
+    "sequence_key": "Adjective → Adverb → Verb → Verb → Particle → Demonstrative → Noun → Subject Marker → Adjective → Particle → Verb",
+    "location": "office",
+    "raw_grammar_pattern": "～と思います",
+    "functional_tag": "Intention / Resolution (\"I plan to\")"
+  },
+  {
+    "japanese": "当番表を作って、壁に貼るのはどうでしょうか。",
+    "hiragana": "とうばんひょう を つくって 、 かべ に はる の は どう でしょう か 。",
+    "english": "How about making a duty chart and posting it on the wall?",
+    "grammar_pattern": "〜はどうでしょうか",
+    "grammar_explanation": "A polite way to suggest an idea and ask for the other person's opinion.",
+    "category": "Evacuation Shelter Social Dynamics",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "7c0e434e-4d5b-4712-92e3-43d032b16425",
+    "components": [
+      {
+        "text": "当番表",
+        "role": "noun",
+        "raw_role": "noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "を",
+        "role": "object marker",
+        "raw_role": "object marker",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "作って",
+        "role": "verb te-form",
+        "raw_role": "verb te-form",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "壁",
+        "role": "noun",
+        "raw_role": "noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "に",
+        "role": "location particle",
+        "raw_role": "location particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "貼る",
+        "role": "verb",
+        "raw_role": "verb",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "の",
+        "role": "nominalizer",
+        "raw_role": "nominalizer",
+        "normalized_role": "Nominalizer"
+      },
+      {
+        "text": "は",
+        "role": "topic marker",
+        "raw_role": "topic marker",
+        "normalized_role": "Topic Marker"
+      },
+      {
+        "text": "どう",
+        "role": "adverb",
+        "raw_role": "adverb",
+        "normalized_role": "Adverb"
+      },
+      {
+        "text": "でしょうか",
+        "role": "polite question ending",
+        "raw_role": "polite question ending",
+        "normalized_role": "Sentence Ending / Modal"
+      }
+    ],
+    "grammar_function": "Conjecture & Opinion (〜と思う / かもしれない)",
+    "sequence_key": "Noun → Direct Object Marker → Verb → Noun → Particle → Verb → Nominalizer → Topic Marker → Adverb → Sentence Ending / Modal",
+    "location": "office",
+    "raw_grammar_pattern": "～はどうでしょうか",
+    "functional_tag": "Conjecture / Presumption (\"Probably\")"
+  },
+  {
+    "japanese": "賛成です。皆さんに協力をお願いしましょう。",
+    "hiragana": "さんせい です 。 みなさん に きょうりょく を おねがい しましょう。",
+    "english": "I agree. Let's ask everyone for their cooperation.",
+    "grammar_pattern": "〜ましょう",
+    "grammar_explanation": "Used to suggest a joint action or express the speaker's intention to act.",
+    "category": "Evacuation Shelter Social Dynamics",
+    "theme": "Emergencies, Safety, and Legal Matters",
+    "conversation_id": "7c0e434e-4d5b-4712-92e3-43d032b16425",
+    "components": [
+      {
+        "text": "賛成",
+        "role": "noun",
+        "raw_role": "noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "です",
+        "role": "copula",
+        "raw_role": "copula",
+        "normalized_role": "Copula"
+      },
+      {
+        "text": "皆さん",
+        "role": "noun",
+        "raw_role": "noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "に",
+        "role": "target particle",
+        "raw_role": "target particle",
+        "normalized_role": "Particle"
+      },
+      {
+        "text": "協力",
+        "role": "noun",
+        "raw_role": "noun",
+        "normalized_role": "Noun"
+      },
+      {
+        "text": "を",
+        "role": "object marker",
+        "raw_role": "object marker",
+        "normalized_role": "Direct Object Marker"
+      },
+      {
+        "text": "お願いし",
+        "role": "verb stem",
+        "raw_role": "verb stem",
+        "normalized_role": "Verb"
+      },
+      {
+        "text": "ましょう",
+        "role": "polite suggestion ending",
+        "raw_role": "polite suggestion ending",
+        "normalized_role": "Sentence Ending / Modal"
+      }
+    ],
+    "grammar_function": "Suggestions & Invitations (〜ましょう / ませんか)",
+    "sequence_key": "Noun → Copula → Noun → Particle → Noun → Direct Object Marker → Verb → Sentence Ending / Modal",
+    "location": "office",
+    "raw_grammar_pattern": "～ましょう",
+    "functional_tag": "Proposal / Collective Action (\"Let's\")"
+  }
+]
