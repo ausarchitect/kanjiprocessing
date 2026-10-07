@@ -1,0 +1,14 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run extract_words",
+			"type": "shell",
+			"command": "python",
+			"args": [
+				"offline\\extract_words.py"
+			],
+			"group": "build"
+		}
+	]
+}
